@@ -2,7 +2,7 @@ import requests
 import os.path
 from bs4 import BeautifulSoup as bs
 
-NUMBER_OF_PAGES = 10
+NUMBER_OF_PAGES = 100
 WIKI_RANDOM="https://en.wikipedia.org/wiki/Special:Random"
 
 def download_file(link, filename):
