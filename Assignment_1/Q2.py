@@ -5,15 +5,21 @@ from bs4 import BeautifulSoup as bs
 NUMBER_OF_PAGES = 10
 WIKI_RANDOM="https://en.wikipedia.org/wiki/Special:Random"
 
-def download_file(link, name):
-    file = open(name, 'r+')
-    r = requests.get(link)
-    file.write(r.text.encode('utf-8'))
-    file.truncate()
-    file.close()
+def download_file(link, filename):
+        try:
+                file = open (filename, 'r+')
+        except:
+                file = open (filename, 'w')
+    	r = requests.get(link)
+    	file.write(r.text.encode('utf-8'))
+    	file.truncate()
+    	file.close()
 
 def find_Links(page, filename):
-	file = open (filename, 'r+')
+	try:
+		file = open (filename, 'r+')
+	except:
+		file = open (filename, 'w')
 	with open(page) as pag: 
 		soup = bs(pag.read(),'html.parser')
 	all_anchors = soup.find_all('a')
@@ -27,12 +33,28 @@ def find_Links(page, filename):
 	file.truncate()
  	file.close()
 
+def find_text(page, filename):
+        try:
+                file = open (filename, 'r+')
+        except:
+                file = open (filename, 'w')
+
+        with open(page) as pag:
+                soup = bs(pag,'html.parser')
+        file.write(soup.get_text().encode('utf-8'))
+        file.truncate()
+        file.close()
+
+### Pending: 	1. TF-IDF
+###		2. Page --> Text
+
+
 for i in range (0,NUMBER_OF_PAGES):
 	path="./File_directory/"
 	file=path+"Random_%d.html" %(i)
 	snowball_links =path+"Random_%d_snowballed_links.txt"%(i)
+	text_files=path+"Random_%d_text.txt"%(i)
 	download_file(WIKI_RANDOM,file)
 	find_Links(file, snowball_links)
-	#print r.text
-#	soup = bs(r,'html.parser')
+	find_text(file, text_files)
 		
