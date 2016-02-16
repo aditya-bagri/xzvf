@@ -1,0 +1,211 @@
+
+
+
+
+Norrbyskär - Wikipedia, the free encyclopedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Norrbyskär","wgTitle":"Norrbyskär","wgCurRevisionId":655002684,"wgRevisionId":655002684,"wgArticleId":1935530,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates on Wikidata","Islands of Västerbotten County","All stub articles","Västerbotten County geography stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Norrbyskär","wgRelevantArticleId":1935530,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Norrbyskar_arbetarbostad_Langgrundet.jpg/100px-Norrbyskar_arbetarbostad_Langgrundet.jpg","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":63.55636,"lon":19.87493},"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q121951","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Norrbyskär
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+Coordinates: 63°33′23″N 19°52′30″E﻿ / ﻿63.55636°N 19.87493°E﻿ / 63.55636; 19.87493
+
+
+
+
+Former worker's housing in Norrbyskär
+
+
+Norrbyskär is a small group of islands outside of Umeå, Sweden. From 1895 to 1952 it was the location of a steam-powered sawmill, which at one time was one of the largest of its kind in Europe, owned by the Mo och Domsjö corporation. Initiator of the mill was the then head of the company Frans Kempe.
+History[edit]
+When Kempe bought the 72 islands and islets in year 1890 they were empty. The previous owners, the farmers from nearby Norrbyn, considered the island useless.
+Kempe was a social engineer and planned not only the sawmill but the whole community including school, church, roads and homes.
+When the sawmill opened in 1895 he hand-picked the best workers from his other sawmills. Kempe provided them and their families with a high standard of living and high salaries to make them dependent on their employer and to keep the unions and workers' movement away from the island, a strategy that only succeeded until 1919.
+During a 10-year period after the sawmill closed down in 1952 the company still had people employed to de-construct and take care of valuable parts of the sawmill. During the 1960s the last inhabitants moved from the islands. The old worker homes where sold out and used as summer houses.
+Norrbyskär Today[edit]
+A number of houses on one of the islands have (since 1953) been used by KFUM (the Swedish YMCA). KFUM runs summer camps for children and provides conference and adventure activities like high ropes course, climbing, sailing and canoeing.
+The former Director's home is today used as a hotel and restaurant.
+External links[edit]
+
+Official website
+Hotell Norrbyskär
+
+
+
+
+
+This article about a location in Västerbotten County, Sweden is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Norrbyskär&oldid=655002684"					
+Categories: Islands of Västerbotten CountyVästerbotten County geography stubsHidden categories: Coordinates on WikidataAll stub articles 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+DeutschEspañolNorsk nynorskSvenska 
+Edit links 
+
+
+
+
+
+ This page was last modified on 5 April 2015, at 04:26.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":98,"wgHostname":"mw1086"}); /* @nomin */
+} );
+
+

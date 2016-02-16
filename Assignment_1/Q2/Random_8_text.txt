@@ -1,0 +1,317 @@
+
+
+
+
+Gary McCutcheon - Wikipedia, the free encyclopedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gary_McCutcheon","wgTitle":"Gary McCutcheon","wgCurRevisionId":698761071,"wgRevisionId":698761071,"wgArticleId":35754884,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["1978 births","Living people","Sportspeople from Dumfries","Association football forwards","Scottish footballers","Ulster Footballers of the Year","Kilmarnock F.C. players","Stenhousemuir F.C. players","Clydebank F.C. players","Portadown F.C. players","Dumbarton F.C. players","Berwick Rangers F.C. players","Stranraer F.C. players","Larne F.C. players","Ballymena United F.C. players","Crusaders F.C. players","NIFL Premiership players"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gary_McCutcheon","wgRelevantArticleId":35754884,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":["zh-cn","zh"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q5525558","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gary McCutcheon
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+Gary McCutcheon
+
+Personal information
+
+
+Full name
+Gary Kyle McCutcheon
+
+
+Date of birth
+(1978-10-08) 8 October 1978 (age 37)
+
+
+Place of birth
+Dumfries, Scotland
+
+
+Height
+5 ft 5 in (1.65 m)
+
+
+Playing position
+Forward
+
+
+Club information
+
+
+
+Current team
+
+Wigtown & Bladnoch
+Stranraer (youth coach)
+
+
+Senior career*
+
+
+Years
+Team
+Apps†
+(Gls)†
+
+
+1995–2003
+Kilmarnock
+18
+(2)
+
+
+1997
+→ Stenhousemuir (loan)
+20
+(7)
+
+
+2000
+→ Clydebank (loan)
+4
+(0)
+
+
+2000
+→ Portadown (loan)
+?
+(?)
+
+
+2002–2003
+→ Dumbarton (loan)
+30
+(8)
+
+
+2003–2004
+Berwick Rangers
+34
+(14)
+
+
+2004–2005
+Stranraer
+15
+(0)
+
+
+2005–2006
+Larne
+29
+(13)
+
+
+2006–2010
+Portadown
+91
+(46)
+
+
+2010–2012
+Ballymena United
+75
+(39)
+
+
+2012–2015
+Crusaders
+33
+(12)
+
+
+2015
+Ballymena United
+14
+(2)
+
+
+2015-
+Wigtown & Bladnoch
+2
+(2)
+
+
+
+* Senior club appearances and goals counted for the domestic league only and correct as of 18:00, 4 May 2013.
+† Appearances (goals)
+
+
+Gary McCutcheon (born Dumfries, 8 October 1978) is a Scottish professional footballer currently playing for Wigtown & Bladnoch. He is also a youth coach at Stranraer.
+He began his career at Kilmarnock where he had spells on loan at Stenhousemuir and Clydebank.[1]
+He joined Larne in the Irish League in 2006. He has played in Northern Ireland ever since, moving to Portadown in 2007, Ballymena United in 2010 and Crusaders in 2012.[2][3] While at Portadown, he won the Irish League Cup in 2008-09.
+He was named Ulster Footballer of the Year for 2011-12.[4]
+McCutcheon scored his first goal for Crusaders on 27 August 2012, a penalty against Glebe Rangers in the League Cup. He scored his first league goal, also a penalty, in a 2-1 victory over Linfield at Windsor Park on 4 September.[5] He scored a total of 16 goals in his first season with the Hatchetmen.
+References[edit]
+
+
+^ http://www.neilbrown.newcastlefans.com/kilmarnock/kilmarnock.html
+^ Gary McCutcheon
+^ Do You Remember? Gary McCutcheon
+^ Ballymena United striker Gary McCutcheon has been named as the Ulster Footballer of the Year by the Castlereagh Glentoran Supporters' Club.
+^ http://www.bbc.co.uk/sport/0/football/19481048
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Gary_McCutcheon&oldid=698761071"					
+Categories: 1978 birthsLiving peopleSportspeople from DumfriesAssociation football forwardsScottish footballersUlster Footballers of the YearKilmarnock F.C. playersStenhousemuir F.C. playersClydebank F.C. playersPortadown F.C. playersDumbarton F.C. playersBerwick Rangers F.C. playersStranraer F.C. playersLarne F.C. playersBallymena United F.C. playersCrusaders F.C. playersNIFL Premiership players 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+Italiano 
+Edit links 
+
+
+
+
+
+ This page was last modified on 8 January 2016, at 02:14.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":404,"wgHostname":"mw1185"}); /* @nomin */
+} );
+
+

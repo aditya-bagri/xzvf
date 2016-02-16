@@ -1,0 +1,441 @@
+
+
+
+
+Lowber, Fayette County, Pennsylvania - Wikipedia, the free encyclopedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lowber,_Fayette_County,_Pennsylvania","wgTitle":"Lowber, Fayette County, Pennsylvania","wgCurRevisionId":696119870,"wgRevisionId":696119870,"wgArticleId":48871142,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates not on Wikidata","Unincorporated communities in Fayette County, Pennsylvania","Unincorporated communities in Pennsylvania","All stub articles","Fayette County, Pennsylvania geography stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lowber,_Fayette_County,_Pennsylvania","wgRelevantArticleId":48871142,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/USA_Pennsylvania_location_map.svg/100px-USA_Pennsylvania_location_map.svg.png","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":40.069166666667,"lon":-79.835833333333},"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q22083063","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lowber, Fayette County, Pennsylvania
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Lowber, Pennsylvania
+
+
+Unincorporated community
+
+
+
+
+
+
+
+
+
+Lowber
+
+
+
+
+
+
+
+
+Coordinates: 40°04′09″N 79°50′09″W﻿ / ﻿40.06917°N 79.83583°W﻿ / 40.06917; -79.83583Coordinates: 40°04′09″N 79°50′09″W﻿ / ﻿40.06917°N 79.83583°W﻿ / 40.06917; -79.83583
+
+
+Country
+United States
+
+
+State
+Pennsylvania
+
+
+County
+Fayette
+
+
+Elevation
+919 ft (280 m)
+
+
+Time zone
+Eastern (EST) (UTC-5)
+
+
+ • Summer (DST)
+EDT (UTC-4)
+
+
+Area code(s)
+724
+
+
+GNIS feature ID
+1179999[1]
+
+
+Lowber is an unincorporated community in Fayette County, Pennsylvania, United States.[1] The community is 3.3 miles (5.3 km) east of Newell.
+References[edit]
+
+
+^ a b "Lowber". Geographic Names Information System. United States Geological Survey. 
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Municipalities and communities of Fayette County, Pennsylvania, United States
+
+
+
+
+
+
+
+County seat: Uniontown
+
+
+
+
+
+
+Cities
+
+
+
+Connellsville
+Uniontown
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Boroughs
+
+
+
+Belle Vernon
+Brownsville
+Dawson
+Dunbar
+Everson
+Fairchance
+Fayette City
+Markleysburg
+Masontown
+Newell
+Ohiopyle
+Perryopolis
+Point Marion
+Seven Springs‡
+Smithfield
+South Connellsville
+Vanderbilt
+
+
+
+
+
+
+
+
+Townships
+
+
+
+Brownsville
+Bullskin
+Connellsville
+Dunbar
+Franklin
+Georges
+German
+Henry Clay
+Jefferson
+Lower Tyrone
+Luzerne
+Menallen
+Nicholson
+North Union
+Perry
+Redstone
+Saltlick
+South Union
+Springfield
+Springhill
+Stewart
+Upper Tyrone
+Washington
+Wharton
+
+
+
+
+
+
+
+
+CDPs
+
+
+
+Allison
+Arnold City
+Bear Rocks
+Buffington
+Chalkhill
+Deer Lake
+East Uniontown
+Edenborn
+Fairhope
+Farmington
+Grindstone
+Hiller
+Hopwood
+Leith-Hatfield
+Lemont Furnace
+Lynnwood-Pricedale‡
+Naomi
+New Salem
+Oliver
+Republic
+Ronco
+Rowes Run
+Smock
+South Uniontown
+Star Junction
+
+
+
+
+
+
+
+
+Unincorporated
+communities
+
+
+
+Acme
+Adah
+Collier
+Gans
+Isabella
+Lake Lynn
+Lowber
+McClellandtown
+Moyer
+Oliphant Furnace
+Sagamore
+Whitsett
+Wickhaven
+
+
+
+
+
+
+
+
+Footnotes
+
+‡This populated place also has portions in an adjacent county or counties
+
+
+
+
+
+
+
+
+
+
+This Fayette County, Pennsylvania state location article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Lowber,_Fayette_County,_Pennsylvania&oldid=696119870"					
+Categories: Unincorporated communities in Fayette County, PennsylvaniaUnincorporated communities in PennsylvaniaFayette County, Pennsylvania geography stubsHidden categories: Coordinates not on WikidataAll stub articles 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+ 
+Add links 
+
+
+
+
+
+ This page was last modified on 21 December 2015, at 01:32.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1210"}); /* @nomin */
+} );
+
+

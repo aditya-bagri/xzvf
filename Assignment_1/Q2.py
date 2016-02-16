@@ -50,7 +50,7 @@ def find_text(page, filename):
 
 
 for i in range (0,NUMBER_OF_PAGES):
-	path="./File_directory/"
+	path="./Q2/"
 	file=path+"Random_%d.html" %(i)
 	snowball_links =path+"Random_%d_snowballed_links.txt"%(i)
 	text_files=path+"Random_%d_text.txt"%(i)

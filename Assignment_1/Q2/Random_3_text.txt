@@ -1,0 +1,343 @@
+
+
+
+
+Huachinera (municipality) - Wikipedia, the free encyclopedia
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Huachinera_(municipality)","wgTitle":"Huachinera (municipality)","wgCurRevisionId":673365307,"wgRevisionId":673365307,"wgArticleId":25677805,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Sonora geography stubs","Coordinates on Wikidata","Municipalities of Sonora"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Huachinera_(municipality)","wgRelevantArticleId":25677805,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":30.2056,"lon":-108.9577},"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q5924973","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
+} );
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Huachinera (municipality)
+
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Huachinera Municipality
+
+
+Municipality
+
+
+Country
+ Mexico
+
+
+State
+Sonora
+
+
+Time zone
+Central Standard Time (UTC-6)
+
+
+ • Summer (DST)
+Central Daylight Time (UTC-5)
+
+
+Huachinera Municipality is a municipality in Sonora in north-western Mexico.[1]
+The population of the municipal seat was 732 in 2000.
+External links[edit]
+
+Huachinera, Ayuntamiento Digital (Official Website of Huachinera, Sonora)
+
+References[edit]
+
+
+^ "-". Enciclopedia de los Municipios de México. Instituto Nacional para el Federalismo y el Desarrollo Municipal. Retrieved January 4, 2010. 
+
+
+
+
+
+
+This article about a location in the Mexican state of Sonora is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+ State of Sonora
+
+
+
+
+
+
+
+Hermosillo (capital)
+
+
+
+
+
+
+Municipalities
+and
+(municipal seats)
+
+
+
+Aconchi (Aconchi)
+Agua Prieta (Agua Prieta)
+Álamos (Álamos)
+Altar (Altar)
+Arivechi (Arivechi)
+Arizpe (Arizpe)
+Atil (Atil)
+Bacadéhuachi (Bacadéhuachi)
+Bacanora (Bacanora)
+Bacerac (Bacerac)
+Bacoachi (Bacoachi)
+Bácum (Bácum)
+Banámichi (Banámichi)
+Baviácora (Baviácora)
+Bavispe (Bavispe)
+Benito Juárez (Villa Juárez)
+Benjamín Hill (Benjamín Hill)
+Caborca (Heroica Caborca)
+Cajeme (Ciudad Obregón)
+Cananea (Cananea)
+Carbó (Carbó)
+Cucurpe (Cucurpe)
+Cumpas (Cumpas)
+Divisaderos (Divisaderos)
+Empalme (Empalme)
+Etchojoa (Etchojoa)
+Fronteras (Fronteras)
+Granados (Granados)
+Guaymas (Guaymas)
+Hermosillo (Hermosillo)
+Huachinera (Huachinera)
+Huásabas (Huásabas)
+Huatabampo (Huatabampo)
+Huépac (Huépac)
+Imuris (Imuris)
+La Colorada (La Colorada)
+Magdalena de Kino (Magdalena de Kino)
+Mazatán (Mazatán)
+Moctezuma (Moctezuma)
+Naco (Naco)
+Nácori Chico (Nácori Chico)
+Nacozari de García (Nacozari de García)
+Navojoa (Navojoa)
+Nogales (Nogales)
+Onavas (Onavas)
+Opodepe (Opodepe)
+Oquitoa (Oquitoa)
+Pitiquito (Pitiquito)
+Puerto Peñasco (Puerto Peñasco)
+Plutarco Elías Calles (Sonoyta)
+Quiriego (Quiriego)
+Rayón (Rayón)
+Rosario de Tesopaco (Rosario de Tesopaco)
+Sahuaripa (Sahuaripa)
+San Felipe de Jesús (San Felipe de Jesús)
+San Ignacio Río Muerto (San Ignacio Río Muerto)
+San Javier (San Javier)
+San Luis Río Colorado (San Luis Río Colorado)
+San Miguel de Horcasitas (San Miguel de Horcasitas)
+San Pedro de la Cueva (San Pedro de la Cueva)
+Santa Ana (Santa Ana)
+Santa Cruz (Santa Cruz)
+Sáric (Sáric)
+Soyopa (Soyopa)
+Suaqui Grande (Suaqui Grande)
+Tepache (Tepache)
+Trincheras (Trincheras)
+Tubutama (Tubutama)
+Ures (Ures)
+Villa Hidalgo (Villa Hidalgo)
+Villa Pesqueira (Villa Pesqueira)
+Yécora (Yécora)
+
+
+
+
+
+
+
+
+
+
+
+Coordinates: 30°12′20″N 108°57′28″W﻿ / ﻿30.2056°N 108.9577°W﻿ / 30.2056; -108.9577
+
+
+
+ 
+						Retrieved from "https://en.wikipedia.org/w/index.php?title=Huachinera_(municipality)&oldid=673365307"					
+Categories: Sonora geography stubsMunicipalities of SonoraHidden categories: All stub articlesCoordinates on Wikidata 
+
+
+
+Navigation menu
+
+
+Personal tools
+
+Not logged inTalkContributionsCreate accountLog in 
+
+
+
+Namespaces
+
+Article
+Talk
+
+
+
+
+Variants
+
+
+
+
+
+
+
+
+
+Views
+
+Read
+Edit
+View history
+
+
+
+More
+
+
+
+
+
+
+
+Search
+
+
+
+ 
+
+
+
+
+
+
+
+Navigation
+
+
+Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
+
+
+
+Interaction
+
+
+HelpAbout WikipediaCommunity portalRecent changesContact page 
+
+
+
+Tools
+
+
+What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
+
+
+
+Print/export
+
+
+Create a bookDownload as PDFPrintable version 
+
+
+
+Languages
+
+
+EspañolSrpskohrvatski / српскохрватски 
+Edit links 
+
+
+
+
+
+ This page was last modified on 27 July 2015, at 21:13.
+Text is available under the Creative Commons Attribution-ShareAlike License;
+additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+
+Privacy policy
+About Wikipedia
+Disclaimers
+Contact Wikipedia
+Developers
+Cookie statement
+Mobile view
+
+
+
+ 
+
+ 
+
+
+
+(window.RLQ = window.RLQ || []).push(function () {
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
+} );(window.RLQ = window.RLQ || []).push(function () {
+mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1253"}); /* @nomin */
+} );
+
+
