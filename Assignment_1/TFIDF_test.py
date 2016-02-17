@@ -19,7 +19,6 @@ idfModel=idf.fit(tfVectors)
 tfIdfVectors=idfModel.transform(tfVectors)
 tfIdfVectors.saveAsTextFile("./Q2_TFIDF_vectors/*.txt")
 
-
 try:
 	for i in range(0,100):
 		print "Testing Printing"
