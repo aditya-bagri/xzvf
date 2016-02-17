@@ -1,0 +1,1021 @@
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Chédiak–Higashi syndrome
+
+
+Classification and external resources
+
+
+Specialty
+endocrinology
+
+
+ICD-10
+E70.3 (E70.340 ILDS)
+
+
+ICD-9-CM
+288.2
+
+
+OMIM
+214500
+
+
+DiseasesDB
+2351
+
+
+MedlinePlus
+001312
+
+
+eMedicine
+derm/704
+
+
+Patient UK
+Chédiak–Higashi syndrome
+
+
+MeSH
+D002609
+
+
+GeneReviews
+
+
+Chediak-Higashi Syndrome
+
+
+
+
+
+[edit on Wikidata]
+
+
+
+Chédiak–Higashi syndrome[1] is a rare autosomal recessive disorder that arises from a mutation of a lysosomal trafficking regulator protein,[2] which leads to a decrease in phagocytosis. The decrease in phagocytosis results in recurrent pyogenic infections, partial albinism and peripheral neuropathy. It occurs in humans, cattle, blue Persian cats, Australian blue rats,[3] mice,[4] mink,[4] foxes,[4] and the only known captive albino orca.[5]
+
+
+
+Contents
+
+
+1 Signs and symptoms
+2 Causes
+3 Pathophysiology
+4 Diagnosis
+
+4.1 Clinical findings
+
+
+5 Treatment
+6 Eponym
+7 See also
+8 References
+
+
+
+Signs and symptoms[edit]
+People with CHS have light skin and silvery hair (partial albinism) and frequently complain of solar sensitivity and photophobia. Other signs and symptoms vary considerably, but frequent infections and neuropathy are common. The infections involve mucous membranes, skin, and the respiratory tract. Affected children are susceptible to infection by Gram-positive and gram-negative bacteria and fungi, with Staphylococcus aureus being the most common infection cause. Neuropathy often begins in the teenage years and becomes the most prominent problem. Infections in CHS patients tend to be very serious and even life-threatening; few patients with this condition live to adulthood.
+Most children with Chédiak–Higashi syndrome ultimately reach a stage known as the accelerated phase, also known as the lymphoma-like-syndrome. In the accelerated phase, defective white blood cells divide uncontrollably and invade many of the body's organs. The accelerated phase is associated with fever, episodes of abnormal bleeding, overwhelming infections, and organ failure. These medical problems are usually life-threatening in childhood.
+Causes[edit]
+Mutations in the CHS1 gene (also called LYST) have been found to be connected with Chédiak–Higashi Syndrome. This gene provides instructions for making a protein known as the lysosomal trafficking regulator. Researchers believe that this protein plays a role in the transport (trafficking) of materials into lysosomes. Lysosomes act as recycling centers within cells. They use digestive enzymes to break down toxic substances, digest bacteria that invade the cell, and recycle worn-out cell components. Although the lysosomal trafficking regulator protein is involved in the normal function of lysosomes, its exact role is unknown.[6]
+Pathophysiology[edit]
+CHS is a disease causing impaired bacteriolysis[7] due to failure of phagolysosome formation. As a result of disordered intracellular trafficking there is impaired lysosome degranulation with phagosomes, so phagocytosed bacteria are not destroyed by the lysosome's enzymes.
+In addition, secretion of lytic secretory granules by cytotoxic T cells is affected.
+The disease is characterised by large lysosome vesicles in phagocytes (neutrophils), which thus have poor bactericidal function, leading to susceptibility to infections, abnormalities in nuclear structure of leukocytes, anemia, and hepatomegaly. Dohle bodies in the neutrophil are also seen in this syndrome which are ruptured rough endoplasmic reticulum.
+Diagnosis[edit]
+The diagnosis is confirmed by bone marrow smears that show "giant inclusion bodies" in the cells that develop into white blood cells (leukocyte precursor cells). CHS can be diagnosed prenatally by examining a sample of hair from a fetal scalp biopsy or testing leukocytes from a fetal blood sample.[8]
+Under light microscopy the hairs present evenly distributed, regular melanin granules, larger than those found in normal hairs. Under polarized light microscopy these hairs exhibit a bright and polychromatic refringence pattern.[9]
+Clinical findings[edit]
+There are several manifestations of Chédiak–Higashi syndrome as mentioned above; however, neutropenia seems to be the most common. The syndrome is associated with oculocutaneous albinism. Persons are prone for infections, especially with Staphylococcus aureus, as well as Streptococci.
+It is associated with periodontal disease of the deciduous dentition. Associated features include abnormalities in melanocytes (albinism), nerve defects, bleeding disorders.
+Treatment[edit]
+There is no specific treatment for Chédiak–Higashi syndrome. Bone marrow transplants appear to have been successful in several patients. Infections are treated with antibiotics and abscesses are surgically drained when appropriate. Antiviral drugs such as acyclovir have been tried during the terminal phase of the disease. Cyclophosphamide and prednisone have been tried. Vitamin C therapy has improved immune function and clotting in some patients.[10]
+Eponym[edit]
+It is named for the Cuban physician and serologist Alejandro Moisés Chédiak (1903–1993) and the Japanese pediatrician Otokata Higashi (1883–1981).[11] It is often spelled without the accent as Chediak–Higashi syndrome.
+See also[edit]
+
+Griscelli syndrome (also known as "Chédiak–Higashi like syndrome")
+
+References[edit]
+
+
+^ Rapini, Ronald P.; Bolognia, Jean L.; Jorizzo, Joseph L. (2007). Dermatology: 2-Volume Set. St. Louis: Mosby. ISBN 1-4160-2999-0. 
+^ Kaplan J, De Domenico I, Ward DM (January 2008). "Chediak-Higashi syndrome". Curr. Opin. Hematol. 15 (1): 22–9. doi:10.1097/MOH.0b013e3282f2bcce. PMID 18043242. 
+^ Australian blue rats: a hypothesis
+^ a b c Australian blue rats: a hypothesis
+^ The Orca Ocean
+^ "Chediak–Higashi syndrome". Retrieved 2008-11-06. 
+^ "Chédiak–Higashi syndrome". Merck Manuals. Retrieved 2008-03-01. 
+^ "Chediak Higashi syndrome". Retrieved 2008-11-06. 
+^ Falus A, Fenyo M, Eder K, Madarasi A (September 2011). "[Polarized light as an epigenetic factor in inhibition of inflammation; a genome-wide expression analysis in recurrent respiratory diseases of children]". Orv Hetil (in Hungarian) 152 (37): 1492–9. doi:10.1556/OH.2011.29162. PMID 21893480. 
+^ Hughes, DA (February 1999). "Effects of dietary antioxidants on the immune function of middle-aged adults.". The Proceedings of the Nutrition Society 58 (1): 79–84. doi:10.1079/pns19990012. PMID 10343344. 
+^ Saez-De-Ocariz M, Orozco-Covarrubias L, Duràn-McKinster C, Ruiz-Maldonado R (2008). "Silver hair syndromes: Chediak–Higashi syndrome (CHS) and Griscelli syndromes (GS)". In Ruggieri M, Pascual-Castroviejo I, Di Rocco C, editors. Neurocutaneous Disorders: Phakomatoses and Hamartoneoplastic Syndromes. Springer. pp. 407–26. doi:10.1007/978-3-211-69500-5_19. ISBN 978-3-211-21396-4. 
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Hematologic disease: Monocyte and granulocyte disease (CFU-GM/CFU-Baso/CFU-Eos), including immunodeficiency (D70-D71, 288)
+
+
+
+
+
+
+Monocytes/
+macrophages
+
+
+
+
+↑
+
+
+
+
+
+
+
+Histiocytosis
+Chronic granulomatous disease
+
+
+
+
+
+
+
+
+-cytosis:
+
+
+
+Monocytosis
+
+
+
+
+
+
+
+
+
+
+
+↓
+
+
+
+
+-penia:
+
+
+
+Monocytopenia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Granulocytes
+
+
+
+
+↑
+
+
+
+
+-cytosis:
+
+
+
+granulocytosis
+
+Neutrophilia
+Eosinophilia/Hypereosinophilic syndrome
+Basophilia
+Bandemia
+
+
+
+
+
+
+
+
+
+
+
+
+
+↓
+
+
+
+
+-penia:
+
+
+
+Granulocytopenia/agranulocytosis (Neutropenia/Kostmann syndrome
+Eosinopenia
+Basopenia)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PBD
+
+
+
+
+chemotaxis/degranulation:
+
+
+
+Leukocyte adhesion deficiency
+
+LAD1
+LAD2
+
+
+Chédiak–Higashi syndrome
+Neutrophil-specific granule deficiency
+
+
+
+
+
+
+
+
+respiratory burst:
+
+
+
+Chronic granulomatous disease
+Neutrophil immunodeficiency syndrome
+Myeloperoxidase deficiency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Pigmentation disorders/Dyschromia (L80–L81, 709.0)
+
+
+
+
+
+
+Hypo-/
+leucism
+
+
+
+
+Loss of melanocytes
+
+
+
+
+vitiligo:
+
+
+
+Quadrichrome vitiligo
+Vitiligo ponctué
+
+
+
+
+
+
+
+
+syndromic
+
+
+
+Alezzandrini syndrome
+Vogt–Koyanagi–Harada syndrome
+
+
+
+
+
+
+
+
+melanocyte development:
+
+
+
+Piebaldism
+Waardenburg syndrome
+Tietz syndrome
+
+
+
+
+
+
+
+
+
+
+
+Loss of melanin/
+amelanism
+
+
+
+
+albinism:
+
+
+
+Oculocutaneous albinism
+Ocular albinism
+
+
+
+
+
+
+
+
+melanosome transfer:
+
+
+
+Hermansky–Pudlak syndrome
+Chédiak–Higashi syndrome
+Griscelli syndrome
+
+Elejalde syndrome
+Griscelli syndrome type 2
+Griscelli syndrome type 3
+
+
+
+
+
+
+
+
+
+
+other:
+
+
+
+Cross syndrome
+ABCD syndrome
+Albinism–deafness syndrome
+Idiopathic guttate hypomelanosis
+Phylloid hypomelanosis
+Progressive macular hypomelanosis
+
+
+
+
+
+
+
+
+
+
+
+Leukoderma w/o
+hypomelanosis
+
+
+
+Vasospastic macule
+Woronoff's ring
+Nevus anemicus
+
+
+
+
+
+
+
+
+Ungrouped
+
+
+
+Nevus depigmentosus
+Postinflammatory hypopigmentation
+Pityriasis alba
+Vagabond's leukomelanoderma
+Yemenite deaf-blind hypopigmentation syndrome
+Wende–Bauckus syndrome
+
+
+
+
+
+
+
+
+
+
+
+Hyper-
+
+
+
+
+Melanin/
+Melanosis/
+Melanism
+
+
+
+
+Reticulated
+
+
+
+Dermatopathia pigmentosa reticularis
+Pigmentatio reticularis faciei et colli
+Reticulate acropigmentation of Kitamura
+Reticular pigmented anomaly of the flexures
+Naegeli–Franceschetti–Jadassohn syndrome
+Dyskeratosis congenita
+X-linked reticulate pigmentary disorder
+Galli–Galli disease
+Revesz syndrome
+
+
+
+
+
+
+
+
+Diffuse/
+circumscribed
+
+
+
+Lentigo/Lentiginosis: Lentigo simplex
+Liver spot
+Centrofacial lentiginosis
+Generalized lentiginosis
+Inherited patterned lentiginosis in black persons
+Ink spot lentigo
+Lentigo maligna
+Mucosal lentigines
+Partial unilateral lentiginosis
+PUVA lentigines
+
+
+Melasma
+Erythema dyschromicum perstans
+Lichen planus pigmentosus
+Café au lait spot
+Poikiloderma (Poikiloderma of Civatte
+Poikiloderma vasculare atrophicans)
+Riehl melanosis
+
+
+
+
+
+
+
+
+Linear
+
+
+
+Incontinentia pigmenti
+Scratch dermatitis
+Shiitake mushroom dermatitis
+
+
+
+
+
+
+
+
+Other/ungrouped
+
+
+
+Acanthosis nigricans
+Freckle
+Familial progressive hyperpigmentation
+Pallister–Killian syndrome
+Periorbital hyperpigmentation
+Photoleukomelanodermatitis of Kobori
+Postinflammatory hyperpigmentation
+Transient neonatal pustular melanosis
+
+
+
+
+
+
+
+
+
+
+
+Other
+pigments
+
+
+
+
+iron:
+
+
+
+Hemochromatosis
+Iron metallic discoloration
+Pigmented purpuric dermatosis
+
+Schamberg disease
+Majocchi's disease
+Gougerot–Blum syndrome
+Doucas and Kapetanakis pigmented purpura/Eczematid-like purpura of Doucas and Kapetanakis
+Lichen aureus
+Angioma serpiginosum
+
+
+Hemosiderin hyperpigmentation
+
+
+
+
+
+
+
+
+other metals:
+
+
+
+Argyria
+Chrysiasis
+Arsenic poisoning
+Lead poisoning
+Titanium metallic discoloration
+
+
+
+
+
+
+
+
+other:
+
+
+
+Carotenosis
+Tattoo
+Tar melanosis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dyschromatoses
+
+
+
+Dyschromatosis symmetrica hereditaria
+Dyschromatosis universalis hereditaria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Inherited disorders of trafficking / vesicular transport proteins
+
+
+
+
+
+
+Vesicle formation
+
+
+
+
+Lysosome/Melanosome:
+
+
+
+HPS1-HPS7
+
+Hermansky–Pudlak syndrome
+
+
+LYST
+
+Chédiak–Higashi syndrome
+
+
+
+
+
+
+
+
+
+
+COPII:
+
+
+
+SEC23A
+
+Cranio–lenticulo–sutural dysplasia
+
+
+
+
+
+
+
+
+
+
+
+
+
+COG7
+
+CDOG IIE
+
+
+
+
+
+
+
+
+
+
+APC:
+
+
+
+AP1S2
+
+X-linked intellectual disability
+
+
+AP3B1
+
+Hermansky–Pudlak syndrome 2
+
+
+AP4M1
+
+CPSQ3
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rab
+
+
+
+
+
+
+
+ARL6
+
+BBS3
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAB27A
+
+Griscelli syndrome 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHM
+
+Choroideremia
+
+
+MLPH
+
+Griscelli syndrome 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cytoskeleton
+
+
+
+
+Myosin:
+
+
+
+MYO5A
+
+Griscelli syndrome 1
+
+
+
+
+
+
+
+
+
+
+Microtubule:
+
+
+
+SPG4
+
+Hereditary spastic paraplegia 4
+
+
+
+
+
+
+
+
+
+
+Kinesin:
+
+
+
+KIF5A
+
+Hereditary spastic paraplegia 10
+
+
+
+
+
+
+
+
+
+
+Spectrin:
+
+
+
+SPTBN2
+
+Spinocerebellar ataxia 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vesicle fusion
+
+
+
+
+Synaptic vesicle:
+
+
+
+SNAP29
+
+CEDNIK syndrome
+
+
+STX11
+
+Hemophagocytic lymphohistiocytosis 4
+
+
+
+
+
+
+
+
+
+
+Caveolae:
+
+
+
+CAV1
+
+Congenital generalized lipodystrophy 3
+
+
+CAV3
+
+Limb-girdle muscular dystrophy 2B, Long QT syndrome 9
+
+
+
+
+
+
+
+
+
+
+Vacuolar protein sorting:
+
+
+
+VPS33B
+
+ARC syndrome
+
+
+VPS13B
+
+Cohen syndrome
+
+
+
+
+
+
+
+
+
+
+
+
+
+DYSF
+
+Distal muscular dystrophy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+See also vesicular transport proteins
+
+
+
+
+
+
+
+
+
+ 
+						

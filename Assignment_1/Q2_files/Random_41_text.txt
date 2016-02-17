@@ -1,0 +1,359 @@
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+Specialized wind energy software applications aid in the development and operation of wind farms.
+
+
+
+Contents
+
+
+1 Pre-feasibility and feasibility analysis
+2 Turbine design
+3 Flow modeling
+4 Farm modeling
+5 Farm visualization
+6 Prediction software
+7 References
+
+
+
+Pre-feasibility and feasibility analysis[edit]
+The RETScreen software wind power model is designed to evaluate energy production and savings, costs, emission reductions, financial viability and risk for central-grid, isolated-grid and off-grid wind energy projects, for multi-turbine and single-turbine hybrid systems. Developed by the Government of Canada, the software is free, multilingual, and includes links to wind energy resource maps.
+The Wind Data Generator (WDG) is a Wind Energy Software tool capable of running WRF (Weather Research and Forecasting) model to create a wind atlas and to generate wind data at resolutions of 3 km to 10 km.
+Turbine design[edit]
+Software helps design wind turbines. There are several aero-elastic packages that are used in this design process.
+FOCUS6 aids in the design of wind turbines and turbine components such as rotor blades. It was developed by Knowledge Centre Wind turbine Materials and Constructions (WMC)[1] and Energy Research Centre of the Netherlands (ECN).[2]
+The National Wind Technology Center (NWTC), a division of the U.S. National Renewable Energy Laboratory (NREL), has developed many packages which are used by turbine manufacturers and researchers. NWTC has developed a suite of turbine design and performance prediction codes which rely on Blade Element Momentum (BEM) theory. WT_Perf uses steady BEM theory to model turbine performance. FAST is a comprehensive aero-elastic simulator which uses unsteady BEM theory to model a turbine as a collection of rigid and flexible bodies in a spatiotemporal field of turbulent flow. Germanischer Lloyd found FAST suitable for "the calculation of onshore wind turbine loads for design and certification."[3][4]
+The open source software QBlade developed by the wind energy research group of Hermann Föttinger Institute of TU Berlin (Chair of Fluid Dynamics) is a BEM code coupled with the airfoil simulation code XFOIL. It allows the user to develop/import airfoil shapes, simulate them and use them for the design and simulation of wind turbine blades/rotors with the use of steady state BEM theory. The software is built with the Qt framework thus it includes a graphical user interface.
+The open source software Vortexje, developed by Baayen & Heinz GmbH in Berlin, is an unsteady 3D panel method implementation suitable for dynamic simulation of vertical and horizontal axis wind turbines. Easily coupled with other simulation environments such as Simulink and Dymola, it is suitable for aerodynamic optimization, fluid-structure interaction problems, and unsteady control system simulation.
+
+Turbine design engineering software
+
+Software
+Publisher
+Latest stable version
+License
+Certified
+
+
+Bladed
+DNV GL
+4.6
+proprietary
+Yes
+
+
+Fast
+NREL
+8.12
+open source
+Yes
+
+
+Flex
+DTU Copenhagen
+5
+proprietary
+Yes
+
+
+FOCUS6
+ECN
+6
+proprietary
+No
+
+
+HAWC2
+DTU Risoe
+12.2
+proprietary
+No
+
+
+QBlade
+TU Berlin
+0.8
+open source
+No
+
+
+Vortexje
+Baayen & Heinz GmbH
+-
+open source
+No
+
+
+Flow modeling[edit]
+Wind flow modeling software predicts important wind characteristics at locations where measurements are not available. WAsP was created at Denmarks' Risø National Laboratory. WAsP uses a potential flow model to predict how wind flows over terrain at a site. WindSim, the opensource code ZephyTOOLS and Windie[5] use computational fluid dynamics instead, which are potentially more accurate, but more computationally expensive.[citation needed]
+
+Flow modelling software
+
+Software
+Publisher
+Latest stable version
+License
+Certified
+
+
+Furow
+Solute Ingenieros
+1.0
+proprietary
+Yes
+
+
+WAsP
+Risø National Laboratory
+11
+proprietary
+Yes
+
+
+WindSim
+Vector AS
+7.0
+opensource
+Yes
+
+
+Farm modeling[edit]
+This software simulates wind farm behavior, most importantly to calculate its energy output. The user can usually input wind data, height and roughness contour lines (topography), turbine specifications, background maps, and define environmental restrictions. Processing this information produces the design of a wind farm that maximizes energy production while accounting for restrictions and construction issues. Packages include openWind, WindFarm, WindFarmer, WindPRO, WT, and WindSim.
+
+Farm modelling software
+
+Software
+Publisher
+Latest stable version
+License
+Certified
+
+
+Furow
+Solute Ingenieros
+1.0
+proprietary
+Yes
+
+
+WindFarm
+ReSoft
+4
+proprietary
+Yes
+
+
+WindFarmer
+DNV GL
+4.0
+proprietary
+Yes
+
+
+WindPRO
+EMD International A/S
+
+proprietary
+Yes
+
+
+WT
+Meteodyn
+
+proprietary
+Yes
+
+
+WindSim
+Vector AS
+7.0
+opensource
+Yes
+
+
+Farm visualization[edit]
+Wind farm visualization software graphically presents a proposed wind farm, most importantly for the purpose of obtaining building permits. The primary techniques include photomontages, zone-of-visual-impact maps and three-dimensional visualization (perspective views of the landscape often incorporating aerial photography and including turbines and other objects). Wind farm visualization software includes: openWind and WindPRO.
+
+Farm visualization software
+
+Software
+Publisher
+Latest stable version
+License
+Certified
+
+
+Furow
+Solute Ingenieros
+1.0
+proprietary
+Yes
+
+
+openWind
+AWS Truepower
+
+proprietary
+Yes
+
+
+WindPRO
+EMD International A/S
+
+proprietary
+
+
+
+Prediction software[edit]
+Main article: Wind power forecasting
+For existing wind farms, several software systems exist which produce short and medium term forecasts for the generated power (single farms or complete forecast regions) using existing numerical weather prediction data (NWP) and live (SCADA) farm data as input. Examples of numerical weather prediction models used for this purpose are the European HiRLAM (High Resolution Limited Area Model) and the GFS (Global Forecast System) from NOAA.
+References[edit]
+
+
+^ Knowledge Centre Wind turbine Materials and Constructions (WMC)
+^ Energy Research Centre of the Netherlands
+^ GL Wind Certificate No. ZZ 001A-2005
+^ NWTC Design Codes
+^ RECHARGE NEWS "New software could make wind farm planning a breeze"
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Wind power
+
+
+
+
+
+
+Wind power
+
+
+
+Environmental impact
+High-altitude
+History
+Land vehicles
+Offshore
+Turbines
+
+on public display
+
+
+Windmill
+
+
+
+
+
+
+
+
+
+
+
+Wind turbines
+
+
+
+Aerodynamics
+Airborne
+Crosswind kite
+Darrieus
+Design
+Floating
+Savonius
+Small
+Unconventional
+Vertical axis
+
+
+
+
+
+
+
+
+Wind power industry
+
+
+
+Consulting companies
+Farm management
+Manufacturers
+Software
+Windmade
+
+
+
+
+
+
+
+
+Wind farms
+
+
+
+Community-owned
+Farms by country
+Offshore farms
+
+by country
+
+
+Onshore farms
+
+
+
+
+
+
+
+
+Concepts
+
+
+
+Betz's law
+Capacity factor
+EROEI
+Forecasting
+Grid energy storage
+HVDC
+Intermittency
+Variability
+Laddermill
+Net energy gain
+Resource assessment
+Storage
+Subsidies
+Wind profile power law
+
+
+
+
+
+
+
+
+
+
+
+ 
+						

@@ -1,0 +1,535 @@
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+
+
+
+
+
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
+
+
+
+
+
+
+
+
+This article may be too technical for most readers to understand. Please help improve this article to make it understandable to non-experts, without removing the technical details. The talk page may contain suggestions. (January 2016)
+
+
+
+
+
+
+
+This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (January 2016)
+
+
+
+
+
+
+
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (January 2016)
+
+
+
+
+
+
+
+
+
+B4X
+
+Developer(s)
+Anywhere Software | Erel Uziel
+
+
+Operating system
+Microsoft Windows
+
+
+Available in
+English
+
+
+Type
+Programming
+
+
+License
+Proprietary software (Commercial software or shareware)
+
+
+Website
+www.b4x.com
+
+
+B4X is a suite of rapid application development IDEs that target Google Android, Apple iOS, and the Java platform. The suite uses a Proprietary dialect of Visual Basic (hereinafter called "B4X") and allows users to easily share code between the IDEs. The suite also features a visual designer that simplifies the process of creating user interfaces.
+
+
+
+Contents
+
+
+1 B4A (Formerly Basic4android)
+2 B4J
+3 B4i
+4 Code Example
+
+4.1 Code Comments
+4.2 Generating a Random Number, then displaying the number.
+
+
+5 Archived IDEs
+
+5.1 Basic4ppc
+
+
+6 References
+
+
+
+B4A (Formerly Basic4android)[edit]
+B4A, formerly known as Basic4android, is the second IDE produced by Anywhere Software. The first public version was released on December 7, 2010 and allows users to code native Android apps in B4X. B4A is able to create apps, widgets, and games. There is also a beginners guide that is updated after each new release of the IDE.[1]
+Latest Public Release: 5.5, November 2015.
+B4J[edit]
+B4J is the third IDE produced by Anywhere Software. The first public version was released on December 4, 2013. B4J Allows users to target Desktop platforms, Web servers, and ARM Boards such as Raspberry Pi.
+Latest Release: 4.01; December 30, 2015.
+B4i[edit]
+B4i is the fourth IDE produced by Anywhere Software. The first public version was released on November 14, 2014. B4i allows users to code iOS (iPhone/iPad) apps using B4X.
+Latest Release: 2.30; October 18, 2015.
+Code Example[edit]
+Code Comments[edit]
+
+
+'This is a comment
+
+Generating a Random Number, then displaying the number.[edit]
+The following code can be shared between B4A and B4i with no changing:
+
+
+Sub Button1_Clicked
+DisplayRandom 'Calls the Sub named "DisplayRandom". Note that you have to have a Sub already created in order to call it. If you don't, then the compiler will throw a "Undeclared Variable" error.
+End Sub
+Sub DisplayRandom
+Dim Random As Int
+Random = Rnd(1, 10)
+MsgBox(Random, "Your Number")
+End Sub
+
+In a B4J UI app, you'll need to replace the MsgBox function with the following:
+
+
+fx.MsgBox(FormTitle, Random, "Your Number")
+
+Note that you can only use the [fx.MsgBox] method in B4J 4.00 and above.
+Archived IDEs[edit]
+Basic4ppc[edit]
+Basic4ppc (pronounced "Basic for PPC") is a programming language for Pocket PC handheld computers running Windows Mobile operating system, by Anywhere Software. The language is based on a BASIC-like syntax, taking advantage of Microsoft’s .NET technology, to allow additional libraries, graphical user interface design of windows forms, rapid application development (RAD), and .NET framework compatible compilation. The language implements a unique way of adding objects to a program without being object-oriented. Its advantages are simplicity, development pace and the integration with .NET framework. A special version of the integrated development environment (IDE) allows developing straight onto the Windows Mobile device. With the demise of Windows Mobile operating system and the devices running it Basic4PPC came to the end of its life in 2010, after the first release. For owners of Basic4PPC it remains a useful Windows-desktop BASIC compiler as it runs code directly in the Windows environment and it can compile a project to a Windows 'exe' file for use as a Windows program.
+The last stable release was in 2010 and its version was 6.9. It is no longer available for purchase.
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Major fields of computer science
+
+
+
+
+
+
+
+Note: This template roughly follows the 2012 ACM Computing classification.
+
+
+
+
+
+
+Hardware
+
+
+
+Printed circuit board
+Peripheral
+Integrated circuit
+Very-large-scale integration
+Energy consumption
+Electronic design automation
+
+
+
+
+
+
+
+
+Computer systems
+organization
+
+
+
+Computer architecture
+Embedded system
+Real-time computing
+Dependability
+
+
+
+
+
+
+
+
+Networks
+
+
+
+Network architecture
+Network protocol
+Network components
+Network scheduler
+Network performance evaluation
+Network service
+
+
+
+
+
+
+
+
+Software organization
+
+
+
+Interpreter
+Middleware
+Virtual machine
+Operating system
+Software quality
+
+
+
+
+
+
+
+
+Software notations
+and tools
+
+
+
+Programming paradigm
+Programming language
+Compiler
+Domain-specific language
+Modeling language
+Software framework
+Integrated development environment
+Software configuration management
+Software library
+Software repository
+
+
+
+
+
+
+
+
+Software development
+
+
+
+Software development process
+Requirements analysis
+Software design
+Software construction
+Software deployment
+Software maintenance
+Programming team
+Open-source model
+
+
+
+
+
+
+
+
+Theory of computation
+
+
+
+Model of computation
+Formal language
+Automata theory
+Computational complexity theory
+Logic
+Semantics
+
+
+
+
+
+
+
+
+Algorithms
+
+
+
+Algorithm design
+Analysis of algorithms
+Randomized algorithm
+Computational geometry
+
+
+
+
+
+
+
+
+Mathematics
+of computing
+
+
+
+Discrete mathematics
+Probability
+Statistics
+Mathematical software
+Information theory
+Mathematical analysis
+Numerical analysis
+
+
+
+
+
+
+
+
+Information
+systems
+
+
+
+Database management system
+Information storage systems
+Enterprise information system
+Social information systems
+Geographic information system
+Decision support system
+Process control system
+Multimedia information system
+Data mining
+Digital library
+Computing platform
+Digital marketing
+World Wide Web
+Information retrieval
+
+
+
+
+
+
+
+
+Security
+
+
+
+Cryptography
+Formal methods
+Security services
+Intrusion detection system
+Hardware security
+Network security
+Information security
+Application security
+
+
+
+
+
+
+
+
+Human–computer
+interaction
+
+
+
+Interaction design
+Social computing
+Ubiquitous computing
+Visualization
+Accessibility
+
+
+
+
+
+
+
+
+Concurrency
+
+
+
+Concurrent computing
+Parallel computing
+Distributed computing
+Multithreading
+Multiprocessing
+
+
+
+
+
+
+
+
+Artificial
+intelligence
+
+
+
+Natural language processing
+Knowledge representation and reasoning
+Computer vision
+Automated planning and scheduling
+Search methodology
+Control method
+Philosophy of artificial intelligence
+Distributed artificial intelligence
+
+
+
+
+
+
+
+
+Machine learning
+
+
+
+Supervised learning
+Unsupervised learning
+Reinforcement learning
+Multi-task learning
+Machine learning algorithms
+Cross-validation
+
+
+
+
+
+
+
+
+Graphics
+
+
+
+Animation
+Rendering
+Image manipulation
+Graphics processing unit
+Mixed reality
+Virtual reality
+Image compression
+Solid modeling
+
+
+
+
+
+
+
+
+Applied
+computing
+
+
+
+E-commerce
+Enterprise software
+Computational mathematics
+Computational physics
+Computational chemistry
+Computational biology
+Computational social science
+Computational engineering
+Computational healthcare
+Digital art
+Electronic publishing
+Cyberwarfare
+Electronic voting
+Video game
+Word processing
+Operations research
+Educational technology
+Document management
+
+
+
+
+
+
+
+
+
+
+
+ Computer science portal
+
+
+
+
+
+
+
+
+References[edit]
+
+
+^ "Android Tutorial - B4A Beginners Guide | B4X Community - Android, iOS, desktop, server and IoT programming tools". www.b4x.com. Retrieved 2016-01-17. 
+
+
+
+
+
+
+
+This article has not been added to any categories. Please help out by adding categories to it so that it can be listed with similar articles. (January 2016)
+
+
+
+
+
+ 
+						

@@ -1,0 +1,1 @@
+['http://www.snpp.com/other/articles/flash.html', 'http://www.digitalspy.co.uk/tv/news/a16039/gay-simpsons-character-revealed.html', 'http://www.ew.com/ew/article/0,,735559,00.html', 'http://www.nytimes.com/2005/02/21/arts/television/21simpsons.html', 'http://www.signonsandiego.com/uniontrib/20050121/news_lz1c21pubeye.html', 'http://www.snpp.com/guides/patty_n_selma.html']

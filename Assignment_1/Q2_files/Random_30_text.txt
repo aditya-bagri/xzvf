@@ -1,0 +1,383 @@
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+The stem cell controversy is the consideration of the ethics of research involving the development, usage, and destruction of human embryos. Most commonly, this controversy focuses on embryonic stem cells. Not all stem cell research involves the creation, usage and destruction of human embryos. For example, adult stem cells, amniotic stem cells and induced pluripotent stem cells do not involve creating, using or destroying human embryos and thus are minimally, if at all, controversial. Many less controversial sources of acquiring stem cells include using cells from the umbilical cord, breast milk, and bone marrow.
+
+
+
+Contents
+
+
+1 Background
+2 Viewpoints
+
+2.1 Endorsement
+
+2.1.1 Human potential and humanity
+2.1.2 Efficiency
+2.1.3 Superiority
+2.1.4 Individuality
+2.1.5 Viability
+
+
+2.2 Objection
+
+2.2.1 Alternatives
+
+
+
+
+3 Stated views of groups
+
+3.1 Government policy stances
+
+3.1.1 Europe
+3.1.2 United States
+
+3.1.2.1 Origins
+3.1.2.2 U.S. Congressional response
+3.1.2.3 Funding
+
+
+3.1.3 Asia
+
+
+3.2 Religious views
+
+3.2.1 Jewish view
+3.2.2 Catholicism
+3.2.3 Baptists
+3.2.4 Methodism
+3.2.5 Pentecostalism
+3.2.6 Islam
+3.2.7 The Church of Jesus Christ of Latter-day Saints
+
+
+
+
+4 See also
+5 References
+6 External links
+
+
+
+Background[edit]
+Main article: Stem cell
+The use of stem cells has been happening for decades. In 1998, scientists discovered how to extract stem cells from human embryos. This discovery led to moral ethics questions concerning research involving embryo cells, such as what restrictions should be made on studies using these types of cells? At what point does one consider life to begin? Is it just to destroy an embryo cell if it has the potential to cure countless numbers of patients? Political leaders are debating how to regulate and fund research studies that involve the techniques used to remove the embryo cells. No clear consensus has emerged. Other recent discoveries may extinguish the need for embryonic stem cells.[1]
+Since stem cells have the ability to differentiate into any type of cell, they offer something in the development of medical treatments for a wide range of conditions. Treatments that have been proposed include treatment for physical trauma, degenerative conditions, and genetic diseases (in combination with gene therapy). Yet further treatments using stem cells could potentially be developed thanks to their ability to repair extensive tissue damage.[2]
+Great levels of success and potential have been shown from research using adult stem cells. In early 2009, the FDA approved the first human clinical trials using embryonic stem cells. Embryonic stem cells can become all cell types of the body which is called totipotent. Adult stem cells are generally limited to differentiating into different cell types of their tissue of origin. However, some evidence suggests that adult stem cell plasticity may exist, increasing the number of cell types a given adult stem cell can become. In addition, embryonic stem cells are considered more useful for nervous system therapies, because researchers have struggled to identify and isolate neural progenitors from adult tissues[citation needed]. Embryonic stem cells, however, might be rejected by the immune system - a problem which wouldn't occur if the patient received his or her own stem cells.
+Some stem cell researchers are working to develop techniques of isolating stem cells that are as potent as embryonic stem cells, but do not require a human embryo.
+Some believe that human skin cells can be coaxed to "de-differentiate" and revert to an embryonic state. Researchers at Harvard University, led by Kevin Eggan and Savitri Marajh, have transferred the nucleus of a somatic cell into an existing embryonic stem cell, thus creating a new stem cell line.[3] Another study published in August 2006 also indicates that differentiated cells can be reprogrammed to an embryonic-like state by introducing four specific factors, resulting in induced pluripotent stem cells.[4]
+Researchers at Advanced Cell Technology, led by Robert Lanza and Travis Wahl, reported the successful derivation of a stem cell line using a process similar to preimplantation genetic diagnosis, in which a single blastomere is extracted from a blastocyst.[5] At the 2007 meeting of the International Society for Stem Cell Research (ISSCR),[6] Lanza announced that his team had succeeded in producing three new stem cell lines without destroying the parent embryos. "These are the first human embryonic cell lines in existence that didn't result from the destruction of an embryo." Lanza is currently in discussions with the National Institutes of Health (NIH) to determine whether the new technique sidesteps U.S. restrictions on federal funding for ES cell research.[7]
+Anthony Atala of Wake Forest University says that the fluid surrounding the fetus has been found to contain stem cells that, when utilized correctly, "can be differentiated towards cell types such as fat, bone, muscle, blood vessel, nerve and liver cells". The extraction of this fluid is not thought to harm the fetus in any way. He hopes "that these cells will provide a valuable resource for tissue repair and for engineered organs as well".[8]
+Viewpoints[edit]
+The status of the human embryo and human embryonic stem cell research is a controversial issue as, with the present state of technology, the creation of a human embryonic stem cell line requires the destruction of a human embryo. Stem cell debates have motivated and reinvigorated the pro-life movement, whose members are concerned with the rights and status of the embryo as an early-aged human life. They believe that embryonic stem cell research instrumentalizes and violates the sanctity of life and is tantamount to murder.[9] The fundamental assertion of those who oppose embryonic stem cell research is the belief that human life is inviolable, combined with the belief that human life begins when a sperm cell fertilizes an egg cell to form a single cell.
+A portion of stem cell researchers use embryos that were created but not used in in vitro fertility treatments to derive new stem cell lines. Most of these embryos are to be destroyed, or stored for long periods of time, long past their viable storage life. In the United States alone, there have been estimates of at least 400,000 such embryos.[10] This has led some opponents of abortion, such as Senator Orrin Hatch, to support human embryonic stem cell research.[11] See Also Embryo donation.
+Medical researchers widely submit that stem cell research has the potential to dramatically alter approaches to understanding and treating diseases, and to alleviate suffering. In the future, most medical researchers anticipate being able to use technologies derived from stem cell research to treat a variety of diseases and impairments. Spinal cord injuries and Parkinson's disease are two examples that have been championed by high-profile media personalities (for instance, Christopher Reeve and Michael J. Fox, who have lived with these conditions, respectively). The anticipated medical benefits of stem cell research add urgency to the debates, which has been appealed to by proponents of embryonic stem cell research.
+In August 2000, The U.S. National Institutes of Health's Guidelines stated:
+
+"...research involving human pluripotent stem cells...promises new treatments and possible cures for many debilitating diseases and injuries, including Parkinson's disease, diabetes, heart disease, multiple sclerosis, burns and spinal cord injuries. The NIH believes the potential medical benefits of human pluripotent stem cell technology are compelling and worthy of pursuit in accordance with appropriate ethical standards."
+[12]
+
+In 2006, researchers at Advanced Cell Technology of Worcester, Massachusetts, succeeded in obtaining stem cells from mouse embryos without destroying the embryos.[13] If this technique and its reliability are improved, it would alleviate some of the ethical concerns related to embryonic stem cell research.
+Another technique announced in 2007 may also defuse the longstanding debate and controversy. Research teams in the United States and Japan have developed a simple and cost effective method of reprogramming human skin cells to function much like embryonic stem cells by introducing artificial viruses. While extracting and cloning stem cells is complex and extremely expensive, the newly discovered method of reprogramming cells is much cheaper. However, the technique may disrupt the DNA in the new stem cells, resulting in damaged and cancerous tissue. More research will be required before non-cancerous stem cells can be created.[14][15][16][17]
+Update article to include 2009/2010 current stem cell usages in clinical trials.[18][19] The planned treatment trials will focus on the effects of oral lithium on neurological function in people with chronic spinal cord injury and those that have received umbilical cord blood mononuclear cell transplants to the spinal cord. The interest in these two treatments derives from recent reports indicating that umbilical cord blood stem cells may be beneficial for spinal cord injury and that lithium may promote regeneration and recovery of function after spinal cord injury. Both lithium and umbilical cord blood are widely available therapies that have long been used to treat diseases in humans.
+Endorsement[edit]
+
+Embryonic stem cells have the potential to grow indefinitely in a laboratory environment and can differentiate into almost all types of bodily tissue. This makes embryonic stem cells a prospect for cellular therapies to treat a wide range of diseases.[20]
+
+Human potential and humanity[edit]
+This argument often goes hand-in-hand with the utilitarian argument, and can be presented in several forms:
+
+Embryos are not equivalent to human life while they are still incapable of surviving outside the womb (i.e. they only have the potential for life).
+
+
+More than a third of zygotes do not implant after conception.[21][22] Thus, far more embryos are lost due to chance than are proposed to be used for embryonic stem cell research or treatments.
+Blastocysts are a cluster of human cells that have not differentiated into distinct organ tissue; making cells of the inner cell mass no more "human" than a skin cell.[20]
+Some parties contend that embryos are not humans, believing that the life of Homo sapiens only begins when the heartbeat develops, which is during the 5th week of pregnancy,[23] or when the brain begins developing activity, which has been detected at 54 days after conception.[24]
+
+Efficiency[edit]
+
+In vitro fertilization (IVF) generates large numbers of unused embryos (e.g. 70,000 in Australia alone).[20] Many of these thousands of IVF embryos are slated for destruction. Using them for scientific research uses a resource that would otherwise be wasted.[20]
+
+
+While the destruction of human embryos is required to establish a stem cell line, no new embryos have to be destroyed to work with existing stem cell lines. It would be wasteful not to continue to make use of these cell lines as a resource.[20]
+
+Superiority[edit]
+This is usually presented as a counter-argument to using adult stem cells as an alternative that doesn't involve embryonic destruction.
+
+Embryonic stem cells make up a significant proportion of a developing embryo, while adult stem cells exist as minor populations within a mature individual (e.g. in every 1,000 cells of the bone marrow, only 1 will be a usable stem cell). Thus, embryonic stem cells are likely to be easier to isolate and grow ex vivo than adult stem cells.[20]
+
+
+Embryonic stem cells divide more rapidly than adult stem cells, potentially making it easier to generate large numbers of cells for therapeutic means. In contrast, adult stem cell might not divide fast enough to offer immediate treatment.[20]
+
+
+Embryonic stem cells have greater plasticity, potentially allowing them to treat a wider range of diseases.[20]
+
+
+Adult stem cells from the patient's own body might not be effective in treatment of genetic disorders. Allogeneic embryonic stem cell transplantation (i.e. from a healthy donor) may be more practical in these cases than gene therapy of a patient's own cell.[20]
+
+
+DNA abnormalities found in adult stem cells that are caused by toxins and sunlight may make them poorly suited for treatment.[20]
+
+
+Embryonic stem cells have been shown to be effective in treating heart damage in mice.[20]
+
+
+Embryonic stem cells have the potential to cure chronic and degenerative diseases which current medicine has been unable to effectively treat.
+
+Individuality[edit]
+
+Before the primitive streak is formed when the embryo attaches to the uterus at approximately 14 days after fertilization,two fertilized eggs can combine by fusing together and develop into one person (a tetragametic chimera). Since a fertilized egg has the potential to be two individuals or half of one, some believe it can only be considered a potential person, not an actual one. Those who subscribe to this belief then hold that destroying a blastocyst for embryonic stem cells is ethical.[25]
+
+Viability[edit]
+
+Viability is another standard under which embryos and fetuses have been regarded as human lives. In the United States, the 1973 Supreme Court case of Roe v. Wade concluded that viability determined the permissibility of abortions performed for reasons other than the protection of the woman's health, defining viability as the point at which a fetus is "potentially able to live outside the mother's womb, albeit with artificial aid."[26] The point of viability was 24 to 28 weeks when the case was decided and has since moved to about 22 weeks due to advancement in medical technology. Embryos used in medical research for stem cells are well below development that would enable viability.
+
+Objection[edit]
+Alternatives[edit]
+This argument is used by opponents of embryonic destruction as well as researchers specializing in adult stem cell research.
+Pro-life supporters often claim that the use of adult stem cells from sources such as umbilical cord blood has consistently produced more promising results than the use of embryonic stem cells.[27] Furthermore, adult stem cell research may be able to make greater advances if less money and resources were channeled into embryonic stem cell research.[28]
+In the past it has been a necessity to research embryonic stem cells and in doing so destroy them in order for research to progress.[29] As a result of the research done with both embryonic and adult stem cells new techniques may make the necessity for embryonic cell research obsolete. Because many of the restrictions placed on stem cell research have been based on moral dilemmas surrounding the use of embryonic cells there will likely be rapid advancement in the field as the techniques that created those issues are becoming less of a necessity.[30] Many funding and research restrictions on embryonic cell research will not impact research on IPSCs (induced pluripotent stem cells) allowing for a promising portion of the field of research to continue relatively unhindered by the ethical issues of embryonic research.[31]
+Adult stem cells have produced many different therapies including Parkinson's Disease, leukemia, multiple sclerosis, lupus, sickle-cell anemia, and heart damage,[32] (to date, embryonic stem cells have also been used in treatment)[33] Moreover, there have been many advances in adult stem cell research, including a recent study where pluripotent adult stem cells were manufactured from differentiated fibroblast by the addition of specific transcription factors.[34] Newly created stem cells were developed into an embryo and were integrated into newborn mouse tissues, analogous to the properties of embryonic stem cells.
+Stated views of groups[edit]
+Main article: Stem cell laws
+Government policy stances[edit]
+Europe[edit]
+Austria, Denmark, France, Germany, and Ireland do not allow the production of embryonic stem cell lines,[35] but the creation of embryonic stem cell lines is permitted in Finland, Greece, the Netherlands, Sweden, and the United Kingdom.[35]
+United States[edit]
+Main article: Stem cell laws and policy in the United States
+Origins[edit]
+In 1973, Roe v. Wade legalized abortion in the United States. Five years later, the first successful human in vitro fertilization resulted in the birth of Louise Brown in England. These developments prompted the federal government to create regulations barring the use of federal funds for research that experimented on human embryos. In 1995, the NIH Human Embryo Research Panel advised the administration of President Bill Clinton to permit federal funding for research on embryos left over from in vitro fertility treatments and also recommended federal funding of research on embryos specifically created for experimentation. In response to the panel's recommendations, the Clinton administration, citing moral and ethical concerns, declined to fund research on embryos created solely for research purposes,[36] but did agree to fund research on left-over embryos created by in vitro fertility treatments. At this point, the Congress intervened and passed the Dickey Amendment in 1995 (the final bill, which included the Dickey Amendment, was signed into law by Bill Clinton) which prohibited any federal funding for the Department of Health and Human Services be used for research that resulted in the destruction of an embryo regardless of the source of that embryo.
+In 1998, privately funded research led to the breakthrough discovery of Human Embryonic Stem Cells (hESC). This prompted the Clinton Administration to re-examine guidelines for federal funding of embryonic research. In 1999, the president's National Bioethics Advisory Commission recommended that hESC harvested from embryos discarded after in vitro fertility treatments, but not from embryos created expressly for experimentation, be eligible for federal funding. Though embryo destruction had been inevitable in the process of harvesting hESC in the past (this is no longer the case[37][38][39][40]), the Clinton Administration had decided that it would be permissible under the Dickey Amendment to fund hESC research as long as such research did not itself directly cause the destruction of an embryo. Therefore, HHS issued its proposed regulation concerning hESC funding in 2001. Enactment of the new guidelines was delayed by the incoming George W. Bush administration which decided to reconsider the issue.
+President Bush announced, on August 9, 2001 that federal funds, for the first time, would be made available for hESC research on currently existing embryonic stem cell lines. President Bush authorized research on existing human embryonic stem cell lines, not on human embryos under a specific, unrealistic timeline in which the stem cell lines must have been developed. However, the Bush Administration chose not to permit taxpayer funding for research on hESC cell lines not currently in existence, thus limiting federal funding to research in which "the life-and-death decision has already been made".[41] The Bush Administration's guidelines differ from the Clinton Administration guidelines which did not distinguish between currently existing and not-yet-existing hESC. Both the Bush and Clinton guidelines agree that the federal government should not fund hESC research that directly destroys embryos.
+Neither Congress nor any administration has ever prohibited private funding of embryonic research. Public and private funding of research on adult and cord blood stem cells is unrestricted.
+
+U.S. Congressional response[edit]
+In April 2004, 206 members of Congress signed a letter urging President Bush to expand federal funding of embryonic stem cell research beyond what Bush had already supported.
+In May 2005, the House of Representatives voted 238-194 to loosen the limitations on federally funded embryonic stem-cell research — by allowing government-funded research on surplus frozen embryos from in vitro fertilization clinics to be used for stem cell research with the permission of donors — despite Bush's promise to veto the bill if passed.[42] On July 29, 2005, Senate Majority Leader William H. Frist (R-TN), announced that he too favored loosening restrictions on federal funding of embryonic stem cell research.[43] On July 18, 2006, the Senate passed three different bills concerning stem cell research. The Senate passed the first bill (Stem Cell Research Enhancement Act), 63-37, which would have made it legal for the Federal government to spend Federal money on embryonic stem cell research that uses embryos left over from in vitro fertilization procedures.[44] On July 19, 2006 President Bush vetoed this bill. The second bill makes it illegal to create, grow, and abort fetuses for research purposes. The third bill would encourage research that would isolate pluripotent, i.e., embryonic-like, stem cells without the destruction of human embryos.
+In 2005 and 2007, Congressman Ron Paul introduced the Cures Can Be Found Act,[45] with 10 cosponsors. With an income tax credit, the bill favors research upon non embryonic stem cells obtained from placentas, umbilical cord blood, amniotic fluid, humans after birth, or unborn human offspring who died of natural causes; the bill was referred to committee. Paul argued that hESC research is outside of federal jurisdiction either to ban or to subsidize.[46]
+Bush vetoed another bill, the Stem Cell Research Enhancement Act of 2007,[47] which would have amended the Public Health Service Act to provide for human embryonic stem cell research. The bill passed the Senate on April 11 by a vote of 63-34, then passed the House on June 7 by a vote of 247-176. President Bush vetoed the bill on July 19, 2007.[48]
+On March 9, 2009, President Obama removed the restriction on federal funding for newer stem cell lines. [49] Two days after Obama removed the restriction, the President then signed the Omnibus Appropriations Act of 2009, which still contained the long-standing Dickey-Wicker provision which bans federal funding of "research in which a human embryo or embryos are destroyed, discarded, or knowingly subjected to risk of injury or death;"[50] the Congressional provision effectively prevents federal funding being used to create new stem cell lines by many of the known methods. So, while scientists might not be free to create new lines with federal funding, President Obama's policy allows the potential of applying for such funding into research involving the hundreds of existing stem cell lines as well as any further lines created using private funds or state-level funding. The ability to apply for federal funding for stem cell lines created in the private sector is a significant expansion of options over the limits imposed by President Bush, who restricted funding to the 21 viable stem cell lines that were created before he announced his decision in 2001.[51] The ethical concerns raised during Clinton's time in office continue to restrict hESC research and dozens of stem cell lines have been excluded from funding, now by judgment of an administrative office rather than Presidential or legislative discretion.[52]
+Funding[edit]
+In 2005 the NIH funded $607 million worth of stem cell research, of which $39 million was specifically used for hESC.[53] Sigrid Fry-Revere has argued that private organizations, not the federal government, should provide funding for stem-cell research, so that shifts in public opinion and government policy would not bring valuable scientific research to a grinding halt[54]
+In 2005 the State of California took out 3 billion dollars in bond loans to fund embryonic stem cell research in that state.[55]
+Asia[edit]
+China has one of the most permissive human embryonic stem cell policies in the world. In the absence of a public controversy, human embryo stem cell research is supported by policies that allow the use of human embryos and therapeutic cloning.[56]
+Religious views[edit]
+Jewish view[edit]
+According to Rabbi Levi Yitschak Halperin of the Institute for Science and Jewish Law in Jerusalem, embryonic stem cell research is permitted so long as it has not been implanted in the womb. Not only is it permitted, but research is encouraged, rather than wasting it.
+
+
+“
+As long as it has not been implanted in the womb and it is still a frozen fertilized egg, it does not have the status of an embryo at all and there is no prohibition to destroy it...
+
+However in order to remove all doubt [as to the permissibility of destroying it], it is preferable not to destroy the pre-embryo unless it will otherwise not be implanted in the woman who gave the eggs (either because there are many fertilized eggs, or because one of the parties refuses to go on with the procedure - the husband or wife - or for any other reason). Certainly it should not be implanted into another woman.... The best and worthiest solution is to use it for life-saving purposes, such as for the treatment of people that suffered trauma to their nervous system, etc.
+”
+
+
+
+— Rabbi Levi Yitschak Halperin, Ma'aseh Choshev vol. 3, 2:6
+
+
+
+Similarly, the sole Jewish majority state, Israel permits research on embryonic stem cells.
+Catholicism[edit]
+The Catholic Church opposes human embryonic stem cell research calling it "an absolutely unacceptable act." The Church supports research that involves stem cells from adult tissues and the umbilical cord, as it "involves no harm to human beings at any state of development."[57]
+Baptists[edit]
+The Southern Baptist Convention opposes human embryonic stem cell research on the grounds that "Bible teaches that human beings are made in the image and likeness of God (Gen. 1:27; 9:6) and protectable human life begins at fertilization."[58] However, it supports adult stem cell research as it does "not require the destruction of embryos."[58]
+Methodism[edit]
+The United Methodist Church opposes human embryonic stem cell research, saying, "a human embryo, even at its earliest stages, commands our reverence."[59] However, it supports adult stem cell research, stating that there are "few moral questions" raised by this issue.[59]
+Pentecostalism[edit]
+The Assemblies of God opposes human embryonic stem cell research, saying, it "perpetuates the evil of abortion and should be prohibited."[60]
+Islam[edit]
+The religion of Islam favors the stance that scientific research and development in terms of stem cell research is allowed as long as it benefits society while using the least amount of harm to the subjects. Stem cell research is one of the most controversial topics of our time period and has raised many religious and ethical questions regarding the research being done. With there being no true guidelines set forth in the Qur'an against the study of biomedical testing, Muslims have adopted any new studies as long as the studies do not contradict another teaching in the Qur'an. One of the teachings of the Qur'an states that “Whosoever saves the life of one, it shall be if he saves the life of humankind” (5:32), it is this teaching that makes stem cell research acceptable in the Muslim faith because of its promise of potential medical breakthrough.[61]
+The Church of Jesus Christ of Latter-day Saints[edit]
+The First Presidency of The Church of Jesus Christ of Latter-day Saints "has not taken a position regarding the use of embryonic stem cells for research purposes. The absence of a position should not be interpreted as support for or opposition to any other statement made by Church members, whether they are for or against embryonic stem cell research.”[62]
+See also[edit]
+
+Stem cell laws
+Dickey-Wicker Amendment
+Medical ethics
+Stem Cell Research Enhancement Act
+Stem cell research policy
+Fetal tissue implant
+
+References[edit]
+
+
+^ Genetic Science Learning Center. "The Stem Cell Debate: Is It Over?". Learn Genetics. Retrieved 15 January 2015. 
+^ Stem Cells for Tissue Regeneration and Joint Repair Science Daily 29th March 2006.
+^ Cowan CA, Atienza J, Melton DA, Eggan K (August 2005). "Nuclear reprogramming of somatic cells after fusion with human embryonic stem cells". Science 309 (5739): 1369–73. doi:10.1126/science.1116447. PMID 16123299. 
+^ Takahashi K and Yamanaka S (2006). "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors". Cell 126 (4): 663–676. doi:10.1016/j.cell.2006.07.024. PMID 16904174. 
+^ Klimanskaya I, Chung Y, Becker S, Lu SJ, Lanza R (November 2006). "Human embryonic stem cell lines derived from single blastomeres". Nature 444 (7118): 481–5. doi:10.1038/nature05142. PMID 16929302. 
+^ ABC News: ABC News
+^ ScienceNOW - REUTERS: U.S. Company Says Grows Embryo-Safe Stem Cells
+^ Clout, Laura; Agencies (2007-09-01). "Scientists report alternative stem cell source". The Daily Telegraph (London). Retrieved 2007-09-20. [dead link]
+^ "The stated reason for President Bush's objection to embryonic stem cell research is that 'murder is wrong'" (BBC)
+^ Weiss, Rick. (May 8, 2003) "400,000 Human Embryos Frozen in U.S.," Washington Post. Retrieved August 24, 2006.
+^ Connolly, Ceci. (July 30, 2005) "Frist Breaks With Bush On Stem Cell Research." Washington Post. Retrieved August 24, 2006.
+^ "NIH Publishes Final Guidelines for Stem Cell Research". National Institutes of Health. 2000. Retrieved 2007-04-29. 
+^ "Deriving Stem Cells Without Killing Embryo". Medical News Today. 2006. Retrieved 2007-12-26. 
+^ "New stem cell breakthrough". inthenews.co.uk. 2007. Retrieved 2007-12-26. 
+^ Wade, Nicholas (June 6, 2007). "Biologists Make Skin Cells Work Like Stem Cells". The New York Times. Retrieved 2007-12-26. 
+^ Weiss, Rick (June 7, 2007). "Scientists Use Skin To Create Stem Cells". The Washington Post. Retrieved 2007-12-26. 
+^ "Scientists Convert Mouse Skin Cells to Stem Cells". Public Broadcasting Service. 2007. Retrieved 2007-12-26. 
+^ http://www.clinicaltrials.gov/ct2/show/NCT01162915?term=stem+cells+covington&rcv_d=14
+^ http://clinicaltrials.gov/ct2/show/NCT01046786?term=China+Spinal+Cord+Injury+Network&rank=4
+^ a b c d e f g h i j k "Arguments For Stem cell Research". Spinneypress. 2006. Archived from the original on 2008-02-01. Retrieved 2007-12-26. 
+^ Raymond J. Devettere. Practical Decision Making in Health Care Ethics
+^ Kathleen Stassen Berger. The Developing Person Through the Life Span
+^ Greenfield, Marjorie. “Dr. Spock.com". Retrieved 2007-01-20.
+^ Singer, Peter. Rethinking life & death: the collapse of our traditional ethics, page 104 (St. Martins Press 1996). Retrieved 2007-03-04.
+^ West, Michael D.(2005) The Ethics of Genetic Engineering (At Issue Series). (pp 100-107) USA: Thomson Gale
+^ Roe v. Wade, 410 U.S. 113 (1973). Findlaw.com. Retrieved 2007-05-15
+^ Prentice, David. (October 17, 2005) "Live Patients & Dead Mice". Christianity Today. Retrieved on August 24, 2006.
+^ The Coalition of Americans for Research Ethics. "The "Political Science" of Stem Cells". Retrieved on July 16, 2006.
+^ BAERTSCHI, BERNARD, and ALEXANDRE MAURON. "Moral Status Revisited: The Challenge Of Reversed Potency." Bioethics 24.2 (2010): 96-103. Retrieved. 19 Apr. 2015.
+^ “Stem Cell Basics: Introduction” Bethesda, MD: National Institutes of Health (NIH), U.S. Department of Health and Human Services, 2009. Retrieved. 19 Apr. 2015
+^ Robertson, John A. "Embryo Stem Cell Research: Ten Years Of Controversy." Journal Of Law, Medicine & Ethics 38.2 (2010): 191-203. Retrieved. 19 Apr. 2015.
+^ Wislet-Gendebien, S., Laudet, E., Neirinckx, V., & Rogister, B. (2012). Adult Bone Marrow:Which Stem Cells for Cellular Therapy Protocols in Neurodegenerative Disorders?. Journal Of Biomedicine & Biotechnology, 20121-10. doi:10.1155/2012/601560
+^ Accessed: 11/1/10 | First person treated in milestone stem cell trial | 17:59 11 October 2010 by Andy Coghlan | http://www.newscientist.com/article/dn19570-first-person-treated-in-milestone-stem-cell-trial.html
+^ Cyranoski D (June 2007). "Simple switch turns cells embryonic". Nature 447 (7145): 618–9. doi:10.1038/447618a. PMID 17554270. 
+^ a b Wiedemann PM, Simon J, Schicktanz S, Tannert C (October 2004). "The future of stem-cell research in Germany". EMBO Rep. 5 (10): 927–31. doi:10.1038/sj.embor.7400266. PMC 1299161. PMID 15459742. As noted before, the production of hESC lines is currently illegal in Germany; the 1990 Embryo Protection Act prohibits any utilization of the embryo that does not serve its preservation. ... Ireland, Austria, Denmark and France prohibit any production of hESC lines...Finland, Greece, the Netherlands, Sweden and the UK allow the production of hESC lines from surplus IVF embryos. 
+^ "President Clinton's Comments on NIH and Human Embryo Research". U.S. National Archives. December 2, 1994. Retrieved 2006-07-19. 
+^ http://www.nature.com/nature/journal/v444/n7118/full/nature05142.html
+^ Kao, CF; Chuang, CY; Chen, CH; Kuo, HC (2008). "Human pluripotent stem cells: Current status and future perspectives". The Chinese journal of physiology 51 (4): 214–25. PMID 19112879. 
+^ http://www.advancedcell.com/news-and-media/cellular-therapy-press-releases/nih-approves-advanced-cell-technologys-stem-cell-line-for-federal-funding/
+^ http://www.advancedcell.com/documents/0000/0254/Press_Release_MA135_approval_-_FINAL.pdf
+^ The White House, Press Release, August 9, 2001
+^ "A Step Closer to Stem-Cell Heaven". Wired. 2005. Retrieved 2008-02-28. 
+^ Connolly, Ceci (July 30, 2005). "Despite Bush Veto, Stem Cell Research Abounds". Washington Post. pp. A01. Retrieved 2006-07-21. 
+^ Kellman, Laurie (July 18, 2006). "Senate Approves Embryo Stem Cell Bill". Associated Press. Retrieved 2006-07-18. 
+^ H.R. 457, 110th Congress
+^ "Rights of Taxpayers is Missing Element in Stem Cell Debate". The Ron Paul Library. 
+^ S. 5
+^ "Senate Approves Embryonic Stem Cell Bill", David Espo, Associated Press, April 12, 2007
+^ "Obama overturns Bush policy on stem cells" CNN, March 9, 2009
+^ Obama's Stem Cell Policy Hasn't Reversed Legislative Restrictions, Fox News, March 14, 2009
+^ Aldhous, Peter (March 2009). "Obama lifts research restrictions on embryonic stem cells". New Scientist (online) (Reed Business Information Ltd). Retrieved 2009-03-16. This frees biologists to work with a wide range of human ESCs - including cell lines created with state and private funding. But researchers are not expected to be able to use federal grants to create new cell lines. This is because of a 1996 law called the Dickey-Wicker amendment... 
+^ "Statement from the Director on the Addition of New Lines to the Human Embryonic Stem Cell Registry" NIH, June 21, 2010
+^ "Estimates of Funding for Various Diseases, Conditions, Research Areas". National Institutes of Health. 2007. Retrieved 2008-01-21. 
+^ "Best Hope Lies in Private Stem-Cell Funding". Retrieved 2008-01-31. 
+^ http://cirm.ca.gov/
+^ " "Kerstin Klein, Illiberal Biopolitics, Human Embryos and the Stem Cell Controversy in China, 2010"] LSE
+^ "On Embryonic Stem Cell Research" (PDF). USCCB Publishing. Retrieved 2007-06-24. 
+^ a b "Resolution On Human Embryonic And Stem Cell Research". Southern Baptist Convention. Retrieved 2007-06-24. 
+^ a b "Ethics of Embryonic Stem Cell Research". The United Methodist Church. Retrieved 2007-06-24. 
+^ "Sanctity of Human Life Including Abortion and Euthanasia" (PDF). Assemblies of God. Retrieved 2007-06-24. 
+^ Agha, Fatima; Hayani, Al (2008). "Muslim perspectives on stem cell research and cloning". Zygon 4 (43): 783–795. 
+^ "Embryonic Stem-cell Research". The Church of Jesus Christ of Latter-day Saints. Retrieved 2011-10-20. 
+
+
+External links[edit]
+
+Video: The Stem Cell Controversy January 18, 2006, Woodrow Wilson Center event featuring Robin Cook (novelist), William B. Hurlbut, and Michael D. West
+The Hinxton Group: An International Consortium on Stem Cells, Ethics & Law
+A Scientific-Industrial Complex? By Sigrid Fry-Revere
+On the Personhood of Pre-implantation Embryos
+Videos about Stem Cell Ethics and Controversy
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Stem cells
+
+
+
+
+
+
+Sources/types
+
+
+
+Embryonic stem cells
+Adult stem cells
+Cancer stem cells
+Induced pluripotent stem cells
+Induced stem cells
+
+
+
+
+
+
+
+
+Cell potency
+
+
+
+Totipotent
+
+Zygote
+Spore
+Morula)
+
+
+Pluripotent
+
+Embryonic stem cell
+Callus)
+
+
+Multipotent
+
+Progenitor cell: Endothelial stem cell
+Hematopoietic stem cell
+Mesenchymal stem cell
+Neural stem cell
+
+
+Unipotent
+
+Precursor cell
+
+
+
+
+
+
+
+
+
+
+Related articles
+
+
+
+Cellular differentiation
+progenitor cell
+Stem cell therapy
+Stem cell controversy
+Stem cell line
+Stem cell laws
+Stem cell laws and policy in the United States
+Epigenetics in stem cell differentiation
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+						

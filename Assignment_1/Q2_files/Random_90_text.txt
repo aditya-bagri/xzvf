@@ -1,0 +1,743 @@
+From Wikipedia, the free encyclopedia
+
+
+					Jump to:					navigation, 					search
+
+
+
+Ross rifle
+
+
+
+Ross rifle MkII
+
+
+
+Type
+Rifle
+
+
+Place of origin
+Canada
+
+
+Service history
+
+
+In service
+1905–1916
+1939-1945
+
+
+Used by
+see users
+
+
+Production history
+
+
+Designed
+1903
+
+
+Produced
+1903–1918
+
+
+Number built
+420,000
+
+
+Variants
+Mark I (1903)
+Mark II (1905)
+Mark II .280 (1907)
+Mark III (1910)
+Mark IIIB (1914)
+Huot Automatic Rifle (1916)
+
+
+Specifications
+
+
+Weight
+3.9 kg (9.6 lbs)
+
+
+Length
+1320 mm (52 in)
+
+
+Barrel length
+711 mm (28 in)
+
+
+
+
+
+
+Cartridge
+.303 British (7.70×56 mm R)
+
+
+Caliber
+.303 in (7.70 mm)
+
+
+Action
+Straight pull bolt action
+
+
+Rate of fire
+~20 rpm
+
+
+Feed system
+5-round stripper clip/charger
+
+
+
+
+
+
+Ross rifle in the Royal Canadian Regiment Museum in London, Ontario
+
+
+The Ross rifle was a straight-pull bolt action .303 inch-calibre rifle produced in Canada from 1903 until 1918.[1]
+The Ross Mk.II (or "model 1905") rifle was highly successful in target shooting before WWI, but the close chamber tolerances, lack of primary extraction and overall length made the Mk.III (or "1910") Ross rifle unsuitable for the conditions of trench warfare and the often poor quality ammunition issued.[2]
+By 1916, the rifle had been withdrawn from front line service, but continued to be used by many snipers of the Canadian Expeditionary Force until the end of the war due to its exceptional accuracy.[3]
+The Ross Rifle Co. made sporting rifles from early in its production, most notably chambered in .280 Ross, introduced in 1907. This cartridge is recorded as the first to achieve over 3000 feet per second velocity, and the cartridge acquired a very considerable international reputation among target shooters and hunters.[1]
+
+
+
+Contents
+
+
+1 History
+2 Service
+3 Replacement
+4 Sniper rifles
+5 Sporting variant
+6 Developments
+7 Other users
+8 Users
+9 See also
+10 Notes
+11 References
+12 External links
+
+
+
+History[edit]
+During the Second Boer War, a minor diplomatic fight broke out between Canada and the United Kingdom, after the latter refused to license the Lee–Enfield SMLE design for production in Canada. Sir Charles Ross offered to finance the construction of a factory in Canada to produce his newly designed straight-pull rifle for Canadian service. This offer was accepted by the Liberal government of Sir Wilfrid Laurier and Ross was awarded his first contract in 1903 for 12,000 Mark I Ross rifles.[1]
+It is generally accepted that Ross' design was inspired by the straight-pull Austrian Mannlicher M1895 Rifle introduced into Austro-Hungarian service in the 1890s and used throughout WWI, and as secondary weapons into WWII. Ross' earliest rifles unmistakably borrowed a number of mechanical details directly from the Mannlicher which was a relatively new design at the time Ross was producing his first rifles in the late 1890s.[1]
+The operating principle of the straight pull bolt action comprises a bolt "sleeve" to which the bolt lever or handle is attached. The sleeve is hollow and has spiral grooves or "teeth" cut into its inner surface in which slide corresponding projections or "teeth" on the outside of the bolt head or "body". As the bolt lever and sleeve are moved, the bolt head is forced to rotate through about 90°, locking or unlocking it in the receiver of the rifle. The bolt handle and sleeve thus need only be pushed backwards or forwards to open or close the action of the rifle.
+In conventional bolt action rifles such as the Mauser, Mosin-Nagant or Lee–Enfield, the bolt is unlocked or locked by the raising or lowering of the bolt handle, before the bolt is drawn back and after it is pushed forward. The single motion required to open or close the bolt of a straight pull action rifle is theoretically faster and easier for soldiers to learn, thus perhaps offering a higher rate of fire. In addition, unlike the Lee–Enfield, the bolt Ross rifle could be disassembled more quickly without special tools, although this was not necessarily an advantage as it encouraged unauthorized disassembly by soldiers.[1]
+Service[edit]
+The first 1,000 rifles were given to the Royal Northwest Mounted Police (RNWMP) for testing. Routine inspection before operational testing found 113 defects bad enough to warrant rejection. One of these was a poorly designed bolt lock that enabled the bolt to fall right out of the rifle. Another was poorly tempered component springs that were described as being as "soft as copper". In 1906, the RNWMP reverted to their Model 1894 Winchesters and Lee–Metfords.
+
+
+
+
+Mechanism comparison between Ross Mk III (1910) and Mk II** (1907)
+
+
+The Ross rifle was modified to correct these faults and became the Mark II Ross (Model 05 (1905)). In 1907, the Mk II was modified to handle the higher pressure of newly designed .280 Ross, this variant was called Mk II**. The Model 10 (1910) was a completely new design, made to correct the shortcomings of the 1905. None of the major parts are interchangeable between the 1905 and the 1910 models. Although the British were now encouraging standardization across the Empire on the Lee–Enfield, Canada stayed with the Ross. The Model 10 was the standard infantry weapon of the First Canadian Contingent of the Canadian Expeditionary Force when it first arrived in France in February 1915.
+The shortcomings of the rifle were made apparent during the Second Battle of Ypres in April 1915. The rifle showed poor tolerance of dirt when used in field conditions, particularly the screw threads operating the bolt lugs, jamming the weapon open or closed. Another part of the jamming problem came from the bolt's outer face hitting the bolt stop, then deforming the thread shape. The bolt could also be disassembled for routine cleaning and inadvertently reassembled in a manner that would fail to lock but still allow a round to be fired, leading to serious injury or death of the operator as the bolt flew back into his face.[4] "Thankfully such incidents were minor."[5] Another well-known deficiency was the tendency for the bayonet to fall off the rifle when the weapon was fired.[5] Many Canadians of the First Contingent (now renamed the 1st Canadian Division) at Ypres retrieved Lee–Enfields from British casualties to replace their Ross rifles.[6] Lieutenant Chris Scriven of the 10th Battalion, CEF, commented that it sometimes took five men just to keep one rifle firing.[7] Major T.V. Scudamore of the British Columbia Regiment, who was captured at Ypres after being wounded, wrote of the "contemptible Ross rifle," that "Those in the front line with that rifle will never forget...what it is like to be charged by the flower of the German army...and be unable to fire a shot in return."[8]
+Complaints rapidly reached the rifle's chief sponsor, the Canadian Minister of Militia and Defence Sam Hughes. He nevertheless continued to believe in its strengths despite the professional opinion of Sir Edwin Alderson, the British Army officer who was commander of the First Canadian Division.[9] The rifle became an element in political issues within Canada and between Canada and the British. Hughes responded to Alderson's criticism by accusing Alderson of ignorance and copied the letter to many officers in the corps. The effect was to undermine confidence in Alderson and the rifle. Hughes also made accusations that Canadian officers were induced to produce adverse reports on the rifle. After the reports on the rifle were published through the Ottawa Citizen, and it became clear that his claims in the Commons that all faults had been cured were false, Hughes' defence of the rifle could no longer be supported by the Prime Minister.[10]
+In particular, the Ross was more accurate at long range than the SMLE, and this potentially overcame the serious problem British and Canadian troops had faced during the Boer War, with the accurate long-range fire from the 7×57mm Mauser.
+In all, approximately 420,000 Ross service rifles were produced, 342,040 of which were purchased by the British.[11]
+Replacement[edit]
+Canadians retained the Ross even as additional contingents arrived in France. By the time of the Somme battles of July 1916, Sir Douglas Haig, the new Commander-in-Chief of the British Expeditionary Force, had ordered the replacement of all Ross rifles in the three Canadian Divisions by the Lee–Enfield, which was finally available in quantity. Hughes refused to accept that there were problems with the Ross, and it took the intervention of many influential people to persuade him otherwise. In November 1916, Hughes resigned after Sir Robert Borden's decision to appoint a Minister of Overseas Forces. Ross rifles were then used in training roles, both in Canada and the UK, to free up more Lee–Enfields for the front. After the United States entered the war in 1917, Ross rifles were shipped to the U.S. for the same reasons, freeing up supplies of the M1903 Springfield rifle. Hughes' reputation was inevitably tarnished, but Sir Charles Ross had already made a considerable fortune from his rifle design and manufacturing contracts despite its reputation.
+At around same time, the Dominion Rifle Factory (Quebec City) converted a number of Rosses into the Huot automatic rifle, under the guidance of designer Joseph Alphonse Huot. It was an effective design, feeding from a drum magazine, and cheaper than a Lewis Gun. Despite successful trials, the war ended before it entered service.
+Sniper rifles[edit]
+Because of its long range accuracy, the Ross rifle continued in use among Allied snipers after it was withdrawn from normal front-line use in Europe. British snipers found the rifle accurate out to 600 yards and more, with only one inherent disadvantage: the Ross accepted only perfectly clean ammunition, totally free of mud and grit, or else it invariably jammed.[12]
+Two types of Mark III sniper rifles are identified by different telescopic sights. Five hundred rifles were fitted with 5.2X Warner & Swasey Company Model 1913 prismatic telescopic sights manufactured in Cleveland, Ohio. Serial numbers for rifles manufactured in 1915 have a FK prefix; while those manufactured in 1917 have a LU prefix. Another 907 rifles were fitted with Winchester Repeating Arms Company A5 telescopic sights. Both telescopic sights were mounted offset so the iron sights were usable and the rifle could still be loaded from charging strips.[13]
+Sporting variant[edit]
+Ross settled a gun factory in Hartford, Connecticut, with machinist J. A. Bennett, to produce a sporting rifle called Model 1897 Magazine Sporting Rifle a hinged hammer type rifle. By the same time, he made commercial agreement with famous gunmaker firm Charles William Lancaster, inventor of the oval bore, to be his exclusive UK agent.[14][15]
+
+Caliber; .303 Brit.[14][15]
+
+Early 1900, he brought out the Model 1900 Sporter, still made in Bennett's factory. This action used a coil spring to activate the firing pin, instead of the hinged-hammer of the M1897. Very few of these sporting rifles are known to exist. The militarized Pattern 1900 was also the first to be offered for trial to Canada.[14][15]
+
+Caliber; .303 British.[14][15]
+
+Following was Model 1903 Sporter some of these rifles were made in Hartford, Connecticut, but most (200 units, made from spare parts) were assembled at the brand new fabricating plant in Quebec City. Some of the Pattern 1903 Sporting Rifles were made in the .370 Express calibre, while some prototype chambered for .450/.500 Nitro is known to exist.[14][15]
+
+Calibers; .303 Brit. (common), .256 Mannlicher (rare) and .370 Express (rare)[14][15]
+
+Some sporterised M1905 (Mk II) military rifles were made available to general public in 1906. This model was called Model M. In 1907, Ross brought out the Model E, his first entirely Canadian-made rifle, based on the 1905 military action, chambered for .303 British and .35 WCF. Following was Model R, which was a plain looking rifle, no checkering, in caliber .303 British only. In November 1906, Ross while in the process of developing a new and very powerful .280 caliber sporting cartridge, made some experimental tests with a necked-down version of the new 30-06 Springfield case which he called the .28-1906 (one rifle is known to exist). This led to the design of the .280 Ross. The new high-pressure round required some strengthening of the bolt and action receiver, but the rifle was otherwise only slightly different from the .303 Mark II. This design, called MK II**, was a transitional step between Mk II and Mk III actions.[14]
+
+Calibers;
+
+Model M (1905 Mk II action); .303 Brit[14][15]
+Model R (1905 Mk II action); .303 Brit.[14][15]
+Model E (1907 Mk II** action heavy barrel); .303 Brit., 35 WCF[14][15]
+Model 1907 'Scotch Deer Stalking Pattern'; .280 Ross [14][15]
+Model 1910 (Mk III) was made with a totally different bolt head; instead of having the solid bolt lugs travel in a vertical position and lock in a horizontal position, like for the Mk II and Mk II** (see illustration), Ross turned it 90 degrees so it travels in an horizontal position and locks vertically. Then, he used screw threads on the lugs outside which are locking into the matching threaded receiver. Some very scarce Mk II** with the same threaded lugs and receiver are known to exist. He also used the same shape of heavy barrel as used on the Mk II**. The M-10, in .280 Ross, is considered by many as being the finest rifle ever made by the Ross Rifle Co.[14][15]
+
+Calibers
+
+Model R-10; .303 Brit.[14][15]
+Model E-10; .303 Brit and .35 WCF[14][15]
+Model M-10; .280 Ross[14][15]
+1912 saw the introduction of the .22 rimfire sporting rifle. While using a simpler mechanism, it was still a straight-pull action. This model was very popular in Canada.[14][15]
+
+Calibers; .22 Short, Long and Long Rifle.[14]
+
+Model 1912 Cadet Commercial.[14][15]
+Model 1912 Cadet "Leftover" (no serial numbers or any other markings)[15]
+The problems with the Ross in combat were that it was really a sporting design of rifle asked to do the work of a military rifle under trench warfare conditions. However, as a sporting rifle, the Ross became quite popular after the war.[citation needed] The new .280 Ross cartridge gained it a fine reputation for medium-sized game, and for a time after 1918 it was a fairly common rifle on safari. It also proved itself as being an outstanding Match Rifle, building a strong reputation for accuracy.[citation needed]
+Match Rifles
+Ross Mark II** Commercial Target Model in .303 British, with a 30 1⁄2 inches (770 mm) heavy barrel, was a real success in the Match Ranges from 1908 to 1913. This rifle was looking like the military Mk II**, using the same bolt, except having the sight bridge mounted on the receiver. A scarce Presentation Target Rifle was also available. Unlike its military counterpart, it had the serial number stamped on the barrel.[15]
+Model 1907 and 1905/1910 Match Target Rifle These very important single-shot rifles (two rifles are known to exist) are bearing special feature that would make the M1910 so different; the threaded locking lugs and receiver.[14][15]
+Military Match Target Rifle unlike the military Mk III this rifle was using a box type magazine with flat floorplate. It was using the Ross Mk III military sight modified to fit the .280 Ross ammunitions. Barrel was 26 inches long.[14][15]
+Developments[edit]
+After the rejection of the Ross as a battlefield rifle, the Dominion Rifle Factory adapted the action to a light machinegun, the Huot, using surplus rifles. These were cheaper than the Lewis guns then in use. They were put to extensive trials; the war ended before they entered service.[16][17][18]
+Other users[edit]
+Ross rifles were used once again in the Second World War. The Mark 3 Ross rifle was supplied to the Royal Canadian Navy, the Veteran's Guard of Canada, coastal defense units, training depots, the British Home Guard, Metropolitan Police, London Fire Brigade, Port of London Authority Police and the Soviets. Coast guard units in Ireland were armed with Ross rifles during 1920 to 1921.[19]
+Users[edit]
+
+ Canada[20]
+ Luxembourg[21] Issued to the Grand Ducal Guard in 1945, replaced by Lee–Enfield in the same year.
+ United Kingdom[22] – issued to the Royal Navy to free up Lee–Enfields for land use.
+ Latvia[23] MkIIIB Ross rifles were used by newly formed Latvian army during the Latvian War of Independence. They were delivered, together with ammunition and other war materials, by British warships. After the war, Ross rifles became the standard issue service rifle of Latvian army, since the decision was taken to standardize rifle calibers to British .303.
+
+See also[edit]
+
+Huot automatic rifle
+
+Notes[edit]
+
+
+^ a b c d e Phillips, J. et al The Ross Rifle Story (The Casket Printing & Publishing Co., 2005).
+^ Duguid, Col. A.F. A Question of Confidence; The Ross Rifle in the Trenches" (Service Publications, 1999).
+^ Without Warning: Canadian Sniper Equipment (Service Publications, 2005).
+^ Video about how to misassemble a Ross rifle
+^ a b Rawlings (1992) p.17
+^ Dancocks, Daniel G. Welcome to Flanders Fields
+^ Dancocks, Daniel G. Gallant Canadians: The Story of the Tenth Canadian Infantry Battalion, 1914–1919 (Calgary Highlanders Regimental Funds Foundation, 1990)[page needed]
+^ Scudamore, T.V. Lighter Episodes in the Life of a Prisoner of War (Gale & Polden, England, 1933) pg. 6
+^ Vimy Ridge: A Canadian Reassessment edited by Geoff Hayes p38
+^ Sam Hughes: The Public Career of a Controversial Canadian, 1885 – 1916 Ronald Haycock p250-251
+^ Ross Rifle. The Canadian Encyclopedia, Online. Historica Foundation of Canada, 2007 [1]
+^ Winter, Denis. Death's Men (London, 1978) p.81
+^ Cotterill, Daniel American Rifleman (November 2008) p.83
+^ a b c d e f g h i j k l m n o p q r s t Phillips, R., Knap, J. Jerome, "Sir Charles Ross And His Rifle" (ISBN 0919316115)
+^ a b c d e f g h i j k l m n o p q r s t Blue Book Of Gun Values – F.P. Fjestad – ISBN 1-886768-67-6, ISBN 978-1-886768-67-3
+^ Fitzsimons, Bernard, ed. Illustrated Encyclopedia of 20th Century Weapons and Warfare. (London: Phoebus, 1978), Volume 13, p.138, "Huot".
+^ Phillips, Dupuis & Chadwick. The Ross Rifle Story.
+^ "Arctic Airmen" Kimber London 1987"
+^ Ross Rifle. The Canadian Encyclopedia, Online. Historica Foundation of Canada, 2007 Ross Rifles were again used in Spitsbergen. These were collected hurriedly from stocks held on Shetland Islands UK in May 1942 to re-equip the survivors of Operation Fritham who had lost everything when their ship was sunk. The Ross rifles and equipment being delivered by Catalina 210/P captained by Flying Officer Tim Healy [2]
+^ Berton, Pierre. Vimy. Anchor Canada: 2001.
+^ GRAND-DUCHY OF LUXEMBOURG
+^ Hogg and Weeks 2000, p. 175.
+^ [3]
+
+
+References[edit]
+
+Phillips, Roger F., François J. Dupuis and John A. Chadwick, The Ross Rifle Story (ISBN 0973241608)
+"Huot", in Bernard Fitzsimons (general editor), The Encyclopedia of Twentieth Century Weapons and Warfare (Phoebus/BBC, 1978), Volume 13, page 1385.
+Duguid, A. Fortescue A Question of Confidence (Service Publications, 2002)
+Hogg, Ian V. and John S. Weeks. Military Small Arms of the 20th Century. Seventh edition, Iola, WI, USA: Krause Publications, 2000. ISBN 0-87341-824-7.
+Phillips, R., Knap, J. Jerome, "Sir Charles Ross And His Rifle" (ISBN 0919316115)
+"Handbook For The Canadian Service Rifle, Ross Mk III, 1913 Pt I and II" HQ 70-55-41 – 37765-11-1
+"The Ross Rifle Sporting Catalogue 1909" Cornell Publications
+"The Ross Rifle Catalogue 1912" Cornell Publications
+"Arctic Airmen" Kimber London 1987
+Rawlings, Bill. Trench Warfare: Technology and the Canadian Corps 1914–1918. (University of Toronto Press, 1992).
+
+External links[edit]
+
+
+
+Wikimedia Commons has media related to Ross rifle.
+
+
+
+Ross rifle at First World War.com
+Ross rifle at World.guns.ru
+Ross Bayonets at www.canadiansoldiers.com
+RossRifle.com
+Forgotten Weapons – Myth and Reality of the Ross MkIII Rifle
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+British Empire Small Arms & Ordnance of the First World War
+
+
+
+
+
+
+Rifles
+
+
+
+Lee-Metford
+Magazine Lee-Enfield (MLE) rifle
+Short Magazine Lee–Enfield (SMLE) rifle
+Pattern 1914 Enfield rifle
+Ross Rifle (Canada)
+
+
+
+
+
+
+
+
+Machine guns
+
+
+
+Vickers machine gun
+Lewis Gun
+Maxim gun
+Hotchkiss Mark I
+
+
+
+
+
+
+
+
+Side arms
+
+
+
+Webley .455" Revolver Mk. IV–VI
+Webley .455" Pistol Mk. I
+Colt New Service
+Smith & Wesson Triple Lock
+
+
+
+
+
+
+
+
+Hand grenades
+
+
+
+No. 1
+No. 2 Hales Pattern
+Nos. 3, 20, 24, 35 Hales rifle grenades
+Nos. 5, 23, 36 Mills
+No. 6
+Nos. 8, 9 Jam Tin
+No. 13 Battye
+No. 14 Pitcher
+No. 15 Ball
+No. 16 Oval
+No. 17 Opera hat
+No. 18
+No. 19
+No. 21 "Spherical"
+No. 22 Newton-Pippin
+No. 25 Sangster
+No. 27
+No. 28 Chemical
+No. 29 Gas
+No. 31 Day Signal
+No. 32 Night Signal
+No. 32 "Spherical E"
+No. 34 Egg
+No. 37
+No. 39 Steuart Pattern
+
+
+
+
+
+
+
+
+Artillery
+
+
+
+
+Tank guns
+
+
+
+QF 6 pounder Hotchkiss
+QF 6 pounder 6 cwt
+
+
+
+
+
+
+
+
+Infantry guns
+
+
+
+1.59-inch Breech-Loading Vickers Q.F. Gun, Mk II ("Vickers-Crayford rocket gun")
+
+
+
+
+
+
+
+
+Field Artillery
+
+
+
+BL 12 pounder 6 cwt
+QF 12 pounder 8 cwt
+QF 12 pounder 18 cwt
+QF 13 pounder
+BL 15 pounder
+BLC 15 pounder
+QF 15 pounder
+QF 18 pounder
+QF 4 inch gun Mk III
+BL 4 inch gun Mk VII
+QF 4.5 inch Howitzer
+
+
+
+
+
+
+
+
+Mountain artillery
+
+
+
+RML 2.5 inch Mountain Gun
+BL 10 pounder Mountain Gun
+BL 2.75-inch Mountain Gun
+QF 2.95 inch Mountain Gun
+QF 3.7-inch mountain howitzer
+
+
+
+
+
+
+
+
+Howitzers, medium,
+and heavy artillery
+
+
+
+QF 4.7 inch Gun
+BL 5 inch Howitzer
+BL 5.4 inch Howitzer
+BL 60 pounder gun
+BLC 6 inch siege gun
+BL 6 inch Gun Mk VII
+BL 6 inch Gun Mk XIX
+BL 6-inch 26 cwt howitzer
+BL 6-inch 30 cwt howitzer
+BL 8 inch Howitzer Mk I - V
+BL 8 inch Howitzer Mk VI - VIII
+
+
+
+
+
+
+
+
+Siege artillery
+
+
+
+BL 7.5 inch Mk III naval gun
+BL 9.2-inch howitzer
+BL 9.2 inch Mk X naval gun
+BL 12 inch Howitzer
+BL 12 inch Mk X naval gun
+BL 15 inch Howitzer
+
+
+
+
+
+
+
+
+Coastal artillery
+
+
+
+QF 4 inch naval gun Mk I – III
+BL 6 inch Mk VII naval gun
+BL 9.2 inch gun Mk IX–X
+RML 9 inch
+
+
+
+
+
+
+
+
+
+
+
+Mortars
+
+
+
+Garland Trench Mortar
+3 inch Stokes Mortar
+Light Mortar (IJA Artillery)
+3.7 inch mortar
+4 inch mortar
+Vickers 1.57 inch mortar
+2 inch Medium Mortar
+Newton 6 inch Mortar
+9.45 inch Heavy Mortar
+
+
+
+
+
+
+
+
+Grenade launchers
+
+
+
+Leach Trench Catapult
+West Spring Gun
+Sauterelle
+
+
+
+
+
+
+
+
+Smoke and chemical weapons
+
+
+
+4 inch Stokes Mortar
+Livens Projector
+Livens Large Gallery Flame Projector
+
+
+
+
+
+
+
+
+Railway guns
+
+
+
+BL 9.2 inch Railway Gun
+BL 12 inch Railway Gun
+BL 12 inch railway howitzer
+BL 14 inch Railway Gun
+
+
+
+
+
+
+
+
+Anti-aircraft guns
+
+
+
+QF 1 pounder pom-pom
+QF 2 pounder "pom-pom" Mk II
+75 mm AA gun
+QF 12 pounder 12 cwt
+QF 3 inch 5 cwt
+QF 13 pounder 6 cwt
+QF 13 pounder Mk IV
+QF 13 pounder 9 cwt
+QF 3 inch 20 cwt
+QF 18 pounder
+QF 4 inch Mk V
+
+
+
+
+
+
+
+
+Foreign weapon designs
+in British Empire Armies use
+
+
+
+Hotchkiss Mark I
+Lewis Gun
+Light Mortar (IJA Artillery)
+75 mm AA gun
+QF 15 pounder
+9.45 inch Heavy Mortar
+Sauterelle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+British Commonwealth small arms of World War II and Korea
+
+
+
+
+
+
+Side-arms
+
+
+
+Webley Mk IV & Mk VI Revolvers
+Enfield No. 2 Mk I Revolver
+Browning P-35 "High Power" Pistol
+M1911/M1911A1 pistol
+Smith & Wesson "Victory" Revolver
+Welrod
+
+
+
+
+
+
+
+
+Rifles & submachine guns
+
+
+
+SMLE No.1 Mk III* & Lee-Enfield No.4 Mk.I
+Pattern 1914 Enfield
+Lee-Enfield No.5 Mk.I "Jungle Carbine"
+Ross Rifle Mk.III
+De Lisle Commando Carbine
+Sten
+Lanchester
+Sterling
+Austen
+Kokoda
+Owen Gun
+Welgun
+M1921/M1928/M1 Thompson
+
+
+
+
+
+
+
+
+Machine-guns &
+other larger weapons
+
+
+
+Besa machine gun
+Bren Gun
+Charlton Automatic Rifle
+Lewis Gun
+Vickers MG
+PIAT
+Rifle, Anti-Tank, .55 in, Boys
+29 mm Spigot Mortar "Blacker Bombard"
+SBML 2inch Mortar
+Projector, 2½-inch Mk. II "Northover"
+ML 3-inch Mortar
+ML 4.2 inch Mortar
+3-inch Mk. I OSB Gun "Smith Gun"
+No.2 "Lifebuoy" Flamethrower
+
+
+
+
+
+
+
+
+Grenades
+
+
+
+British grenades of WWI and WW2
+Mills Bomb
+
+
+
+
+
+
+
+
+Small arms cartridges
+
+
+
+.303 British
+9mm Parabellum
+.45 ACP
+.455 Webley
+.38/200
+.38 Special
+.50 BMG
+.55 Boys
+15×104 mm Brno
+
+
+
+
+
+
+
+
+
+
+
+ 
+						
