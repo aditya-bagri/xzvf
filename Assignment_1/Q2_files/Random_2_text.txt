@@ -1,441 +1,172 @@
-
-
-
-
-Lowber, Fayette County, Pennsylvania - Wikipedia, the free encyclopedia
-document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
-(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lowber,_Fayette_County,_Pennsylvania","wgTitle":"Lowber, Fayette County, Pennsylvania","wgCurRevisionId":696119870,"wgRevisionId":696119870,"wgArticleId":48871142,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Coordinates not on Wikidata","Unincorporated communities in Fayette County, Pennsylvania","Unincorporated communities in Pennsylvania","All stub articles","Fayette County, Pennsylvania geography stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Lowber,_Fayette_County,_Pennsylvania","wgRelevantArticleId":48871142,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/9/9d/USA_Pennsylvania_location_map.svg/100px-USA_Pennsylvania_location_map.svg.png","wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCoordinates":{"lat":40.069166666667,"lon":-79.835833333333},"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q22083063","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
-
-});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
-} );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Lowber, Fayette County, Pennsylvania
-
 From Wikipedia, the free encyclopedia
 
 
 					Jump to:					navigation, 					search
 
-
-
-Lowber, Pennsylvania
-
-
-Unincorporated community
-
-
-
+Derek Keenan (born October 2, 1961, in Oshawa, Ontario) is a former lacrosse player, and current head coach and General Manager of the Saskatchewan Rush of the National Lacrosse League. Keenan has won the NLL GM of the Year award and the Les Bartley Award for Coach of the Year three times each; he won both awards in 2006, 2010, and 2014 though he shared the 2010 Bartley Award with Chris Hall.
+After a long amateur career, (with the Oshawa Green Gaels and the Brooklin Redmen of the Ontario Junior and Senior Leagues respectively, and Ithaca College where he made All-American), and appearances with the Canadian National Field team at several world championships, Keenan began professional play in 1992 with the Buffalo Bandits, where he won the 1992 Rookie of the Year Award. The Bandits won the Champions Cup in both of Keenan's seasons with the team. After a five-year break, he played six games with the Toronto Rock in 1999, before becoming an assistant coach under Les Bartley. The Rock won the 1999 NLL Championship, and with Bartley at the helm and Keenan and Ed Comeau as assistant coaches, the Rock went to the championship game in each of the next four seasons, winning three times, in 2000, 2002, and 2003.
+In November 2003, Bartley stepped down due to his battle with colon cancer, and Keenan was promoted to interim general manager, while Comeau was given the job of interim head coach.[1] However, less than four months later, after a 2-4 start, both Keenan and Comeau were fired by the Rock,[2] replaced by Terry Sanderson.
+In 2005, Keenan was hired by the Anaheim Storm, becoming their head coach and general manager. He improved the Storm from a dismal 1-15 record in 2004 to a 5-11 record in 2005. However, the Storm folded after the 2005 season due to low attendance.
+In July 2005, Keenan was named head coach and general manager of the then-unnamed Portland expansion franchise.[3] The team was named the "LumberJax", and finished the 2006 season 11-5, becoming the first expansion team in NLL history to finish first in its division. Keenan was awarded both the GM of the Year Award and the Les Bartley Award for coach of the year. As of November 2012 he was the coach of the Edmonton Rush of the National Lacrosse League. He was inducted into the Canadian Lacrosse Hall of Fame in November, 2012[4]
+Keenan is the second cousin of NHL head coach Mike Keenan.[5] Keenan's wife, Wendy, was the sister of Hockey Hall of Famer, Joe Nieuwendyk. Wendy died on Friday, January 2, 2015, at age 51.
 
 
 
+Contents
+
+
+1 Statistics
+
+1.1 National Lacrosse League
+
+
+2 References
+3 Awards
 
 
 
-Lowber
+Statistics[edit]
+National Lacrosse League[edit]
 
 
+ 
+ 
+Regular Season
+ 
+Playoffs
 
 
+Season
+Team
+GP
+G
+A
+Pts
+LB
+PIM
+GP
+G
+A
+Pts
+LB
+PIM
 
 
+1992
+Buffalo
+8
+26
+23
+42
+41
+8
+3
+6
+10
+16
+18
+2
 
 
-Coordinates: 40°04′09″N 79°50′09″W﻿ / ﻿40.06917°N 79.83583°W﻿ / 40.06917; -79.83583Coordinates: 40°04′09″N 79°50′09″W﻿ / ﻿40.06917°N 79.83583°W﻿ / 40.06917; -79.83583
+1993
+Buffalo
+8
+22
+12
+34
+35
+5
+2
+5
+8
+13
+19
+8
 
 
-Country
-United States
+1999
+Toronto
+6
+4
+7
+11
+15
+0
+--
+--
+--
+--
+--
+--
 
 
-State
-Pennsylvania
+NLL Totals
+22
+52
+42
+94
+91
+13
+5
+11
+18
+29
+37
+10
 
 
-County
-Fayette
-
-
-Elevation
-919 ft (280 m)
-
-
-Time zone
-Eastern (EST) (UTC-5)
-
-
- • Summer (DST)
-EDT (UTC-4)
-
-
-Area code(s)
-724
-
-
-GNIS feature ID
-1179999[1]
-
-
-Lowber is an unincorporated community in Fayette County, Pennsylvania, United States.[1] The community is 3.3 miles (5.3 km) east of Newell.
 References[edit]
 
 
-^ a b "Lowber". Geographic Names Information System. United States Geological Survey. 
-
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-Municipalities and communities of Fayette County, Pennsylvania, United States
-
-
-
-
-
-
-
-County seat: Uniontown
-
-
-
-
-
-
-Cities
-
-
-
-Connellsville
-Uniontown
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Boroughs
-
-
-
-Belle Vernon
-Brownsville
-Dawson
-Dunbar
-Everson
-Fairchance
-Fayette City
-Markleysburg
-Masontown
-Newell
-Ohiopyle
-Perryopolis
-Point Marion
-Seven Springs‡
-Smithfield
-South Connellsville
-Vanderbilt
-
-
-
-
-
-
-
-
-Townships
-
-
-
-Brownsville
-Bullskin
-Connellsville
-Dunbar
-Franklin
-Georges
-German
-Henry Clay
-Jefferson
-Lower Tyrone
-Luzerne
-Menallen
-Nicholson
-North Union
-Perry
-Redstone
-Saltlick
-South Union
-Springfield
-Springhill
-Stewart
-Upper Tyrone
-Washington
-Wharton
-
-
-
-
-
-
-
-
-CDPs
-
-
-
-Allison
-Arnold City
-Bear Rocks
-Buffington
-Chalkhill
-Deer Lake
-East Uniontown
-Edenborn
-Fairhope
-Farmington
-Grindstone
-Hiller
-Hopwood
-Leith-Hatfield
-Lemont Furnace
-Lynnwood-Pricedale‡
-Naomi
-New Salem
-Oliver
-Republic
-Ronco
-Rowes Run
-Smock
-South Uniontown
-Star Junction
-
-
-
-
-
-
-
-
-Unincorporated
-communities
-
-
-
-Acme
-Adah
-Collier
-Gans
-Isabella
-Lake Lynn
-Lowber
-McClellandtown
-Moyer
-Oliphant Furnace
-Sagamore
-Whitsett
-Wickhaven
-
-
-
-
-
-
-
-
-Footnotes
-
-‡This populated place also has portions in an adjacent county or counties
-
-
-
-
-
-
-
-
-
-
-This Fayette County, Pennsylvania state location article is a stub. You can help Wikipedia by expanding it.
-
-
-v
-t
-e
-
-
-
+^ "Les Bartley sidelined by cancer". Outsider's Guide to the NLL. 2003-11-05. Retrieved 2006-11-08. 
+^ "Rock cans Ed Comeau, Derek Keenan". Outsider's Guide to the NLL. 2004-02-17. Retrieved 2006-11-08. 
+^ "Keenan finally named as Portland coach/GM". Outsider's Guide to the NLL. 2005-07-07. Retrieved 2006-11-08. 
+^ http://www.edmontonsun.com/2012/11/17/edmonton-rush-coach-and-gm-named-to-canadian-lacrosse-hall-of-fame
+^ Griwkowsky, Con (July 30, 2009). "Superstar Sighting...". Edmonton Rush website. Retrieved 2009-11-07. 
+
+
+Awards[edit]
+
+
+Preceded by
+Gary Gait
+NLL Rookie of the Year
+1992
+Succeeded by
+Tom Marechek
+(1994)
+
+
+Preceded by
+Bob Hamley
+Ed Comeau
+Doug Locker
+NLL GM of the Year
+2006
+2010
+2014
+Succeeded by
+Marty O'Neill
+Curt Styres
+Terry Sanderson
+
+
+Preceded by
+Bob Hamley
+Troy Cordingley
+Troy Cordingley
+Les Bartley Award
+2006
+2010 (tie with Chris Hall)
+2014
+Succeeded by
+Ed Comeau
+Mike Hasen
+John Lovell
 
 
 
 
 
  
-						Retrieved from "https://en.wikipedia.org/w/index.php?title=Lowber,_Fayette_County,_Pennsylvania&oldid=696119870"					
-Categories: Unincorporated communities in Fayette County, PennsylvaniaUnincorporated communities in PennsylvaniaFayette County, Pennsylvania geography stubsHidden categories: Coordinates not on WikidataAll stub articles 
-
-
-
-Navigation menu
-
-
-Personal tools
-
-Not logged inTalkContributionsCreate accountLog in 
-
-
-
-Namespaces
-
-Article
-Talk
-
-
-
-
-Variants
-
-
-
-
-
-
-
-
-
-Views
-
-Read
-Edit
-View history
-
-
-
-More
-
-
-
-
-
-
-
-Search
-
-
-
- 
-
-
-
-
-
-
-
-Navigation
-
-
-Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
-
-
-
-Interaction
-
-
-HelpAbout WikipediaCommunity portalRecent changesContact page 
-
-
-
-Tools
-
-
-What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
-
-
-
-Print/export
-
-
-Create a bookDownload as PDFPrintable version 
-
-
-
-Languages
-
-
- 
-Add links 
-
-
-
-
-
- This page was last modified on 21 December 2015, at 01:32.
-Text is available under the Creative Commons Attribution-ShareAlike License;
-additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-
-
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Developers
-Cookie statement
-Mobile view
-
-
-
- 
-
- 
-
-
-
-(window.RLQ = window.RLQ || []).push(function () {
-mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
-} );(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1210"}); /* @nomin */
-} );
-
-
+						

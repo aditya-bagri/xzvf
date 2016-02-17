@@ -40,8 +40,13 @@ def find_text(page, filename):
                 file = open (filename, 'w')
 
         with open(page) as pag:
-                soup = bs(pag,'html.parser')
-        file.write(soup.get_text().encode('utf-8'))
+                soup = bs(pag,'xml')
+	a=soup.get_text()
+	start= a.find("From Wikipedia, the free encyclopedia")
+	end= a.find("Retrieved fro")
+	a = a[start:end]
+#	print page_data
+        file.write(a.encode('utf-8'))
         file.truncate()
         file.close()
 
@@ -50,7 +55,7 @@ def find_text(page, filename):
 
 
 for i in range (0,NUMBER_OF_PAGES):
-	path="./Q2/"
+	path="./Q2_files/"
 	file=path+"Random_%d.html" %(i)
 	snowball_links =path+"Random_%d_snowballed_links.txt"%(i)
 	text_files=path+"Random_%d_text.txt"%(i)

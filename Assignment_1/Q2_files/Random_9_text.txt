@@ -1,176 +1,228 @@
-
-
-
-
-Contactin 6 - Wikipedia, the free encyclopedia
-document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
-(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Contactin_6","wgTitle":"Contactin 6","wgCurRevisionId":682502362,"wgRevisionId":682502362,"wgArticleId":36678096,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with too few wikilinks from January 2013","All articles with too few wikilinks","Articles covered by WikiProject Wikify from January 2013","All articles covered by WikiProject Wikify","Human proteins","All stub articles","Human chromosome 3 gene stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Contactin_6","wgRelevantArticleId":36678096,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q5013193","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
-
-});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
-} );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Contactin 6
-
 From Wikipedia, the free encyclopedia
 
 
 					Jump to:					navigation, 					search
 
+Dholidhaja dam on Bhogavo river is located near Surendranagar city and in the urban area of Surendranagar Dudhrej Municipality in the state of Gujarat, India.
 
 
 
+Contents
 
 
-This article needs more links to other articles to help integrate it into the encyclopedia. Please help improve this article by adding links that are relevant to the context within the existing text. (January 2013)
-
-
-
-
-Contactin 6
-
-
-Identifiers
-
-
-Symbols
-CNTN6 ; NB3
-
-
-External IDs
-OMIM: 607220 HomoloGene: 8702 GeneCards: CNTN6 Gene
+1 Purpose
+2 Tourism
+3 Transport
+4 References
 
 
 
-
-
-Gene ontology
-
-
-Cellular component
-• plasma membrane
-• anchored component of membrane
-
-
-Biological process
-• cell adhesion
-• Notch signaling pathway
-• axon guidance
-• central nervous system development
-
-
-Sources: Amigo / QuickGO
-
-
-
-
-
-Orthologs
-
-
-Species
-Human
-Mouse
-
-
-Entrez
-27255
-53870
-
-
-Ensembl
-ENSG00000134115
-ENSMUSG00000030092
-
-
-UniProt
-Q9UQ52
-Q9JMB8
-
-
-RefSeq (mRNA)
-NM_001289080
-NM_017383
-
-
-RefSeq (protein)
-NP_001276009
-NP_059079
-
-
-Location (UCSC)
-Chr 3:
-1.09 – 1.4 Mb
-Chr 6:
-104.49 – 104.86 Mb
-
-
-PubMed search
-[1]
-[2]
-
-
-
-
-
-v
-t
-e
-
-
-
-
-
-Contactin 6 is a protein in humans that is encoded by the CNTN6 gene. [1]
-The protein encoded by this gene is a member of the immunoglobulin superfamily. It is a glycosylphosphatidylinositol (GPI)-anchored neuronal membrane protein that functions as a cell adhesion molecule. It may play a role in the formation of axon connections in the developing nervous system. [provided by RefSeq, Jul 2008]. ##RefSeq-Attributes-START## Transcript_exon_combination_evidence :: AB003592.1 [ECO:0000332] ##RefSeq-Attributes-END##
+Purpose[edit]
+It provides drinking and utility water to 3,00,000 to 4,00,000 people of Surendranagar, Wadhwan, Joravarnagar and Ratanpar.[1]
+Tourism[edit]
+On 26 January 2010, Narendra Modi, chief Minister of Gujarat, announced that Dholidhaja Dam will be developed as a tourist destination.
+60,000 trees has be planted near dam.
+It has developed into very good picnic spot.
+Transport[edit]
+It is located in the west of Surendranagar. Dholidhaja Dam can be reached via Muli Highway or via Dalmill-Khamisana Road.
 References[edit]
 
 
-^ "Entrez Gene: Contactin 6". Retrieved 2012-08-09. 
-
-
-Further reading[edit]
-
-
-Manderson, E. N.; Birch, A. H.; Shen, Z.; Mes-Masson, A. M.; Provencher, D.; Tonin, P. N. (2009). "Molecular Genetic Analysis of a Cell Adhesion Molecule with Homology to L1CAM, Contactin 6, and Contactin 4 Candidate Chromosome 3p26pter Tumor Suppressor Genes in Ovarian Cancer". International Journal of Gynecological Cancer 19 (4): 513–525. doi:10.1111/IGC.0b013e3181a3cd38. PMID 19509545. 
-Wang, K.; Zhang, H.; Bloss, C. S.; Duvvuri, V.; Kaye, W.; Schork, N. J.; Berrettini, W.; Hakonarson, H. (2010). "A genome-wide association study on common SNPs and rare CNVs in anorexia nervosa". Molecular Psychiatry 16 (9): 949–959. doi:10.1038/mp.2010.107. PMID 21079607. 
-Barber, M. J.; Mangravite, L. M.; Hyde, C. L.; Chasman, D. I.; Smith, J. D.; McCarty, C. A.; Li, X.; Wilke, R. A.; Rieder, M. J.; Williams, P. T.; Ridker, P. M.; Chatterjee, A.; Rotter, J. I.; Nickerson, D. A.; Stephens, M.; Krauss, R. M. (2010). Zanger, Ulrich, ed. "Genome-Wide Association of Lipid-Lowering Response to Statins in Combined Study Populations". PLoS ONE 5 (3): e9763. doi:10.1371/journal.pone.0009763. PMC 2842298. PMID 20339536. 
-Kamei, Y.; Tsutsumi, O.; Taketani, Y.; Watanabe, K. (1998). "CDNA cloning and chromosomal localization of neural adhesion molecule NB-3 in human". Journal of Neuroscience Research 51 (3): 275–283. doi:10.1002/(SICI)1097-4547(19980201)51:3<275::AID-JNR1>3.0.CO;2-D. PMID 9486763. 
-Walsh, F. S.; Doherty, P. (1991). "Glycosylphosphatidylinositol anchored recognition molecules that function in axonal fasciculation, growth and guidance in the nervous system". Cell biology international reports 15 (11): 1151–1166. doi:10.1016/0309-1651(91)90061-M. PMID 1838307. 
-Nie, D. -Y.; Zhou, Z. H.; Ang, B. T.; Teng, F. Y.; Xu, G.; Xiang, T.; Wang, C. Y.; Zeng, L.; Takeda, Y.; Xu, T. L.; Ng, Y. K.; Faivre-Sarrailh, C.; Popko, B.; Ling, E. A.; Schachner, M.; Watanabe, K.; Pallen, C. J.; Tang, B. L.; Xiao, Z. C. (2003). "Nogo-A at CNS paranodes is a ligand of Caspr: Possible regulation of K+ channel localization". The EMBO Journal 22 (21): 5666–5678. doi:10.1093/emboj/cdg570. PMC 275427. PMID 14592966. 
-Saus, E.; Brunet, A.; Armengol, L. S.; Alonso, P.; Crespo, J. M.; Fernández-Aranda, F.; Guitart, M.; Martín-Santos, R. O.; Menchón, J. M.; Navinés, R.; Soria, V.; Torrens, M.; Urretavizcaya, M.; Vallès, V.; Gratacòs, M. N.; Estivill, X. (2010). "Comprehensive copy number variant (CNV) analysis of neuronal pathways genes in psychiatric disorders identifies rare variants within patients". Journal of Psychiatric Research 44 (14): 971–978. doi:10.1016/j.jpsychires.2010.03.007. PMID 20398908. 
+^ "Narmada water released into Dholi Dhaja dam in Surendranagar". The Times of India (Rajkot). TNN. June 23, 2012.  |access-date= requires |url= (help)
 
 
 
 
 
 
-This article on a gene on human chromosome 3 is a stub. You can help Wikipedia by expanding it.
+
+
+
+
+v
+t
+e
+
+
+Hydrography of Gujarat
+
+
+
+
+
+
+Rivers
+
+
+
+Aji
+Ambika
+Auranga
+Bhadar
+Bhukhi
+Bhurud
+Chirai
+Chok
+Dai-minsar
+Daman Ganga
+Dhadhar
+Dnyanganga
+Fulki
+Gajansar
+Ghela
+Girna
+Gomai
+Hiran
+Kali
+Kalubhar
+Kankawati
+Kareshwar
+Kayla
+Keri
+Khalkhalio
+Khari
+Kharod
+Khokhra
+Kim
+Kolak
+Machchu
+Machchundri
+Mahi
+Malan
+Malan (Gir)
+Mindhola
+Mitiyativali
+Nagmati
+Nara
+Narmada
+Nayra
+Ozat
+Padalio
+Panzara
+Par
+Pur
+Purna
+Rangmati
+Rav
+Raval
+Rukmavati
+Rupen
+Rupen (Gir)
+Sabarmati
+Sai
+Sang
+Sangavadi
+saraswati
+Shahi
+Shetrunji
+Sukhbhadar
+Sunar
+Suvi
+Tapti
+Tawa
+Und
+Utavali
+Vaan
+Vegdi
+Vishwamitri
+West Banas
+
+
+
+
+
+
+
+
+Lakes
+
+
+
+Damodar Kund
+Hamirsar Lake
+Kankaria
+Narayan Sarovar
+Thol Lake
+Vastrapur Lake
+
+
+
+
+
+
+
+
+Dams
+
+
+
+Ajwa
+Dantiwada dam
+Dharoi dam
+Dholidhaja
+Kalpasar
+Kamleshwar
+Nayka
+Sardar Sarovar
+Ukai
+
+
+
+
+
+
+
+
+Bridges
+
+
+
+Ellis Bridge
+Golden Bridge
+Nehru Bridge
+Subhash Bridge
+
+
+
+
+
+
+
+
+Related topics
+
+
+
+Narmada basin
+
+
+
+
+
+
+
+
+Hydrography of surrounding areas
+
+
+
+Rajasthan
+Madhya Pradesh
+Maharashtra
+Pakistan
+
+
+
+
+
+
+
+
+Coordinates: 22°42′50″N 71°34′20″E﻿ / ﻿22.71389°N 71.57222°E﻿ / 22.71389; 71.57222
+
+
+
+This article about a dam, floodgate or canal in India is a stub. You can help Wikipedia by expanding it.
 
 
 v
@@ -185,129 +237,4 @@ e
 
 
  
-						Retrieved from "https://en.wikipedia.org/w/index.php?title=Contactin_6&oldid=682502362"					
-Categories: Human proteinsHuman chromosome 3 gene stubsHidden categories: Articles with too few wikilinks from January 2013All articles with too few wikilinksArticles covered by WikiProject Wikify from January 2013All articles covered by WikiProject WikifyAll stub articles 
-
-
-
-Navigation menu
-
-
-Personal tools
-
-Not logged inTalkContributionsCreate accountLog in 
-
-
-
-Namespaces
-
-Article
-Talk
-
-
-
-
-Variants
-
-
-
-
-
-
-
-
-
-Views
-
-Read
-Edit
-View history
-
-
-
-More
-
-
-
-
-
-
-
-Search
-
-
-
- 
-
-
-
-
-
-
-
-Navigation
-
-
-Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
-
-
-
-Interaction
-
-
-HelpAbout WikipediaCommunity portalRecent changesContact page 
-
-
-
-Tools
-
-
-What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
-
-
-
-Print/export
-
-
-Create a bookDownload as PDFPrintable version 
-
-
-
-Languages
-
-
- 
-Add links 
-
-
-
-
-
- This page was last modified on 24 September 2015, at 03:53.
-Text is available under the Creative Commons Attribution-ShareAlike License;
-additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-
-
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Developers
-Cookie statement
-Mobile view
-
-
-
- 
-
- 
-
-
-
-(window.RLQ = window.RLQ || []).push(function () {
-mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
-} );(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1236"}); /* @nomin */
-} );
-
-
+						

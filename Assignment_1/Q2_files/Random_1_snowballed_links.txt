@@ -1,1 +1,1 @@
-['http://www.elkpoint.ca/council.html', 'http://www.climate.weatheroffice.ec.gc.ca/climate_normals/results_e.html?Province=ALTA&StationName=&SearchType=&LocateBy=Province&Proximity=25&ProximityFrom=City&StationNumber=&IDType=MSC&CityName=&ParkName=&LatitudeDegrees=&LatitudeMinutes=&LongitudeDegrees=&LongitudeMinutes=&NormalsClass=A&SelNormals=&StnId=1876&']
+['http://marilynsroyalblog.blogspot.mx/2007/01/royal-profile-edwina-countess.html', 'http://london-tourist-guide.s3-website-eu-west-1.amazonaws.com/Where-is-mr-selfridges-house.html']

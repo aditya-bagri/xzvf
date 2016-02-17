@@ -1,42 +1,3 @@
-
-
-
-
-Nikolla bey Ivanaj - Wikipedia, the free encyclopedia
-document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
-(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nikolla_bey_Ivanaj","wgTitle":"Nikolla bey Ivanaj","wgCurRevisionId":697220714,"wgRevisionId":697220714,"wgArticleId":31006853,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 French-language sources (fr)","Pages using web citations with no URL","Articles with Turkish-language external links","Articles with hCards","Articles containing Albanian-language text","All articles lacking reliable references","Articles lacking reliable references from June 2015","CS1 Albanian-language sources (sq)","Activists of the Albanian National Awakening","1879 births","1951 deaths","Albanian writers","Montenegrin expatriates in Albania","19th-century Albanian writers","20th-century Albanian writers","Montenegrin people of Albanian descent","Montenegrin Freemasons","Albanian Freemasons"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Nikolla_bey_Ivanaj","wgRelevantArticleId":31006853,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q7036399","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
-
-});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
-} );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Nikolla bey Ivanaj
-
 From Wikipedia, the free encyclopedia
 
 
@@ -44,197 +5,47 @@ From Wikipedia, the free encyclopedia
 
 
 
-Nikolla bey Ivanaj
 
 
-Born
-1879
+
+The topic of this article may not meet Wikipedia's general notability guideline. Please help to establish notability by adding reliable, secondary sources about the topic. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
+Find sources: "Robotic book scanner" – news · newspapers · books · scholar · JSTOR · free images (February 2010)
 
 
-Died
-1951
 
 
-Nationality
-Albanian, Austrian, Italian, Montenegrin
 
 
-Other names
-Nikola İvanaj (Turkish)
+
+It has been suggested that this article be merged into Book scanning. (Discuss) Proposed since January 2015.
 
 
-Occupation
-an Albanian publisher, writer and free mason
-
-
-Known for
-Albanian national awakening
-
-
-Religion
-Roman Catholicism
-
-
-Nikolla bey Ivanaj or Nikollë Ivanaj (1879–1951) was an Albanian publisher and writer from Montenegro.[1] He was considered as one of the "distinguished personalities of the most conscious Albanian nationalism" and was included in Albanian insurgents' main staff during 1911.[2] Ivanaj was the first Albanian writer from Montenegro with his work The flower of eternity (Albanian: Lulet e pasosme) published in Tirana in 1943.[3]
-In the 1905–08 period he published the newspaper Shpnesa e Shqypnisë in Dubrovnik, Trieste and Rome, getting financial aid from the different sides.[4][5] For his publishing activities Ivanaj managed to gain financial support of Albert Ghica, a member of the Ghica noble family and pretender to the Albanian throne.[6] He was one of the leaders of the Albanian National Committee which was founded in Podgorica at the beginning of 1911 and participated in organization of the Albanian uprising.[7][better source needed] His speech to the Italian Press Association held on January 26, 1911 is in some sources considered as "an historical document of vital importance".[8] Ivanaj was also one of the participants of the Albanian Congress of Trieste held in 1913.[9] In January 1919 he started publishing another newspapers The New Time (Albanian: Koha e Re) in Shkodër[10] which, on January 31, 1919, published the news about the death of Ismail Qemali.[11]
-During the Paris Peace Conference in 1919 he represented the Political Party (Albanian: Partise Politike) from USA.[12] In 1923 together with his cousin Mirash Ivanaj he published the newspaper Bashkimi in Albania.[13] and the weekly Republika from 1923 until 1925, both in Shkodër. During World War II, Ivanaj published an autobiographical book Historija e Shqipëniës së ré. Vuejtjet e veprimet e mija (English: History of Young Albania. My sufferences and my actions) in two parts published in 1943 and 1945 respectively, where he focused on the role of the catholic clergy. At last he left a volume of poetry before he died in 1951.[14]
-He was a Freemason.[15]
-Selected works[edit]
-
-Historija e Shqipëniës së ré - Vuejtjet e veprimet e mija (in Albanian), Tirana: Pjesa e parë, 1943, archived from the original on March 1, 2011 
-
+A robotic book scanner is a machine which is used to scan books, integrating automated components that allow the device to exceed the speed of traditional manual imaging devices such as camera stands. A robotic scanner usually consists of three basic parts: a mechanical device to turn the pages; a cradle or table to hold the book in place, and a camera or imaging sensor to capture images. Images are then automatically shuttled to a central computer repository, where automated processing may take place in order to perform cropping, de-skewing, and other image enhancement functions. During the process, the book remains intact.
+The first fully automated book scanner was the DL (Digitizing Line) scanner, manufactured by 4DigitalBooks in Switzerland. First known installation was at Stanford University in 2001.[1][2] Scanner received a Dow Jones Runner-Up award under Business Applications Category in 2001.[3]
+Most high-end commercial robotic scanners use traditional air and suction technology while some others use alternative approaches like bionic finger for turning the pages. Some scanners take advantage of Ultrasonic sensor or Photoelectric sensor to detect dual pages and prevent skipping of pages.
+With reports of machines being able to scan up to 2900 pages per hour[4] robotic book scanners are specifically designed for large-scale digitization projects. Such performance numbers are most of the times based on maximum speed during the scanning process and not an average scanning production, which includes changing of the book, tuning the settings per specific book, book size. For real production calculations, it is recommended to verify the individual performances of robotic scanners.
 References[edit]
 
 
-^ Elsie 2011-02-25.
-^ Gurakuqi, Romeo (2002). "The Highland Uprising of 1911". Shkodra: Phoenix. Archived from the original on March 1, 2011. Retrieved March 1, 2011. The inclusion of the distinguished personalities of the most conscious Albanian nationalism, Luigj Gurakuqi, Hilë Mosi, Ismail Qemali, and Nikolla Ivanaj in Albanian insurgents' and Albanian refuges' main staffs 
-^ Anton Gojčaj (June 17, 2006). "Albanska književnost u Crnoj Gori". Pobjeda. Retrieved 25 February 2011. prvi autor iz ovih krajeva jeste Nikola Ivanaj (1879-1951), autor zbirke pjesama "Lulet e pasosme" (Cvijeće vječnosti), Tirana 1943. 
-^ Clayer 2007, p. 424, "Apres moult aventures, Nikolla Ivanaj avait publie un journal a Dubrovnik, puis a Trieste et enfin a Rome, obtenant des aides financieres de different cotes..
-^ Neziri, Zeqirja. "RAPSODËT E RUGOVËS DHE TEORIA E EPOSIT". Radio Kosova e lire. Retrieved March 4, 2011. 
-^ Clayer 2007, p. 404, "Seul Nikolla Ivanaj, qui trouva lui aussi le soutien financier du prince Ghika, vint en 1908.
-^ "Historia e Malesisë". Malesia.org. Retrieved March 3, 2011. dhe mbas themelimit të Komitetit Nacional Shqiptarë në Podgoricë në shkurt 1911 në krye të së cilit vëndoset Sokol Baci Ivezaj dhe që drejtohej nga Nikollë Ivanaj...Në mbledhjen e Podgoricës (2-4 shkurt 1911) do të vëndoset që kryengritja do të fillojë me sigurimin e armës, afer Shën Gjergjit. 
-^ "Press Release No. 1 - November 10, 1999". New York City: The Martin and Mirash Ivanaj Foundation on the Columbia University web site. November 10, 1999. Archived from the original on February 26, 2011. Retrieved February 26, 2011. an historical document of vital importance 
-^ Nopcsa, Franz. "The Congress of Trieste". Robert Elsie. Archived from the original on March 1, 2011. Retrieved March 1, 2011. Nikolla Ivanaj, who endeavoured unsuccessfully to challenge the authority of the chairman simply in order to draw attention to himself. 
-^ Çami, Muin (1973). La Lutte anti-imperialiste de liberation nationale du peuple albanais, 1918-1920 (in French). Albania: Academie des Sciences de la Rp d'Albanie, Institut d'Histoire. ...Deux autres organes, «Besa Shqyptare» (La Foi albanaise) et «Koha e re» (Temps nouveaux) de Nikolla Ivanaj, parurent également à Shkoder, mais pour très peu de temps, le premier au cours du mois de novembre 1918, et le second en janvier 1919... 
-^ "Vdekja dhe varrimet e Ismail Qemalit". Shqiperia.com. Retrieved March 4, 2011. 
-^ Ahmetaj, Lavdosh. "Nje tepelenas ne Konferencen e Paqes". Archived from the original on March 1, 2011. Retrieved March 1, 2011. Midis tyre u dallua Nikolla Ivanaj, i cili kishte shkuar ne muajin gusht nga Shqiperia ne Paris si perfaqesues i "Partise Politike" te SHBA. 
-^ Mirash Ivanaj; lost in dictatorship by Phd. Iljaz Gogaj, "Standart " Newspaper, September 13, 2008 (in Albanian)
-^ Elsie, Robert (1995). "History of Albanian Literature". p. 158.  Missing or empty |url= (help)
-^ Bogumil Hrabak. "Orijentacija kosovskih i debarskih Albanaca u prvim mesecima 1912. godine". Retrieved 25 February 2011. Nikola Ivanaj, publicista i pripadnik masonskog bratstva 
+^ Davies, John. "4DigitalBooks launches digital book scanner". PrintWeek. 
+^ "Stanford University Libraries (SUL) Robotic Book Scanner". Stanford University Libraries (SUL). 
+^ "Technology Innovation Awards: Winners 2001". Dow Jones. 
+^ Rapp, David. "Product Watch: Library Scanners". Library Journal. Retrieved 11 May 2014. 
 
 
-Sources[edit]
+External links[edit]
 
-Elsie, Robert. "Baron Franz Nopcsa and his contribution to Albanian studies". Archived from the original on February 25, 2011. Retrieved February 25, 2011. Nikolla bey Ivanaj (1879- ca. 1948), Albanian publisher and writer from Montenegro 
-Clayer, Nathalie (2007). Aux origines du nationalisme albanais: la naissance d'une nation majoritairement musulmane en Europe. KARTHALA Editions. ISBN 978-2-84586-816-8. 
+Robotic Book Scanning at Stanford
+How to Make a Full Auto Book Scanner
+4DigitalBooks DL 3003 automatic book scanner
+Qidenus Technologies QiScan RBSpro robotic bookscanner
+Treventus - Robotic bookscanner ScanRobot
+Kirtas Technologies KABIS Robotic Book Scanner
+List of Book Scanner Manufacturers
+BookScanner.us - A Book Scanning service
 
 
 
 
  
-						Retrieved from "https://en.wikipedia.org/w/index.php?title=Nikolla_bey_Ivanaj&oldid=697220714"					
-Categories: Activists of the Albanian National Awakening1879 births1951 deathsAlbanian writersMontenegrin expatriates in Albania19th-century Albanian writers20th-century Albanian writersMontenegrin people of Albanian descentMontenegrin FreemasonsAlbanian FreemasonsHidden categories: CS1 French-language sources (fr)Pages using web citations with no URLArticles with Turkish-language external linksArticles with hCardsArticles containing Albanian-language textAll articles lacking reliable referencesArticles lacking reliable references from June 2015CS1 Albanian-language sources (sq) 
-
-
-
-Navigation menu
-
-
-Personal tools
-
-Not logged inTalkContributionsCreate accountLog in 
-
-
-
-Namespaces
-
-Article
-Talk
-
-
-
-
-Variants
-
-
-
-
-
-
-
-
-
-Views
-
-Read
-Edit
-View history
-
-
-
-More
-
-
-
-
-
-
-
-Search
-
-
-
- 
-
-
-
-
-
-
-
-Navigation
-
-
-Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
-
-
-
-Interaction
-
-
-HelpAbout WikipediaCommunity portalRecent changesContact page 
-
-
-
-Tools
-
-
-What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
-
-
-
-Print/export
-
-
-Create a bookDownload as PDFPrintable version 
-
-
-
-Languages
-
-
-Shqip 
-Edit links 
-
-
-
-
-
- This page was last modified on 29 December 2015, at 02:00.
-Text is available under the Creative Commons Attribution-ShareAlike License;
-additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-
-
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Developers
-Cookie statement
-Mobile view
-
-
-
- 
-
- 
-
-
-
-(window.RLQ = window.RLQ || []).push(function () {
-mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
-} );(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgBackendResponseTime":114,"wgHostname":"mw1075"}); /* @nomin */
-} );
-
-
+						

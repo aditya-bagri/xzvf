@@ -1,574 +1,88 @@
-
-
-
-
-Hopeful Stakes (Great Britain) - Wikipedia, the free encyclopedia
-document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
-(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hopeful_Stakes_(Great_Britain)","wgTitle":"Hopeful Stakes (Great Britain)","wgCurRevisionId":678948567,"wgRevisionId":678948567,"wgArticleId":43634514,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Flat races in Great Britain","Newmarket Racecourse","Open sprint category horse races"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hopeful_Stakes_(Great_Britain)","wgRelevantArticleId":43634514,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wikilove-recipient":"","wikilove-anon":0,"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSAcceptLanguageList":[],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCentralAuthMobileDomain":false,"wgWikibaseItemId":"Q18126110","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
-mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); /* @nomin */ ;
-
-});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","ext.centralNotice.bannerController","skins.vector.js"]);
-} );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Hopeful Stakes (Great Britain)
-
 From Wikipedia, the free encyclopedia
 
 
 					Jump to:					navigation, 					search
 
 
-Hopeful Stakes
+Smith
 
-Listed race
+Personal information
 
 
-Location
-July Course
-Newmarket, England
+Full name
+unknown
 
 
-Race type
-Flat / Thoroughbred
+Born
+c.1795
+England
 
 
-Sponsor
-Stobart Members Club
+Batting style
+unknown hand
 
 
-Website
-Newmarket
+Bowling style
+underarm: unknown hand and type
 
 
-Race information
+Role
+unknown
 
 
-Distance
-6f (1,207 metres)
+Domestic team information
 
 
-Surface
-Turf
+Years
+Team
 
 
-Track
-Straight
+1821
+Surrey
 
 
-Qualification
-Three-years-old and up
-exc. G1 or G2 winners since September 1st 2013
+1822
+Godalming
 
 
-Weight
-8 st 12 lb (3yo);
-9 st 1 lb (4yo+)
-Allowances 5 lb for fillies
-Penalties
-4 lb for Listed winners*
-7 lb for Group 3 winners*
-* after October 31st 2013
-(2yo wins not penalised)
+Career statistics
 
 
-Purse
-£40,000 (2015)
-1st: £22,684
 
 
 
-Hopeful Stakes
 
-2015
 
 
 
 
 
+Source: Arthur Haygarth, 27 March 2013
 
 
-Polybius
-Naadirr
-Lucky Kristale
-
-
-
-
-Previous years
-
-
-2014
-
-
-
-
-
-
-
-Tropics
-Alben Star
-Reckless Abandon
-
-
-2013
-
-
-
-
-
-
-
-Tropics
-Nocturn
-Master Of War
-
-
-2012
-
-
-
-
-
-
-
-Hitchens
-Markab
-Sirius Prospect
-
-
-2011
-
-
-
-
-
-
-
-Swiss Dream
-Son Of The Cat
-Royal Rock
-
-
-
-
-2010-2001
-
-
-2010
-
-
-
-
-
-
-
-Doncaster Rover
-Advanced
-Dafeef
-
-
-2009
-
-
-
-
-
-
-
-Palace Moon
-Swiss Diva
-Jimmy Styles
-
-
-2008
-
-
-
-
-
-
-
-Edge Closer
-Balthazaar's Gift
-Strike The Deal
-
-
-2007
-
-
-
-
-
-
-
-Beckermet
-Balthazaar's Gift
-Biniou
-
-
-2006
-
-
-
-
-
-
-
-Appalachian Trail
-Assertive
-Sunderland Echo
-
-
-2005
-
-
-
-
-
-
-
-Quito
-Lafi
-Traytonic
-
-
-2004
-
-
-
-
-
-
-
-Prince Aaron
-Atavus
-Red Romeo
-
-
-2003
-
-
-
-
-
-
-
-Fayr Jag
-Somnus
-Barrantes
-
-
-2002
-
-
-
-
-
-
-
-Three Points
-Mugharreb
-Affaire Royale
-
-
-2001
-
-
-
-
-
-
-
-Mugharreb
-Welcome Friend
-Eastern Purple
-
-
-
-
-2000-1997
-
-
-2000
-
-
-
-
-
-
-
-Vision of Night
-Littlefeather
-Ho Leng
-
-
-1999
-
-
-
-
-
-
-
-Arkadian Hero
-Ho Leng
-Grangeville
-
-
-1998
-
-
-
-
-
-
-
-Tipsy Creek
-Bold Edge
-Bayleaf
-
-
-1997
-
-
-
-
-
-
-
-Elnadim
-Bollin Joanne
-Almushtarak
-
-
- 
-
-
-The Hopeful Stakes is a Listed flat horse race in Great Britain open to horses aged three years or older. It is run on the July Course at Newmarket over a distance of 6 furlongs (1,027 metres), and it is scheduled to take place each year in August.
-The race was awarded Listed status in 2002.
-Winners since 1994[edit]
-
-
-Year
-Winner
-Age
-Jockey
-Trainer
-Time
-
-
-1994
-Rafferty's Rules
-
-Kieren Fallon
-Lynda Ramsden
-1:10.98
-
-
-1995
-Cheyenne Spirit
-
-J Stack
-Ben Hanbury
-1:10.35
-
-
-1996
-Carranita
-
-Tim Sprake
-Bryn Palling
-1:14.73
-
-
-1997
-Elnadim
-
-Michael Kinane
-John Dunlop
-1:11.04
-
-
-1998
-Tipsy Creek
-
-Richard Hills
-Ben Hanbury
-
-
-
-1999
-Arkadian Hero
-
-Gérald Mossé
-Luca Cumani
-1:10.26
-
-
-2000
-Vision of Night
-
-Pat Eddery
-John Dunlop
-1:12.96
-
-
-2001
-Mugharreb
-3
-Kieren Fallon
-Ben Hanbury
-1:11.58
-
-
-2002
-Three Points
-5
-Frankie Dettori
-Saeed bin Suroor
-1:11.30
-
-
-2003
-Fayr Jag
-4
-Willie Supple
-Tim Easterby
-1:11.62
-
-
-2004
-Prince Aaron
-4
-Gary Carter
-Conrad Allen
-1:14.02
-
-
-2005
-Quito
-8
-Jamie Spencer
-David Chapman
-1:13.22
-
-
-2006
-Appalachian Trail
-5
-T Eaves
-Ian Semple
-1:15.33
-
-
-2007
-Beckermet
-5
-Chris Catlin
-Roger Fisher
-1:12.53
-
-
-2008
-Edge Closer
-4
-Ryan Moore
-Richard Hannon, Sr.
-1:10.32
-
-
-2009
-Palace Moon
-4
-Steve Drowne
-Hughie Morrison
-
-
-
-2010
-Doncaster Rover
-4
-Robert Winston
-David Brown
-
-
-
-2011
-Swiss Dream
-3
-Nicky Mackay
-David Elsworth
-
-
-
-2012
-Hitchens
-7
-Martin Dwyer
-David Barron
-
-
-
-2013
-Tropics
-5
-Jim Crowley
-Dean Ivory
-1:13.30
-
-
-2014
-Tropics
-6
-Robert Winston
-Dean Ivory
-1:09.84
-
-
-2015
-Polybius
-4
-Ted Durcan
-David Lanigan
-1:11.26
-
-
-See also[edit]
-
-Horseracing in Great Britain
-List of British flat horse races
-
+Smith (first name and dates unknown) was an English first-class cricketer associated with Surrey and Godalming Cricket Club who was active in the 1820s and is recorded in two matches from 1821 to 1822, totalling 25 runs with a highest score of 20. He represented the Players in an early Gentlemen v Players match.[1]
 References[edit]
 
-Racing Post
 
-2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009
-2010, 2011, 2012, 2013, 2014, 2015
+^ "Smith". CricketArchive. Retrieved 27 March 2013. 
+
+
+Bibliography[edit]
+
+Haygarth, Arthur (1862). Scores & Biographies, Volume 1 (1744–1826). Lillywhite. 
+
+
+
+
+ 
+This biographical article related to English cricket is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
 
 
 
@@ -576,129 +90,4 @@ Racing Post
 
 
  
-						Retrieved from "https://en.wikipedia.org/w/index.php?title=Hopeful_Stakes_(Great_Britain)&oldid=678948567"					
-Categories: Flat races in Great BritainNewmarket RacecourseOpen sprint category horse races 
-
-
-
-Navigation menu
-
-
-Personal tools
-
-Not logged inTalkContributionsCreate accountLog in 
-
-
-
-Namespaces
-
-Article
-Talk
-
-
-
-
-Variants
-
-
-
-
-
-
-
-
-
-Views
-
-Read
-Edit
-View history
-
-
-
-More
-
-
-
-
-
-
-
-Search
-
-
-
- 
-
-
-
-
-
-
-
-Navigation
-
-
-Main pageContentsFeatured contentCurrent eventsRandom articleDonate to WikipediaWikipedia store 
-
-
-
-Interaction
-
-
-HelpAbout WikipediaCommunity portalRecent changesContact page 
-
-
-
-Tools
-
-
-What links hereRelated changesUpload fileSpecial pagesPermanent linkPage informationWikidata itemCite this page 
-
-
-
-Print/export
-
-
-Create a bookDownload as PDFPrintable version 
-
-
-
-Languages
-
-
- 
-Add links 
-
-
-
-
-
- This page was last modified on 1 September 2015, at 16:18.
-Text is available under the Creative Commons Attribution-ShareAlike License;
-additional terms may apply.  By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
-
-
-Privacy policy
-About Wikipedia
-Disclaimers
-Contact Wikipedia
-Developers
-Cookie statement
-Mobile view
-
-
-
- 
-
- 
-
-
-
-(window.RLQ = window.RLQ || []).push(function () {
-mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready","user.groups":"ready"});mw.loader.load(["mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage"]);
-} );(window.RLQ = window.RLQ || []).push(function () {
-mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1187"}); /* @nomin */
-} );
-
-
+						
