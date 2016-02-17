@@ -11,16 +11,17 @@ from pyspark.mllib.feature import HashingTF, IDF
 from pyspark.mllib.clustering import KMeans, KMeansModel
 
 sc=SparkContext()
-rdd=sc.wholeTextFiles("./Q2_files/*_text.txt").map(lambda (name,text): text.split())
+rdd=sc.wholeTextFiles("./Q2_files/Random_*.txt").map(lambda (name,text): text.split())
 tf=HashingTF()
 tfVectors=tf.transform(rdd).cache()
+print "TF VECTORS.COLLECT():\n\n\n",tfVectors.collect()
 idf=IDF()
 idfModel=idf.fit(tfVectors)
 tfIdfVectors=idfModel.transform(tfVectors)
-tfIdfVectors.saveAsTextFile("./Q2_TFIDF_vectors/*.txt")
-
+#tfIdfVectors.saveAsTextFile("./Q2_TFIDF_vectors/Random_%f_TFIDF.txt"%np.random.rand())
+print "IDBUCKTHISSHIT:\n\n\n", tfIdfVectors.collect()
 try:
 	for i in range(0,100):
-		print "Testing Printing"
+		print ""#Testing Printing"
 except KeyboardInterrupt:
 	pass

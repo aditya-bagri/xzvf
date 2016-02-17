@@ -24,7 +24,8 @@ def outlier (arr, number_of_std_devs):
 def clear_files():
          with open('Yahoo_symbols.csv','rb') as sym_list:
 		reader = csv.DictReader(sym_list)
-		for sym in reader:
+		if reader:
+		    for sym in reader:
 			PATH="/home/ubuntu/BigData/Assignment_1/Q4_files/"+sym["COMPANY"]+".csv"
 			os.remove(PATH)
 
