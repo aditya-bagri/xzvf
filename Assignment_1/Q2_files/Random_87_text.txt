@@ -5,76 +5,38 @@ From Wikipedia, the free encyclopedia
 
 
 
-Little Vermilion River
-
-
-Basin
-
-
-Progression
-Little Vermilion River → Illinois → Mississippi → Gulf of Mexico
-
-
-Main source
-Mendota Township, LaSalle County, Illinois
-41°36′46″N 89°05′44″W﻿ / ﻿41.6128095°N 89.0956426°W﻿ / 41.6128095; -89.0956426﻿ (Little Vermilion River origin)
-
-
-River mouth
-Confluence with the Illinois River, LaSalle, Illinois
-41°19′29″N 89°04′53″W﻿ / ﻿41.3247568°N 89.0814716°W﻿ / 41.3247568; -89.0814716﻿ (Little Vermilion River mouth)
-
-
-Mouth elevation
-449 ft (137 m)
-
-
-Length
-35 mi (56 km)
-
-
-GNIS ID
-412427
 
 
 
-
-Map all coordinates using OSM
-Map all coordinates using Google
-Map up to 200 coordinates using Bing
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2014)
 
 
-Export all coordinates as KML
-
-
-Export all coordinates as GeoRSS
-
-
-Export all coordinates as GPX
-
-
-Map all microformatted coordinates
-
-
-Place data as RDF
-
-
-The Little Vermilion River is a 34.7-mile-long (55.8 km)[1] tributary of the Illinois River, which it joins near LaSalle, Illinois, opposite the north-flowing Vermilion River.[2] There is another "Little Vermilion River" in Illinois which is a tributary of the Wabash River.
+Address Windowing Extensions (AWE) is a Microsoft Windows application programming interface that allows a 32-bit software application to access more physical memory than it has virtual address space, even in excess of the 4 GB limit.[1] The process of mapping an application's virtual address space to physical memory under AWE is known as "windowing," and is similar to the overlay concept of other environments. AWE is beneficial to certain data-intensive applications, such as database management systems and scientific and engineering software, that need to manipulate very large data sets.
+The application reserves a region, or "window" of virtual address space, and allocates one or more regions of physical memory. Using the AWE API, the application can map the virtual window to any one of the physical regions. The application can reserve more than one virtual address space and map it to any of the allocated regions of physical memory, as long as the number of bytes reserved in the virtual address space matches that of the physical memory region. An application must have the Lock Pages in Memory privilege to use AWE.
+AWE depends on Physical Address Extension support when reserving memory above 4 GB.[2] AWE was first introduced in Windows 2000 as a new API superseding the PSE36 method (from the Windows NT 4.0 Enterprise Edition) of accessing more than 4 GB of memory, which was no longer supported in Windows 2000.[3][4] Among the first applications to make use of AWE were Oracle 8.1.6[4] and Microsoft SQL Server 2000.[3]
+If the /3GB boot flag is used to repartition the 32-bit virtual address space (from the 2 GB kernel and 2 GB userland) to 3 GB userland, then AWE is limited to accessing 16 GB of physical memory.[3] This limitation is because with only one GB reserved for the kernel, there isn't enough memory for the page table entries to map more than 16 GB of memory.[5] Additional restrictions on the maximum amount of memory addressable thorough AWE are imposed by the Windows licensing scheme. For example Windows 2000 Advanced Server was limited to 8 GB, while Windows 2000 Data Center Server supported 64 GB.[6]
+An article published in Dr. Dobb's Journal in 2004 noted that memory allocated using Address Windowing Extensions will not be written to the pagefile, and suggested that AWE regions could therefore be used as a way of protecting sensitive application data such as encryption keys.[7]
 See also[edit]
 
-List of Illinois rivers
-Watersheds of Illinois
+Expanded Memory Specification (EMS)
+Physical Address Extension (PAE)
 
 References[edit]
 
 
-^ U.S. Geological Survey. National Hydrography Dataset high-resolution flowline data. The National Map, accessed May 13, 2011
-^ U.S. Geological Survey Geographic Names Information System: Little Vermilion River
+^ "Address Windowing Extensions". MSDN. a set of extensions that allows an application to quickly manipulate physical memory greater than 4GB. 
+^ "Physical Address Extension". Microsoft. November 6, 2008. Retrieved 2008-12-13. 
+^ a b c Sajal Dam (2004). SQL Server Query Performance Tuning Distilled. Apress. pp. 28–29. ISBN 978-1-4302-0407-7. 
+^ a b Michael R. Ault (2003-02-17). "Increasing Available Memory in Linux and Windows" (PDF). ROBO Books White Paper. pp. 10–12. Retrieved 2014-03-01. 
+^ Tuning IBM xSeries Servers for Performance (PDF) (3rd ed.). IBM SG24-5287-02. June 2002. pp. 92–93. 
+^ Dwaine Snow; Thomas X. Phan (2003). Advanced DBA Certification Guide and Reference: For DB2 Universal Database V8 for Linux, UNIX, and Windows. Prentice Hall Professional. p. 87. ISBN 978-0-13-046388-3. 
+^ Coombs, Jason (October 18, 2004). "Protecting RAM Secrets with Address Windowing Extensions". Dr. Dobb's Journal. Archived from the original on 18 December 2007. Retrieved 2007-12-08. 
 
 
 External links[edit]
 
-Prairie Rivers Network
+Address Windowing Extensions on MSDN
+Address Windowing Extensions Coding Example
 
 
 

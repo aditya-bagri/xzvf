@@ -3,187 +3,211 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-
-
-
-
-
-
-
-
-This article has multiple issues. Please help improve it or discuss these issues on the talk page.
-
-
-
-
-
-
-
-
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2012)
-
-
-
-
-
-
-
-This article or section may fail to make a clear distinction between fact and fiction. Please rewrite it according to the fiction guidelines, so that it meets Wikipedia's quality standards. (October 2009)
-
-
-
-
-
-
-
-
-In Neon Genesis Evangelion, Evangelion (エヴァンゲリオン, Evangerion?) (also referred to as Evas or EVA), are the fictional cyborgs piloted by the Children chosen by the Marduk Institute (a front company of Seele). The Evas were created by Nerv. Their principal purpose is to defend Tokyo-3 from the Angels. The visuals of the Evas were designed by Ikuto Yamashita and series director Hideaki Anno, who also created their stories.
+Italophilia is the admiration, appreciation or emulation of Italy, its people, its ideals, its civilization or its culture. Its opposite is Italophobia.
+The extent to which Italian civilization has shaped Western civilization and, by extension, the civilization of the whole world, is widely recognized and acknowledged. Appreciation of the legacy of Italic ideals, civilization and culture has existed for many centuries, into the present day.
 
 
 
 Contents
 
 
-1 Characteristics
-2 Prototype Units
-
-2.1 Failed Units
-2.2 Simulation bodies
-2.3 EVA Unit 00
-2.4 EVA Unit 01
-
-
-3 Production Model Units
-
-3.1 EVA Unit 02
-3.2 EVA Unit 03
-3.3 EVA Unit 04
-3.4 Mass Production EVAs
-
-
-4 Other
-5 Units appearing in Rebuild of Evangelion
-
-5.1 EVA Provisional Unit 05
-5.2 EVA Mark.06
-5.3 EVA Unit 08
-5.4 EVA Mark 09
-5.5 EVA Unit 13
-5.6 EVA Unit 8+2
-5.7 Mass Production EVAs
-
-
-6 References
+1 Roman era
+2 Medieval period
+3 The Renaissance
+4 Age of Enlightenment
+5 Modern era
+6 See also
+7 References
+8 Bibliography
 
 
 
-Characteristics[edit]
+Roman era[edit]
 
 
 
 
-Unit 01 runs through Tokyo-3.
+Statue of Augustus, first Roman emperor and creator of "Italia" as an entity
 
 
-The Evas were designed similarly to the Japanese folklore creature Oni.[1] Although they were originally assumed to be giant humanoid robots, the Evas are actually cyborgs, integrating a mostly biological being with a substantial mechanical infrastructure, including a capsule called an "entry plug" in which the pilot sits and controls the Eva's actions, though the extent of this control can waver. The only people who can pilot Evas are fourteen-year-olds whose mothers have died after the Second Impact, who are chosen by the Marduk Institute and designated in numeral order as "children" (i.e. First Child, Second Child). The reason of this is not explained for some time, until it is revealed that the souls of the pilots' mothers are integrated with the Evas to enable a psychic link between the two. Once connected to the Eva, the entry plug is filled with a translucent, breathable liquid known as LCL, which allows the pilots to electrochemically control the Evas. LCL is repeatedly described as smelling like blood and is revealed later on to be derived from the blood of the second Angel, Lilith. The pilots wear uniforms called plug suits and devices called interface headsets on their heads to achieve better synchronization with the Eva. Although the Evas wear armor, their most significant defense is the Absolute Terror Field (AT Field for short), a form of force field which protects the Eva from all forms of conventional damage and can be used to disrupt an Angel's AT field.
-All the Evangelions but one are derived from the first Angel, Adam (in the Book of Genesis, Eve is created from one of Adam's ribs). Unit 01 is unique in having been born from the second Angel, Lilith. With these revelations, the true purpose of their armor is also revealed - it is actually to constrain and control their movements. Based on production sketches from Evangelion 1.0 Complete Records Collection, the Evas are 75 meters tall; this presumably applies to the humanoid angels as well.[2]
-To power their massive frames, they use internal batteries, an umbilical cable, or an S² engine. Auxiliary batteries can be attached to extend an Eva's unplugged endurance. The Evas are controlled through their psychic link to the pilot via a combination of hand controls in the entry plug and direct nerve impulses that link to the pilot's plug suit and interface headset. The pilot's link with the Eva is expressed in a "synchronization ratio". The higher the synchronization, the greater the command over the Eva. A high synchronization permits direct feedback, including the ability for a pilot to directly experience pain induced by any damage against the Eva. This is the reason why the pilots often undergo routine synchronization tests, in order to measure how well the pilots are able to synchronize with the souls that are bonded within the Evas. The Evas can also be controlled by an autopilot system, the Dummy Plugs, which are based on the thought patterns of either Rei Ayanami or Kaworu Nagisa. Evas can also lose control in certain circumstances and go "berserk", such as when the pilot is under extreme stress.
-The Evas fight with their arms and legs, but they can also wield and use a wide variety of giant conventional weapons. Additionally, each Eva has a retractable bladed weapon known as a "Progressive Knife" in their shoulder blade.
-Prototype Units[edit]
-Failed Units[edit]
-Nerv made numerous failed attempts to create a working Eva. The remains of these failed Evas are hidden in one of the lowest levels of Nerv headquarters. Most of these failed Evas' organic structures have rotted away, leaving little more than an armored head connected to a spine, often with an incomplete number of limbs and many of the skeletons are badly warped. They have the word "reject" painted on their heads in large red letters.[3] In the original version, the failed Eva prototypes were laid out on a massive empty floor, with what remained of their limbs carefully matched up with their spines and other body parts, and then circled by chalk marks. The New Production Cut shows the original concept with remaining body parts of dozens of failed Evas are thrown into a series of waste pits in the ground.[4] Some Eva rejects can also be seen in The End of Evangelion, suspended vertically by the heads.
-Simulation bodies[edit]
-Three incomplete Evangelion units are kept in the Pribnow Box in Nerv headquarters. They are unarmored, have no legs or cores, and have numerous cables exiting the neck instead of actual heads.[5] These units are used as training simulators and are eventually infected by the eleventh Angel, Iruel.[6]
-Rebuild of Evangelion 1.0 reveals that the firing range training simulator uses a simulation body, as opposed to the anime or manga which show Unit 01 directly attached to simulation equipment. This simulation body appears to be an apparatus that consists of portions of the skeleton and nervous system of an Evangelion, but without any means of actual movement except for two small devices on the front of the head.
-EVA Unit 00[edit]
-Unit 00 (零号機, Zerogōki?),[6] is the Prototype, the first successful Evangelion, and is piloted by the First Child, Rei Ayanami. The head design is similar to that of the previous failed attempts, with a single round optic in the center. Unit 00 is the only one of the original Evas that is never seen without its armor (Unit 02 was revealed in End of Evangelion, and Unit 01 on multiple occasions) or opening its mouth; thus the appearance of its organic body is unknown.
-Unit 00 was initially colored yellow like the previous prototypes, but its armor was damaged beyond repair by the Angel Ramiel and has since been refitted with blue armor plating in addition to other alterations made in order to make it more suitable for combat conditions, including shoulder "Blades" similar in appearance to the ones on Units 01 and 02. Because it is a prototype, Unit 00 cannot be fitted with D-type equipment. Unit 00 is also equipped with retro rockets as shown in the fight against Matarael. The true nature of the soul inside Unit 00 is never specified, but it is implied to be directly connected to Rei in some fashion. Popular theories include the soul of Rei I, or Naoko Akagi. Unit 00 was destroyed when Rei self-destructed the Eva in order to destroy the sixteenth Angel, Armisael.
-In the Rebuild of Evangelion series, Unit 00 design stays with its initial yellow color along with more white and gray. In the second film, Unit 00 was the Eva SEELE recommended be placed in storage upon the arrival of Unit 03, as the Vatican treaty states that no country can have more than three active Evangelion units at one time but Gendo Ikari chose to place Unit 02 in storage instead. After Unit 00 fails to destroy the 10th Angel with the N² Missile, the Angel absorbs the unit and uses its identification code to disable Central Dogma's defenses.
-EVA Unit 01[edit]
+Rome was the center of an empire that stretched across a large segment of the then-known world, and later became the center of the Christian faith. Roman civilization was transplanted to most parts of Europe, the Mediterranean basin and the Near East in the form of law, architecture, engineering, roads, aqueducts, public baths, sanitation, trade, literature, art, libraries, hospitals and agriculture.[1] It was possible for the people in the provinces to attain Roman citizenship, rise to the Senate, and even to become Roman emperor. The Roman provinces, having received much of the benefit of Roman civilization, became Romanized to a large degree. Winston Churchill states:[2]
 
+For nearly 300 years Britain, reconciled to the Roman system, enjoyed in many respects the happiest, most comfortable, and most enlightened times its inhabitants have ever had.
 
+The Christian religion was viewed in Rome as contrary to prevailing religious and political beliefs and, consequently, was suppressed. Many Christians in Rome and elsewhere were persecuted. After the conversion of the Emperor Constantine to Christianity in 312 AD, Christianity flourished and became an integral part of Roman life. Roman Catholicism, in a form easily recognizable today, emerged and took root in Rome and much of the Roman Empire.[3] The Church adopted many religious customs and forms common in pre-Christian Rome, such as the stole and other vestments, the use of incense and holy water in purifications, burning candles before the altar, the veneration of saints, the architecture of the basilica, the law of Rome as a basis for canon law, the title Pontifex Maximus for the Pope, and Latin as the language of Catholic ritual.[4]
+The cultural patrimony of Roman literature, architecture and sculpture inspired many of the achievements of the Middle Ages and Renaissance in Italy and the rest of Europe. Works by poets, authors and historians, such as Ovid, Horace, Catullus, Cicero, Virgil, Livy and Tacitus had a far reaching impact on the Western world.
+The legacy of Rome is apparent in the Western world, and elsewhere, in numerous ways, such as:
 
+The Roman alphabet
+Roman numerals
+Names of the planets
+Names of the months
+Names of the days of the week (in Romance-language countries)
+Julian Calendar (used for almost 1500 years), replaced in 1582 by the Gregorian Calendar
+Systems of government and law based on Roman models
+First modern concept of a hospital
+Latin-derived languages in Italy, France, Spain, Portugal and Romania
+Languages heavily influenced by Latin, such as English (approximately half Latin based)
+The Roman arch
+Techniques used in building roads, bridges, aqueducts, viaducts, etc.
+Use of concrete as a building material
+The stadium
+Wine-making cultures in Italy, France, Spain, Portugal, Austria and Southern Germany
 
+Medieval period[edit]
+After the fall of the Roman Empire, its vast governmental network provided a structure for the Roman Catholic Church’s ecclesiastic rule. The bishops, rather than the Roman prefects became the source of order and the seat of power.[5] In many important ways, the Roman Catholic Church became the successor of the Roman Empire. The Church and its Pope were major stabilizing influences in Europe in the centuries that followed. In the words of historian Will Durant (in his Caesar and Christ, The Story of Civilization):
 
-This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2012)
+Rome died in giving birth to the Church; the Church matured by inheriting and accepting the responsibilities of Rome.
 
-
-Unit 01 (初号機, Shogōki?) was created in the Third Annex of Gehirn's Artificial Evolution Laboratory in Hakone and is piloted by Shinji Ikari (with Dummy Plug as backup pilots). It is the first and the only Evangelion to be created from Lilith, the Second Angel, instead of Adam, the First Angel, from whom all the other Evangelions were created. Concept art for the TV series reveals that Unit 01's body was grown from biomass cultivated from Lilith's legs (the reason why her legs are missing throughout the show). Despite this fact, Unit 01 bears no real morphological difference from the other Evangelion units, possessing a core (unlike Lilith) and exaggerated proportions similar to Adam and the other Evas. Unit 01's armor is primarily purple; some components are colored neon green, light blue, orange, and black. Its helmet bears the signature unicorn-like single horn, and a 'frill', giving an appearance reminiscent of a ceratopsian dinosaur. The horn and the glowing eyes also gives the Evangelion a rather demonic appearance. It also has a distinctive chest plate resembling pectoral muscles, as opposed to the regular V-shaped chest plate the other evangelions have. The humanoid entity beneath the armor has light brown skin, two emerald-green eyes, four small nostrils positioned, flat white teeth resembling that of humans, and red blood. It has the best battle record of all the Evangelions. It is a notorious berserker, and frequently acts independently, without the instructions of a pilot and without any apparent power source, moving freely even when the internal power source was depleted. The Eva will also take action to protect its pilot while sometimes servicing other interests. The Eva's resident soul, Yui Ikari (Shinji's mother), appears to be responsible for such events, in an attempt to protect her son. In such berserk incidents, the Eva goes into a 'battle rage', characterized by inhuman savageness and animal-like behavior. In the height of its berserk state, Unit 01 also demonstrates angelic abilities such as regeneration (repairing its damaged arm in a matter of seconds in battle against Sachiel and Zeruel), forming angelic cross shaped energy explosions, as well as manifesting a powerful AT Field for offensive purposes. It is the only Eva to have gone berserk in direct combat, inflicting fatal damage to Sachiel before it self-detonates, ripping apart Leliel and savagely mauling Zeruel. Shinji is clearly not responsible for these events, having blacked out in the first two berserk episodes and having dissolved into LCL after reaching a synchronization level of 400% during the battle with Zeruel. A similar state of battle rage, displaying heightened physical power and savageness, can be achieved when the Eva is controlled by the Dummy System, though this does not qualify as a genuine berserk incident. Unit 01 is called the "Test Type", in reference to its unusual method of creation.
-Upon savagely disfiguring the fourteenth angel, Zeruel, Unit 01 used one of Zeruel's arms to regenerate its severed left arm and proceeded to devour the Angel and absorb its S² Engine (which seemed to be used only at Unit 01's discretion, as the Eva was afterwards still shown to be sent into battle with an umbilical cable). By acquiring an S² Engine (the biblical Fruit of Life), it is stated that the Eva has become a being equal to God, possessing both the Fruit of Life and Knowledge.
-In The End of Evangelion, Unit 01 goes berserk for the final time, destroying the Nerv HQ building with a cross-shaped energy blast and growing enormous orange 'Wings of Light' (also appearing in the TV series opening and similar to Adam's seen during Second Impact). From then on the resident soul of Yui Ikari seems to be in complete control of the Eva. SEELE attempts to use the Eva in order to perform the Human instrumentality project in place of Lilith, who has been rendered unusable due to the loss of the Spear of Longinus. The mass production Evangelions impale Unit 01 with spears similar to the Spear of Longinus, possibly in an attempt to open the Doors of Guf on the Eva's palms. Later, Unit 01 and the MP Evas 'open' their S² Engines, forming a giant Sephirot in the sky, signaling the beginning of the Third Impact and creating an enormous explosion which completely exposes the Geofront's true form as the Black Moon, the Egg of Lilith. The original Spear of Longinus returns to Earth, merging with Unit 01 to form the 'Tree of Life', becoming a complete God with the power either save or destroy humanity. The Tree of Life is later absorbed by Lilith-Adam-Rei during Instrumentality. Near the end of the film, Eva 01 bursts out from the giant pupil of Lilith-Adam-Rei, roaring, and grows a complete set of twelve Wings of Light, then manipulates the Spear of Longinus to destroy the clone spears. At the conclusion, Unit 01 is left floating adrift in space, fossilized and still containing the soul of Yui Ikari, an eternal testament to the existence of humanity.
-In the Rebuild of Evangelion series, Unit 01 sports more neon green highlights on the head, chest, abdomen and arms. The progressive knife and its storage mechanism are also redesigned, but most of the armor has not changed. During its fight with Shamshel, the skin of the humanoid entity beneath the armor is revealed to a lighter color than in the series. During its battle with Zeruel, the Eva enters the 'awakened state' and undergoes several radical changes: the pilot's plug depth exceeds a value of 180, the 'Great Beyond Depth', at the risk of being unable to return to normal. While appearing to have gone berserk, the pilot still appears to retain full control over the Eva's actions. In addition, its neon green highlights turn glowing red along with the Eva's eyes. Most significant however is Unit 01's possession of Angelic abilities, including the manifestation of a halo, advanced AT-field manipulation to replace its lost arm with an ethereal one that can launch concussive blasts and the ability to release a powerful energy beam from its eyes, similar to the one used by the Angels but with much more devastating effects.
-After defeating Zeruel, the Unit 01 undergoes several more changes, growing energy wings from its core and gaining the ability to bridge the entry plug to the Angel's core. After absorbing Zeruel's core, Unit 01 undergoes a transformation into a glowing energy being, as a divine entity equal to God, a 'radiant giant' with 'wings of light' extending upwards into a vortex at the center of multi-colored concentric circles (confirmed in 3.0 as the Doors of Guf), similar to the Adams seen during Second Impact. The mere existence of the awakened Eva-01 triggers a phenomenon confirmed in Evangelion 3.0 to have been (Near) Third Impact. It also seems that the Eva's awakening triggered by Rei and Shinji seems to have been planned from the beginning by Gendo, Shinji's father. While the Impact is aborted by Kaworu Nagisa in the Mark.06 impaling Unit 01 with the Spear of Cassius, it still results in the devastation of the entire planet, prompting the UN to seal Unit 01 into a tesseract they subsequently launch into space where it remains for the next fourteen years.
-At the beginning of Evangelion 3.0, the tesseract is stolen by WILLE, that subsequently use the Evangelion as an energy source to power their flying battleship, the AAA Wunder. The unit remains inside the Wunder for the rest of the film, not making its appearance.
-Production Model Units[edit]
-Production Model Eva Units have varying numbers of eyes. Unit 02 has four, Units 03 and 04 have two, and Units 05 through 13 have no visible eyes.
-EVA Unit 02[edit]
-Unit 02 (弐号機, Nigōki?),[6] built by Nerv Germany, is the first Production Model Eva. It is piloted by Asuka Langley Soryu and is the first Evangelion built specifically for combat. Unlike Unit 01, it only goes truly "berserk" once, just before its destruction. It has achieved an unusually high sync ratio with its pilot(s). The Eva's armor is primarily red with yellow and white on the arms and head. As a result of being constructed by Nerv Germany, and also as an accommodation for its three-quarters-German pilot, its default language setting is German. It is known to contain the maternal part of the soul of Asuka's mother. Unit 02 features a different progressive knife from earlier Eva units as well as an internal weapon rack in the right shoulder binder which fires dart-like weapons. In the new movie continuity, it used a row of spikes from its shoulder extension in the battle against Zeruel. It has dark blue skin and four orange eyes, first seen when the MP Evas tear it apart. These eyes are normally hidden by its head armor, with four green optical sensors handling vision. Its head armor is hinged in two places, allowing the eyes to be exposed when the Eva reaches a high synch ratio.
-Unit 02 is damaged and incapacitated several times over the course of the series, and is finally destroyed in The End of Evangelion by the mass-produced Evas. Asuka was still highly synchronized with Unit 02 as it was destroyed, thus practically suffering every wound (the frames after the faux-Lance of Longinus is plunged just above the Eva's left eye show her bleeding profusely from her eye, a rapidly spreading bloodstain on her lower torso when the Eva is literally gutted, and then her arm splitting in synch with the Eva's as the faux-Lances are thrown into her). In the manga, Kaworu Nagisa piloted Unit 02 against Armisael since Asuka was left comatose after the battle with Arael. The weapon he used in the battle was a double-bladed chainsaw. Armisael partially merged with Unit 02 while it was still fusing with Unit 00 and Rei.
-In the second Rebuild film, it is shown that Unit 02's helmet is redesigned to have what look like oni horns, and that its shoulder pylons are equipped with a pair of bladed weapons. It also sports more white in several places on its body. Of note, the Eva is able to open its mouth in Rebuild, which was not the case with the original. However, it seems to have lost the capability to partially 'open' its helmet to expose its organic eyes. Later in the film, Unit 02 is placed into storage in accordance with The Vatican Treaty- a law stating that no nation can have more than 3 Active Evas- and with Unit 03 arriving from America Gendo decided Unit 02 would be the mothballed Unit. Mari later hijacks Unit 02 to fight Zeruel, and in desperation, activates Unit 02's Beast Mode which significantly increases its combat ability and gives it a more feral appearance. However, Mari is unable to defeat the Angel and Unit 02 is severely damaged, losing its left arm and part of its head.
-Unit 02 is featured prominently throughout Evangelion 3.0, appearing to be only partially repaired from the damage it sustained during the last film, being called Unit 02'(Dash) by Misato at the beginning. At the beginning of the film, Unit 02 is one of the two Evas that participate in the operation to hijack an inactive Unit 01 from low Earth orbit, with Unit 02's equipment consisting of a harpoon gun, a pair of massive rocket boosters several times larger than the Eva itself and a cocoon-like pair of ablative heat shields to withstand atmospheric reentry; the boosters are seen to utilize vernier thrusters but their primary function is to provide a ten second deorbit burn and are thus unusable for combat maneuvers. In the middle of Evangelion: 3.0 You Can (Not) Redo, it is modified into Unit-02'γ. Near the end of the film, Asuka is forced to engage "Mode 777 (Triple Seven)" against Mark 09, producing effects similar to Beast Mode but is eventually self-destructed to destroy Mark 09.
-EVA Unit 03[edit]
-Unit 03 (参号機, Sangōki?) was built in the United States by Nerv First Branch in Massachusetts, USA, Evangelion Unit 03[6] is one of two Units built with the Second Production Model design. It is the brother Unit of Unit 04 (Unit 3 and Unit 4 were the only Evangelion who were addressed as males during the series). The United States government insisted on having the rights to build Unit 03 and Unit 04. A few minor changes were made between the first and second Production Models. Unit 03's color was unique, with much darker plates than any other Eva.
-The pilot assigned to it was Toji Suzuhara, but in transit to Japan, it was possessed by the thirteenth Angel, Bardiel, which appeared as a cloud. As Bardiel, it was savagely torn apart by Unit 01, after the control of Unit 01 was switched from Shinji to the Dummy Plug system, designed to simulate an artificial pilot on the basis of Rei Ayanami's thought patterns. Toji, the pilot, is severely injured in the anime, but in the manga he dies.
-Unit-03 is also shown in Evangelion 2.0: You Can (Not) Advance, with Asuka Langley Shikinami as the test pilot. She was put into quarantine due to possible contact with Bardiel and was confirmed to have been placed in a medically induced coma due to her injuries when the entry plug was crushed. In the teaser trailer for Evangelion 3.0 attached at the end of the 2nd Rebuild film, she is shown awoken from her coma with an eye patch covering her left eye.
-Unit 03 sports a predominantly black color scheme with white and red highlights and during its fight with Unit 01, it grows a separate pair of arms out of the top of its shoulders to help strangle Unit 01. Both the original and the Rebuild version of the Eva have grey eyes, as evidenced by freeze-frame play of their destruction.
-EVA Unit 04[edit]
-While EVA Unit 04 (四号機, Yongōki?)[7] never actually appears in the series, it still serves a function in the story. Unit 04 was constructed at the Second Branch of Nerv, a desert site in Nevada, USA, acting primarily as a test subject for S² Engine (provided by the Third Branch of Germany) experimentation. Unit 04 was destroyed along with the entire Second Branch and all facilities within an 89 km radius. The cause of the accident remains unknown. Nerv determined that the incident occurred when the S² Engine was being installed in the unit, and that there were numerous factors that could have led to the accident. The very nature of the destruction itself is unknown as well. One theory behind Unit 04's destruction, suggested by Ritsuko Akagi, is that the S² Engine had opened up a Dirac sea similar to the one that was believed to comprise the twelfth Angel, Leliel. Unit 04's design is virtually identical to that of Unit 03. According to Gainax material, this unit is silver in color, with black and red detail. While Unit 04 does not appear on-screen in the series, it does make appearances in the continuities of various Evangelion spin-offs and games. The pilot of Eva 04 is never specified in the series. In some spin-offs, Unit 04 is piloted by Kensuke Aida.
-
-In an official Evangelion pachinko machine in Japan (based specifically on the 2008 film "Evangelion 1.0: You Are (Not) Alone"), once you reach a certain level, there is a short animation featuring Unit-04.[citation needed] The scene shows the 6th Angel Ramiel during an attack on Tokyo-3 (the footage is spliced in from the film). When it destroys some missile launching sites, Unit-04 suddenly appears floating over a hill, with Kaworu Nagisa controlling it by floating in front of its head. Ramiel fires, but Kaworu's AT Field protects Unit-04. The EVA then charges forward with the Lance of Longinus. Ramiel reshapes itself and fires again, but Unit-04 blocks the attack with a scaled-up riot shield (previously seen only in merchandise, never-onscreen because of its impracticality in favor of AT Fields). After Ramiel stops its attack, Unit-04 hurls the Lance of Longinus at the Angel, which penetrates its own Field, and destroys it in this single shot. Kaworu and Unit-04 are seen casually standing on top of a lake at the end of the video.
-
-This video seems to be the only known officially-licensed appearance of Evangelion Unit-04, but does confirm, in a way, that its appearance is based on Evangelion Unit-03, and that its coloring is silver with black and red. (This video also establishes Unit-04 in the coloring scheme of the Rebuild films, and shares similar decorations.)
+The civilization of Italy continued to be a cultural force that helped preserve Greco-Roman civilization and ideals during this period. Latin, the indigenous language of the Italic people, became the universal language of the Catholic Church and, generally, of culture and learning in Europe.
+Western Monasticism, as first practiced by the followers of Saint Benedict, born in Nursia in 480 AD, spread from Italy to all parts of Europe. The Benedictine monks were a very important factor in preserving Greco-Roman culture and learning for later centuries.
+Saint Francis of Assisi (born Giovanni di Bernardone in Assisi in 1181) was a friar who founded the men's Order of Friars Minor and the women’s Order of St. Clare, both of which attracted many followers from all over Europe. He became one of the most venerated religious figures in Catholic Church history.
+Saint Thomas Aquinas, a Dominican priest born in Aquino in 1225, was a philosopher and theologian. He was one of the greatest minds of the Middle Ages, and he had a widespread influence on Western thought. He was considered then, as he is now, to be the greatest theologian and philosopher of the Catholic Church. He is best known for his major work, the Summa Theologica.
+Gregorian Chant, an outgrowth of Roman plain chant, strongly influenced both liturgical and secular music during the Middle Ages. An Italian monk, Guido of Arezzo, developed the form of musical notation that became the basis of Western music and, subsequently, of music worldwide.
+Educated people in Europe were familiar with the works of Dante and Boccaccio, which dominated the literature of the Middle Ages, and with their contemporary Petrarch, who had established the most important lyric poetry tradition in Europe. These works had a significant influence on Shakespeare, Chaucer and many other writers of the Middle Ages and Renaissance.
 
 
 
-Mass Production EVAs[edit]
-These Evas appear in The End of Evangelion and were produced at seven different Nerv branches around the world, probably Germany (Third Branch), the United States (First Branch, Massachusetts), Japan (Matsushiro), the United Kingdom, France, Russia, and China. Units 05 and 06 were made in Germany; Unit 08 was produced in China. Seele had them produced as part of their backup plan for initiating Instrumentality, but only nine out of an envisioned twelve were completed. They are controlled directly by Seele via Dummy Plugs based on Kaworu Nagisa. In dialogue, they are referred to as the Eva Series (エヴァシリーズ, Evashirīzu?).
-Their physical build is different from previous Evas, being narrower in the chest and shoulders and wider in the hips, and apparently covered by the same reinforced plastic that coats the arms. The long jaws have red muscular lips, metal-plated teeth, a large grey tongue, and produce large quantities of saliva. They have no apparent eyes.[8] Their heads overall have a similar shape to that of a whale. They are equipped with large, mechanical, avian-style wings that enable them to fly, and which can be fully retracted into the back. They also lack the shoulder-mounted armor "blades" which were characteristic of previous Evas. Their primary weapons are double-bladed Heavy Lances, which eventually transform into their true form, dark gray replicas of the Lance of Longinus. Additionally, the MP Evas consistently behave in an animal-like manner; they show formidable savagery, and circle Unit 02 in the air in a manner similar to vultures before descending to fight the Eva and tear it apart.
-Each MP Eva contains an internal S² Engine, which grants them complete mobility (being freed from the umbilical cable) and no operational time limit.
-In the alternate universe game Girlfriend of Steel 2, Kaworu Nagisa pilots Eva Unit 05, which is otherwise the same as the Mass Production units, except that the Dummy Plug is replaced by a standard entry plug.
-Other[edit]
-According to Misato, Unit 05 and Unit 06 were originally planned to be more or less a continuation of the production model design used for Units 02-04. However, when Seele began construction of the mass production model Eva Units 05-13, these plans were scrapped. The unfinished original Units 05 and 06 were scrapped for spare parts used to repair Units 00 and 02 after their fight with the Angel Zeruel. Various different EVA units have originated in spin-off games and other various media.
-In the Battle Orchestra game two new EVA units are introduced. EVA Unit-Alpha (甲号機, Kōgōki?) is a green colored EVA with distance-controlled gun barrels mounted on its shoulders (possibly inspired by the Psycommu System from the Gundam franchise), its pilot is unknown. EVA Unit-Beta (乙号機, Otsugōki?), piloted by Kaworu Nagisa, is gold in color with wings and a katana. EVA Unit 04 appears as well, painted a different shade of silver and piloted by Kensuke Aida.
-Units appearing in Rebuild of Evangelion[edit]
-EVA Provisional Unit 05[edit]
-The EVA Provisional Unit 05 (仮設五号機, Kasetsu Gogōki?), piloted by Mari Illustrious Makinami, features in the opening of the second film in the Rebuild of Evangelion tetralogy and is held at the joint U.S./Russian Nerv Bethany Base. Unit-05 is designated as local specifications unit and less humanoid than the other Evas with a design that includes having shorter left and right arms that end in a pincer and a lance respectively, and instead of legs has four limbs that end in wheel like mechanisms. The Eva's torso is predominantly white with orange and gray areas; its limbs are a shade of green. Because of the inhuman design of the Eva, special tubes are attached to the wrists of the pilot's plug suit to help aid in movement and the pilot wears a helmet-like contraption. Rocket boosters and drills also feature in the design to help aid this speedy Eva once in action. It appears to lack an umbilical cord and gathers its energy from pantograph-like wires atop the shoulder pylons, which connect to the roofs of the tunnels of Bethany Base in Evangelion 2.0. The odd build is most likely due to its provisional status as moving on various terrains might be difficult. The Eva is solely sent into action against the previously released Third Angel which attempts to escape. The melee results in the destruction of the Angel, Unit 05 and Bethany base. Its designation as "Provisional" may be a reference to the EVA being launched despite Bethany base still waiting on several components for installation.
-EVA Mark.06[edit]
-Introduced in Rebuild of Evangelion, Mark.06 (マークシックス, Mākushikkusu?) is first seen at the end of the first film and fully appears in the second film. It was initially designed with blue armor with a glowing red visor covering its eyes and head design similar to Unit 01. Underneath its armor, the Eva unit has dark gray skin decorated on the torso with a seven-eyed purple mask that is partially covered by a gray and red mask engraved with the words "Project Evangelion". In the 1.01 DVD release, Mark.06 has a glowing white halo. The narration states that it and its pilot "come down from the Moon". It is of SEELE's design who describe it as "the true Evangelion"; Gendo and Fuyutsuki had no hand in its creation.
-In Evangelion 2.0, the unit's coloration is dark blue with gold highlights. It is piloted by Kaworu Nagisa. At the end of the film, Kaworu uses Mark.06 to throw a spear through Unit 01 (neutralizing it and stopping Third Impact) and descend from the Moon, after that declaring that he will make Shinji happy.
-The unit briefly appears in Evangelion 3.0 where it is seen inactive and impaled in Terminal Dogma alongside Lilith. It was later revealed to have the Twelfth Angel sealed within it.
-Interestingly, this is the first Unit in the franchise that doesn't use the official Japanese naming convention for Evangelions (number + gōki) but instead has an English designation phonetically transcribed into Japanese.
-EVA Unit 08[edit]
-First appeared in Evangelion 3.0, Evangelion Unit 08 (八号機, Hachigōki?) is piloted by Mari Illustrious Makinami. The Unit seems similar to previous units, but the shoulder pylons are slightly different, and it appears to have thrusters on it. The head design is similar to the helmet of a suit of armor, with a protruding horn. Unlike its first depiction in the first teaser for the film, the Eva went through a significant redesign between films: while the teaser showed it having dark gray armor and a vaguely anchor-shaped pink visor, the final version - designated Unit-08α - has pink armor and a total of eight green eyes. Then partly through the movie, Unit-08α is modified by WILLE into Unit-08β, unlike Unit-08α, is not shaped like a typical production model. It is bulkier in hips, shoulders, and most notably in the torso. The plating on the chest, abdomen, and legs is far bulkier as well, and does not match the thin, sleek plating seen on most Evangelion units. Unlike Unit-08α, it also has large, pink guards around its forearms and wrists which add significantly to the bulk of the arms. Its coloring is largely the same, the most notable difference being that the pink portions of the shoulder pylons on Unit-08α are now white, as well as the arm colors being switched to a different order. At the beginning of the film, the Eva participates in the operation to hijack an inactive Unit 01 from low Earth orbit alongside Unit 02 but fails to achieve the required orbital speed, commencing atmospheric reentry after only a few minutes of spaceflight. While in suborbital flight, the Eva is armed with a cannon that appears to be an energy weapon similar in function to a sniper rifle. It is also armed with rocket boosters and a cocoon-like pair of ablative heat shields identical to Unit 02's.
-EVA Mark 09[edit]
-First appeared in Evangelion 3.0, Mark 09 is piloted by a Rei Ayanami clone. It has orange and white armor and a cyclopean head with a single red eye, closely resembling Unit 00. It is first seen in the operation where NERV kidnaps Shinji from WILLE, with the EVA losing its head during the skirmish. The missing head is not restored and near the end of the film the still headless Eva reappears, wielding a massive scythe to hold back Unit 02 and Unit 08 on its own. At the end of the film, it attempts to hijack control of the Wunder battleship with a number of luminescent blue organic tendrils sprouting from its legs, causing both the EVA's entry plug and the Wunder's bridge to turn black and display a large number of SEELE logos. The EVA also grows a new head closely resembling the Wunder's primary bridge while its armor changes to black. Even without a head, the EVA is capable of utilizing a ranged energy attack like many of the Angels. When the EVA is attacked by Unit-02γ, it is revealed that the entire EVA is made up of core material at this point, making all attacks that fail to destroy the entire body at once useless. It is finally destroyed by Unit-02γ's self-destruct. During various scenes, the EVA is specifically referred to as "Adams' [sic] Vessel" by multiple characters, along with a confirmation that the EVA used to be the Wunder's "former master" and that it is attempting to take control "back" from Unit 01.
-EVA Unit 13[edit]
-First appeared in Evangelion 3.0, Unit 13 (第13号機, Dai Jū-san-gōki?) has an appearance near-identical to that of Unit 01, excluding having four eyes and arms. Its most distinctive feature is the Double Entry system of two entry plugs, with the two pilots capable of seeing each other as if they were in a single plug; either pilot is capable of controlling the EVA on their own, although both of them working in tandem is preferred. Unusually, the EVA does not appear to have an AT-field, instead using a number of remote-controlled drones called RS Hoppers to protect itself; these drones are each capable of deploying their own AT-field, can fly without any apparent means of propulsion and explode violently when damaged. Without these drones, the EVA does not appear to have any offensive weaponry but is immune to progressive blades and specialized anti-AT ammunition fired by Unit 08 fails to affect it whatsoever. The unit itself is also referred to as an "Adams" [sic], although the precise meaning of that term is left unclear. At the end of the film, Unit 13 is piloted by Shinji Ikari and Kaworu Nagisa who proceed to remove the two Spears of Longinus from Lilith, setting in motion a chain of events that cause the EVA to enter an "awakened" or "pseudo-evolved" form where it spontaneously emits light, sprouts a pair of wing-like protrusions from its shoulders and manifests a pair of concentric halos that allow it to fly at high speeds. In this state, the EVA proceeds to start Fourth Impact on its own before Kaworu commits suicide and Mari ejects Shinji's entry plug, making the EVA dormant once more. There is no umbilical cable socket on the EVA's back and it is unclear what power source it uses, if at all.
-EVA Unit 8+2[edit]
-Briefly mentioned in the first teaser for Evangelion FINAL, Unit 8+2 (8+2号機, Hachi Tasu Nigōki?) appears to have a red and pink color scheme and is seen battling a large number of EVAs with a sword resembling the Magorox, an unused progressive sword design created by Ikuto Yamashita lead mecha designer for the original series and subsequently recycled in extended canon works. No further information about this EVA is known yet.
-Since Evangelion 3.0's preview in the previous movie barely had any scene that actually made into the final product, it may as well be a red herring.
-Mass Production EVAs[edit]
-A large number of these Units appear in the first teaser for Evangelion FINAL, battling Unit 8+2. They have an identical head design to the Mark.06 but with dark green, almost gray armor. They are armed with Pallet Rifles, an Evangelion-sized bullpup assault rifle visually resembling a Steyr ACR and which used to be the standard-issue rifle for Evangelions in the original series but did not appear in Rebuild up to this point. Unlike the rifles in the series, these ones also have progressive knives crudely affixed onto them as a makeshift bayonet.
-During Evangelion 3.0, a large number of Evangelion hands with these Units' color scheme and a pile of Pallet Rifles were briefly seen inside the ruined Nerv headquarters, implying the existence of an assembly line of sorts for these EVAs. No further information is known yet.
+
+Statue of Dante at the Uffizi Gallery, Florence
+
+
+Students and scholars came from all over Europe to study at institutions of higher learning in Italy. The Medical School at Salerno, founded in the ninth century, was the world's first medical school, and unrivalled in the Middle Ages. The University of Bologna, the first modern university, was founded in Bologna in 1088. The University of Padua, the second oldest university in Italy, was founded in 1222 as a school of law. The University of Naples, founded in 1224, was the world's first state-supported university.
+During the Middle Ages, the vitality of Italian merchants was evident throughout Europe, and the resultant trade prompted their invention of financial and business practices which provided the foundation for modern banking, commerce and capitalism.[6] The original banks were "merchant banks" that Italian grain merchants first invented in the Middle Ages. Merchants and bankers grew in stature based on the strength of the Lombard plains cereal crops, and capitalism evolved based on these banks.
+Indeed, banking (from the Italian word for "bench") can be traced to medieval and early Renaissance Italy, to the rich cities in the north such as Florence, Venice and Genoa. The Bardi and Peruzzi families dominated banking in 14th century Florence, establishing branches in many other parts of Europe.[7] Perhaps the most famous Italian bank was the Medici bank, established by Giovanni Medici in 1397.[8] The development of banking spread from northern Italy through Europe during the early Renaissance and helped create modern capitalism. Luca Pacioli is referred to as the "Father of Accounting"
+The Bank of Saint George (Casa delle compere e dei banchi di San Giorgio) was a bank of the Republic of Genoa, which was the main financer of the voyages of Columbus to the New World by Spain, founded in the 14th century.[9] It is the oldest chartered bank in Europe and the world.
+The Renaissance[edit]
+The Italian Renaissance was to a large extent an expression of humanism, that led to one of the most productive and significant periods in human history in the arts, literature, medicine and science. Greeks fleeing the Turkish invasion of the Byzantine Empire flocked to Italy, and helped spur the Renaissance and interest in ancient Greek texts. The Italian Renaissance also transformed art and humanism across Europe, and set the stage for the Enlightenment.
+In the words of historian Will Durant:[10]
+
+From 1500 to 1600 all Western Europe acknowledged her as the mother and nurse of the new civilization of science and art and the humanities ... So the sixteenth century, when the Renaissance declined in Italy, was an age of exuberant germination in France, England, Germany, Flanders, and Spain.
+
+Giotto, born in 1267, is recognized as the first great artistic genius of the Italian Renaissance. His ability to portray human emotions distinguished him from the artists of the Middle Ages, and he established a style of painting that would be widely emulated in Italy and, later, elsewhere in Europe. Italian Renaissance painters and sculptors, such as Leonardo da Vinci and Michelangelo Buonarroti, and scores of others of the first rank, were greatly admired and acclaimed, and had a widespread influence on artistic concepts and esthetic standards throughout Europe.
+Italian artists, beginning with Giotto, mastered the use of perspective and chiaroscuro (light and shadow), which had a widespread influence on Western art. Brunelleschi, an architect, was the first to explain perspective in terms of a well-defined set of geometric rules. Some science historians credit the mastery of chiaroscuro, together with the discovery of the rules of perspective, as of fundamental importance in the development of modern science.[11][12][13]
+
+
+
+
+Michelangelo's Pietà in St. Peter's Basilica
+
+
+Leonardo da Vinci, born in 1452 in Vinci, was a painter, sculptor, architect, musician, mathematician, engineer, inventor, anatomist, geologist, cartographer, botanist, and writer. His genius, perhaps more than that of any of his contemporaries, epitomized the creative energy of the Renaissance. He is widely considered to be one of the greatest painters of all time, and his Mona Lisa is regarded by many to be the most famous painting in the world. His anatomical drawings have never been surpassed in detail and accuracy, and are still in use today.[14]
+Michelangelo was born in Florence in 1475 and, like Leonardo, was a true Renaissance man. He was a sculptor, painter, architect, poet, and engineer who exerted an unparalleled influence on the development of Western art. He was considered the greatest living artist in his lifetime and, since then, one of the greatest artists of all time. His two best-known sculptures, the Pietà and David, are famous throughout the world. Michelangelo also created two of the most famous and influential frescoes in the history of Western art: the scenes from Genesis covering the ceiling of the Sistine Chapel, and The Last Judgment on the altar wall of the Chapel.
+Renaissance architecture of the 15th and 16th centuries was a revival of elements of ancient Greek and Roman architecture.[15] It first developed in Florence, with Brunelleschi, Alberti and Palladio being among its innovators, and soon spread to other Italian cities, and later to France, Germany, England, Russia and other parts of Europe. The Renaissance style placed emphasis on symmetry, proportion, geometry and the regularity of parts as exemplified in the architecture of classical antiquity and in particular in the architecture of ancient Rome, of which many examples remained. It was succeeded by Baroque architecture.
+Italian singers, composers, dancers and actors had a great impact on music and the performing arts. Palestrina, Monteverdi and Frescobaldi were responsible for musical innovations that were seminal in the development of Western music. Italian Commedia dell'arte was an art form that had a great influence in the performing arts, not only in Italy but in many other parts of Europe as well.
+Ballet began in 15th-century Renaissance Italy. The foot positions and steps that make up classic ballet were created by Renaissance dance masters in the 1400s. Wealthy Italian nobles staged elaborate court dances to celebrate events such as weddings or the birth of an heir. The choreographers of these Renaissance spectacles became known as ballet masters. One of the earliest ballet masters, Domenico da Piacenza, wrote dance manuals describing the steps, with diagrams of the figures and patterns created by the movements, which allowed the dances to be recreated in other courts throughout Europe. He used the word "ballo", the Italian word for dance, to describe his choreography. When Catherine de Medici married King Henry II of France, she brought the Italian dance tradition with her to France.[16]
+The flourishing of arts in Tudor England during the English Renaissance attracted many Italian artists and musicians to the country.[17] William Shakespeare is said to have exhibited Italophilia in his many works with an Italian setting, such as Romeo and Juliet and The Merchant of Venice.[18] Spenser's epic poem, The Faerie Queene, was greatly influenced by Italian epic poems, particularly Ludovico Ariosto's Orlando Furioso (1532), and Torquato Tasso's Gerusalemme Liberata (1581). Francis I, king of France, initiated the French Renaissance by attracting many Italian artists, including Leonardo da Vinci, to his court. French theatre of the 17th century was rooted in the theatre of 16th-century Italy. Poland was strongly influenced by Italian artisans, painters, sculptors and architects, such as the sculptor, Giammaria Mosca,[19] whose many commissions included the tomb of the king of Poland. The Spanish writer, Cervantes, was greatly influenced by Italian literature, which is readily discernible in his own works.[20] Spanish theatre of the 17th century was strongly influenced by Italian models.
+The University of Bologna, the first modern university, was a leading center of mathematical studies in the 16th century, and it was there that Niccolò Fontana Tartaglia developed the method of solving cubic equations, an achievement previously considered impossible. Extending Tartaglia’s work, Lodovico Ferrari devised a similar method to solve quartic equations, and both solutions were published by Gerolamo Cardano. The solutions to the cubic and quartic equations used, for the first time, what are now known as complex numbers, although it was another Bologna mathematician, Rafael Bombelli, who first explained what complex numbers were, and how they could be used. Complex numbers have since found practical applications in many fields, including physics, chemistry, biology, economics, electrical engineering, and statistics. Later, Cardano published the first systematic treatment of probability.
+Italy was a center of commerce and Italian explorers and merchants, such as the Venetian Marco Polo, and the Italian maritime republics moved all around the known world. The Genoese explorer Cristoforo Colombo discovered America in 1492, changing world history forever. Another Italian navigator, Amerigo Vespucci, was the source of the name given to the New World. They were followed by other New World navigators from the Italian peninsula, notably the Venetians Giovanni Caboto (John Cabot) and Sebastiano Caboto (Sebastian Cabot), and the Florentine Giovanni da Verrazzano.
+Age of Enlightenment[edit]
+Beginning in the 16th century, Italian states came under the political control of more powerful European monarchies; however, Italy continued to be a source of creative energy in art, science, music and medicine. Enlightenment thinkers, like Renaissance thinkers, were interested in pre-Christian Greek and Roman thought.
+Galileo, born in 1564 in Pisa, was the most famous scientist of his age, and played a major role in the Scientific Revolution. He is often referred to as the “Father of Modern Science.” His achievements include a greatly improved telescope, which he employed in making astronomical observations supporting the heliocentric theory of Copernicus; and also the experiments he carried out leading to his law of falling bodies, which was of key importance in Newton’s synthesis of his own famous three laws of motion.
+
+
+
+
+Galileo Galilei, the founder of modern science.
+
+
+Giordano Bruno had a great influence on 17th-century scientific and philosophical thought and, since then, his ideals have been absorbed by many philosophers. Bruno's freedom of thought inspired European liberal movements of the 19th century. The significance of Bruno’s work lies in his cosmological theories, which anticipated some fundamental aspects of the modern concept of the universe; his ethical ideas, in contrast with religious ascetical ethics, which appealed to modern humanistic activism; and his ideals of religious and philosophical tolerance.
+Alessandro Volta, born in Como in 1745, invented the first true electrical battery, known as the voltaic pile. It provided a continuous source of electric current, which greatly benefitted Ampere, Ohm and other electrical experimenters in their development of basic electrical theory. A unit of electricity (volt) is named in his honor.
+Italians such as Fallopio, Eustachi, Malpighi, Morgagni and Valsalva were important pioneers of modern anatomy at the University of Bologna and University of Padua, which drew students from all over Europe. Padua's famous anatomical theatre was renowned in Europe at the time, and the great English medical scientist William Harvey received his education there.[21]
+Cesare Beccaria, a philosopher, jurist and marquis wrote On Crimes and Punishments (1754), dealing with the abolition of torture and capital punishment, which had a great impact throughout Europe and in the United States. It strongly influenced intellectuals and politicians in the age of enlightenment, and led to a revolution and reform of judiciary systems to the prevailing modern concept. In 1786, Grand Duchy of Tuscany was the first to abolish capital punishment.
+Giambattista Vico was a political philosopher, rhetorician, historian, and jurist, who is recognized as one of the great Enlightenment thinkers. He criticized the expansion and development of modern rationalism and was an apologist of classical antiquity. His major work, Scienza Nuova, published in 1725, has been highly influential in the philosophy of history, into the 20th-century.
+Opera originated in Italy at the end of the 16th century (with the opera Dafne, which was composed by Jacopo Peri, and produced in Florence in 1598), and soon spread to the rest of Europe. Italian opera was adapted by French, German and Russian composers, who developed their own national schools of opera.
+Italian instrumental music was studied and emulated all over Europe. The sonata, concerto, sinfonia, oratorio and other musical forms all originated in Italy. Italian terminology defining the tempo and mood of a musical passage was universally adopted in Western music. The music of Italian composers, such as Corelli, Scarlatti, and Vivaldi, was studied or transcribed by many other composers of the day, most notably Bach. In addition, many composers, such as Handel, Gluck and Mozart studied or worked in Italy, and subsequently became famous for their instrumental music and operas.
+The Fortepiano, the fore-runner of the modern Piano, was invented by Bartolomeo Cristofori in Florence around 1725, and soon replaced the harpsichord as a solo and ensemble keyboard instrument.
+The family of stringed instruments, consisting of the violin, viola, cello and contrabass evolved in Italy in the mid 16th century. Antonio Stradivari, Andrea Guarneri, Nicolo Amati and other master instrument makers crafted stringed instruments that were highly prized, widely imitated, but never equaled.
+The education of upper-class young man was expected to be completed by a "grand tour" of Italy to be exposed to the visible legacies of its classical culture, as well as to its contemporary culture of music, literature, art and architecture. Famous examples included Goethe, Keats, Lord Byron and Shelley. Many nobles and royals of the time visited Italy as a part of their education. Keats said that the country was a "paradise of exiles”.[22] John Ruskin was a Victorian Italophile who respected the concepts of morality held in Italy.[23]
+Italian universities and medical schools attracted students and scholars from across Europe. Luminaries, such as Copernicus and Harvey, were educated in Italy.
+At the end of the eighteenth century, Italiophilia was not uncommon among the founders of the United States, and some of the creators of the U.S. Constitution, such as Thomas Jefferson and Benjamin Franklin, looked to Roman models upon which to base the American systems of government and law.[24] The founding fathers were also interested in Renaissance political thinkers and humanists like Machiavelli, and how Italian republics functioned. Jefferson was among the most conspicuous of the early American Italophiles.[25] He was especially impressed with Italian architecture, and based the design of his Virginia residence, Monticello, on prints by Palladio, the 16th-century Italian architect.[26] The Jefferson Memorial in Washington DC, erected in honor of Jefferson, is a neo-Palladian imitation of the Pantheon in Rome. The Palladian style of architecture appears elsewhere in the U.S. Capital, and the White House itself was inspired by it. (Congressional Resolution n. 259 of 6 December 2010 recognized Palladio as Father of American Architecture.)
+The influence of Italian culture and artistry during this era is expressed by Barzini:[27]
+
+Italian architects and masons built part of the Kremlin in Moscow, and the Winter Palace in Leningrad. Italian artists embellished the Capital in Washington. They have strewn churches, princely palaces and stately villas all over Catholic Europe, especially in Vienna, Madrid, Prague and Warsaw. Their influence on architecture was felt almost everywhere. They taught poetry, statesmanship and trade to the English; military art to the Germans; cuisine to the French; acting and ballet to the Russians; and music to everyone.
+
+Modern era[edit]
+
+
+
+
+Guglielmo Marconi, a pioneer in the development of wireless telegraphy and long-distance radio transmissions.
+
+
+In 1861 Italy was united for the first time since the fall of the Roman Empire and became a modern industrialized country, where the tradition of creativity, scientific achievement and excellence in manufacturing continued.
+
+
+
+
+Enrico Fermi, pioneer of nuclear power.
+
+
+Giuseppe Garibaldi, a central figure in achieving Italian independence, was called the "Hero of Two Worlds" because of his military enterprises to achieve independence for countries in South America as well. Garibaldi was admired by many of the greatest intellectuals of his time, such as Victor Hugo, Alexandre Dumas, and George Sand.
+Maria Montessori, born in 1870, was a physician and educator who became known around the world for the educational method that bears her name, and for her writings on pedagogy. Her methods are in use today in schools throughout the world.
+In the early 20th century Pirandello, a Nobel Laureate, was the first European playwright to radically question the structures of traditional theatre. Since then, film directors and writers such as Fellini, Antonioni, Pasolini, Calvino, Eco and Fo have been recognized around the world. Italian neorealism in films, beginning after the second world war, had a great impact on audiences around the world, and established a new philosophy of filmmaking adopted worldwide.
+There is a worldwide recognition and appreciation of the legacy of the Italian scientists Fermi (nuclear power), Meucci (telephone), and Marconi (radio), whose discoveries and inventions transformed the world. At the same time that German scientists were revolutionizing physics, beginning with Max Planck, Italian scientists like Fermi's Via Panisperna group in Rome were making important fundamental discoveries in physics as well.
+Italian companies have developed products that are of fundamental importance in contemporary society, such as the Olivetti-developed transistorized mainframe computer systems and, in 1964, the world's first commercial desktop computer, the Programma 101, invented by Pier Giorgio Perotto.
+Today, Italy is admired throughout the world for its design, particularly in the areas of fashion and manufactured goods. Italian fashions by Gucci, Benetton Armani, Valentino, Prada, Dolce & Gabbana, Ferragamo and Versace are known worldwide. In automobile design, the brand names Ferrari, Lamborghini and Maserati are known and admired throughout the world.[28]
+Italy ranks among the world’s most popular tourist destinations, with about 45 million tourists visiting the country every year. Italy has forty-seven UNESCO World Heritage Sites, more than any other country. It is also home to a large number of religious sites that draw people from all parts of the world. According to UNESCO, the cultural and educational agency for the United Nations, over 60 percent of the entire world’s art treasures are found in Italy, which draws tourists, scholars, artists and art historians from everywhere in the world. Many are drawn to Rome, still known as the "Eternal City," for its history, culture and the fact that Vatican City, the center of world-wide Catholicism, is located there. Other places in Italy that attract many tourists are Venice, Florence, and sites associated with Padre Pio and Francis of Assisi,
+The descendants of Italian immigrants to the countries of North and South America, in many cases, still retain an appreciation of their Italian roots, culture and traditions. Italophilia is actively fostered by organizations such as the Order Sons of Italy in America, the National Italian American Foundation, the Dante Alighieri Society and the Italic Institute of America.[29]
+Giorgio Silvestri (director of the "Assemblea legislativa della Liguria") has conjectured that there are nearly 250 million Italophiles in the world.[30]
+See also[edit]
+
+Italians
+Culture of Italy
 
 References[edit]
 
 
+^ Hayes, C., Baldwin, M. and Cole, C.; History of Western Civilization, The Macmillan Company, New York, 1968
+^ Churchill, Winston, History of the English Speaking Peoples, Barnes and Noble, 1994, pg. 8
+^ Durant, Will, Caesar and Christ, The Story of Civilization, Simon & Schuster, New York, 1953, pg. 618
+^ Caesar and Christ, The Story of Civilization, pg. 619
+^ Caesar and Christ, The Story of Civilization, pg. 619
+^ Lopez, Robert, The Commercial Revolution of the Middle Ages, 950-1350, Cambridge University Press, 1976
+^ Hoggson, N. F, Banking Through the Ages, Dodd, Mead & Company, New York, 1926.
+^ Goldthwaite, R. A., Banks, Places and Entrepreneurs in Renaissance Florence, Aldershot, Hampshire, Great Britain, Variorum, 1995
+^ George Macesich, Issues in money and banking, p42. Greenwood Publishing, 2000. ISBN 978-0-275-96777-2
+^ Durant, Will, The Renaissance, The Story of Civilization, Simon & Schuster, New York, 1953, pg. 718
+^ Edgerton, Samuel, The Heritage of Giotto's Geometry: Art and Science on the Eve of the Scientific Revolution, Cornell University Press, 1991, pg. 10
+^ Tarnas, Richard, Passions of the Western Mind, Penguin Random House, 2011, pg. 230
+^ Kemp, Martin The Science of Art: Optical Themes in Western Art from Brunelleschi to Seurat, Yale University Press, 1992.
+^ Wells, Francis, The Heart of Leonardo, Springer, 2013
+^ http://www.metmuseum.org/toah/hd/itar/hd_itar.htm
+^ http://classroom.synonym.com/ballet-renaissance-period-15707.html
+^ http://www.historytoday.com/john-gage/england-italian-renaissance
+^ Clubb, Louise George, Italian Drama in Shakespeare's Time (New Haven and London, Yale University Press, 1989), p. 33.
+^ Schultz, Anne Markham, Giammaria Mosca, Called Padovano: A Renaissance Sculptor in Italy and Poland, Pennsylvania State University Press, 1998
+^ DeArmas, Frederick, ed.,The Cambridge Companion to Cervantes, Chapter 3: Cervantes and the Italian Renaissance, Cambridge University Press, 2002, pp. 32-57
+^ Boorstin, Daniel, The Discoverers, Vintage Books, New York, 1985, pp. 376-83
+^ http://www.presidency.ucsb.edu/ws/index.php?pid=9332&st=&st1=
+^ Wilson, A. N. The Victorians. New York, New York, USA: W. W. Norton & Company, Ltd, 2003. Pp. 86.
+^ http://news.yahoo.com/italys-role-us-independence-honored-170938982.html
+^ The Italian American Experience, Salvatore LaGumina, ed., Garland Publishing, Inc., New York, 2000, pg. 305
+^ Mangione, Jerre and Morreale, Ben, La Storia, Five Centuries of the Italian American Experience, Harper Perennial, 1992
+^ Barzini, Luigi, The Italians, A Bantom Book, 1965
+^ Ferrari sports cars
+^ http://www.italic.org
+^ The Italic Project
 
 
-Anime and Manga portal
+Bibliography[edit]
 
-
-
-
-
-^ Hideaki Anno Wong, Amos (January 1996). "Interview with Hideaki Anno, director of 'Neon Genesis Evangelion'". Aerial Magazine. Archived from the original on 2007-06-30. Retrieved 2007-05-04. 
-^ Evangelion 1.0: You Are (Not) Alone Complete Records Collection (ヱヴァンゲリヲン新劇場版：序 全記録全集)ISBN 978-4-903713-17-5, Published May 2008, Retrieved March 24, 2012
-^ Eva graveyard (accessed via the Internet Archive) Concept sketch of Evangelion "graveyard", taken from one of the Groundwork of Evangelion artbooks
-^ The "new" Eva graveyard (accessed via the Internet Archive) The Evangelion graveyard, as depicted in the "Director's Cut" version of episode 23
-^ See here [1] and here [2] for production sketches (taken from the Internet Archive) of the simulation bodies.
-^ a b c d ADV Evangelion site Official ADV site for Neon Genesis Evangelion; Eva images and information are under the Artwork section (requires Adobe Flash) Archived June 30, 2007 at the Wayback Machine
-^ Unit 04 Information and image
-^ MP Evas Concept sketch of the mass-production Evas; taken from NEWTYPE 100% COLLECTION: NEON GENESIS EVANGELION. 1997 Kadokawashoten. ISBN 4-04-852700-2.
-
+Durant, Will, Caesar and Christ, The Story of Civilization, Simon & Schuster, New York, 1944.
+Durant, Will, The Age of Faith, The Story of Civilization, Simon & Schuster, New York, 1950.
+Durant, Will, The Renaissance, The Story of Civilization, Simon & Schuster, New York, 1953.
+Burckhardt, Jacob, The Civilization of the Renaissance in Italy, Volume 1, Harper & Row Publishers, 1958.
+Burckhardt, Jacob, The Civilization of the Renaissance in Italy, Volume 2, Harper & Row Publishers, 1958.
+Holmes, George, The Oxford Illustrated History of Italy, Edition 1, Oxford University Press, 2001.
+Sells, Lytton, The Italian Influence in English Poetry, Allen & Unwin ed., London, 1955.
+Berenson, Bernard, The Italian Painters of the Renaissance, Cornell University Press, 1980.
+Clendenin, William, History of Music, Littlefield, Adams and Company, Totawa N.J., 1980.
+Veinus, Abraham, The Concerto, Dover Publications, New York, 1964.
+Simon, Henry, ed., The Victor Book of the Opera, Simon & Schuster, New York, 1968.
+Mason, Stephen, A History of the Sciences, Collier Books, New York, 1962.
+Goldstein, Thomas, Dawn of Modern Science, Houghton Mifflin Company, Boston, 1980.
+Ferguson, Niall, The Ascent of Money, A Financial History of the World, The Penguin Press, New York, 2008.
+Woods, Thomas, How the Catholic Church Build Western Civilization, Regnery Publishing, Inc., Washington D.C., 2005.
+Greenblatt, Stephan, The Swerve: How the World Became Modern, W.W. Norton & Company, Inc., New York, 2011
 
 
 
@@ -198,36 +222,49 @@ t
 e
 
 
-Neon Genesis Evangelion
+Cultural appreciation
 
 
 
 
 
 
-Media
+Europe
 
 
 
+European
+Albanian
+Austrian
+English/British
+Estonian
+Finnish
+French
+German
+Greek
 
+Spartan
 
 
+Irish
+Italian
 
-Anime
+Roman
 
-episodes
 
+Scandinavian
 
-Manga
+Swedish
 
-chapters
 
+Slavic
 
-Angelic Days
-Petit Eva: Evangelion@School
-Campus Apocalypse
+Russian
+Serbian
+Ukrainian
 
 
+Spanish
 
 
 
@@ -235,19 +272,14 @@ Campus Apocalypse
 
 
 
-Films
 
+Africa
 
 
 
-Death & Rebirth
-The End of Evangelion
-Rebuild of Evangelion
+Egyptian
+Sub-Saharan
 
-1.0
-2.0
-3.0
-3.0+1.0
 
 
 
@@ -255,30 +287,32 @@ Rebuild of Evangelion
 
 
 
+Americas
 
 
 
+Uruguayan
 
-Video games
 
 
 
 
-Ayanami Raising Project
-Shinji Ikari Raising Project
-Girlfriend of Steel
 
-2nd
 
 
-Neon Genesis Evangelion
+Asia
 
-2
 
 
-Shinji and Good Friends
-Battle Orchestra
-Misato Katsuragi's Reporting Plan
+Armenian
+Chinese
+Georgian
+Indian
+Iranian/Persian
+Japanese
+Jewish
+Korean
+Pakistani
 
 
 
@@ -287,16 +321,13 @@ Misato Katsuragi's Reporting Plan
 
 
 
+Oceania
 
-Music
 
 
+Australian
 
 
-"A Cruel Angel's Thesis"
-"Fly Me to the Moon"
-"Beautiful World"
-"Sakura Nagashi"
 
 
 
@@ -304,72 +335,7 @@ Music
 
 
 
-
-
-
-
-Studios
-
-
-
-Gainax
-Khara
-Production I.G
-Tatsunoko
-
-
-
-
-
-
-
-
-Characters
-
-
-
-Shinji Ikari
-Rei Ayanami
-Asuka Langley Soryu
-Misato Katsuragi
-Gendo Ikari
-Kaworu Nagisa
-
-
-
-
-
-
-
-
-People
-
-
-
-Hideaki Anno
-Mahiro Maeda
-Yoshiyuki Sadamoto
-Shirō Sagisu
-Kazuya Tsurumaki
-
-
-
-
-
-
-
-
-Related
-
-
-
-Evangelions
-Themes
-Aoki Uru
-"Arue"
-Japan Animator Expo
-
-
+See also: Acculturation • Colonialism • Cultural appropriation • Cultural assimilation
 
 
 

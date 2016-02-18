@@ -1,1 +1,1 @@
-[]
+['http://www.latimes.com/local/obituaries/la-me-david-weidman-20140809-story.html', 'http://latimesblogs.latimes.com/home_blog/2010/07/david-weidman-artist-urban-outfitters.html', 'http://www.latimes.com/home/la-lh-david-weidman-show-1963-20140717-story.html']

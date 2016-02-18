@@ -1,1 +1,1 @@
-['http://www.nytimes.com/1985/12/10/us/dr-za-piotrowski-rorschach-test.html']
+['http://web.archive.org/web/20001005230107/http://treknation.com/nielsens/tng/season7.shtml', 'http://treknation.com/nielsens/tng/season7.shtml']

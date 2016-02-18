@@ -63,4 +63,4 @@ for i in range (0,NUMBER_OF_PAGES):
 	download_file(WIKI_RANDOM,file)
 	find_Links(file, snowball_links)
 	find_text(file, text_files)
-	TFIDF_test.TFIDF("./Q2_files/Random_*text.txt", "./Q2_TFIDF")		
+#	TFIDF_test.TFIDF("./Q2_files/Random_*text.txt", "./Q2_TFIDF")		

@@ -1,1 +1,1 @@
-['http://www.history.navy.mil/research/histories/ship-histories/danfs/t/tomich.html']
+['http://classics.mit.edu/Aristotle/physics.html', 'http://www.greektexts.com/library/Aristotle/Physics/eng/index.html', 'http://classics.mit.edu/Aristotle/physics.2.ii.html#646', 'http://classics.mit.edu/Aristotle/physics.2.ii.html', 'http://classics.mit.edu//Aristotle/physics.html', 'http://homepages.nyu.edu/~iav202/powers/aristotle.html']

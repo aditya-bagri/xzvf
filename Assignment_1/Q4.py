@@ -15,7 +15,7 @@ def outlier (arr, number_of_std_devs):
 	valid=[]
 	outlier = []
 	for elem in arr:
-		if (elem >= (mu - outlier_val)) and (elem <= (mu + outlier_val)):
+		if np.abs(elem - mu) < outlier_val:
 			valid.append(elem)
 		else:
 			outlier.append(elem)
@@ -27,8 +27,10 @@ def clear_files():
 		if reader:
 		    for sym in reader:
 			PATH="/home/ubuntu/BigData/Assignment_1/Q4_files/"+sym["COMPANY"]+".csv"
-			os.remove(PATH)
-
+			try:
+				os.remove(PATH)
+			except:
+				pass
 
 def create_files():
         for i in range(0,TIME_IN_MIN*60/TIME_BETWEEN_ITERATIONS):
@@ -57,13 +59,30 @@ def main():
 	clear_files()
 	create_files()
 
+TEST_MODE=1
+LIVE_MODE=0
+def test_outlier(mode):
+#	a = np.random.randint(-1500, 1500, 2500).astype(np.float64)+np.random.rand(1,2500)
+	if mode:
+		path = "./Q4_with_data/"
+	else:
+		path = "./Q4_files/"
+        reader=csv.DictReader(open('Yahoo_symbols.csv','rb'))
+	price_arr=[]
+        for row in reader:
+		print row
+                company=row["COMPANY"]
+                symbol=row["SYMBOL"]
+                share_name=Share(symbol)
+                filename = path+company+".csv"
+                file=open(filename,"r+")
+		for line in file:
+			price_arr.append(float(str(line).split(',')[1]))	
+		val,out= outlier(price_arr,2)
+		print out
 
-def test_outlier():
-	a = np.random.randint(-1500, 1500, 2500).astype(np.float64)+np.random.rand(1,2500)
-	val,out= outlier(a,2)
-	print out
-
-test_outlier()
+#main()
+test_outlier(TEST_MODE)
 
 ### To do: 1. Update outlier Function
 ### 	   2. Run code LIVE

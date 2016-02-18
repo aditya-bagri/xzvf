@@ -1,1 +1,1 @@
-[]
+['http://www.setimes.com/cocoon/setimes/xhtml/en_GB/infoCountryPage/setimes/resource_centre/bios/berisha_sali?country=Albania', 'http://www.princeton.edu/~pcwcr/reports/albania1998.html']

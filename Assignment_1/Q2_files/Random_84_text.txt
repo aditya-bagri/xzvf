@@ -4,120 +4,249 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-Sodium maleonitriledithiolate
 
+Dan Moriarty
 
 
+Personal information
 
-Names
 
+Full name
+Daniel Moriarty
 
-IUPAC name
-sodium cis-1,2-dicyano-1,2-ethylenedithiolate
 
+Date of birth
+20 August 1895
 
 
-Other names
-sodium mnt sodium maleonitriledithiolate
+Place of birth
+Adelaide, SA
 
 
+Date of death
+12 November 1982(1982-11-12) (aged 87)
 
-Identifiers
 
+Place of death
+Adelaide, SA
 
-ChemSpider
-5013443 Y
 
+Height/Weight
+178cm / 76kg[1]
 
-Jmol interactive 3D
-Image
 
+Position(s)
+Centre half-back
 
-PubChem
-6523934
 
+Playing career1
 
 
+Years
+Club
+Games (Goals)
 
-InChI
 
+1919-1925
+South Adelaide
+97 (2)
 
 
-InChI=1S/C4H2N2S2.2Na/c5-1-3(7)4(8)2-6;;/h7-8H;;/q;2*+1/p-2/b4-3+;; Y
-Key: UIEQIOFOWZBELJ-CZEFNJPISA-L Y
+Representative team honours
 
 
+Years
+Team
+Games (Goals)
 
 
-InChI=1/C4H2N2S2.2Na/c5-1-3(7)4(8)2-6;;/h7-8H;;/q;2*+1/p-2/b4-3+;;
-Key: UIEQIOFOWZBELJ-YWCBZGCUBZ
+1919-1925
+South Australia
+22
 
 
 
+1 Playing statistics correct to end of 1925 season.
 
 
 
+Dan Moriarty (20 August 1895 – 12 November 1982) was a champion Australian rules footballer in the South Australian Football League, considered to be one of the greatest centre half-backs in the history of the sport.[2]
+Moriarty played amateur football early in his career for Victoria Parks,[3] until 1915. Frank Barry convinced Moriarty to come to the South Adelaide Football Club in the South Australian Football League. Moriarty played four reserves games at the end of the 1915 season, before the league went into recess for three years due to World War I. He played in the Patriotic League in 1917 and 1918.[2]
+The SAFL returned from recess in 1919, and Moriarty made his league debut for South Adelaide, immediately becoming one of the league's star players at centre half-back. In each of his first three seasons – 1919, 1920 and 1921 – Moriarty won the Magarey Medal as the fairest and most brilliant player in the league. He remains the only player to have won the Magarey Medal in three consecutive seasons. He initially won all three Magarey Medals outright, although the 1920 and 1921 medals are now recorded as ties, with several other players later receiving retrospective medals for those seasons. Moriarty was selected in the South Australian team in interstate matches in 1919, and represented the state regularly throughout his career. He won the inaugural South Adelaide Football Club best and fairest in 1923, and was the club captain in 1925.[2]
+Moriarty retired from league football at the age of 30, after the 1925 season. His career spanned 97 league games for South Adelaide,[2] and 22 state games (played consecutively) for South Australia between 1919 and 1925.[3]
+Moriarty's size (178 cm, 76 kg) was small compared with most of the other great centre half-backs in the history of the game.[1] In his playing style, he is noted to have been an excellent two-way player. As a defender, he tightly marked his direct opponent,[2] had a very high leap with which he could spoil the ball, and was credited with a strong ability to read and anticipate the play; in a self-assessment, Moriarty credited his ability to read the play as the most important contributor to his success as a player.[4] As a rebounding player, his ability to rebound accurately to team-mates – rather than kick to contests or turnovers – is regarded as the key to why Moriarty was a dangerous player on attack as well as in defence.[2]
+Moriarty's career has been widely honoured since his retirement. He has been inducted into four halls of fame:
 
+Sport Australia Hall of Fame (inducted 1986)[1]
+Australian Football Hall of Fame (inaugural inductee, 1996)
+South Australian Football Hall of Fame (inaugural inductee, 2002)
+South Adelaide Football Club Hall of Fame[2]
 
-
-SMILES
-
-
-[Na+].[Na+].[S-]/C(C#N)=C(/[S-])C#N
-
-
-
-
-
-
-Properties
-
-
-
-Chemical formula
-
-C4N2Na2S2
-
-
-Molar mass
-186.17 g/mol
-
-
-Appearance
-yellow solid
-
-
-Solubility in ethanol, DMF
-Soluble
-
-
-
-
-Except where otherwise noted, data are given for materials in their standard state (at 25 °C [77 °F], 100 kPa).
-
-
-
-
-Y verify (what is YN ?)
-
-
-Infobox references
-
-
-
-
-
-
-Sodium maleonitriledithiolate is the chemical compound described by the formula Na2S2C2(CN)2. The name refers to the cis compound, formally derived from maleonitrile. The dianion is a "dithiolene", i.e. a chelating alkene-1,2-dithiolate that serves as a non-innocent ligand for transition metals. Several complexes are known, such as [Ni(mnt)2]2−.
-The salt is synthesized by treating carbon disulfide with sodium cyanide to give the cyanodithioformate salt, which eliminates elemental sulfur in aqueous solution:[1]
-
-2 NaCN + 2 CS2 → Na2S2C2(CN)2 + 1/4 S8
-
-The compound was first described by Bähr and Schleitzer 1958.[2]
+He was named at centre half-back in the South Adelaide Football Club's Official Greatest Team.[4] Sturt captain and Australian cricketer Vic Richardson has stated that Moriarty was the greatest footballer he had ever seen,[2] and he is often described as the greatest South Australian footballer between the two World Wars.[5]
+Following his football career, Moriarty was involved in horse racing, including as a journalist. His son, also named Dan, is also involved in horse racing.[6] Moriarty died in 1982, aged 87.[5]
 References[edit]
 
-^ R. H. Holm, A. Davison "Metal Complexes Derived from cis-1,2-Dicyano-1,2-Ethylenedithiolate and Bis(trifluoromethyl)-1,2-Dithiete" Inorganic Syntheses 1967, volume X, pp.8-26.
-^ G. Bähr and G. Schleitzer (1957). "Beiträge zur Chemie des Schwefelkohlenstoffs und Selenkohlenstoffs, II. Die Kondensierende Spontan-Entschwefelung von Salzen und Estern der Cyan-Dithioameisensäure. Freie Cyan-Dithioameisensäure". Chemische Berichte 90 (3): 438–443. doi:10.1002/cber.19570900322. 
+
+^ a b c "Dan Moriarty - Australian Football". Sport Australia Hall of Fame. Retrieved 16 Sep 2011. 
+^ a b c d e f g h "Hall of Fame". South Adelaide Football Club. 2010. Retrieved 16 September 2011. 
+^ a b "Dan Moriarty". South Australian National Football League. Retrieved 16 Sep 2011. 
+^ a b Devaney, John. "M - Dan Moriarty". Fullpointsfooty. Retrieved 16 Sep 2011. 
+^ a b "Daniel Moriarty". Retrieved 24 January 2015. 
+^ Grant, Trevor (28 Jan 2010). "George Hanlon went from delivering bread by horse cart in the Depression to one of Australia's top trainers". Herald Sun. Retrieved 16 Sep 2011. 
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Magarey Medal winners
+
+
+
+
+
+
+
+
+
+1898: Green
+1899: Malin
+1900: not awarded
+1901: Sandland
+1902: MacKenzie
+1903: Waye
+1904: not awarded
+1905: MacKenzie
+1906: MacKenzie
+1907: Mack
+1908: Tierney
+1909: R. Head
+1910: Hosking
+1911: Cumberland
+1912: Low
+1913: Leahy
+1914: Ashley
+1915: Barry / Hosking / Perry
+1916–18: not awarded
+1919: Moriarty
+1920: Moriarty / Richardson
+ 1921: Adams / Karney / Moriarty / Scott
+ 1922: Barnes
+1923: Riley
+1924: Scott
+1925: Bampton / Lill
+1926: McGregor
+1927: McGregor
+1928: Handby
+1929: Snell
+1930: Scott
+1931: Sexton
+1932: Pontifex
+1933: Dunn
+1934: Johnston
+1935: Cockburn
+1936: McCallum
+1937: Hawke
+1938: Quinn
+1939: McArthur / Pash
+ 1940: Brock
+1941: Boyall
+1942–44: not awarded
+1945: Quinn
+1946: Hank
+1947: Hank
+1948: R. Phillips
+1949: Crabb / R. Phillips
+1950: McKay
+1951: Marriott
+1952: Fitzgerald
+1953: Deane
+1954: Fitzgerald
+1955: L. Head
+1956: Boyd
+1957: Benton / Deane
+1958: L. Head
+1959: Fitzgerald
+1960: Barbary
+1961: Halbert
+1962: Eustice
+1963: L. Head
+1964: Motley
+1965: Window
+1966: Kneebone
+1967: Lindner / Obst
+1968: Robran
+1969: Phillis
+1970: Robran
+ 1971: R. Ebert
+1972: Blight
+1973: Robran
+1974: R. Ebert
+1975: Woite
+1976: R. Ebert
+1977: Trevor Grimwood
+1978: Hodgeman
+1979: Duckworth
+1980: R. Ebert
+1981: Aish
+1982: McGuinness
+1983: Antrobus
+1984: Platten
+1985: Fielke
+1986: Anderson
+1987: Jarman
+1988: Whittlesea
+1989: McAdam
+1990: Hodges
+1991: Naley
+1992: Buckley
+1993: B. Phillips
+1994: McIntosh
+1995: Kilpatrick / McIntosh
+1996: Francou
+1997: Atkinson / Jarman
+1998: Osborn
+1999: Squire
+2000: Squire
+2001: Brown / O'Connor
+2002: Sheedy / Weatherald
+2003: B. Ebert
+2004: P. Thomas
+2005: Clayton
+2006: Backwell
+2007: Allan
+2008: Crane
+2009: Archard / Ezard
+2010: Allan
+2011: Allan
+2012: Cross / Symes
+2013: M. Thomas
+2014: Kirkwood
+2015: Cross
+
+
+
+
+
+
+
+
+
+The Magarey Medal has been awarded since 1898 to the "best and most brilliant" player in the South Australian National Football League and its various incarnations.
+
+
+
+
+
 
 
 

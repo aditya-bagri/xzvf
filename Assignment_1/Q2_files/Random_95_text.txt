@@ -4,122 +4,73 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
+KLNT
 
-Chédiak–Higashi syndrome
-
-
-Classification and external resources
-
-
-Specialty
-endocrinology
+City of license
+Laredo, Texas
 
 
-ICD-10
-E70.3 (E70.340 ILDS)
+Broadcast area
+Laredo, Texas
+Nuevo Laredo, Tamaulipas
 
 
-ICD-9-CM
-288.2
+Branding
+La Mejor 1490
 
 
-OMIM
-214500
+Frequency
+1490 kHz
 
 
-DiseasesDB
-2351
+First air date
+1990 (as KDOS)
 
 
-MedlinePlus
-001312
+Format
+Regional Mexican
 
 
-eMedicine
-derm/704
+Power
+1,000 watts
 
 
-Patient UK
-Chédiak–Higashi syndrome
+Class
+C
 
 
-MeSH
-D002609
+Facility ID
+42149
 
 
-GeneReviews
+Callsign meaning
+K Laredo'sNewsTalk
+(former station format)
 
 
-Chediak-Higashi Syndrome
+Former callsigns
+KVOZ (?-1988)
+KDOS (1988-1998)
 
 
+Owner
+Roberto Gonzalez
+(MBM Radio Laredo LLC)
 
 
-
-[edit on Wikidata]
-
-
-
-Chédiak–Higashi syndrome[1] is a rare autosomal recessive disorder that arises from a mutation of a lysosomal trafficking regulator protein,[2] which leads to a decrease in phagocytosis. The decrease in phagocytosis results in recurrent pyogenic infections, partial albinism and peripheral neuropathy. It occurs in humans, cattle, blue Persian cats, Australian blue rats,[3] mice,[4] mink,[4] foxes,[4] and the only known captive albino orca.[5]
+Webcast
+Listen Live
 
 
-
-Contents
-
-
-1 Signs and symptoms
-2 Causes
-3 Pathophysiology
-4 Diagnosis
-
-4.1 Clinical findings
-
-
-5 Treatment
-6 Eponym
-7 See also
-8 References
-
-
-
-Signs and symptoms[edit]
-People with CHS have light skin and silvery hair (partial albinism) and frequently complain of solar sensitivity and photophobia. Other signs and symptoms vary considerably, but frequent infections and neuropathy are common. The infections involve mucous membranes, skin, and the respiratory tract. Affected children are susceptible to infection by Gram-positive and gram-negative bacteria and fungi, with Staphylococcus aureus being the most common infection cause. Neuropathy often begins in the teenage years and becomes the most prominent problem. Infections in CHS patients tend to be very serious and even life-threatening; few patients with this condition live to adulthood.
-Most children with Chédiak–Higashi syndrome ultimately reach a stage known as the accelerated phase, also known as the lymphoma-like-syndrome. In the accelerated phase, defective white blood cells divide uncontrollably and invade many of the body's organs. The accelerated phase is associated with fever, episodes of abnormal bleeding, overwhelming infections, and organ failure. These medical problems are usually life-threatening in childhood.
-Causes[edit]
-Mutations in the CHS1 gene (also called LYST) have been found to be connected with Chédiak–Higashi Syndrome. This gene provides instructions for making a protein known as the lysosomal trafficking regulator. Researchers believe that this protein plays a role in the transport (trafficking) of materials into lysosomes. Lysosomes act as recycling centers within cells. They use digestive enzymes to break down toxic substances, digest bacteria that invade the cell, and recycle worn-out cell components. Although the lysosomal trafficking regulator protein is involved in the normal function of lysosomes, its exact role is unknown.[6]
-Pathophysiology[edit]
-CHS is a disease causing impaired bacteriolysis[7] due to failure of phagolysosome formation. As a result of disordered intracellular trafficking there is impaired lysosome degranulation with phagosomes, so phagocytosed bacteria are not destroyed by the lysosome's enzymes.
-In addition, secretion of lytic secretory granules by cytotoxic T cells is affected.
-The disease is characterised by large lysosome vesicles in phagocytes (neutrophils), which thus have poor bactericidal function, leading to susceptibility to infections, abnormalities in nuclear structure of leukocytes, anemia, and hepatomegaly. Dohle bodies in the neutrophil are also seen in this syndrome which are ruptured rough endoplasmic reticulum.
-Diagnosis[edit]
-The diagnosis is confirmed by bone marrow smears that show "giant inclusion bodies" in the cells that develop into white blood cells (leukocyte precursor cells). CHS can be diagnosed prenatally by examining a sample of hair from a fetal scalp biopsy or testing leukocytes from a fetal blood sample.[8]
-Under light microscopy the hairs present evenly distributed, regular melanin granules, larger than those found in normal hairs. Under polarized light microscopy these hairs exhibit a bright and polychromatic refringence pattern.[9]
-Clinical findings[edit]
-There are several manifestations of Chédiak–Higashi syndrome as mentioned above; however, neutropenia seems to be the most common. The syndrome is associated with oculocutaneous albinism. Persons are prone for infections, especially with Staphylococcus aureus, as well as Streptococci.
-It is associated with periodontal disease of the deciduous dentition. Associated features include abnormalities in melanocytes (albinism), nerve defects, bleeding disorders.
-Treatment[edit]
-There is no specific treatment for Chédiak–Higashi syndrome. Bone marrow transplants appear to have been successful in several patients. Infections are treated with antibiotics and abscesses are surgically drained when appropriate. Antiviral drugs such as acyclovir have been tried during the terminal phase of the disease. Cyclophosphamide and prednisone have been tried. Vitamin C therapy has improved immune function and clotting in some patients.[10]
-Eponym[edit]
-It is named for the Cuban physician and serologist Alejandro Moisés Chédiak (1903–1993) and the Japanese pediatrician Otokata Higashi (1883–1981).[11] It is often spelled without the accent as Chediak–Higashi syndrome.
-See also[edit]
-
-Griscelli syndrome (also known as "Chédiak–Higashi like syndrome")
-
+KLNT (1490 AM, is a Regional Mexican format radio station that serves the Laredo, Texas, United States and Nuevo Laredo, Tamaulipas, Mexico border area.
 References[edit]
 
+External links[edit]
 
-^ Rapini, Ronald P.; Bolognia, Jean L.; Jorizzo, Joseph L. (2007). Dermatology: 2-Volume Set. St. Louis: Mosby. ISBN 1-4160-2999-0. 
-^ Kaplan J, De Domenico I, Ward DM (January 2008). "Chediak-Higashi syndrome". Curr. Opin. Hematol. 15 (1): 22–9. doi:10.1097/MOH.0b013e3282f2bcce. PMID 18043242. 
-^ Australian blue rats: a hypothesis
-^ a b c Australian blue rats: a hypothesis
-^ The Orca Ocean
-^ "Chediak–Higashi syndrome". Retrieved 2008-11-06. 
-^ "Chédiak–Higashi syndrome". Merck Manuals. Retrieved 2008-03-01. 
-^ "Chediak Higashi syndrome". Retrieved 2008-11-06. 
-^ Falus A, Fenyo M, Eder K, Madarasi A (September 2011). "[Polarized light as an epigenetic factor in inhibition of inflammation; a genome-wide expression analysis in recurrent respiratory diseases of children]". Orv Hetil (in Hungarian) 152 (37): 1492–9. doi:10.1556/OH.2011.29162. PMID 21893480. 
-^ Hughes, DA (February 1999). "Effects of dietary antioxidants on the immune function of middle-aged adults.". The Proceedings of the Nutrition Society 58 (1): 79–84. doi:10.1079/pns19990012. PMID 10343344. 
-^ Saez-De-Ocariz M, Orozco-Covarrubias L, Duràn-McKinster C, Ruiz-Maldonado R (2008). "Silver hair syndromes: Chediak–Higashi syndrome (CHS) and Griscelli syndromes (GS)". In Ruggieri M, Pascual-Castroviejo I, Di Rocco C, editors. Neurocutaneous Disorders: Phakomatoses and Hamartoneoplastic Syndromes. Springer. pp. 407–26. doi:10.1007/978-3-211-69500-5_19. ISBN 978-3-211-21396-4. 
 
+Query the FCC's AM station database for KLNT
+Radio-Locator Information on KLNT
+Query Nielsen Audio's AM station database for KLNT
 
 
 
@@ -134,20 +85,29 @@ t
 e
 
 
-Hematologic disease: Monocyte and granulocyte disease (CFU-GM/CFU-Baso/CFU-Eos), including immunodeficiency (D70-D71, 288)
+Radio stations in the Laredo, Texas market
 
 
 
 
 
 
-Monocytes/
-macrophages
+By FM frequency
 
 
 
+88.1
+89.9
+92.7
+93.3
+94.9
+98.1
+100.5
+101.7
+102.5
+103.9
+106.1
 
-↑
 
 
 
@@ -155,24 +115,29 @@ macrophages
 
 
 
-Histiocytosis
-Chronic granulomatous disease
+By AM frequency
 
 
 
+530
+890
+1300
+1490
+1610
 
 
 
 
 
--cytosis:
 
 
 
-Monocytosis
+NOAA Weather Radio
+frequency
 
 
 
+162.55
 
 
 
@@ -181,23 +146,40 @@ Monocytosis
 
 
 
-↓
+By callsign
 
 
 
+KBDR
+KBNL
+KELT
+KEKO
+KHOY
+KJBZ
+KJJS
+KLAR
+KLIT
+KLNT
+KNEX
+KQUR
+KRRG
+KVOZ
+WPMQ285
+WXK26
 
--penia:
 
 
 
-Monocytopenia
 
 
 
 
+Defunct
 
 
 
+KAZF 91.9 FM
+KMAE 106.5
 
 
 
@@ -205,100 +187,21 @@ Monocytopenia
 
 
 
-Granulocytes
 
 
 
 
-↑
+Nearby radio markets
+Corpus Christi
+Eagle Pass
+Kingsville–Alice–Falfurrias
+McAllen–Brownsville–Harlingen
+Nuevo Laredo
+San Antonio
 
 
-
-
--cytosis:
-
-
-
-granulocytosis
-
-Neutrophilia
-Eosinophilia/Hypereosinophilic syndrome
-Basophilia
-Bandemia
-
-
-
-
-
-
-
-
-
-
-
-
-
-↓
-
-
-
-
--penia:
-
-
-
-Granulocytopenia/agranulocytosis (Neutropenia/Kostmann syndrome
-Eosinopenia
-Basopenia)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-PBD
-
-
-
-
-chemotaxis/degranulation:
-
-
-
-Leukocyte adhesion deficiency
-
-LAD1
-LAD2
-
-
-Chédiak–Higashi syndrome
-Neutrophil-specific granule deficiency
-
-
-
-
-
-
-
-
-respiratory burst:
-
-
-
-Chronic granulomatous disease
-Neutrophil immunodeficiency syndrome
-Myeloperoxidase deficiency
-
-
-
+See also
+List of radio stations in Texas
 
 
 
@@ -320,327 +223,193 @@ t
 e
 
 
-Pigmentation disorders/Dyschromia (L80–L81, 709.0)
+Spanish-language radio stations in the state of Texas
+
+
+
+
+
+
+Stations
+
+
+
+KABA – Louise
+KAIQ – Wolfforth
+KAMA – El Paso
+KAMA-FM – Deer Park
+KBDR – Mirando City
+KBIB – Marion
+KBIC – Raymondville
+KBNA-FM – El Paso
+KBNL – Laredo
+KBNR – Brownsville
+KBOC – Bridgeport
+KBRN – Boerne
+KBRZ-FM – Victoria
+KBZD – Amarillo
+KCHX – Odessa
+KCOR – San Antonio
+KCUL-FM – Marshall
+KCZO – Carrizo Springs
+KDFM – Falfurrias
+KDFT – Ferris
+KDXX – Lewisville
+KEPX – Eagle Pass
+KERB-FM – Kermit
+KESO – South Padre Island
+KESS-FM – Benbrook
+KEYH – Houston
+KEYU-FM – Amarillo
+KFLC – Fort Worth
+KFTG – Pasadena
+KFZO – Denton
+KGBT – Harlingen
+KGBT-FM – McAllen
+KGVL – Greenville
+KHHL – Karnes City
+KHRO – El Paso
+KIBL – Beeville
+KINE – Kingsville
+KINT – El Paso
+KIRT – Mission
+KJAV - Alamo
+KJNZ – Hereford
+KJOJ-FM – Freeport
+KLAR – Laredo
+KLAT – Houston
+KLBD – Premont
+KLDS – Falfurrias
+KLEY-FM – Jourdanton
+KLIT – Ranchitos Las Lomas
+KLJA – Georgetown
+KLOL – Houston
+KLQB – Taylor
+KLTN – Houston
+KLTO – Del Rio
+KLVL – Pasadena
+KLZT – Bastrop
+KMFR – Pearsall
+KMJR – Portland
+KMPA – Pittsburg
+KMVK – Fort Worth
+KMXO – Merkel
+KNOR – Krum
+KNTE – Bay City
+KNVO-FM – Port Isabel
+KOIR – Edinburg
+KOVE-FM – Galveston
+KOYE – Frankston
+KOZA – Odessa
+KPMB – Plainview
+KQBO – Rio Grande City
+KQLM – Odessa
+KQQK – Beaumont
+KQUE – Houston
+KRCM – Shenandoah
+KRDY – San Antonio
+KRGE – Weslaco
+KRGX – Rio Grande City
+KRIO – McAllen
+KRIO-FM – Roma
+KROB – Robstown
+KROM – San Antonio
+KRVA – Cockrell Hill
+KSAH – Universal City
+KSAH-FM – Pearsall
+KSJT-FM – San Angelo
+KSML-FM – Huntington
+KSTV – Stephenville
+KSVE – El Paso
+KTAE – Austin
+KTAM – Bryan
+KTJM – Port Arthur
+KTNO – University Park
+KTNZ – Amarillo
+KTTU-FM – Brownfield
+KTXC – Lamesa
+KTXZ – West Lake Hills
+KTYR – Trinity
+KUBR – San Juan
+KUNO – Corpus Christi
+KUVA – Uvalde
+KVER – El Paso
+KVFM – Beeville
+KVIV – El Paso
+KVJM – Hearne
+KVJY – Pharr
+KVOZ – Del Mar Hills
+KVVO-LP – Abilene
+KVVT – Sulphur Springs
+KWEL – Midland
+KWMF – Pleasanton
+KWOW – Clifton
+KWRA-LP – Waco
+KXBJ – El Campo
+KXOI – Crane
+KXPL – El Paso
+KXVR-LP – Corpus Christi
+KXYZ – Houston
+KXZX – Juilliard
+KXZY-LP – Waco
+KYLP – Greenville
+KYST – Texas City
+KZDC – San Antonio
+KZNX – Creedmoor
+KZXM – Bullard
+KZZA – Muenster
 
 
 
 
 
 
-Hypo-/
-leucism
 
 
+Defunct
 
 
-Loss of melanocytes
 
+KMUL – Farwell
+KPDB – Big Lake
 
 
 
-vitiligo:
 
 
 
-Quadrichrome vitiligo
-Vitiligo ponctué
 
 
 
 
 
 
+See also
+adult contemporary
+classic hits
+college
+country
+news/talk
+NPR
+oldies
+religious
+rock
+sports
+top 40
+urban
+other radio stations in Texas
 
 
-syndromic
 
 
 
-Alezzandrini syndrome
-Vogt–Koyanagi–Harada syndrome
-
-
-
-
-
-
-
-
-melanocyte development:
-
-
-
-Piebaldism
-Waardenburg syndrome
-Tietz syndrome
-
-
-
-
-
-
-
-
-
-
-
-Loss of melanin/
-amelanism
-
-
-
-
-albinism:
-
-
-
-Oculocutaneous albinism
-Ocular albinism
-
-
-
-
-
-
-
-
-melanosome transfer:
-
-
-
-Hermansky–Pudlak syndrome
-Chédiak–Higashi syndrome
-Griscelli syndrome
-
-Elejalde syndrome
-Griscelli syndrome type 2
-Griscelli syndrome type 3
-
-
-
-
-
-
-
-
-
-
-other:
-
-
-
-Cross syndrome
-ABCD syndrome
-Albinism–deafness syndrome
-Idiopathic guttate hypomelanosis
-Phylloid hypomelanosis
-Progressive macular hypomelanosis
-
-
-
-
-
-
-
-
-
-
-
-Leukoderma w/o
-hypomelanosis
-
-
-
-Vasospastic macule
-Woronoff's ring
-Nevus anemicus
-
-
-
-
-
-
-
-
-Ungrouped
-
-
-
-Nevus depigmentosus
-Postinflammatory hypopigmentation
-Pityriasis alba
-Vagabond's leukomelanoderma
-Yemenite deaf-blind hypopigmentation syndrome
-Wende–Bauckus syndrome
-
-
-
-
-
-
-
-
-
-
-
-Hyper-
-
-
-
-
-Melanin/
-Melanosis/
-Melanism
-
-
-
-
-Reticulated
-
-
-
-Dermatopathia pigmentosa reticularis
-Pigmentatio reticularis faciei et colli
-Reticulate acropigmentation of Kitamura
-Reticular pigmented anomaly of the flexures
-Naegeli–Franceschetti–Jadassohn syndrome
-Dyskeratosis congenita
-X-linked reticulate pigmentary disorder
-Galli–Galli disease
-Revesz syndrome
-
-
-
-
-
-
-
-
-Diffuse/
-circumscribed
-
-
-
-Lentigo/Lentiginosis: Lentigo simplex
-Liver spot
-Centrofacial lentiginosis
-Generalized lentiginosis
-Inherited patterned lentiginosis in black persons
-Ink spot lentigo
-Lentigo maligna
-Mucosal lentigines
-Partial unilateral lentiginosis
-PUVA lentigines
-
-
-Melasma
-Erythema dyschromicum perstans
-Lichen planus pigmentosus
-Café au lait spot
-Poikiloderma (Poikiloderma of Civatte
-Poikiloderma vasculare atrophicans)
-Riehl melanosis
-
-
-
-
-
-
-
-
-Linear
-
-
-
-Incontinentia pigmenti
-Scratch dermatitis
-Shiitake mushroom dermatitis
-
-
-
-
-
-
-
-
-Other/ungrouped
-
-
-
-Acanthosis nigricans
-Freckle
-Familial progressive hyperpigmentation
-Pallister–Killian syndrome
-Periorbital hyperpigmentation
-Photoleukomelanodermatitis of Kobori
-Postinflammatory hyperpigmentation
-Transient neonatal pustular melanosis
-
-
-
-
-
-
-
-
-
-
-
+See also
+Classical
+Jazz
+Religious
+Spanish
+Smooth Jazz
 Other
-pigments
-
-
-
-
-iron:
-
-
-
-Hemochromatosis
-Iron metallic discoloration
-Pigmented purpuric dermatosis
-
-Schamberg disease
-Majocchi's disease
-Gougerot–Blum syndrome
-Doucas and Kapetanakis pigmented purpura/Eczematid-like purpura of Doucas and Kapetanakis
-Lichen aureus
-Angioma serpiginosum
-
-
-Hemosiderin hyperpigmentation
-
-
-
-
-
-
-
-
-other metals:
-
-
-
-Argyria
-Chrysiasis
-Arsenic poisoning
-Lead poisoning
-Titanium metallic discoloration
-
-
-
-
-
-
-
-
-other:
-
-
-
-Carotenosis
-Tattoo
-Tar melanosis
 
 
 
@@ -650,365 +419,16 @@ Tar melanosis
 
 
 
+Coordinates: 27°29′41″N 99°28′16″W﻿ / ﻿27.49472°N 99.47111°W﻿ / 27.49472; -99.47111
 
 
-
-
-
-Dyschromatoses
-
-
-
-Dyschromatosis symmetrica hereditaria
-Dyschromatosis universalis hereditaria
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ 
+This article about a radio station in Texas is a stub. You can help Wikipedia by expanding it.
 
 
 v
 t
 e
-
-
-Inherited disorders of trafficking / vesicular transport proteins
-
-
-
-
-
-
-Vesicle formation
-
-
-
-
-Lysosome/Melanosome:
-
-
-
-HPS1-HPS7
-
-Hermansky–Pudlak syndrome
-
-
-LYST
-
-Chédiak–Higashi syndrome
-
-
-
-
-
-
-
-
-
-
-COPII:
-
-
-
-SEC23A
-
-Cranio–lenticulo–sutural dysplasia
-
-
-
-
-
-
-
-
-
-
-
-
-
-COG7
-
-CDOG IIE
-
-
-
-
-
-
-
-
-
-
-APC:
-
-
-
-AP1S2
-
-X-linked intellectual disability
-
-
-AP3B1
-
-Hermansky–Pudlak syndrome 2
-
-
-AP4M1
-
-CPSQ3
-
-
-
-
-
-
-
-
-
-
-
-
-
-Rab
-
-
-
-
-
-
-
-ARL6
-
-BBS3
-
-
-
-
-
-
-
-
-
-
-
-
-
-RAB27A
-
-Griscelli syndrome 2
-
-
-
-
-
-
-
-
-
-
-
-
-
-CHM
-
-Choroideremia
-
-
-MLPH
-
-Griscelli syndrome 3
-
-
-
-
-
-
-
-
-
-
-
-
-
-Cytoskeleton
-
-
-
-
-Myosin:
-
-
-
-MYO5A
-
-Griscelli syndrome 1
-
-
-
-
-
-
-
-
-
-
-Microtubule:
-
-
-
-SPG4
-
-Hereditary spastic paraplegia 4
-
-
-
-
-
-
-
-
-
-
-Kinesin:
-
-
-
-KIF5A
-
-Hereditary spastic paraplegia 10
-
-
-
-
-
-
-
-
-
-
-Spectrin:
-
-
-
-SPTBN2
-
-Spinocerebellar ataxia 5
-
-
-
-
-
-
-
-
-
-
-
-
-
-Vesicle fusion
-
-
-
-
-Synaptic vesicle:
-
-
-
-SNAP29
-
-CEDNIK syndrome
-
-
-STX11
-
-Hemophagocytic lymphohistiocytosis 4
-
-
-
-
-
-
-
-
-
-
-Caveolae:
-
-
-
-CAV1
-
-Congenital generalized lipodystrophy 3
-
-
-CAV3
-
-Limb-girdle muscular dystrophy 2B, Long QT syndrome 9
-
-
-
-
-
-
-
-
-
-
-Vacuolar protein sorting:
-
-
-
-VPS33B
-
-ARC syndrome
-
-
-VPS13B
-
-Cohen syndrome
-
-
-
-
-
-
-
-
-
-
-
-
-
-DYSF
-
-Distal muscular dystrophy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-See also vesicular transport proteins
-
 
 
 

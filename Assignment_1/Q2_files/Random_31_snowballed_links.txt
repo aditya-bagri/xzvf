@@ -1,1 +1,1 @@
-['http://www.saferplaces.org/dir.html']
+[]

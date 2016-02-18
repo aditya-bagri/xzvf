@@ -46,4 +46,4 @@ def TFIDF(source, destination):
 def test_TFIDF():
 	TFIDF("./Q2_files/Random_*text.txt", "./Q2_TFIDF")
 
-#test_TFIDF()
+test_TFIDF()

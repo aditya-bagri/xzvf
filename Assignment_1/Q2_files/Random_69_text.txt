@@ -3,70 +3,47 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
+Atomic Sock Monkey Press (ASMP) is a small press game company that publishes “beer and pretzels” role-playing games and board games. The company is run by Chad Underkoffler, also known for his game columns on RPG.net and Pyramid magazine, as well as writing contributions to Atlas Games' Unknown Armies line.
 
 
-Oleg Gubin
+
+Contents
 
 
-Born
-(1981-04-12) April 12, 1981 (age 34)
-Voskresensk, Russia
+1 Games
+2 PDQ System
+3 Licensed Titles
+4 External links
 
 
-Height
-6 ft 1 in (185 cm)
+
+Games[edit]
+ASMP’s games include:
+
+“Monkey, Ninja, Pirate, Robot, the Roleplaying Game,” a fantasy game wherein characters play archetypal roles based on the character types from the title. Monkey, Ninja, Pirate, Robot Deluxe, a boardgame that shares the same concept, was a 2003 Origins Award Nominee for Best Abstract Board Game.
 
 
-Weight
-181 lb (82 kg; 12 st 13 lb)
+“Dead Inside,” a horror/fantasy RPG based around the concept of characters who have lost or were born without their souls. Dead Inside won the 2004 People's Choice Award in the Indie RPG Awards.
 
 
-Position
-Centre
+“Truth & Justice,” a superhero-based RPG that allows players to take the role of superheroes and supervillains. Truth & Justice won the 2005 Indie RPG Award for Best Support, the 2006 Silver ENnie Award for Best Electronic Book, and the 2006 Silver Award for Innovation (an ENnie Judges' Award).
 
 
-Shoots
-Right
+“The Zorcerer of Zo,” a fairytale RPG influenced by fairytale worlds like Oz, Narnia, Wonderland, Fantastica, and others. Zorcerer of Zo won the 2006 Outie Award for Best New RPG.
 
 
-KHL team
-HC Severstal
+"Swashbucklers of the Seven Skies," a swashbuckling RPG set in a fantasy world.
 
-
-NHL Draft
-Undrafted
-
-
-Playing career
-2004–present
-
-
-Oleg Gubin (born April 12, 1981) is a Russian professional ice hockey forward who currently plays for HC Severstal of the Kontinental Hockey League (KHL).[1]
-References[edit]
-
-
-^ Cherepovets Severstal's 2010-11 Roster
-
-
+PDQ System[edit]
+Most ASMP games share in common the PDQ (Prose Descriptive Qualities) system, a rules-light game engine that has three different levels of task resolution for any situation, in order to let players resolve encounters in as much or as little detail as desired.
+The mechanism is to generate a random number or roll, add a freeform stat or set of stats, and compare to a difficulty number -- either a fixed difficulty number or the opponent's roll. In conflicts, the amount which you beat another character's roll by is the amount of damage or failure ranks (see below). Stats are rated in five named ranks: Poor [-2], Average [+0], Good [+2], Expert [+4], and Master [+6].
+Conflicts result in the accumulation of either "failure ranks" (which recover at the end of the contest) or "damage ranks" (which may take longer to heal). Each point of either type means that the loser must choose a stat to downgrade by one rank. So if you lose a conflict roll by 3, you must lower three stats each by one rank, or one stat by three ranks (with a minimum of Poor: -2). You can choose any stat to take your damage in -- i.e. you can downgrade your "Accounting" quality based on a hit in a fight. When you can't lower your stats any lower (i.e. a hit when all stats are at Poor [-2]), then you have lost the contest.
+Licensed Titles[edit]
+The PDQ game system has been licensed for use in other games, including Silver Branch Games' Questers of the Middle Realms and aethereal FORGE's Vox and Ninja Burger 2nd edition.
 External links[edit]
 
-Oleg Gubin's career statistics at EliteProspects.com
-Oleg Gubin's career statistics at The Internet Hockey Database
-
-
-
-
-
-This biographical article relating to a Russian ice hockey centre is a stub. You can help Wikipedia by expanding it.
-
-
-v
-t
-e
-
-
-
-
+ASMP home page
+PDQ system download page
 
 
 

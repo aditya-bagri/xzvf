@@ -4,45 +4,1365 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
+  1989 Canadian Grand Prix
+
+Race details
 
 
-
-
-The topic of this article may not meet Wikipedia's general notability guideline. Please help to establish notability by adding reliable, secondary sources about the topic. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
-Find sources: "Robotic book scanner" – news · newspapers · books · scholar · JSTOR · free images (February 2010)
-
-
+Race 6 of 16 in the 1989 Formula One season
 
 
 
 
 
-It has been suggested that this article be merged into Book scanning. (Discuss) Proposed since January 2015.
+Date
+June 18, 1989
 
 
-A robotic book scanner is a machine which is used to scan books, integrating automated components that allow the device to exceed the speed of traditional manual imaging devices such as camera stands. A robotic scanner usually consists of three basic parts: a mechanical device to turn the pages; a cradle or table to hold the book in place, and a camera or imaging sensor to capture images. Images are then automatically shuttled to a central computer repository, where automated processing may take place in order to perform cropping, de-skewing, and other image enhancement functions. During the process, the book remains intact.
-The first fully automated book scanner was the DL (Digitizing Line) scanner, manufactured by 4DigitalBooks in Switzerland. First known installation was at Stanford University in 2001.[1][2] Scanner received a Dow Jones Runner-Up award under Business Applications Category in 2001.[3]
-Most high-end commercial robotic scanners use traditional air and suction technology while some others use alternative approaches like bionic finger for turning the pages. Some scanners take advantage of Ultrasonic sensor or Photoelectric sensor to detect dual pages and prevent skipping of pages.
-With reports of machines being able to scan up to 2900 pages per hour[4] robotic book scanners are specifically designed for large-scale digitization projects. Such performance numbers are most of the times based on maximum speed during the scanning process and not an average scanning production, which includes changing of the book, tuning the settings per specific book, book size. For real production calculations, it is recommended to verify the individual performances of robotic scanners.
+Official name
+XXVII Grand Prix Molson du Canada
+
+
+Location
+Circuit Gilles Villeneuve
+Montreal, Canada
+
+
+Course
+Partial street circuit
+
+
+Course length
+4.3902 km (2.728 mi)
+
+
+Distance
+69 laps, 302.91 km (188.21 mi)
+
+
+Weather
+Cool, cloudy, intermittent rain - heavy at times
+
+
+Pole position
+
+
+Driver
+
+
+
+ Alain Prost
+
+
+
+McLaren-Honda
+
+
+Time
+1:20.973
+
+
+Fastest lap
+
+
+Driver
+ Jonathan Palmer
+Tyrrell-Ford
+
+
+Time
+1:31.925 on lap 11
+
+
+Podium
+
+
+First
+
+
+
+ Thierry Boutsen
+
+
+
+Williams-Renault
+
+
+Second
+
+
+
+ Riccardo Patrese
+
+
+
+Williams-Renault
+
+
+Third
+
+
+
+ Andrea de Cesaris
+
+
+
+Dallara-Ford
+
+
+The 1989 Canadian Grand Prix was a Formula One race held at Circuit Gilles Villeneuve on June 18, 1989.
+It was the first Formula One victory for Belgian driver Thierry Boutsen – who won three Formula One races overall, all during his two-year stint with Williams-Renault – and was the first win for the Williams-Renault partnership, which lasted until the end of the 1997 season and went on to win four Drivers' and five Constructors' World Championships in that time.
+McLaren's Alain Prost scored his first pole position since the 1988 Portuguese Grand Prix, halting team mate Ayrton Senna's run of 8 straight poles since that race.
+
+
+
+Contents
+
+
+1 Classification
+
+1.1 Pre Qualifying
+1.2 Qualifying
+1.3 Race
+
+
+2 Notes
+3 Championship standings after the race
+4 References
+
+
+
+Classification[edit]
+Pre Qualifying[edit]
+
+
+Pos
+No
+Driver
+Constructor
+Time
+Gap
+
+
+1
+8
+ Stefano Modena
+Brabham-Judd
+1:23.398
+—
+
+
+2
+17
+ Nicola Larini
+Osella-Ford
+1:24.550
++1.152
+
+
+3
+36
+ Stefan Johansson
+Onyx-Ford
+1:24.764
++1.366
+
+
+4
+21
+ Alex Caffi
+Dallara-Ford
+1:24.778
++1.380
+
+
+5
+7
+ Martin Brundle
+Brabham-Judd
+1:25.275
++1.877
+
+
+6
+37
+ Bertrand Gachot
+Onyx-Ford
+1.25.952
++2.554
+
+
+7
+33
+ Gregor Foitek
+Euro Brun-Judd
+1:26.365
++2.967
+
+
+8
+18
+ Piercarlo Ghinzani
+Osella-Ford
+1:26.807
++3.409
+
+
+9
+34
+ Bernd Schneider
+Zakspeed-Yamaha
+1:27.073
++3.675
+
+
+10
+41
+ Joachim Winkelhock
+AGS-Ford
+1:28.545
++5.147
+
+
+11
+39
+ Volker Weidler
+Rial-Ford
+1:31.455
++8.057
+
+
+12
+35
+ Aguri Suzuki
+Zakspeed-Yamaha
+1:53.327
++29.929
+
+
+13
+32
+ Pierre-Henri Raphanel
+Coloni-Ford
+1:59.693
++36.295
+
+
+Qualifying[edit]
+
+
+Pos
+No
+Driver
+Constructor
+Q1
+Q2
+Gap
+
+
+1
+2
+ Alain Prost
+McLaren-Honda
+1:20.973
+1:22.269
+—
+
+
+2
+1
+ Ayrton Senna
+McLaren-Honda
+1:21.049
+1:21.269
++0.076
+
+
+3
+6
+ Riccardo Patrese
+Williams-Renault
+1:21.783
+1:23.738
++0.810
+
+
+4
+28
+ Gerhard Berger
+Ferrari
+1:21.946
+1:22.305
++0.973
+
+
+5
+27
+ Nigel Mansell
+Ferrari
+1:22.165
+1:22.751
++1.192
+
+
+6
+5
+ Thierry Boutsen
+Williams-Renault
+1:22.311
+1:24.004
++1.338
+
+
+7
+8
+ Stefano Modena
+Brabham-Judd
+1:22.612
+1:23.599
++1.639
+
+
+8
+21
+ Alex Caffi
+Dallara-Ford
+1:22.901
+1:24.957
++1.928
+
+
+9
+22
+ Andrea de Cesaris
+Dallara-Ford
+1:23.050
+1:24.444
++2.077
+
+
+10
+30
+ Philippe Alliot
+Lola-Lamborghini
+1:23.059
+—
++2.086
+
+
+11
+23
+ Pierluigi Martini
+Minardi-Ford
+1:23.252
+1:25.195
++2.279
+
+
+12
+9
+ Derek Warwick
+Arrows-Ford
+1:23.348
+1:23.833
++2.375
+
+
+13
+19
+ Alessandro Nannini
+Benetton-Ford
+1:23.542
+1:24.279
++2.569
+
+
+14
+3
+ Jonathan Palmer
+Tyrrell-Ford
+1:23.665
+1:23.876
++2.692
+
+
+15
+17
+ Nicola Larini
+Osella-Ford
+1:23.799
+1:25.289
++2.826
+
+
+16
+10
+ Eddie Cheever
+Arrows-Ford
+1:23.828
+1:24.693
++2.855
+
+
+17
+15
+ Maurício Gugelmin
+March-Judd
+1:23.863
+1:24.734
++2.890
+
+
+18
+36
+ Stefan Johansson
+Onyx-Ford
+1:23.974
+1:24.918
++3.001
+
+
+19
+11
+ Nelson Piquet
+Lotus-Judd
+1:24.029
+1:25.825
++3.056
+
+
+20
+4
+ Michele Alboreto
+Tyrrell-Ford
+1:24.296
+1:25.412
++3.323
+
+
+21
+16
+ Ivan Capelli
+March-Judd
+1:24.406
+1:25.094
++3.433
+
+
+22
+25
+ René Arnoux
+Ligier-Ford
+1:24.558
+1:25.394
++3.585
+
+
+23
+38
+ Christian Danner
+Rial-Ford
+1:25.298
+1:24.727
++3.754
+
+
+24
+24
+ Luis Pérez-Sala
+Minardi-Ford
+1:24.786
+1:25.570
++3.813
+
+
+25
+40
+ Gabriele Tarquini
+AGS-Ford
+1:24.793
+1:25.246
++3.820
+
+
+26
+31
+ Roberto Moreno
+Coloni-Ford
+47:24.470
+1:25.037
++4.064
+
+
+27
+12
+ Satoru Nakajima
+Lotus-Judd
+1:25.051
+1:26.358
++4.078
+
+
+28
+29
+ Yannick Dalmas
+Lola-Lamborghini
+1:25.317
+1:25.161
++4.188
+
+
+29
+20
+ Johnny Herbert
+Benetton-Ford
+1:25.335
+1:25.282
++4.309
+
+
+30
+26
+ Olivier Grouillard
+Ligier-Ford
+1:25.382
+1:25.289
++4.316
+
+
+Race[edit]
+
+
+Pos
+No
+Driver
+Constructor
+Laps
+Time/Retired
+Grid
+Points
+
+
+1
+5
+ Thierry Boutsen
+Williams-Renault
+69
+2:01:24.073
+6
+9
+
+
+2
+6
+ Riccardo Patrese
+Williams-Renault
+69
++ 30.007
+3
+6
+
+
+3
+22
+ Andrea de Cesaris
+Dallara-Ford
+69
++ 1:36.649
+9
+4
+
+
+4
+11
+ Nelson Piquet
+Lotus-Judd
+69
++ 1:41.484
+19
+3
+
+
+5
+25
+ René Arnoux
+Ligier-Ford
+68
++ 1 Lap
+22
+2
+
+
+6
+21
+ Alex Caffi
+Dallara-Ford
+67
++ 2 Laps
+8
+1
+
+
+7
+1
+ Ayrton Senna
+McLaren-Honda
+66
+Engine
+2
+ 
+
+
+8
+38
+ Christian Danner
+Rial-Ford
+66
++ 3 Laps
+23
+ 
+
+
+Ret
+31
+ Roberto Moreno
+Coloni-Ford
+57
+Differential
+26
+ 
+
+
+Ret
+9
+ Derek Warwick
+Arrows-Ford
+40
+Engine
+12
+ 
+
+
+Ret
+3
+ Jonathan Palmer
+Tyrrell-Ford
+35
+Spun Off
+14
+ 
+
+
+Ret
+17
+ Nicola Larini
+Osella-Ford
+33
+Electrical
+15
+ 
+
+
+Ret
+16
+ Ivan Capelli
+March-Judd
+28
+Spun Off
+21
+ 
+
+
+Ret
+30
+ Philippe Alliot
+Lola-Lamborghini
+26
+Spun Off
+10
+ 
+
+
+DSQ
+36
+ Stefan Johansson
+Onyx-Ford
+13
+Disqualified
+18
+ 
+
+
+Ret
+24
+ Luis Pérez-Sala
+Minardi-Ford
+11
+Spun Off
+24
+ 
+
+
+Ret
+15
+ Maurício Gugelmin
+March-Judd
+11
+Electrical
+17
+ 
+
+
+Ret
+28
+ Gerhard Berger
+Ferrari
+6
+Gearbox
+4
+ 
+
+
+Ret
+40
+ Gabriele Tarquini
+AGS-Ford
+6
+Spun Off
+25
+ 
+
+
+Ret
+10
+ Eddie Cheever
+Arrows-Ford
+3
+Spun Off
+16
+ 
+
+
+Ret
+2
+ Alain Prost
+McLaren-Honda
+2
+Suspension
+1
+ 
+
+
+DSQ
+27
+ Nigel Mansell
+Ferrari
+0
+Disqualified
+5
+ 
+
+
+Ret
+8
+ Stefano Modena
+Brabham-Judd
+0
+Accident
+7
+ 
+
+
+Ret
+23
+ Pierluigi Martini
+Minardi-Ford
+0
+Accident
+11
+ 
+
+
+DSQ
+19
+ Alessandro Nannini
+Benetton-Ford
+0
+Disqualified
+13
+ 
+
+
+Ret
+4
+ Michele Alboreto
+Tyrrell-Ford
+0
+Electrical
+20
+ 
+
+
+DNQ
+12
+ Satoru Nakajima
+Lotus-Judd
+ 
+ 
+ 
+ 
+
+
+DNQ
+29
+ Yannick Dalmas
+Lola-Lamborghini
+ 
+ 
+ 
+ 
+
+
+DNQ
+20
+ Johnny Herbert
+Benetton-Ford
+ 
+ 
+ 
+ 
+
+
+DNQ
+26
+ Olivier Grouillard
+Ligier-Ford
+ 
+ 
+ 
+ 
+
+
+DNPQ
+7
+ Martin Brundle
+Brabham-Judd
+ 
+ 
+ 
+ 
+
+
+DNPQ
+37
+ Bertrand Gachot
+Onyx-Ford
+ 
+ 
+ 
+ 
+
+
+DNPQ
+33
+ Gregor Foitek
+Euro Brun-Judd
+ 
+ 
+ 
+ 
+
+
+DNPQ
+18
+ Piercarlo Ghinzani
+Osella-Ford
+ 
+ 
+ 
+ 
+
+
+DNPQ
+34
+ Bernd Schneider
+Zakspeed-Yamaha
+ 
+ 
+ 
+ 
+
+
+DNPQ
+41
+ Joachim Winkelhock
+AGS-Ford
+ 
+ 
+ 
+ 
+
+
+DNPQ
+39
+ Volker Weidler
+Rial-Ford
+ 
+ 
+ 
+ 
+
+
+DNPQ
+35
+ Aguri Suzuki
+Zakspeed-Yamaha
+ 
+ 
+ 
+ 
+
+
+DNPQ
+32
+ Pierre-Henri Raphanel
+Coloni-Ford
+ 
+ 
+ 
+ 
+
+
+
+Source:[1]
+
+
+
+Notes[edit]
+
+Lap leaders: Alain Prost 1 (1), Ayrton Senna 30 (2-3, 39-66), Riccardo Patrese 31 (4-34), Derek Warwick 4 (35-38), Thierry Boutsen 3 (67-69)
+Nigel Mansell and Alessandro Nannini were disqualified after starting from the pitlane before the race began. Both drivers had gone into the pits to change to slicks after the warm-up lap and when they got to the end of pit lane found no lights or officials stopping them from returning to the track (no lights is generally a sign the race had started). Despite the problem being caused by the race stewards not having the end of pit lane lights turned on, and pit lane officials not doing their job properly by stopping them from exiting the pits as the race had not started, Mansell and Nannini were still disqualified.
+Stefan Johansson was black-flagged because an air-line became attached to his car during a pit stop. He ignored the flag to stop at the end of the pit lane and returned to the track, and was disqualified as a result.
+Triple World Champion Nelson Piquet scored his first points of the season which were enough to keep Lotus out of pre-qualifying after Britain (where he would again finish 4th). He had also scored his first points of 1984 when he won in Canada, though unlike 1984 he wasn't the defending World Champion.
+First win: Renault V10 engine. It was also the first win by a Renault powered car since Ayrton Senna won the 1986 Detroit Grand Prix in a turbocharged Lotus 98T and Renault's first win with a naturally aspirated engine
+Only fastest lap: Jonathan Palmer
+First podium: Scuderia Italia / Dallara
+Last podium: Andrea de Cesaris
+Last points: René Arnoux
+Last laps led: Derek Warwick
+First disqualification - Nigel Mansell
+Last disqualification - Stefan Johansson, Alessandro Nannini
+After Brabham had generally dominated pre-qualifying before Canada, Martin Brundle suffered problems in the session and failed to get into the main field for the race.
+Other than his two disqualifications in 1985 and 1986, or himself pulling out of a race in protest against the conditions (which would happen in the final race of 1989 in Australia), this would be the shortest race of Alain Prost's career with McLaren, lasting only until the start of the second lap before suspension failure when approaching the pits turn saw him pull into the pits and retire. It would also stand as the second shortest race of his F1 career after the infamous 1990 Japanese Grand Prix.
+This was the only Grand Prix where both Dallara cars finished in the points
+This was the first time since the BMW powered Benetton B186 of Gerhard Berger won the 1986 Mexican Grand Prix (39 races) that a win was not taken by a car using a Honda, Ferrari or TAG-Porsche engine.
+This was also the first time since Keke Rosberg won the 1985 Australian Grand Prix that a driver other than Senna, Prost, Piquet, Mansell or Berger won a Grand Prix.
+
+Championship standings after the race[edit]
+
+
+
+
+Drivers' Championship standings
+
+
+
+Pos
+Driver
+Points
+
+
+1
+ Alain Prost
+29
+
+
+2
+ Ayrton Senna
+27
+
+
+3
+ Riccardo Patrese
+18
+
+
+4
+ Thierry Boutsen
+13
+
+
+5
+ Nigel Mansell
+9
+
+
+
+
+
+Constructors' Championship standings
+
+
+
+Pos
+Constructor
+Points
+
+
+1
+ McLaren-Honda
+56
+
+
+2
+ Williams-Renault
+31
+
+
+3
+ Benetton-Ford
+13
+
+
+4
+ Ferrari
+9
+
+
+5
+ Dallara-Ford
+8
+
+
+
+
+
+
+Note: Only the top five positions are included for both sets of standings.
+
 References[edit]
 
 
-^ Davies, John. "4DigitalBooks launches digital book scanner". PrintWeek. 
-^ "Stanford University Libraries (SUL) Robotic Book Scanner". Stanford University Libraries (SUL). 
-^ "Technology Innovation Awards: Winners 2001". Dow Jones. 
-^ Rapp, David. "Product Watch: Library Scanners". Library Journal. Retrieved 11 May 2014. 
+^ "1989 Canadian Grand Prix". formula1.com. Archived from the original on 18 January 2015. Retrieved 23 December 2015. 
 
 
-External links[edit]
 
-Robotic Book Scanning at Stanford
-How to Make a Full Auto Book Scanner
-4DigitalBooks DL 3003 automatic book scanner
-Qidenus Technologies QiScan RBSpro robotic bookscanner
-Treventus - Robotic bookscanner ScanRobot
-Kirtas Technologies KABIS Robotic Book Scanner
-List of Book Scanner Manufacturers
-BookScanner.us - A Book Scanning service
+
+
+Previous race:
+1989 United States Grand Prix
+FIA Formula One World Championship
+1989 season
+Next race:
+1989 French Grand Prix
+
+
+Previous race:
+1988 Canadian Grand Prix
+Canadian Grand Prix
+Next race:
+1990 Canadian Grand Prix
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+
+« previous
+Formula One Grands Prix (1980–89)
+next »
+
+
+
+
+
+
+
+1989
+
+
+
+BRA
+SMR
+MON
+MEX
+USA
+CAN
+FRA
+GBR
+GER
+HUN
+BEL
+ITA
+POR
+ESP
+JPN
+AUS
+
+
+
+
+
+
+
+
+1988
+
+
+
+BRA
+SMR
+MON
+MEX
+CAN
+DET
+FRA
+GBR
+GER
+HUN
+BEL
+ITA
+POR
+ESP
+JPN
+AUS
+
+
+
+
+
+
+
+
+1987
+
+
+
+BRA
+SMR
+BEL
+MON
+DET
+FRA
+GBR
+GER
+HUN
+AUT
+ITA
+POR
+ESP
+MEX
+JPN
+AUS
+
+
+
+
+
+
+
+
+1986
+
+
+
+BRA
+ESP
+SMR
+MON
+BEL
+CAN
+DET
+FRA
+GBR
+GER
+HUN
+AUT
+ITA
+POR
+MEX
+AUS
+
+
+
+
+
+
+
+
+1985
+
+
+
+BRA
+POR
+SMR
+MON
+CAN
+DET
+FRA
+GBR
+GER
+AUT
+NED
+ITA
+BEL
+EUR
+RSA
+AUS
+
+
+
+
+
+
+
+
+1984
+
+
+
+BRA
+RSA
+BEL
+SMR
+FRA
+MON
+CAN
+DET
+DAL
+GBR
+GER
+AUT
+NED
+ITA
+EUR
+POR
+
+
+
+
+
+
+
+
+1983
+
+
+
+BRA
+USW
+FRA
+SMR
+MON
+BEL
+DET
+CAN
+GBR
+GER
+AUT
+NED
+ITA
+EUR
+RSA
+
+
+
+
+
+
+
+
+1982
+
+
+
+RSA
+BRA
+USW
+SMR
+BEL
+MON
+DET
+CAN
+NED
+GBR
+FRA
+GER
+AUT
+SUI
+ITA
+CPL
+
+
+
+
+
+
+
+
+1981
+
+
+
+USW
+BRA
+ARG
+SMR
+BEL
+MON
+ESP
+FRA
+GBR
+GER
+AUT
+NED
+ITA
+CAN
+CPL
+
+
+
+
+
+
+
+
+1980
+
+
+
+ARG
+BRA
+RSA
+USW
+BEL
+MON
+FRA
+GBR
+GER
+AUT
+NED
+ITA
+CAN
+USA
+
+
+
+
+
+
+
 
 
 

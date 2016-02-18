@@ -1,1 +1,1 @@
-['http://nrhp.focus.nps.gov/natreg/docs/All_Data.html']
+['http://www.vancouversun.com/news/Surrey+RCMP+still+looking+Lucy+Johnson+missing+years/8593866/story.html', 'http://www.surreyleader.com/news/215916741.html', 'http://www.highbeam.com/doc/1P3-3030437201.html', 'http://www.surreyleader.com/news/216969371.html']

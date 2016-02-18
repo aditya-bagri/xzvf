@@ -1,1 +1,1 @@
-['http://www.sports-reference.com/olympics/athletes/pa/vangelis-patras-1.html']
+['http://www.iop.org/EJ/article/0004-637X/664/2/1190/71636.html', 'http://www.iop.org/EJ/article/-search=64845589.1/1538-4357/651/1/L61/21047.html', 'http://news.yahoo.com/coal-black-alien-planet-darkest-ever-seen-220601419.html', 'http://www.nasa.gov/mission_pages/kepler/multimedia/images/fullFFIHot300.html', 'http://www.nasa.gov/mission_pages/kepler/multimedia/images/TrES2Hot300.html']

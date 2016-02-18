@@ -3,153 +3,144 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-This article is about the programming language.  For the library system, see Baltimore County Public Library.
+This article provides a list of social thinkers.
+The title social thinker denotes a personality who is acknowledged as a visionary for social advancement. S/he’ thinks and contributes in the larger interest of society.
+
+
+
+This list is incomplete; you can help by expanding it.
+
+
+
+Contents :
+
+
+Top
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+Mahatma Gandhi
+Pt Jawahar Lal Nehru
+Subhash Chandra Bose
+
+B[edit]
+
+Dharamvir Bharati
+Jacob Burckhardt
+Chetan Bhagat
+
+D[edit]
+
+Lloyd deMause
+
+E[edit]
+
+Julius Evola
+
+G[edit]
+
+Ziya Gökalp
+Maurice Glasman, Baron Glasman
+
+H[edit]
+
+Spencer Heath
+
+I[edit]
+
+Ivan Illich
+Muhammad Iqbal
+
+K[edit]
+
+Rajani Kannepalli Kanth
+
+M[edit]
+
+Roberto Mangabeira Unger
+Karl Marx
+
+N[edit]
+
+Shankar Guha Niyogi
+Vartika Nanda
+
+O[edit]
+
+Adriano Olivetti
+
+P[edit]
+
+Kesari Balakrishna Pillai
+Caroline Pratt
+
+R[edit]
+
+John Ruskin
+Jean-Jacques Rousseau
+
+S[edit]
+
+Greg Sams
+Henri de Saint-Simon
+George Bernard Shaw
+Rudolf Steiner
+
+T[edit]
+
+Debendranath Tagore
+R. H. Tawney
+Alberto Torres
+
+V[edit]
+
+Thorstein Veblen
+
+Y[edit]
+
+Ivan Yefremov
 
 
 
 
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)
+This social psychology-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
 
 
 
-BCPL
 
-Paradigm
-procedural, imperative, structured
-
-
-Designed by
-Martin Richards
-
-
-First appeared
-1966; 50 years ago (1966)
-
-
-Typing discipline
-typeless (everything is a word)
-
-
-Influenced by
-
-
-CPL
-
-
-Influenced
-
-
-B, C
-
-
-BCPL (Basic Combined Programming Language) is a procedural, imperative, and structured computer programming language designed by Martin Richards of the University of Cambridge in 1966.
-
-
-
-Contents
-
-
-1 Design
-2 Uses and implementations
-3 Examples
-4 References
-5 Further reading
-6 External links
-
-
-
-Design[edit]
-Originally intended for writing compilers for other languages, BCPL is no longer in common use. However, its influence is still felt because a stripped down and syntactically changed version of BCPL, called B, was the language on which the C programming language was based. This led many C programmers to give BCPL the humorous backronym Before C Programming Language.[1]
-BCPL was the first brace programming language, and the braces survived the syntactical changes and have become a common means of denoting program source code statements. In practice, on limited keyboards of the day, source programs often used the sequences $( and $) in place of the symbols { and }. The single-line '//' comments of BCPL, which were not adopted by C, reappeared in C++, and later in C99.
-BCPL was a response to difficulties with its predecessor Combined Programming Language (CPL), created during the early 1960s. Richards created BCPL by "removing those features of the full language which make compilation difficult". The first compiler implementation, for the IBM 7094 under Compatible Time-Sharing System (CTSS), was written while Richards was visiting Project MAC at the Massachusetts Institute of Technology (MIT) in the spring of 1967. The language was first described in a paper presented to the 1969 Spring Joint Computer Conference.
-It was designed so that small and simple compilers could be written for it; reputedly some compilers could be run in 16 kilobytes. Further, the Richards compiler, itself written in BCPL, was easily portable. BCPL was thus a popular choice for bootstrapping a system.
-A major reason for the compiler's portability lay in its structure. It was split into two parts: the front end parsed the source and generated O-code for a virtual machine, and the back end took the O-code and translated it into the code for the target machine. Only 1/5 of the compiler's code needed to be rewritten to support a new machine, a task that usually took between 2 and 5 man-months. This approach became common practice later, e.g., Pascal or Java, but the Richards BCPL compiler was the first to define a virtual machine for this purpose.
-The language is unusual in having only one data type: a word, a fixed number of bits, usually chosen to align with the architecture's machine word and of adequate capacity to represent any valid storage address. For many machines of the time, this data type was a 16-bit word. This choice later proved to be a significant problem when BCPL was used on machines in which the smallest addressable item was not a word, but a byte or on machines with larger word sizes: 32-bit and 64-bit words, which allowed them to manage large address spaces.
-The interpretation of any value was determined by the operators used to process the values. (For example, + added two values together treating them as integers; ! indirected through a value, effectively treating it as a pointer.) In order for this to work, the implementation provided no type checking. The Hungarian notation was developed to help programmers avoid inadvertent type errors.
-The mismatch between BCPL's word orientation and byte-oriented hardware was addressed in several ways. One was providing standard library routines for packing and unpacking words into byte strings. Later, two language features were added: the bit-field selection operator and the infix byte indirection operator (denoted by the '%' character).
-BCPL handles bindings spanning separate compilation units in a unique way. There are no user-declarable global variables; instead there is a global vector, which is similar to "blank common" in Fortran. All data shared between different compilation units comprises scalars and pointers to vectors stored in a pre-arranged place in the global vector. Thus the header files (files included during compilation using the "GET" directive) become the primary means of synchronizing global data between compilation units, containing "GLOBAL" directives that present lists of symbolic names, each paired with a number that associates the name with the corresponding numerically addressed word in the global vector. As well as variables, the global vector also contains bindings for external procedures. This makes dynamic loading of compilation units very simple to achieve. Instead of relying on the link loader of the underlying implementation, effectively BCPL gives the programmer control of the linking process.
-The global vector also made it very simple to replace or augment standard library routines. A program could save the pointer from the global vector to the original routine and replace it with a pointer to an alternative version. The alternative might call the original as part of its processing. This could be used as a quick ad-hoc debugging aid.
-The philosophy of BCPL can be summarised by quoting from the book BCPL, the language and its compiler:
-
-The philosophy of BCPL is not one of the tyrant who thinks he knows best and lays down the law on what is and what is not allowed; rather, BCPL acts more as a servant offering his services to the best of his ability without complaint, even when confronted with apparent nonsense. The programmer is always assumed to know what he is doing and is not hemmed in by petty restrictions.
-
-The design, and philosophy, of BCPL strongly influenced B, which in turn influenced C.
-There are rumours that BCPL actually stood for "Bootstrap Cambridge Programming Language", however CPL was never created since development stopped at BCPL, and the acronym was reinterpreted for the BCPL book.
-Uses and implementations[edit]
-BCPL is the language in which the original hello world program was written.[2] The first MUD was also written in BCPL (MUD1).
-Several operating systems were written partially or wholly in BCPL (for example, TRIPOS and the earliest versions of AmigaDOS, a part of AmigaOS). BCPL was also the initial language used in the seminal Xerox PARC Alto project, the first modern personal computer; among other projects, the Bravo document preparation system was written in BCPL.
-An early compiler, bootstrapped in 1969 by starting with a paper tape of the O-code of Martin Richards's Atlas 2 compiler, targeted the ICT 1900 series. The two machines had different word-lengths (48 vs 24 bits), different character encodings, and different packed string representations—and the successful bootstrapping increased confidence in the practicality of the method.
-By late 1970, implementations existed for the Honeywell 635 and Honeywell 645, the IBM 360, the PDP-10, the TX-2, the CDC 6400, the UNIVAC 1108, the PDP-9, the KDF 9 and the Atlas 2. In 1974 a dialect of BCPL was implemented at BBN without using the intermediate O-code. The initial implementation was a cross-compiler hosted on BBN's Tenex PDP-10s, and directly targeted the PDP-11s used in BBN's implementation of the second generation IMPs used in the Arpanet.
-There was also a version produced for the BBC Micro in the mid-1980s by Richards Computer Products, a company started by John Richards, the brother of Dr. Martin Richards.[citation needed] The BBC Domesday Project made use of the language. Versions of BCPL for the Amstrad CPC and Amstrad PCW computers were also released in 1986 by UK software house Arnor Ltd. MacBCPL was released for the Apple Macintosh in 1985 by Topexpress Ltd, of Kensington, England.
-In 1979 implementations of BCPL existed for at least 25 architectures; the language gradually fell out of favor as C became popular on non-Unix systems.
-Examples[edit]
-These complete and compilable examples are from Martin Richards′ BCPL distribution.
-Print factorials:
-
-GET "LIBHDR"
-
-LET START() = VALOF $(
-        FOR I = 1 TO 5 DO
-                WRITEF("%N! = %I4*N", I, FACT(I))
-        RESULTIS 0
-$)
-
-AND FACT(N) = N = 0 -> 1, N * FACT(N - 1)
-
-Count solutions to the N queens problem:
-
-GET "LIBHDR"
-
-GLOBAL $(
-        COUNT: 200
-        ALL: 201
-$)
-
-LET TRY(LD, ROW, RD) BE
-        TEST ROW = ALL THEN
-                COUNT := COUNT + 1
-        ELSE $(
-                LET POSS = ALL & ~(LD | ROW | RD)
-                UNTIL POSS = 0 DO $(
-                        LET P = POSS & -POSS
-                        POSS := POSS - P
-                        TRY(LD + P << 1, ROW + P, RD + P >> 1)
-                $)
-        $)
-
-LET START() = VALOF $(
-        ALL := 1
-        FOR I = 1 TO 12 DO $(
-                COUNT := 0
-                TRY(0, 0, 0)
-                WRITEF("%I2-QUEENS PROBLEM HAS %I5 SOLUTIONS*N", I, COUNT)
-                ALL := 2 * ALL + 1
-        $)
-        RESULTIS 0
-$)
-
-References[edit]
-
-
-^ Expert C Programming: Deep C Secrets by Peter Van Der Linden (Prentice Hall, 1994)
-^ BCPL, Jargon File
-
-
-Further reading[edit]
-
-Martin Richards, The BCPL Reference Manual (Memorandum M-352, Project MAC, Cambridge, MA, USA, July, 1967)
-Martin Richards, BCPL - a tool for compiler writing and systems programming (Proceedings of the Spring Joint Computer Conference, Vol 34, pp 557–566, 1969)
-Martin Richards, Arthur Evans, Robert F. Mabee, The BCPL Reference Manual (MAC TR-141, Project MAC, Cambridge, MA, USA, 1974)
-Martin Richards, C. Whitby-Strevens, BCPL, the language and its compiler (Cambridge University Press, 1980) ISBN 0-521-28681-6
-
-External links[edit]
-
-Martin Richards' BCPL distribution
-Martin Richards' BCPL Reference Manual by Dennis M. Ritchie including his commentary about BCPL's influence on C
-BCPL entry in the Jargon File
-Nordier & Associates' x86 port
-ArnorBCPL manual
 
 
 

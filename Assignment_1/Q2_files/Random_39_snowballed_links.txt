@@ -1,1 +1,1 @@
-['http://web.archive.org/web/20070525064523/http://www.ew.com/ew/article/0,,303818,00.html', 'http://www.ew.com/ew/article/0,,303818,00.html']
+['http://www.tatsunoko.co.jp/works/archive/gawl.html', 'http://web.archive.org/web/20100407182134/http://www.tatsunoko.co.jp/works/archive/gawl.html']
