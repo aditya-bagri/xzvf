@@ -39,7 +39,15 @@ def create_files():
 
 			company=sym["COMPANY"]
 			symbol=sym["SYMBOL"]
-			share_name=Share(symbol)
+			while(1):
+			   try:
+				share_name=Share(symbol)
+				if share_name:
+					break
+			   except:
+				time.sleep(1)
+				#share_name=Share(symbol)
+
 			filename = "./Q4_files/"+company+".csv"
 			try:
 				file=open(filename,"a")
@@ -67,22 +75,43 @@ def test_outlier(mode):
 		path = "./Q4_with_data/"
 	else:
 		path = "./Q4_files/"
+#		main()
         reader=csv.DictReader(open('Yahoo_symbols.csv','rb'))
 	price_arr=[]
         for row in reader:
 		print row
                 company=row["COMPANY"]
                 symbol=row["SYMBOL"]
-                share_name=Share(symbol)
+                while(1):
+                           try:
+                                share_name=Share(symbol)
+                                if share_name:
+                                        break
+                           except:
+                                time.sleep(1)
+
+#                share_name=Share(symbol)
                 filename = path+company+".csv"
                 file=open(filename,"r+")
 		for line in file:
+#			print line
+		    try:
 			price_arr.append(float(str(line).split(',')[1]))	
-		val,out= outlier(price_arr,2)
-		print out
+		    except:
+			pass
+		    val,out= outlier(price_arr,2)
+		price_arr=[]
+		try:
+			data_clean=open(path+company+"_cleaned.csv", 'w+')
+		except:
+			data_clean=open(path+company+"_cleaned.csv", 'a')
+		data_clean.write("%s\nCleaned Data: %s\nOutliers: %s"%(company,val,out))
+		data_clean.close()
+		file.close()
+		print "%s\nCleaned Data: %s\nOutliers: %s"%(company,val,out)
 
 #main()
-test_outlier(TEST_MODE)
+test_outlier(LIVE_MODE)
 
 ### To do: 1. Update outlier Function
 ### 	   2. Run code LIVE
