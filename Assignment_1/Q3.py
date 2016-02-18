@@ -1,7 +1,8 @@
-import tweepy
 import sys
 from time import sleep
 from datetime import datetime
+import json
+import tweepy
 
 # Consumer keys and access tokens, used for OAuth  
 consumer_key = 'quEn1nu9vvvi45UMzCzSbKWop'
@@ -16,13 +17,29 @@ auth.set_access_token(access_token, access_token_secret)
 # Creation of the actual interface, using authentication  
 api = tweepy.API(auth)
 
-top = api.home_timeline()[0].id
-print "top: %s" %(top)
-while True:
-    l = api.home_timeline()
-    if top != l[0].id:
-        top = l[0].id
-#       print "l[0]:  ", l[0]
-        print 'New tweet recognized by Python at: %s' % str(datetime.now())
-    sleep(61)
+# This is the listener, resposible for receiving data
+class StdOutListener(tweepy.StreamListener):
+    def on_data(self, data):
+        # Twitter returns data in JSON format - we need to decode it first
+        decoded = json.loads(data)
 
+        # Also, we convert UTF-8 to ASCII ignoring all bad characters sent by users
+        print '@%s: %s' % (decoded['user']['screen_name'], decoded['text'].encode('ascii', 'ignore'))
+        print ''
+        return True
+
+    def on_error(self, status):
+        print status
+
+if __name__ == '__main__':
+    l = StdOutListener()
+    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
+    auth.set_access_token(access_token, access_token_secret)
+
+    print "Showing all new tweets for #programming:"
+
+    # There are different kinds of streams: public stream, user stream, multi-user streams
+    # In this example follow #programming tag
+    # For more details refer to https://dev.twitter.com/docs/streaming-apis
+    stream = tweepy.Stream(auth, l)
+    stream.filter(track=['IBM'])
