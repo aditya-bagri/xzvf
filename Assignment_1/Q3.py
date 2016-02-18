@@ -19,7 +19,7 @@ auth.set_access_token(access_token, access_token_secret)
 # Creation of the actual interface, using authentication  
 api = tweepy.API(auth)
 
-RUNNING_TIME = 1 #in minutes
+RUNNING_TIME = 30 #in minutes
 
 # This is the listener, resposible for receiving data
 class StdOutListener(tweepy.StreamListener):
