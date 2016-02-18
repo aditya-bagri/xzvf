@@ -5,8 +5,8 @@ import csv
 import os
 import numpy as np
 
-TIME_IN_MIN = 3 # min
-TIME_BETWEEN_ITERATIONS = 60 #sec
+TIME_IN_MIN = 30 # min
+TIME_BETWEEN_ITERATIONS = 30 #sec
 
 def outlier (arr, number_of_std_devs):
 	sig = np.std(arr)
@@ -15,7 +15,7 @@ def outlier (arr, number_of_std_devs):
 	valid=[]
 	outlier = []
 	for elem in arr:
-		if np.abs(elem - mu) < outlier_val:
+		if np.abs(elem - mu) <= outlier_val:
 			valid.append(elem)
 		else:
 			outlier.append(elem)
@@ -26,10 +26,12 @@ def clear_files():
 		reader = csv.DictReader(sym_list)
 		if reader:
 		    for sym in reader:
-			PATH="/home/ubuntu/BigData/Assignment_1/Q4_files/"+sym["COMPANY"]+".csv"
+			PATH="./Q4_files/"+sym["COMPANY"]+".csv"
 			try:
 				os.remove(PATH)
-			except:
+#				print "Removing "+sym["COMPANY"]+".csv"
+			except Exception, e:
+				print "Error=", str(e)
 				pass
 
 def create_files():
@@ -93,6 +95,7 @@ def test_outlier(mode):
 #                share_name=Share(symbol)
                 filename = path+company+".csv"
                 file=open(filename,"r+")
+		price_arr=[]
 		for line in file:
 #			print line
 		    try:
@@ -100,7 +103,7 @@ def test_outlier(mode):
 		    except:
 			pass
 		    val,out= outlier(price_arr,2)
-		price_arr=[]
+		#price_arr=[]
 		try:
 			data_clean=open(path+company+"_cleaned.csv", 'w+')
 		except:
@@ -110,7 +113,7 @@ def test_outlier(mode):
 		file.close()
 		print "%s\nCleaned Data: %s\nOutliers: %s"%(company,val,out)
 
-#main()
+main()
 test_outlier(LIVE_MODE)
 
 ### To do: 1. Update outlier Function
