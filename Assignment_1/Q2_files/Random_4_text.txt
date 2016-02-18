@@ -4,78 +4,61 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-Smith
 
-Personal information
-
-
-Full name
-unknown
+Fawcett Properties Ltd v Buckingham CC
 
 
-Born
-c.1795
-England
+Court
+House of Lords
 
 
-Batting style
-unknown hand
+Citation(s)
+[1961] AC 636
 
 
-Bowling style
-underarm: unknown hand and type
+Keywords
 
 
-Role
-unknown
+Planning, certainty
 
 
-Domestic team information
-
-
-Years
-Team
-
-
-1821
-Surrey
-
-
-1822
-Godalming
-
-
-Career statistics
+Fawcett Properties Ltd v Buckingham County Council [1961] AC 636 is an land law case on planning. It is also relevant for the general principles to determine the certainty (and potential invalidity) of concepts, as found particularly in English trusts law.
 
 
 
+Contents
+
+
+1 Facts
+2 Judgment
+3 See also
+4 Notes
+5 References
+6 External links
 
 
 
+Facts[edit]
+Buckingham County Council gave permission for cottages to be built in an urban green belt, on the condition that ‘occupation of the houses shall be limited to persons whose employment.... is... in agriculture... or in forestry or in an industry mainly dependent upon agriculture’, as defined by the Town and Country Planning Act 1947 section 119. Fawcett Properties Ltd argued this condition was void.
+Judgment[edit]
+The House of Lords held that the condition was valid because it followed the policy of keeping the green belt for agricultural population, similarly defined in the Housing Act 1936 section 115. The definition could not, without overwhelming evidence, be held void for uncertainty.
+In the course of his judgment, Lord Denning said the following.[1]
 
 
+“
+Lastly, when he came to his reply on uncertainty, Mr. Megarry mentioned the contract cases such as In re Vince [1892] 2 Q.B. 478; 8 T.L.R. 334; 67 L.T. 70, C.A. But here again he got nowhere: because in cases of contract, as of wills, the courts do not hold the terms void for uncertainty unless it is utterly impossible to put a meaning upon them. The duty of the court is to put a fair meaning on the terms used, and not, as was said in one case, to repose on the easy pillow of saying that the whole is void for uncertainty: see Doe d. Winter v Perratt (1843) 6 M&G 314, 361, HL by Lord Brougham, In re Roberts (1881) 19 Ch.D. 520, 529, C.A. by Jessel M.R.
+Reverting now to the examples given by Mr. Megarry, all of these were, it seemed to me, examples of ambiguity or absurdity and not of uncertainty, or at any rate, not of such uncertainty as makes a condition void. For I am of opinion that a planning condition is only void for uncertainty if it can be given no meaning or no sensible or ascertainable meaning, and not merely because it is ambiguous or leads to absurd results. It is the daily task of the courts to resolve ambiguities of language and to choose between them; and to construe words so as to avoid absurdities or to put up with them. and this applies to conditions in planning permissions as well as to other documents. If you should take any of Mr. Megarry's examples the courts, I am sure, could say whether the case came within the condition or not. They would not have to give up the task in despair.
+
+”
 
 
-
-Source: Arthur Haygarth, 27 March 2013
-
-
-Smith (first name and dates unknown) was an English first-class cricketer associated with Surrey and Godalming Cricket Club who was active in the 1820s and is recorded in two matches from 1821 to 1822, totalling 25 runs with a highest score of 20. He represented the Players in an early Gentlemen v Players match.[1]
-References[edit]
-
-
-^ "Smith". CricketArchive. Retrieved 27 March 2013. 
-
-
-Bibliography[edit]
-
-Haygarth, Arthur (1862). Scores & Biographies, Volume 1 (1744–1826). Lillywhite. 
+See also[edit]
 
 
 
 
- 
-This biographical article related to English cricket is a stub. You can help Wikipedia by expanding it.
+
+
 
 
 v
@@ -83,6 +66,165 @@ t
 e
 
 
+Trust certainty cases
+
+
+
+
+
+
+
+Knight v Knight (1840) 49 ER 58
+
+
+
+
+
+
+
+Jones v Lock (1865) 1 Ch App 25
+
+
+
+
+
+
+
+Paul v Constance [1976] EWCA Civ 2
+
+
+
+
+
+
+
+Sprange v Barnard (1789) 2 Bro CC 585
+
+
+
+
+
+
+
+Boyce v Boyce (1849) 16 Sim 476
+
+
+
+
+
+
+
+Palmer v Simmonds (1854) 2 Drew 221
+
+
+
+
+
+
+
+Re London Wine Co (Shippers) Ltd [1986] PCC 121
+
+
+
+
+
+
+
+Hunter v Moss [1993] EWCA Civ 11
+
+
+
+
+
+
+
+Re Harvard Securities [1997] EWHC Comm 371
+
+
+
+
+
+
+
+In re Roberts (1881-82) LR 19 Ch D 520
+
+
+
+
+
+
+
+Re Gulbenkian’s Settlements [1968] UKHL 5
+
+
+
+
+
+
+
+McPhail v Doulton [1970] UKHL 1
+
+
+
+
+
+
+
+Re Baden’s Deed Trusts (no 2) [1972] EWCA Civ 10
+
+
+
+
+
+
+
+Re Tuck’s Settlement Trusts [1977] EWCA Civ 11
+
+
+
+
+
+
+
+Re Barlow’s Will Trusts [1979] 1 WLR 278
+
+
+
+
+
+
+
+West Yorkshire MCC v District Auditor No 3 [1986] RVR 24
+
+
+
+
+
+
+
+Certainty and English trusts law
+
+
+
+
+
+
+
+English trust law
+Pyx Granite Co Ltd v Ministry of Housing and Local Government [1960] AC 260, per Lord Denning
+In re Roberts, Sir George Jessel MR
+
+Notes[edit]
+
+
+^ [1961] AC 636, 678
+
+
+References[edit]
+
+
+
+External links[edit]
 
 
 

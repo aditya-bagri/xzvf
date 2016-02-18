@@ -3,106 +3,26 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-"Multiple launch rocket system" redirects here. For the U.S. Army system known as "MLRS", see M270 Multiple Launch Rocket System.
-
-
-
-
-
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (August 2014)
-
-
-
-
-
-
-A hwacha in a museum.
-
-
-
-
-
-
-BM-13 Katyusha
-
-
-
-
-
-
-American T34 Calliope in action
-
-
-
-
-
-
-Launcher 9P140 of 220-mm multiple rocket launching system 9K57 BM-27 Uragan in Saint-Petersburg Artillery museum
-
-
-
-
-
-
-BM-30 Smerch 300mm rocket launcher in raised position
-
-
-A multiple rocket launcher (MRL) or multiple launch rocket system (MLRS) is a type of rocket artillery system. Rockets have different capabilities than artillery, like longer range, and different payloads, for example considerably larger warheads, or multiple warheads. Unguided rocket artillery is notoriously inaccurate and slow to reload, compared to artillery. To overcome this, rockets are combined in systems that can launch multiple rockets simultaneously. Modern rockets can use GPS or inertial guidance, to combine the advantages of rockets with high accuracy.
-
-
-
-Contents
-
-
-1 History
-
-1.1 World War Two
-
-
-2 Current usage
-3 See also
-4 References
-
-
-
-History[edit]
-The first multiple rocket launchers were made in Song-dynasty China. It was a primitive design where multiple fire arrows were fired from a gunpowder box. These also appeared later, in an expanded version, in the Joseon Dynasty of Korea.[1]
-World War Two[edit]
-The first self-propelled multiple rocket launchers — and arguably the most famous — were the Soviet BM-13 Katyushas, first used during World War II and exported to Soviet allies afterwards. They were simple systems in which a rack of launch rails was mounted on the back of a truck. This set the template for modern multiple rocket launchers. The Americans mounted tubular launchers atop M4 Sherman tanks to create the T34 Calliope rocket launching tank, only used in small numbers, as their closest equivalent to the Katyusha. The Germans began using a towed six-tube multiple rocket launcher during World War Two, the Nebelwerfer, also called the "screaming mimi" by the allies.
-Current usage[edit]
-Simple MRL types still have a reputation of having a devastating morale effect on ill-disciplined or already shaken troops. The material effect depends on circumstances, as well-covered field fortification provide much protection.
-MRL are still rarely able to properly shoot at rear slope positions in mountain warfare because the MRL crew cannot determine the trajectory as well as a howitzer's crew can do by adding or removing propellant increments. Simple MRL rocket types have a rather long minimum firing range for the same reason. An approach to lessen this limit is the addition of drag rings to the rocket nose. The increased drag slows the rocket down relative to a clean configuration and creates a less flat trajectory. Pre-packaged MRL munitions such as with MLRS do not offer this option, but some MRL types with individually-loaded rockets do.[2]
-Improvised multiple rocket launchers based on helicopter- or aircraft-mounted rocket pods (typically of 57–80 mm caliber) on light trucks and pickups (so-called "technicals") are especially often sighted in civil wars, when rebels make use of captured launchers and munitions.[3]
-The Convention on Cluster Munitions has led to the destruction and cessation of production of most cluster munitions for MRLs. Large submunitions, smoke agents and unitary high explosive warheads are still permitted under the Convention.
-Some of the not banned submunitions are relatively large Explosively Formed Projectile (EFP) warheads with sensors (millimetre wave radar, infrared) which search the ground for tanks to attack in a spiral pattern during their descent (retarded by parachutes). Western examples are SMArt 155, 155 Bonus[4] and SADARM.
-Modern MRL systems can use modern land navigation (especially satellite navigation such as GPS) for quick and accurate positioning. The accurate determination of the battery position was previously enough effort to make a dispersed operation of the battery impractical. MRL systems with GPS can have their MRLs dispersed and shoot from dispersed positions at a single target, just as previously multiple batteries were often united on one target area.
-Radars are in use to track weather balloons to determine winds or to track special rockets which self-destruct in the air. The tracking allows to determine the influence of winds and propellant temperatures on the rocket's flight path. These observations can then be factored into the firing solution for the rocket salvo for effect.
-Such tracking radars can also be used to predict the range error of individual rockets. Trajectory correcting munitions may then benefit from this, as a directional radio may send a coded message to the rocket to deploy air brakes just at the right time to correct most of the range error. This requires that the rockets were originally aimed too far, as the range can only be shortened by the air brakes, not extended. A more sophisticated system makes use of radar data and one-way radio datalink to initiate a two dimensional (range and azimuth) correction of the rocket's flight path with steering by fins or nose thrusters. The latter is more common with systems which can be used to upgrade old rockets and the Israeli Accular[5] is an example.
-
-
-
-
-Rocket launcher RM-70 of the Slovak Army.
-
-
-Fin-stabilised rockets also allow for easy course corrections using rudders or minute charges. Guided munitions have been introduced to exploit this. Guidance principles such as GPS satellite navigation, inertial navigation system and semi-active laser seekers are used for this. This improves dispersion from a CEP of hundreds of metres at dozens of kilometers range to just a few meters, and (except for INS, as INS navigation creates a small dispersion that's about proportional to range) largely independent of the range of the shot. This in turn made great increases of rocket (or missile) ranges useful; previously dispersion had made rockets too inefficient and often too dangerous to friendly troops at long ranges. Long range MRL missiles often fly a higher quasiballistic trajectory than shorter ranged rockets and pose thus a deconfliction challenge, as they might collide with friendly aircraft in the air.
-The border between a MRL missile and a large anti-tank guided missile such as Nimrod has become fuzzy due to guided MRL missiles such as M31 GUMLRS.[6]
-See also[edit]
-
-List of rocket artillery
-List of U.S. Army Rocket Launchers By Model Number
-Nebelwerfer family of multiple rocket launchers, World War II Wehrmacht
-Rouketopolemos
-
+John Cunningham (before 1761 – after 1785) was an Irish-born office-holder and political figure in Nova Scotia. He represented Londonderry township in the Legislative Assembly of Nova Scotia from 1779 to 1785.
+He came to Halifax around 1761. In 1763, he married Elizabeth Rust. Cunningham served as commissioner of Indian Affairs from 1769 to 1774 and in 1783 became superintendent of Indian Affairs. He was named a magistrate in 1776 and a judge in the Inferior Court of Common Pleas in 1778. He was elected to the assembly in an 1779 by-election held after John Morrison left the province. In 1783, he was named receiver-general of Quit Rents.
+His brother Richard also served in the assembly.
 References[edit]
 
+Public Archives of Nova Scotia (1984). Elliott, Shirley B, ed. The Legislative Assembly of Nova Scotia, 1758-1983: A biographical directory. Province of Nova Scotia. ISBN 0-88871-050-X. 
 
-^ |Title: What Life was Like in the Land of the Dragon |Publisher: Time-Life; First Edition (October 1998) |ISBN: 978-0783554587
-^ Jane's Armour and Artillery 2011-2012 data sheets
-^ http://www.armamentresearch.com/wp-content/uploads/2014/01/ARES-Research-Report-No.-1-S-5-Rockets-in-Land-Warfare.pdf
-^ http://www.deagel.com/Projectiles/BONUS-Mk-II_a001089002.aspx
-^ http://www.imi-israel.com/vault/documents/accular.pdf
-^ http://www.lockheedmartin.com/us/products/GuidedUnitaryMLRSRocket.html
+
+
+
+
+This article about a Member of the Nova Scotia House of Assembly is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
 
 
 

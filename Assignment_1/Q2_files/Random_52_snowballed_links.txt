@@ -1,1 +1,1 @@
-[]
+['http://autonews.gasgoo.com/china-news/saic-to-bring-resurrected-maxus-at-auto-shanghai-2-110415.shtml', 'http://autonews.gasgoo.com/china-news/saic-sold-over-2m-vehicles-since-start-of-year-ha-110630.shtml', 'http://www.ecns.cn/business/2013/10-08/83338.shtml']

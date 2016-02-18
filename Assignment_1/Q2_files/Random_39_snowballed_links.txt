@@ -1,1 +1,1 @@
-['http://web.archive.org/web/20070525064523/http://www.ew.com/ew/article/0,,303818,00.html', 'http://www.ew.com/ew/article/0,,303818,00.html']
+['http://web.archive.org/web/20141012075317/http://www.kcna.co.jp/item/2012/201204/news13/20120413-40ee.html', 'http://www.kcna.co.jp/item/2012/201204/news13/20120413-40ee.html', 'http://www.koreatimes.co.kr/www/news/opinon/2009/08/166_33770.html']

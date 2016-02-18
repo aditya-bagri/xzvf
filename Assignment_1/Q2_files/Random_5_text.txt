@@ -4,12 +4,7 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-
-
-
-
-The topic of this article may not meet Wikipedia's general notability guideline. Please help to establish notability by adding reliable, secondary sources about the topic. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
-Find sources: "Robotic book scanner" – news · newspapers · books · scholar · JSTOR · free images (February 2010)
+F Hydrae
 
 
 
@@ -17,32 +12,582 @@ Find sources: "Robotic book scanner" – news · newspapers · books · sc
 
 
 
-It has been suggested that this article be merged into Book scanning. (Discuss) Proposed since January 2015.
 
 
-A robotic book scanner is a machine which is used to scan books, integrating automated components that allow the device to exceed the speed of traditional manual imaging devices such as camera stands. A robotic scanner usually consists of three basic parts: a mechanical device to turn the pages; a cradle or table to hold the book in place, and a camera or imaging sensor to capture images. Images are then automatically shuttled to a central computer repository, where automated processing may take place in order to perform cropping, de-skewing, and other image enhancement functions. During the process, the book remains intact.
-The first fully automated book scanner was the DL (Digitizing Line) scanner, manufactured by 4DigitalBooks in Switzerland. First known installation was at Stanford University in 2001.[1][2] Scanner received a Dow Jones Runner-Up award under Business Applications Category in 2001.[3]
-Most high-end commercial robotic scanners use traditional air and suction technology while some others use alternative approaches like bionic finger for turning the pages. Some scanners take advantage of Ultrasonic sensor or Photoelectric sensor to detect dual pages and prevent skipping of pages.
-With reports of machines being able to scan up to 2900 pages per hour[4] robotic book scanners are specifically designed for large-scale digitization projects. Such performance numbers are most of the times based on maximum speed during the scanning process and not an average scanning production, which includes changing of the book, tuning the settings per specific book, book size. For real production calculations, it is recommended to verify the individual performances of robotic scanners.
+
+
+
+
+
+
+
+Location of F Hya (circled)
+
+
+
+Observation data
+Epoch J2000      Equinox J2000
+
+
+Constellation
+Hydra
+
+
+Right ascension
+08h 43m 40.37345s[1]
+
+
+Declination
+−07° 15′ 01.4323″[1]
+
+
+Apparent magnitude (V)
+4.64[2]
+
+
+Characteristics
+
+
+Spectral type
+G1Ib[3]
+
+
+B−V color index
++0.80[2]
+
+
+Astrometry
+
+
+
+
+
+Radial velocity (Rv)
+28.50[4] km/s
+
+
+Proper motion (μ)
+RA: −11.62[1] mas/yr
+Dec.: −1.36[1] mas/yr
+
+
+Parallax (π)
+4.24 ± 0.17[1] mas
+
+
+Distance
+770 ± 30 ly
+(236 ± 9 pc)
+
+
+Absolute magnitude (MV)
+−2.77[5]
+
+
+
+
+
+Details
+
+
+
+
+
+Mass
+5.2[3] M☉
+
+
+Radius
+110[6] R☉
+
+
+Surface gravity (log g)
+2.08[3] cgs
+
+
+Temperature
+5,370[3] K
+
+
+Metallicity [Fe/H]
+−0.01[7] dex
+
+
+Rotational velocity (v sin i)
+10.5[8] km/s
+
+
+Age
+89[3][9] Myr
+
+
+
+
+
+Other designations
+
+
+
+F Hya, 31 Mon,[10] HR 3459, HD 74395, BD−06°2708, SAO 136221, HIP 42835, WDS J08437-0714
+
+
+
+Database references
+
+
+SIMBAD
+data
+
+
+F Hydrae, also known as HD 74395, is a star in the constellation Hydra with an apparent magnitude is 4.64. It was catalogued as 31 Monocerotis, but this name is now rarely used since the star is now within the boundaries of Hydra.[10] It is a low mass yellow supergiant around a thousand times brighter than the sun and five times as massive.
+F Hya is a catalogued as a triple star, with 8th magnitude BD-06°2707 80" away and 13th magnitude companion at 57".[11]
 References[edit]
 
 
-^ Davies, John. "4DigitalBooks launches digital book scanner". PrintWeek. 
-^ "Stanford University Libraries (SUL) Robotic Book Scanner". Stanford University Libraries (SUL). 
-^ "Technology Innovation Awards: Winners 2001". Dow Jones. 
-^ Rapp, David. "Product Watch: Library Scanners". Library Journal. Retrieved 11 May 2014. 
+^ a b c d e Van Leeuwen, F. (2007). "Validation of the new Hipparcos reduction". Astronomy and Astrophysics 474 (2): 653. Bibcode:2007A&A...474..653V. doi:10.1051/0004-6361:20078357. 
+^ a b Luck, R. Earle (2014). "Parameters and Abundances in Luminous Stars". The Astronomical Journal 147 (6): 137. Bibcode:2014AJ....147..137L. doi:10.1088/0004-6256/147/6/137. 
+^ a b c d e Lyubimkov, Leonid S.; Lambert, David L.; Korotin, Sergey A.; Rachkovskaya, Tamara M.; Poklad, Dmitry B. (2015). "Carbon abundance and the N/C ratio in atmospheres of A-, F- and G-type supergiants and bright giants". Monthly Notices of the Royal Astronomical Society 446 (4): 3447. arXiv:1411.2722. Bibcode:2015MNRAS.446.3447L. doi:10.1093/mnras/stu2299. 
+^ Gontcharov, G. A. (2006). "Pulkovo Compilation of Radial Velocities for 35 495 Hipparcos stars in a common system". Astronomy Letters 32 (11): 759. Bibcode:2006AstL...32..759G. doi:10.1134/S1063773706110065. 
+^ Kovtyukh, V. V.; Chekhonadskikh, F. A.; Luck, R. E.; Soubiran, C.; Yasinskaya, M. P.; Belik, S. I. (2010). "Accurate luminosities for F-G supergiants from FeII/FeI line depth ratios". Monthly Notices of the Royal Astronomical Society 408 (3): 1568. Bibcode:2010MNRAS.408.1568K. doi:10.1111/j.1365-2966.2010.17217.x. 
+^ Pasinetti Fracassini, L. E.; Pastori, L.; Covino, S.; Pozzi, A. (2001). "Catalogue of Apparent Diameters and Absolute Radii of Stars (CADARS) - Third edition - Comments and statistics". Astronomy and Astrophysics 367 (2): 521. Bibcode:2001A&A...367..521P. doi:10.1051/0004-6361:20000451. 
+^ Kovtyukh, V. V.; Gorlova, N. I.; Belik, S. I. (2012). "Accurate luminosities from the oxygen λ7771-4 Å triplet and the fundamental parameters of F-G supergiants". Monthly Notices of the Royal Astronomical Society 423 (4): 3268. arXiv:1204.4115. Bibcode:2012MNRAS.423.3268K. doi:10.1111/j.1365-2966.2012.21117.x. 
+^ Lyubimkov, Leonid S.; Lambert, David L.; Kaminsky, Bogdan M.; Pavlenko, Yakov V.; Poklad, Dmitry B.; Rachkovskaya, Tamara M. (2012). "Lithium abundance in atmospheres of F- and G-type supergiants and bright giants". Monthly Notices of the Royal Astronomical Society 427: 11. Bibcode:2012MNRAS.427...11L. doi:10.1111/j.1365-2966.2012.21617.x. 
+^ Lyubimkov, Leonid S.; Lambert, David L.; Rostopchin, Sergey I.; Rachkovskaya, Tamara M.; Poklad, Dmitry B. (2010). "Accurate fundamental parameters for A-, F- and G-type Supergiants in the solar neighbourhood". Monthly Notices of the Royal Astronomical Society 402 (2): 1369. arXiv:0911.1335. Bibcode:2010MNRAS.402.1369L. doi:10.1111/j.1365-2966.2009.15979.x. 
+^ a b Pickering, Edward Charles (1903). "A catalogue of 1520 bright stars". Annals of Harvard College Observatory ; v. 48 48: 125. Bibcode:1903AnHar..48..125P. 
+^ Mason, Brian D.; Wycoff, Gary L.; Hartkopf, William I.; Douglass, Geoffrey G.; Worley, Charles E. (2001). "The 2001 US Naval Observatory Double Star CD-ROM. I. The Washington Double Star Catalog". The Astronomical Journal 122 (6): 3466. Bibcode:2001AJ....122.3466M. doi:10.1086/323920. 
 
 
-External links[edit]
 
-Robotic Book Scanning at Stanford
-How to Make a Full Auto Book Scanner
-4DigitalBooks DL 3003 automatic book scanner
-Qidenus Technologies QiScan RBSpro robotic bookscanner
-Treventus - Robotic bookscanner ScanRobot
-Kirtas Technologies KABIS Robotic Book Scanner
-List of Book Scanner Manufacturers
-BookScanner.us - A Book Scanning service
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Stars of Hydra
+
+
+
+
+
+
+Bayer
+
+
+
+α (Alphard)
+β
+γ
+δ
+ε
+ζ
+η
+θ
+ι
+κ
+λ
+μ
+ν
+ξ
+ο
+π
+ρ
+σ
+τ1
+τ2
+υ1
+υ2
+φ1
+φ2
+φ3
+χ1
+χ2
+ψ
+ω
+
+
+
+
+
+
+
+
+Flamsteed
+
+
+
+1
+2
+3
+6
+9
+10
+12
+14
+15
+17
+19
+20
+21
+23
+24
+25
+26
+27
+28
+29
+33
+34
+37
+44
+47
+48
+50
+51
+52
+54
+55
+56
+57
+58
+59
+60
+17 Crt
+14 Lib
+30 Mon
+31 Mon
+2 Sex
+
+
+
+
+
+
+
+
+Variable
+
+
+
+R
+S
+U
+V
+W
+X
+RT
+RW
+RX
+SX
+SZ
+TT
+TW
+VX
+VZ
+WZ
+AI
+AV
+CT
+DF
+EX
+EZ
+FG
+GK
+HQ
+HS
+II
+IL
+IY
+KU
+KZ
+LN
+LO
+LQ
+LR
+LV
+LX
+MO
+MX
+NS
+OY
+QT
+V335
+V355
+V406
+V419
+V478
+
+
+
+
+
+
+
+
+HR
+
+
+
+3212
+3269
+3271
+3272
+3285
+3288
+3295
+3305
+3338
+3342
+3374
+3378
+3383
+3392
+3411
+3446
+3458
+3478
+3480
+3486
+3493
+3526
+3529
+3538
+3554
+3557
+3564
+3578
+3584
+3590
+3596
+3636
+3638
+3649
+3651
+3653
+3675
+3687
+3704
+3714
+3741
+3749
+3750
+3758
+3760
+3762
+3763
+3767
+3772
+3785
+3788
+3794
+3796
+3801
+3802
+3805
+3808
+3810
+3822
+3848
+3858
+3862
+3908
+3919
+3921
+3923
+3931
+3963
+3965
+3977
+3986
+3988
+3991
+4005
+4011
+4055
+4068
+4071
+4076
+4117
+4123
+4130
+4149
+4152
+4157
+4158
+4162
+4172
+4190
+4214 (3 Crt)
+4225
+4251 (6 Crt)
+4261
+4282
+4298
+4302 (8 Crt)
+4307
+4328
+4331
+4334 (10 Crt)
+4339
+4346
+4373
+4445
+4449 (18 Crt)
+4458 (20 Crt)
+4469 (22 Crt)
+4473 (23 Crt)
+4498
+4503 (26 Crt)
+4525
+4542
+4548
+4553
+4558
+4565 (29 Crt)
+4579
+4612
+4628
+4651
+4723
+4735
+4774
+4803
+4810
+4839
+4857
+4860
+4918
+4978
+5090
+5097
+5098
+5120
+5128
+5166
+5167
+5197
+5209
+5228
+5246
+5265
+5309
+5314
+5324
+5356
+5399
+5565
+
+
+
+
+
+
+
+
+HD
+
+
+
+68667
+72659
+74156
+74685
+75098
+75217
+76027
+76478
+78614
+79481
+79994
+82943
+83352
+86226
+86264
+88806
+90156
+94046 (5 Crt)
+97344
+105113
+106500
+107869
+117033
+121758
+125279
+
+
+
+
+
+
+
+
+Gliese
+
+
+
+Gliese 357
+Gliese 433
+Gliese 453
+GJ 2066
+GJ 3517
+GJ 3634
+
+
+
+
+
+
+
+
+Other
+
+
+
+BD -3 2525
+BD-22 3467
+CE 315
+EC 14026-2647
+HAT-P-35
+HAT-P-42
+HE 1327-2326
+IRC -20197
+Kelu-1
+LHS 2065
+LHS 3003
+2MASS 0835-08
+2MASS 1114-2618
+PSR B0820+02
+PSR B0834+06
+TWA 5
+WASP-15
+WASP-25
+WASP-36
+WISE 0855−0714
+
+
+
+
+
+
+
+
+
+
+
+List
+
+
+
+
+
+
+
 
 
 

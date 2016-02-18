@@ -5,88 +5,107 @@ From Wikipedia, the free encyclopedia
 
 
 
-1201 Walnut
 
 
 
 
 
-General information
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
 
 
-Status
-Complete
 
 
-Type
-Office
 
 
-Location
-1201 Walnut Street, Kansas City, Missouri
 
 
-Coordinates
-39°05′58″N 94°34′55″W﻿ / ﻿39.09956°N 94.58194°W﻿ / 39.09956; -94.58194Coordinates: 39°05′58″N 94°34′55″W﻿ / ﻿39.09956°N 94.58194°W﻿ / 39.09956; -94.58194
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2007)
 
 
-Completed
-1991
 
 
-Owner
-Copaken, White & Blitt
 
 
-Height
+
+The topic of this article may not meet Wikipedia's notability guidelines for products and services. Please help to establish notability by adding reliable, secondary sources about the topic. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
+Find sources: "AmeriDarts" – news · newspapers · books · scholar · JSTOR · free images (November 2012)
 
 
-Roof
-130.1 m (427 ft)[1]
 
 
-Technical details
 
 
-Floor count
-30
 
 
-Floor area
-44,593 m2 (480,000 sq ft)
 
 
-Lifts/elevators
-13
+AmeriDarts
 
 
-Design and construction
+
+AmeriDarts arcade flyer.
 
 
-Architect
-HNTB
+
+Developer(s)
+Ameri
 
 
-The 1201 Walnut Building is a Skyscraper located in Downtown Kansas City, Missouri, USA, built by HNTB Architects in 1991. Found at the intersection of 12th and Walnut streets, it is the eighth tallest habitable structure in the Kansas City Metropolitan Area, and the twelfth tallest habitable structure in Missouri, at 427 feet. The exterior is made of mostly dark colored glass, and granite panels, and is very close the new Sprint Center and Power & Light District, part of the redevelopment of downtown Kansas City. The glass look helps to further the glass-theme that the Sprint Center, H&R Block Building, and the Kansas City Star printing press have. In late 2010, building tenant Stinson Morrison Hecker, LLP acquired the rights to place a large sign and corporate logo atop the southern face of the building.
+Publisher(s)
+Ameri
+
+
+Platform(s)
+Arcade Game
+
+
+Release date(s)
+1989
+
+
+Genre(s)
+Sports game
+
+
+Mode(s)
+Single player, 4-player
+
+
+CPU
+TMS34010
+
+
+Sound
+Sound CPU : TMS32010, Sound Chips : DAC
+
+
+Display
+Horizontal, Raster, 320 x 240 pixels, 16 colors
+
+
+AmeriDarts is a darts arcade game released by Ameri in 1989.
+There are five different game variations:
+
+Flash (A Bull's Eye Game)
+Sector Shoot-Out (a numbered target game)
+301 (the traditional darts game)
+High Score
+Cricket.
+
 References[edit]
-
-
-^ skyscraperpage.com - Retrieved January 16, 2008
-
 
 External links[edit]
 
-1201 Walnut on Skyscraperpage.com
-
-References[edit]
-
-American Institute of Architects Guide to Kansas City Architecture & Public Art. (Copyright 2000). American Institute of Architects/KC. Retrieved August 11, 2007. (Page 30, Number 42)
+AmeriDarts at Arcade History
+AmeriDarts at the Killer List of Videogames
+Contemporary review at Solvalou.com
 
 
 
 
 
-This article about a building or structure in Missouri is a stub. You can help Wikipedia by expanding it.
+This arcade game-related article is a stub. You can help Wikipedia by expanding it.
 
 
 v
@@ -95,13 +114,6 @@ e
 
 
 
-
-
-
-
-
-
-Town Pavilion and 1201 Walnut via HR Block
 
 
 

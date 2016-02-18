@@ -1,1 +1,1 @@
-['http://www.catb.org/jargon/html/B/BCPL.html', 'https://www.bell-labs.com/usr/dmr/www/bcpl.html', 'http://www.cl.cam.ac.uk/users/mr/BCPL.html', 'https://www.bell-labs.com/usr/dmr/www/bcpl.html', 'http://www.catb.org/~esr/jargon/html/B/BCPL.html', 'http://www.nordier.com/software/bcpl.html']
+['http://www.espncricinfo.com/magazine/content/story/710639.html']

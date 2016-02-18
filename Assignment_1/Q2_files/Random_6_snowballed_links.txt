@@ -1,1 +1,1 @@
-[]
+['http://www.cartoonresearch.com/paramount.html', 'http://www.tv.com/the-tick-1994/the-tick-vs.-brainchild/episode/100801/summary.html?tag=ep_guide;ep_title;8', 'http://dvd.ign.com/articles/940/940956p1.html']

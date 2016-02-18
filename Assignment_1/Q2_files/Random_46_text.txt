@@ -3,153 +3,1103 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-This article is about the programming language.  For the library system, see Baltimore County Public Library.
+This article is about the London theatre in St. Martin's Lane.  For the former building to the east of Regent's Park, see London Colosseum.  For other uses, see Coliseum Theatre (disambiguation).
+
+London Coliseum
+
+The Coliseum Theatre
+London Coliseum Theatre of Varieties
+
+
+
+The London Coliseum in April 2004
+
+
+
+Address
+St. Martin's Lane
+Westminster, London
+United Kingdom
+
+
+Coordinates
+51°30′35″N 0°07′35″W﻿ / ﻿51.509722°N 0.126389°W﻿ / 51.509722; -0.126389
+
+
+Owner
+English National Opera
+
+
+Designation
+Grade II*
+
+
+Type
+Opera House
+
+
+Capacity
+2,558 seats on 3 tiers (4 levels)[1]
+
+
+Construction
+
+
+Opened
+1904
+
+
+Rebuilt
+2000 – 2004, Aedas RHWL
+
+
+Architect
+Frank Matcham
+
+
+Website
+
+
+www.eno.org
 
 
 
 
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (May 2010)
+
+Interior view of the house, 2011
 
 
 
-BCPL
-
-Paradigm
-procedural, imperative, structured
 
 
-Designed by
-Martin Richards
+
+Interior view of the house, 2015
 
 
-First appeared
-1966; 50 years ago (1966)
 
 
-Typing discipline
-typeless (everything is a word)
 
 
-Influenced by
+View towards the stage
 
 
-CPL
-
-
-Influenced
-
-
-B, C
-
-
-BCPL (Basic Combined Programming Language) is a procedural, imperative, and structured computer programming language designed by Martin Richards of the University of Cambridge in 1966.
+The London Coliseum (also known as the Coliseum Theatre) is a theatre in St. Martin's Lane, central London, built as one of London's largest and most luxurious "family" variety theatres. Opened on 24 December 1904 as the London Coliseum Theatre of Varieties, it was designed by the theatrical architect Frank Matcham for the impresario Oswald Stoll.[1] Their ambition was to build the largest and finest music hall, described as the "people's palace of entertainment" of its age.[2]
+At the time of construction, it was the only theatre in Europe that provided lifts for taking patrons to the upper levels of the house, and was the first theatre in England to have a triple revolve installed on its stage. The theatre has 2,359 seats which makes it the largest theatre in London.
+After being used for variety shows, musical comedies, and stage plays for many years, then as a cinema screening films in the Cinerama format between 1961 and 1968, the Sadler's Wells Opera Company moved into the building in 1968. The Sadler's Wells company changed its name to the English National Opera in 1974 and today it is used primarily for opera as well as being the London home of the English National Ballet.
 
 
 
 Contents
 
 
-1 Design
-2 Uses and implementations
-3 Examples
+1 History
+2 Technical aspects
+3 Use as a cinema
 4 References
 5 Further reading
 6 External links
 
 
 
-Design[edit]
-Originally intended for writing compilers for other languages, BCPL is no longer in common use. However, its influence is still felt because a stripped down and syntactically changed version of BCPL, called B, was the language on which the C programming language was based. This led many C programmers to give BCPL the humorous backronym Before C Programming Language.[1]
-BCPL was the first brace programming language, and the braces survived the syntactical changes and have become a common means of denoting program source code statements. In practice, on limited keyboards of the day, source programs often used the sequences $( and $) in place of the symbols { and }. The single-line '//' comments of BCPL, which were not adopted by C, reappeared in C++, and later in C99.
-BCPL was a response to difficulties with its predecessor Combined Programming Language (CPL), created during the early 1960s. Richards created BCPL by "removing those features of the full language which make compilation difficult". The first compiler implementation, for the IBM 7094 under Compatible Time-Sharing System (CTSS), was written while Richards was visiting Project MAC at the Massachusetts Institute of Technology (MIT) in the spring of 1967. The language was first described in a paper presented to the 1969 Spring Joint Computer Conference.
-It was designed so that small and simple compilers could be written for it; reputedly some compilers could be run in 16 kilobytes. Further, the Richards compiler, itself written in BCPL, was easily portable. BCPL was thus a popular choice for bootstrapping a system.
-A major reason for the compiler's portability lay in its structure. It was split into two parts: the front end parsed the source and generated O-code for a virtual machine, and the back end took the O-code and translated it into the code for the target machine. Only 1/5 of the compiler's code needed to be rewritten to support a new machine, a task that usually took between 2 and 5 man-months. This approach became common practice later, e.g., Pascal or Java, but the Richards BCPL compiler was the first to define a virtual machine for this purpose.
-The language is unusual in having only one data type: a word, a fixed number of bits, usually chosen to align with the architecture's machine word and of adequate capacity to represent any valid storage address. For many machines of the time, this data type was a 16-bit word. This choice later proved to be a significant problem when BCPL was used on machines in which the smallest addressable item was not a word, but a byte or on machines with larger word sizes: 32-bit and 64-bit words, which allowed them to manage large address spaces.
-The interpretation of any value was determined by the operators used to process the values. (For example, + added two values together treating them as integers; ! indirected through a value, effectively treating it as a pointer.) In order for this to work, the implementation provided no type checking. The Hungarian notation was developed to help programmers avoid inadvertent type errors.
-The mismatch between BCPL's word orientation and byte-oriented hardware was addressed in several ways. One was providing standard library routines for packing and unpacking words into byte strings. Later, two language features were added: the bit-field selection operator and the infix byte indirection operator (denoted by the '%' character).
-BCPL handles bindings spanning separate compilation units in a unique way. There are no user-declarable global variables; instead there is a global vector, which is similar to "blank common" in Fortran. All data shared between different compilation units comprises scalars and pointers to vectors stored in a pre-arranged place in the global vector. Thus the header files (files included during compilation using the "GET" directive) become the primary means of synchronizing global data between compilation units, containing "GLOBAL" directives that present lists of symbolic names, each paired with a number that associates the name with the corresponding numerically addressed word in the global vector. As well as variables, the global vector also contains bindings for external procedures. This makes dynamic loading of compilation units very simple to achieve. Instead of relying on the link loader of the underlying implementation, effectively BCPL gives the programmer control of the linking process.
-The global vector also made it very simple to replace or augment standard library routines. A program could save the pointer from the global vector to the original routine and replace it with a pointer to an alternative version. The alternative might call the original as part of its processing. This could be used as a quick ad-hoc debugging aid.
-The philosophy of BCPL can be summarised by quoting from the book BCPL, the language and its compiler:
+History[edit]
+The London Coliseum was built by the theatrical architect Frank Matcham who intended it to be one of London's largest and most luxurious "family" variety theatres. Construction started in 1903 and it opened on 24 December the following year as the London Coliseum Theatre of Varieties. It is located in St. Martin's Lane, London.[3]
+Matcham built the theatre for the theatrical impresario Sir Oswald Stoll and had the ambition of it being the largest and finest "People’s palace of entertainment" of the age. [3]
+Matcham wanted a Theatre of Variety – not a music hall but equally not highbrow entertainment. The resulting programme was a mix of music hall and variety theatre, with one act - a full scale revolving chariot race - requiring the stage to revolve. The theatre’s original slogan was PRO BONO PUBLICO (For the public good). It was opened in 1904 and the inaugural performance was a variety bill on 24 December that year.
+English Heritage, in its description of the theatre when it was given listed status in 1960 notes that it is "exuberant Free Baroque ambitious design, the Edwardian "Theatre de Luxe of London" with richly decorated interiors and a vast and grandiose auditorium."[4] The description continues: "Lavish foyer and circulation areas with marble facings, culminating in vast 3-tier auditorium with wealth of eclectic classical detail of Byzantine opulence, some motifs such as the squat columns dividing the lowest tier of slip boxes, backing the stalls, almost Sullivanesque; pairs of 2-tiered bow fronted boxes with domed canopies at gallery level and semi-domed, Ionic-columned pairs of 2 tiered orchestra boxes, contained in arched and pedimented frames surmounted by sculptural groups with lion-drawn chariots. Great, semi-circular, blocked architrave proscenium arch with cartouche- trophy keystone."[4]
+The inaugural performance was a variety bill on 24 December 1904, but it "was a total failure and closed down completely only two years after opening in 1906 and remained closed until December of 1907 when it was reopened and at last became successful."[2] In 1908, the London Coliseum was host to a cricket match between Middlesex and Surrey.[5]
+In 1911, dramatist W. S. Gilbert produced his last play here, The Hooligan.
+The theatre changed its name from the London Coliseum to the Coliseum Theatre between 1931 and 1968 when a run of 651 performances of the musical comedy White Horse Inn began on 8 April 1931. Additionally, Arthur Lewis notes[2] that:
 
-The philosophy of BCPL is not one of the tyrant who thinks he knows best and lays down the law on what is and what is not allowed; rather, BCPL acts more as a servant offering his services to the best of his ability without complaint, even when confronted with apparent nonsense. The programmer is always assumed to know what he is doing and is not hemmed in by petty restrictions.
+Pantomimes began in 1936 with Cinderella and continued regularly until 1946. In 1947 the musical Annie Get Your Gun was staged at the Coliseum and had a staggeringly successful run for the time, of 1,304 performances and three continuous years which was the longest run in theatrical history.
 
-The design, and philosophy, of BCPL strongly influenced B, which in turn influenced C.
-There are rumours that BCPL actually stood for "Bootstrap Cambridge Programming Language", however CPL was never created since development stopped at BCPL, and the acronym was reinterpreted for the BCPL book.
-Uses and implementations[edit]
-BCPL is the language in which the original hello world program was written.[2] The first MUD was also written in BCPL (MUD1).
-Several operating systems were written partially or wholly in BCPL (for example, TRIPOS and the earliest versions of AmigaDOS, a part of AmigaOS). BCPL was also the initial language used in the seminal Xerox PARC Alto project, the first modern personal computer; among other projects, the Bravo document preparation system was written in BCPL.
-An early compiler, bootstrapped in 1969 by starting with a paper tape of the O-code of Martin Richards's Atlas 2 compiler, targeted the ICT 1900 series. The two machines had different word-lengths (48 vs 24 bits), different character encodings, and different packed string representations—and the successful bootstrapping increased confidence in the practicality of the method.
-By late 1970, implementations existed for the Honeywell 635 and Honeywell 645, the IBM 360, the PDP-10, the TX-2, the CDC 6400, the UNIVAC 1108, the PDP-9, the KDF 9 and the Atlas 2. In 1974 a dialect of BCPL was implemented at BBN without using the intermediate O-code. The initial implementation was a cross-compiler hosted on BBN's Tenex PDP-10s, and directly targeted the PDP-11s used in BBN's implementation of the second generation IMPs used in the Arpanet.
-There was also a version produced for the BBC Micro in the mid-1980s by Richards Computer Products, a company started by John Richards, the brother of Dr. Martin Richards.[citation needed] The BBC Domesday Project made use of the language. Versions of BCPL for the Amstrad CPC and Amstrad PCW computers were also released in 1986 by UK software house Arnor Ltd. MacBCPL was released for the Apple Macintosh in 1985 by Topexpress Ltd, of Kensington, England.
-In 1979 implementations of BCPL existed for at least 25 architectures; the language gradually fell out of favor as C became popular on non-Unix systems.
-Examples[edit]
-These complete and compilable examples are from Martin Richards′ BCPL distribution.
-Print factorials:
+There then followed a long run of major American hits beginning with Kiss Me, Kate in 1951, Guys And Dolls in 1953, Pajama Game in 1955, and Damn Yankees in 1957. But this exceptional period did at last come to an end in 1957 when the production of The Bells Are Ringing failed to enthrall anyone.
+The Coliseum reverted to the original name when the Sadler's Wells Opera Company moved there in 1968 and, in 1974, the Company changed its name to become the English National Opera; it bought the freehold of the building for £12.8 million in 1992.[2] The Coliseum hosted both the 2004 and 2006 Royal Variety Performances and is also the London base for performances by English National Ballet, which perform regular seasons throughout the year when not on tour.
+Technical aspects[edit]
+While its wing space is limited due to the constricted site on which the theatre was built, as Lloyd notes, "the stage of the London Coliseum was also on a vast scale; 55 feet wide by 92 feet deep".[2] The stage is not raked. It has the widest proscenium arch in London and was one of the first to have electric lighting. It was built with a triple revolving stage, although this was rarely used. The Coliseum was designed to seat 2,358 people on four levels.[2] As such it is the largest of all London's theatres.[3]
+The theatre retains many of its original features and was given a Grade II* listed building by English Heritage in September 1960. Prior to Sadler's Wells Opera Company taking over the Coliseum in 1968, the house was "fully restored, redecorated, and a large orchestra pit installed....On 21 August 1968, with a production of Don Giovanni" opera appeared at the Coliseum.[2]
+Another extensive renovation took place between 2000 and 2004.[4][6] when the design team included the architects RHWL and Arup as acousticians and building engineers.
+Use as a cinema[edit]
+Periodically, the Coliseum was used to show films and, when the "'Talkies' arrived at the Coliseum in 1933, films were run at the Theatre for a year. The greatest sensation at this time was the showing of King Kong which ran at the Coliseum for months with 10,000 people seeing the film at the Theatre every day."[2]
+However, after a lackluster period of poorly received musicals came to an end, in June 1961 the theatre was leased by MGM for use as a cinema during the period that the Empire, Leicester Square was closed for rebuilding. The initial presentation, from 6 June, was a revival of Gone With the Wind which ran for 3 months. On 2 November the World Premiere of Bachelor in Paradise took place in the presence of the film's star, Bob Hope, and following this, on 15 November, was the UK premiere of Samuel Bronston's epic King of Kings. MGM continued to use the theatre even after the new Empire, Leicester Square reopened in December 1962, but MGM's lease expired on 19 May 1963 and the theatre was then leased by the Cinerama Corporation to become the second of London's Cinerama locations (after the Casino Cinerama).
 
-GET "LIBHDR"
 
-LET START() = VALOF $(
-        FOR I = 1 TO 5 DO
-                WRITEF("%N! = %I4*N", I, FACT(I))
-        RESULTIS 0
-$)
 
-AND FACT(N) = N = 0 -> 1, N * FACT(N - 1)
 
-Count solutions to the N queens problem:
+A typical Cinerama-size curved screen
 
-GET "LIBHDR"
 
-GLOBAL $(
-        COUNT: 200
-        ALL: 201
-$)
-
-LET TRY(LD, ROW, RD) BE
-        TEST ROW = ALL THEN
-                COUNT := COUNT + 1
-        ELSE $(
-                LET POSS = ALL & ~(LD | ROW | RD)
-                UNTIL POSS = 0 DO $(
-                        LET P = POSS & -POSS
-                        POSS := POSS - P
-                        TRY(LD + P << 1, ROW + P, RD + P >> 1)
-                $)
-        $)
-
-LET START() = VALOF $(
-        ALL := 1
-        FOR I = 1 TO 12 DO $(
-                COUNT := 0
-                TRY(0, 0, 0)
-                WRITEF("%I2-QUEENS PROBLEM HAS %I5 SOLUTIONS*N", I, COUNT)
-                ALL := 2 * ALL + 1
-        $)
-        RESULTIS 0
-$)
-
+Conversion to three-strip projection which used three projectors was undertaken, and an 80ft wide, 30ft tall deeply curved screen was installed. Beginning on 16 July 1963, the theatre was renamed the Coliseum Cinerama, with the UK premiere of The Wonderful World of the Brothers Grimm. This film transferred to the third of London's Cinerama houses, the Royalty Theatre on 27 November and the Coliseum was converted for single-projector Cinerama using 70mm film for the Gala UK Premiere of It's a Mad, Mad, Mad, Mad, World on 2 December 1963. Other 70mm films followed, The Magnificent Showman (the UK Title of Circus World), The Great Race (a 35mm "blow up") and The Bible. With fewer films made in the format, it later became difficult to programme the theatre. It resorted to revivals of old 70mm movies before opening The Comedians on January 18 1968 (a 70mm Panavision blow up). This ran for nine weeks and was followed by a revival of the 1956 Todd-AO epic Around the World in 80 Days, the first time this film had been shown in 70mm in London. This ran until 22 May 1968 when Cinerama pulled out and the theatre reverted to live use.[1]
 References[edit]
 
 
-^ Expert C Programming: Deep C Secrets by Peter Van Der Linden (Prentice Hall, 1994)
-^ BCPL, Jargon File
+^ a b c KenRoe. "London Coliseum". Cinema Treasures. Retrieved 15 January 2010. 
+^ a b c d e f g h Lloyd, Arthur. "The London Coliseum, St. Martin's Lane, London, WC2". Arthurlloyd.co.uk. Retrieved 28 November 2014. 
+^ a b c "History of the Coliseum", English National Opera, accessed 26 July 2015.
+^ a b c Historic England. "Details from image database (426935)". Images of England. Retrieved 28 April 2007. 
+^ "When cricket hit the West End". ESPN Cricinfo. 18 January 2014. Retrieved 18 January 2014. 
+^ Higgins, Charlotte (15 December 2005). "The Guardian Profile: Martin Smith". The Guardian. (London). Retrieved 23 January 2013. 
 
 
 Further reading[edit]
 
-Martin Richards, The BCPL Reference Manual (Memorandum M-352, Project MAC, Cambridge, MA, USA, July, 1967)
-Martin Richards, BCPL - a tool for compiler writing and systems programming (Proceedings of the Spring Joint Computer Conference, Vol 34, pp 557–566, 1969)
-Martin Richards, Arthur Evans, Robert F. Mabee, The BCPL Reference Manual (MAC TR-141, Project MAC, Cambridge, MA, USA, 1974)
-Martin Richards, C. Whitby-Strevens, BCPL, the language and its compiler (Cambridge University Press, 1980) ISBN 0-521-28681-6
+Earl, John and Michael Sell, Guide to British Theatres 1750–1950, Theatres Trust, 2000 pp. 121–122 ISBN 0-7136-5688-3
+Glasstone, Victor, Victorian and Edwardian Theatres London: Thames and Hudson, 1975
 
 External links[edit]
 
-Martin Richards' BCPL distribution
-Martin Richards' BCPL Reference Manual by Dennis M. Ritchie including his commentary about BCPL's influence on C
-BCPL entry in the Jargon File
-Nordier & Associates' x86 port
-ArnorBCPL manual
+
+
+Wikimedia Commons has media related to Coliseum Theatre.
+
+
+
+English National Opera site
+London Theatre Guide with what's on at the London Coliseum
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Theatres in London
+
+
+
+
+
+
+West End
+
+
+
+
+
+Ambassador Theatre Group
+
+
+
+
+Apollo Victoria
+Duke of York's
+Fortune
+Harold Pinter
+Lyceum
+Phoenix
+Piccadilly
+Playhouse
+Savoy
+Trafalgar Studios
+
+
+
+
+
+
+
+
+
+Delfont Mackintosh Theatres
+
+
+
+
+Ambassadors
+Gielgud
+Noël Coward
+Novello
+Prince Edward
+Prince of Wales
+Queen's
+Victoria Palace
+Wyndham's
+
+
+
+
+
+
+
+
+
+Nederlander Organization
+
+
+
+
+Adelphi
+Aldwych
+Dominion
+
+
+
+
+
+
+
+
+
+Nimax Theatres
+
+
+
+
+Apollo
+Duchess
+Garrick
+Lyric
+Vaudeville
+Palace
+
+
+
+
+
+
+
+
+
+Really Useful Group Theatres
+
+
+
+
+Cambridge
+Drury Lane
+Her Majesty's
+London Palladium
+New London
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+Arts
+Criterion
+Haymarket
+Shaftesbury
+St. James
+St. Martin's
+
+
+
+
+
+
+
+
+
+
+
+Other major
+theatres
+
+
+
+Barbican Centre
+Donmar Warehouse
+London Coliseum
+New Wimbledon
+The Old Vic
+Open Air
+Peacock
+Royal National
+Royal Opera House
+Sadler's Wells
+Sam Wanamaker Playhouse
+Shakespeare's Globe
+
+
+
+
+
+
+
+
+Off West End
+
+
+
+Almeida
+Arcola
+Battersea Arts Centre
+Bush
+Hampstead
+Lyric Hammersmith
+Menier Chocolate Factory
+Royal Court
+Soho
+Tricycle
+Young Vic
+
+
+
+
+
+
+
+
+Fringe and
+suburban
+
+
+
+Above the Stag
+artsdepot
+Ashcroft
+Barons Court
+Beck
+Bob Hope
+Bloomsbury
+The Broadway
+Broadway
+Brockley Jack
+Brookside
+Canal Café
+Chelsea
+Churchill
+Cockpit
+Courtyard
+Compass
+Erith Playhouse
+Etcetera
+Finborough
+Gate
+Greenwich
+Hackney Empire
+Hen and Chickens
+Hoxton Hall
+ICA
+Intimate Theatre
+Jacksons Lane
+Jermyn Street
+King's Head
+Landor
+Leicester Square
+Little Angel
+Millfield
+New Players'
+Old Red Lion
+Orange Tree
+Ovalhouse
+Park
+Pentameters
+The Place
+Pleasance Islington
+The Print Room
+Queen's, Hornchurch
+The Questors
+RADA Studios
+Richmond
+Riverside Studios
+Rose, Kingston
+Shaw
+South London
+Southwark Playhouse
+The Space
+Stratford Circus
+Tabard
+Theatre 503
+Theatre Royal Stratford East
+Troxy
+Unicorn
+Union
+Upstairs at The Gatehouse
+White Bear
+Wilton's
+
+
+
+
+
+
+
+
+Former
+
+
+
+Bolton's Theatre Club
+Cochrane
+Cock Tavern
+Greenwich Playhouse
+Mermaid
+New End
+Saville
+Warehouse
+Westminster
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Commons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+London landmarks
+
+
+
+
+
+
+Buildings and
+structures
+
+
+
+
+
+Bridges
+
+
+
+
+Hungerford Bridge and Golden Jubilee Bridges
+London Bridge
+Millennium Bridge
+Tower Bridge
+Waterloo Bridge
+Westminster Bridge
+
+
+
+
+
+
+
+
+
+Entertainment
+venues
+
+
+
+
+
+
+Cinemas
+
+
+
+
+Empire, Leicester Square
+London IMAX
+Odeon Leicester Square
+
+
+
+
+
+
+
+
+
+Premier League/International
+football venues
+
+
+
+
+Wembley Stadium (multi-use)
+Emirates Stadium (Arsenal FC)
+Selhurst Park (Crystal Palace FC)
+Stamford Bridge (Chelsea FC)
+Boleyn Ground (West Ham FC)
+White Hart Lane (Tottenham Hotspur FC)
+
+
+
+
+
+
+
+
+
+Other major
+sports venues
+
+
+
+
+All England Lawn Tennis and Croquet Club
+The Championship Course
+Crystal Palace National Sports Centre
+Lord's Cricket Ground
+Olympic Stadium
+The Oval Cricket Ground
+Twickenham Rugby Stadium
+
+
+
+
+
+
+
+
+
+Theatres
+
+
+
+
+London Coliseum
+Haymarket Theatre
+Royal National Theatre
+Royal Opera House
+Shakespeare's Globe
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+Brixton Academy
+Earls Court Exhibition Centre
+Hammersmith Apollo
+The O2 Arena
+Royal Albert Hall
+Royal Festival Hall
+Wembley Arena
+ExCeL
+Alexandra Palace
+
+
+
+
+
+
+
+
+
+
+
+
+Government
+
+
+
+
+10 Downing Street
+Admiralty Arch
+Bank of England
+City Hall
+County Hall
+Guildhall
+Horse Guards
+Mansion House
+The National Archives
+Old Bailey
+Palace of Westminster
+Royal Courts of Justice
+Scotland Yard
+SIS Building
+
+
+
+
+
+
+
+
+
+Museums and
+galleries
+
+
+
+
+British Museum
+Cutty Sark
+Golden Hinde
+HMS Belfast
+Imperial War Museum
+Madame Tussauds
+Museum of London
+National Gallery
+National Maritime Museum
+Natural History Museum
+Royal Academy of Arts
+Royal Observatory
+Science Museum
+Tate Britain
+Tate Modern
+Tower of London
+Victoria and Albert Museum
+
+
+
+
+
+
+
+
+
+Places of worship
+
+
+
+
+BAPS Shri Swaminarayan Mandir
+Bevis Marks Synagogue
+Methodist Central Hall Westminster
+St Martin-in-the-Fields
+St Paul's Cathedral
+Southwark Cathedral
+Westminster Abbey
+Westminster Cathedral
+
+
+
+
+
+
+
+
+
+Retailing
+
+
+
+
+
+
+Shops
+
+
+
+
+Fortnum & Mason
+Hamleys
+Harrods
+Liberty
+Peter Jones
+Selfridges
+
+
+
+
+
+
+
+
+
+Shopping centres
+and markets
+
+
+
+
+Borough Market
+Brent Cross
+Burlington Arcade
+Kensington Arcade
+Leadenhall Market
+One New Change
+Petticoat Lane Market
+Royal Exchange
+Westfield London
+Westfield Stratford City
+
+
+
+
+
+
+
+
+
+
+
+
+Royal buildings
+
+
+
+
+
+
+Partly occupied by Royal Family
+
+
+
+
+Buckingham Palace
+Clarence House
+Kensington Palace
+St James's Palace
+
+
+
+
+
+
+
+
+
+Unoccupied
+
+
+
+
+Banqueting House
+Hampton Court Palace
+Royal Mews, Buckingham Palace
+The Queen's Gallery
+Kew Palace
+
+
+
+
+
+
+
+
+
+
+
+
+Skyscrapers
+
+
+
+
+8 Canada Square
+20 Fenchurch Street
+30 St Mary Axe
+125 London Wall
+Broadgate Tower
+BT Tower
+Centre Point
+Citigroup Centre
+Heron Tower
+Leadenhall Building
+Lloyd's building
+Millbank Tower
+One Canada Square
+St George Wharf Tower
+Senate House
+The Shard
+Shell Centre
+Strata SE1
+Tower 42
+
+
+
+
+
+
+
+
+
+Structures
+
+
+
+
+Albert Memorial
+ArcelorMittal Orbit
+Cleopatra's Needle
+Crystal Palace transmitting station
+London Eye
+London Wall
+Marble Arch
+Monument to the Great Fire
+Nelson's Column
+Thames Barrier
+
+
+
+
+
+
+
+
+
+Transport
+
+
+
+
+Emirates Air Line
+Heathrow Airport
+King's Cross railway station
+Liverpool Street station
+Marylebone station
+Paddington station
+St Pancras railway station
+Waterloo station
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+Barbican Estate
+Battersea Power Station
+British Library
+Kew Gardens
+Lambeth Palace
+London Zoo
+Oxo Tower
+St Bartholomew's Hospital
+Smithfield Market
+Somerset House
+
+
+
+
+
+
+
+
+
+
+
+Parks
+
+
+
+
+
+Royal Parks
+
+
+
+
+Bushy Park
+Green Park
+Greenwich Park
+Hyde Park
+Kensington Gardens
+Regent's Park
+Richmond Park
+St. James's Park
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+Battersea Park
+Burgess Park
+Clapham Common
+Epping Forest
+Finsbury Park
+Hampstead Heath
+Holland Park
+Mitcham Common
+Trent Park
+Victoria Park
+Wandsworth Common
+Wimbledon Common
+
+
+
+
+
+
+
+
+
+
+
+Squares and
+public spaces
+
+
+
+Covent Garden
+Horse Guards Parade
+Leicester Square
+Oxford Circus
+Parliament Square
+Piccadilly Circus
+Trafalgar Square
+
+
+
+
+
+
+
+
+Streets
+
+
+
+Baker Street
+Bishopsgate
+Bond Street
+Cannon Street
+Carnaby Street
+Chancery Lane
+Cheapside
+Cornhill
+Denmark Street
+Fenchurch Street
+Fleet Street
+Jermyn Street
+Kensington High Street
+King's Road
+Lombard Street
+Oxford Street
+The Mall
+Park Lane
+Piccadilly
+Portobello Road
+Regent Street
+Shaftesbury Avenue
+Strand
+Thames Street
+Threadneedle Street
+Tottenham Court Road
+Victoria Embankment
+Whitehall
+
+
+
+
+
+
+
+
+
+Buildings and structures under construction shown in italics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Laurence Olivier Award for Best New Opera Production (2001–2025)
+
+
+
+
+
+
+
+
+
+The Greek Passion – Royal Opera, London (2001)
+Boulevard Solitude – Royal Opera, London (2002)
+Wozzeck – Royal Opera, London (2003)
+The Trojans: Parts I and II – English National Opera (2004)
+Lady Macbeth of the Mtsensk District – Royal Opera, London (2005)
+Madama Butterfly – English National Opera (2006)
+Jenůfa – English National Opera (2007)
+Pelléas and Mélisande – Royal Opera, London (2008)
+Partenope - English National Opera (2009)
+Tristan und Isolde - Royal Opera, London (2010)
+Bohème - Soho Theatre (2011)
+Castor and Pollux – Coliseum Theatre (2012)
+Einstein on the Beach – Barbican Theatre (2013)
+Les vêpres siciliennes – The Royal Opera (2014)
+The Mastersingers of Nuremberg – English National Opera (2015)
+
+
+
+
+
+
+
+
+
+
+
+
+Complete list
+(1993–2000)
+(2001–2025)
+
+
+
+
+
+
+
+
 
 
 

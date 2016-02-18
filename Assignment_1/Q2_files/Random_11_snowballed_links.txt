@@ -1,1 +1,1 @@
-[]
+['http://www.baseball-reference.com/players/t/tennaji01.shtml', 'http://www.baseball-reference.com/players/t/tennaji01.shtml']

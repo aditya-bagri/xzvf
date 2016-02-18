@@ -1,1 +1,1 @@
-['http://web.stanford.edu/dept/SUL/library/prod//depts/diroff/DLStatement.html', 'http://www.dowjones.com/innovation/ei_winners_2001.html', 'http://www.geocities.jp/takascience/lego/fabs_en.html', 'http://www.4digitalbooks.com/_auto_dl3000.html', 'http://www.treventus.com/bookscanner_pageturner.html']
+[]
