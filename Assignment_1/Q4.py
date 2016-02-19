@@ -1,3 +1,17 @@
+### Author: 	Maanit Mehra
+### Date:	18th Feb, 2016
+### 
+### Code created for Assignment 1 of Advanced Big Data
+###
+### This code picks up data, using the Yahoo Finance feeds, 
+### detects outliers and removes them.
+###
+### Main Function can be called in either LIVE_MODE
+### which executes a realtime pickup and cleaning operation
+### or 
+### TEST_MODE which uses the data collected from a previous run.
+###
+
 import yahoo_finance
 from yahoo_finance import Share
 import time
@@ -51,7 +65,6 @@ def clear_files():
 			PATH="./Q4_files/"+sym["COMPANY"]+".csv"
 			try:
 				os.remove(PATH)
-#				print "Removing "+sym["COMPANY"]+".csv"
 			except Exception, e:
 				print "Error=", str(e)
 				pass
@@ -70,7 +83,6 @@ def create_files():
 					break
 			   except:
 				time.sleep(1)
-				#share_name=Share(symbol)
 
 			filename = "./Q4_files/"+company+".csv"
 			try:
@@ -94,7 +106,6 @@ def prepare_files():
 TEST_MODE=1
 LIVE_MODE=0
 def main(mode):
-#	a = np.random.randint(-1500, 1500, 2500).astype(np.float64)+np.random.rand(1,2500)
 	if mode:
 		path = "./Q4_with_data/"
 	else:
@@ -114,18 +125,15 @@ def main(mode):
                            except:
                                 time.sleep(1)
 
-#                share_name=Share(symbol)
                 filename = path+company+".csv"
                 file=open(filename,"r+")
 		price_arr=[]
 		for line in file:
-#			print line
 		    try:
 			price_arr.append(float(str(line).split(',')[1]))	
 		    except:
 			pass
 		    val,out= outlier(price_arr,2)
-		#price_arr=[]
 		try:
 			data_clean=open(path+company+"_cleaned.csv", 'w+')
 		except:
@@ -136,7 +144,3 @@ def main(mode):
 		print "%s\nCleaned Data: %s\nOutliers: %s"%(company,val,out)
 
 main(LIVE_MODE)
-#test_outlier(LIVE_MODE)
-
-### To do: 1. Update outlier Function
-### 	   2. Run code LIVE

@@ -1,96 +1,53 @@
-import sys
-from time import sleep
-from datetime import datetime
-import json
-import tweepy
-import time
-import csv
+## Source Code Based on: 
+## http://www.markhneedham.com/blog/2015/02/15/pythonscikit-learn-calculating-tfidf-on-how-i-met-your-mother-transcripts/
+##
+## http://stevenloria.com/finding-important-words-in-a-document-using-tf-idf/
+##
+## Submission as part of Assignment Submission for Advanced Big Data @ Columbia University
+## 
+##
+## Original Code AUthor:        Maanit Mehra
+## Date:                        18th Feb, 2016
 
-# Consumer keys and access tokens, used for OAuth  
-consumer_key = 'quEn1nu9vvvi45UMzCzSbKWop'
-consumer_secret = 'Cn8Coc479NgrCa94o1OPxC005O2GKFhScW3TeaxXqjZR3NvVxZ'
-access_token = '3714319335-YM4pNKnGTIpMirQOHm48IvTrkWaYJPyhMvU6pZG'
-access_token_secret = 'inweSwvxNamcCZoTdP4JSV69X6BDusjLPwKWUJKOZosWE'
+import numpy as np
+from pyspark import SparkContext
+from pyspark.mllib.feature import HashingTF, IDF
+from pyspark.mllib.clustering import KMeans, KMeansModel
 
-# OAuth process, using the keys and tokens  
-auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-auth.set_access_token(access_token, access_token_secret)
+sc=SparkContext()
 
-# Creation of the actual interface, using authentication  
-api = tweepy.API(auth)
+def TFIDF(source, destination):
 
-RUNNING_TIME = 30 #in minutes
+	if destination[-1] != '/':
+		destination=destination+'/'
+	## typically define the source message
+	rdd=sc.wholeTextFiles(source).map(lambda (name,text): text.split())
+	tf=HashingTF()
+	tfVectors=tf.transform(rdd).cache()
+	a = tfVectors.collect()
 
-# This is the listener, resposible for receiving data
-class StdOutListener(tweepy.StreamListener):
-    #CTR=0
-    def __init__(self, runtime=1,company_list=['IBM', 'Google','Yahoo','Apple','Facebook']):
-	self.time  =time.time()
-	self.limit =runtime*60
-	self.list = company_list
+	ind = 0
+	for vector in a:
+		dest_path = destination + "TF_%d"%ind + ".txt"
+		ind = ind + 1
+		file = open(dest_path,'w')
+		file.write(str(vector))
+		file.close()
+	idf=IDF()
+	idfModel=idf.fit(tfVectors)
+	tfIdfVectors=idfModel.transform(tfVectors)
+	file = open(destination+"TF-IDF.txt", 'w')
+	file.write(str(tfIdfVectors.collect()))
+	try:
+		for i in range(0,100):
+			print ""#Testing Printing"
+	except KeyboardInterrupt:
+		pass
 
-    def file_write(self, company,a):
-	pass	
+def test_TFIDF():
+	TFIDF("./Q3_files/*.txt", "./Q3_TFIDF")
 
-    def on_data(self, data):
-        # Twitter returns data in JSON format - we need to decode it first
-        decoded = json.loads(data)
-	#self.CTR = self.CTR + 1
-        # Also, we convert UTF-8 to ASCII ignoring all bad characters sent by users
-	#print self.CTR
-        try:
-           a= '@%s: %s' % (decoded['user']['screen_name'], decoded['text'].encode('ascii', 'ignore'))
-#	   print a
-#	   print self.list
-	   for sym in self.list:
- 	       #print sym+ " is the company name"
-	       filename = './Q3_files/'+sym+'.txt'
-#	       print "Test:" + str(filename)
-	       try:
-		   file = open(filename,'a')
-	       except:
-		   file = open(filename,'w') 
-	
-	       for line in a.split(' '):
-	       #        print line
-			if sym.lower() in line.lower(): 
-				print sym
-				file.write(str(a)+"\n")
+def main():
+	test_TFIDF()
 
-#	       file.truncate()
-	       file.close()
-#	       self.file_write(sym, a) 
-        except Exception,e:
-           print "Error: "+str(e)
-           for sym in self.list:
-               #print sym+ " is the company name"
-               filename = './Q3_files/'+sym+'.txt'
-
-           #print "ERROR: "#+self.list
-           pass
-	if (time.time()-self.time > self.limit):
-		exit()
-        return True
-
-    def on_error(self, status):
-        print status
-
-if __name__ == '__main__':
-    auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
-    auth.set_access_token(access_token, access_token_secret)
-    company_list=[]
-    reader=csv.DictReader(open('Yahoo_symbols.csv','rb'))
-    for sym in reader:
-        	company=sym["COMPANY"]
-                symbol=sym["SYMBOL"]
-		company_list.append(company)
-
-    print company_list    
-    print "Showing all new tweets for #programming:"
-    ibm = StdOutListener(runtime=RUNNING_TIME, company_list=company_list)
-
-    try: 	
-   	stream = tweepy.Stream(auth, ibm)
-    	stream.filter(track=company_list, languages=['en'])
-    except KeyboardInterrupt:
-  	pass
+main()

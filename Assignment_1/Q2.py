@@ -1,93 +1,50 @@
-import requests
-import os.path
-from bs4 import BeautifulSoup as bs
-import os
-#import TFIDF_test
+## Source Code Based on: 
+## http://www.markhneedham.com/blog/2015/02/15/pythonscikit-learn-calculating-tfidf-on-how-i-met-your-mother-transcripts/
+##
+## http://stevenloria.com/finding-important-words-in-a-document-using-tf-idf/
+## Original Code by Maanit Mehra
+##
+## Submission as part of Assignment Submission for Advanced Big Data @ Columbia University
+## 
+##
+## Original Code AUthor: 	Maanit Mehra
+## Date:			18th Feb, 2016
 
-NUMBER_OF_PAGES = 100
-WIKI_RANDOM="https://en.wikipedia.org/wiki/Special:Random"
+import numpy as np
+from pyspark import SparkContext
+from pyspark.mllib.feature import HashingTF, IDF
+from pyspark.mllib.clustering import KMeans, KMeansModel
 
-def find_urls(i, page, filename):
-        try:
-                file = open (filename, 'a')
-        except:
-                file = open (filename, 'w')
-		file.write("Doc_Num\tLink")
-	with open(page, 'r+') as pag:
-        	soup = bs(pag.read(),'html.parser')
-        all_links = soup.find_all('link')
-	dict_array=[]
-	for link in all_links:
-		dict={'rel':link.get('rel'),'href':link.get('href')}
-		dict_array.append(dict)
-	for dict in dict_array:
-#		print dict
-		if dict['rel'][0]==u'canonical':
-#			file.write("%d,%s"%(i, dict['href'][0]))
-			url= dict['href']
-			file.write("%d\t%s\n"%(i+1,url))
-	file.close()
+sc=SparkContext()
 
-def download_file(link, filename):
-        try:
-                file = open (filename, 'r+')
-        except:
-                file = open (filename, 'w')
-    	r = requests.get(link)
-    	file.write(r.text.encode('utf-8'))
-    	file.truncate()
-    	file.close()
+def TFIDF(source, destination):
 
-def find_Links(page, filename):
+	if destination[-1] != '/':
+		destination=destination+'/'
+	## typically define the source message
+	rdd=sc.wholeTextFiles(source).map(lambda (name,text): text.split())
+	tf=HashingTF()
+	tfVectors=tf.transform(rdd).cache()
+	a = tfVectors.collect()
+
+	ind = 0
+	for vector in a:
+		dest_path = destination + "TF_%d"%ind + ".txt"
+		ind = ind + 1
+		file = open(dest_path,'w')
+		file.write(str(vector))
+		file.close()
+	idf=IDF()
+	idfModel=idf.fit(tfVectors)
+	tfIdfVectors=idfModel.transform(tfVectors)
+	file = open(destination+"TF-IDF.txt", 'w')
+	file.write(str(tfIdfVectors.collect()))
 	try:
-		file = open (filename, 'r+')
-	except:
-		file = open (filename, 'w')
-	with open(page) as pag: 
-		soup = bs(pag.read(),'html.parser')
-	all_anchors = soup.find_all('a')
-	links=[]
-	for link in all_anchors:
-		list=link.get('href')
-		if list:
-			if 'html' in list:
-				links.append(list.encode('utf-8'))
-	file.write(str(links))
-	file.truncate()
- 	file.close()
+		for i in range(0,100):
+			print ""#Testing Printing"
+	except KeyboardInterrupt:
+		pass
 
-def find_text(page, filename):
-        try:
-                file = open (filename, 'r+')
-        except:
-                file = open (filename, 'w')
-
-        with open(page) as pag:
-                soup = bs(pag,'xml')
-	a=soup.get_text()
-	start= a.find("From Wikipedia, the free encyclopedia")
-	end= a.find("Retrieved fro")
-	a = a[start:end]
-#	print page_data
-        file.write(a.encode('utf-8'))
-        file.truncate()
-        file.close()
-
-### Pending: 	1. TF-IDF
-###		2. Page --> Text
-
-def main():
-    path="./Q2_files/"
-    url_files=path+"urlinks.txt"
-    os.remove(url_files)
-    open(url_files,'a').write("Doc_Num\tLink\n")
-    for i in range (0,NUMBER_OF_PAGES):
-	file=path+"Random_%d.html" %(i)
-	snowball_links =path+"Random_%d_snowballed_links.txt"%(i)
-	text_files=path+"Random_%d_text.txt"%(i)
-	download_file(WIKI_RANDOM,file)
-	find_Links(file, snowball_links)
-	find_text(file, text_files)
-	find_urls(i, file, url_files)	
-#	TFIDF_test.TFIDF("./Q2_files/Random_*text.txt", "./Q2_TFIDF")		
-main()
+def test_TFIDF():
+	TFIDF("./Q2_files/Random_*text.txt", "./Q2_TFIDF")
+test_TFIDF()
