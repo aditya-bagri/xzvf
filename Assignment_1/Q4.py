@@ -4,11 +4,33 @@ import time
 import csv
 import os
 import numpy as np
+import math
+from pyspark import SparkContext
+sc = SparkContext()
+import sys
 
 TIME_IN_MIN = 30 # min
 TIME_BETWEEN_ITERATIONS = 30 #sec
 
-def outlier (arr, number_of_std_devs):
+def removeOutliers(nums,number_of_std_devs):
+        stats = nums.stats()
+        sig = math.sqrt(stats.variance())
+        cleaned= nums.filter(lambda x: math.fabs(x - stats.mean()) <= number_of_std_devs * sig)
+        return cleaned
+
+def arrOfOutliers(nums,number_of_std_devs):
+        stats = nums.stats()
+        sig = math.sqrt(stats.variance())
+        outliers= nums.filter(lambda x: math.fabs(x - stats.mean()) > number_of_std_devs * sig)
+        return outliers
+
+def outlier(arr, number_of_std_devs):
+        nums = sc.parallelize(arr)
+        val = sorted(removeOutliers(nums,number_of_std_devs).collect())
+        out = sorted(arrOfOutliers(nums,number_of_std_devs).collect())
+        return val, out
+
+def python_outlier (arr, number_of_std_devs):
 	sig = np.std(arr)
 	mu = np.mean(arr)
 	outlier_val= number_of_std_devs*sig
@@ -65,19 +87,19 @@ def create_files():
 
         file.close()
 
-def main():
+def prepare_files():
 	clear_files()
 	create_files()
 
 TEST_MODE=1
 LIVE_MODE=0
-def test_outlier(mode):
+def main(mode):
 #	a = np.random.randint(-1500, 1500, 2500).astype(np.float64)+np.random.rand(1,2500)
 	if mode:
 		path = "./Q4_with_data/"
 	else:
 		path = "./Q4_files/"
-#		main()
+		prepare_files()
         reader=csv.DictReader(open('Yahoo_symbols.csv','rb'))
 	price_arr=[]
         for row in reader:
@@ -113,8 +135,8 @@ def test_outlier(mode):
 		file.close()
 		print "%s\nCleaned Data: %s\nOutliers: %s"%(company,val,out)
 
-main()
-test_outlier(LIVE_MODE)
+main(LIVE_MODE)
+#test_outlier(LIVE_MODE)
 
 ### To do: 1. Update outlier Function
 ### 	   2. Run code LIVE
