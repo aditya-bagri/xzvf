@@ -1,1 +1,1 @@
-['http://www.blackpoolfc.co.uk/page/NewsDetail/0,,10432~2585889,00.html', 'http://www.morecambefc.com/page/NewsDetail/0,,10866~2660235,00.html', 'http://www.morecambefc.com/page/NewsDetail/0,,10866~2753578,00.html']
+[]

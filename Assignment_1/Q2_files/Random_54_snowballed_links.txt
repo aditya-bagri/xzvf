@@ -1,1 +1,1 @@
-[]
+['http://www.cmt.com/artists/az/shupe_ryan/bio.jhtml', 'http://www.cmt.com/artists/news/1508995/20050906/shupe_ryan.jhtml', 'http://www.cmt.com/artists/az/shupe_ryan/bio.jhtml', 'http://www.deseretnews.com/dn/view/0,1249,650209372,00.html']

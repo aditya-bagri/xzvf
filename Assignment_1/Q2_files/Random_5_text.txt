@@ -3,1366 +3,160 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-
-  1989 Canadian Grand Prix
-
-Race details
-
-
-Race 6 of 16 in the 1989 Formula One season
-
-
-
-
-
-Date
-June 18, 1989
-
-
-Official name
-XXVII Grand Prix Molson du Canada
-
-
-Location
-Circuit Gilles Villeneuve
-Montreal, Canada
-
-
-Course
-Partial street circuit
-
-
-Course length
-4.3902 km (2.728 mi)
-
-
-Distance
-69 laps, 302.91 km (188.21 mi)
-
-
-Weather
-Cool, cloudy, intermittent rain - heavy at times
-
-
-Pole position
-
-
-Driver
-
-
-
- Alain Prost
-
-
-
-McLaren-Honda
-
-
-Time
-1:20.973
-
-
-Fastest lap
-
-
-Driver
- Jonathan Palmer
-Tyrrell-Ford
-
-
-Time
-1:31.925 on lap 11
-
-
-Podium
-
-
-First
-
-
-
- Thierry Boutsen
-
-
-
-Williams-Renault
-
-
-Second
-
-
-
- Riccardo Patrese
-
-
-
-Williams-Renault
-
-
-Third
-
-
-
- Andrea de Cesaris
-
-
-
-Dallara-Ford
-
-
-The 1989 Canadian Grand Prix was a Formula One race held at Circuit Gilles Villeneuve on June 18, 1989.
-It was the first Formula One victory for Belgian driver Thierry Boutsen – who won three Formula One races overall, all during his two-year stint with Williams-Renault – and was the first win for the Williams-Renault partnership, which lasted until the end of the 1997 season and went on to win four Drivers' and five Constructors' World Championships in that time.
-McLaren's Alain Prost scored his first pole position since the 1988 Portuguese Grand Prix, halting team mate Ayrton Senna's run of 8 straight poles since that race.
+In 3D user interaction (3DUI) the humans interacts with a computer or other device with an aspect of three-dimensional space. This interaction is created thanks to the interfaces, which they will be the intermediaries between human and machine.
+The 3D space used for interaction can be the real physical space, a virtual space representation simulated in the computer, or a combination of both. When the real physical space is used for data input, human interacts with machine performing actions using input device that should know the relative position and distance of the user action among other things. When it is used for data output, the simulated 3D virtual scene is projected onto the real environment through one output device.
 
 
 
 Contents
 
 
-1 Classification
+1 History
+2 3D User Interfaces
 
-1.1 Pre Qualifying
-1.2 Qualifying
-1.3 Race
+2.1 3D User Interface Output Hardware
+
+2.1.1 3D Visual displays
+2.1.2 3D Audio displays
+2.1.3 3D Haptic displays
 
 
-2 Notes
-3 Championship standings after the race
+2.2 3D User Interface Input Hardware
+
+2.2.1 Desktop Input devices
+2.2.2 Tracking devices
+
+2.2.2.1 Nintendo WII Remote ("Wiimote")
+2.2.2.2 Microsoft KINECT
+2.2.2.3 Leap Motion
+
+
+
+
+
+
+3 3D Interaction Techniques
+
+3.1 Navigation
+
+3.1.1 Travel
+3.1.2 Wayfinding
+
+
+3.2 Selection and Manipulation
+3.3 System Control
+
+
 4 References
 
 
 
-Classification[edit]
-Pre Qualifying[edit]
+History[edit]
+Research in 3D interaction and 3D display began in the 1960s, pioneered by researchers like Ivan Sutherland, Fred Brooks, Bob Sproull, Andrew Ortony and Richard Feldman. But it was not until 1962 when Morton Heilig invented the Sensorama simulator. It provided 3D video feedback, as well motion, audio, and feedbacks to produce a virtual environment. The next stage of development was Dr. Ivan Sutherland’s completion of his pioneering work in 1968, the Sword of Damocles. He created a head-mounted display that produced 3D virtual environment by presenting a left and right still image of that environment.
+Availability of technology as well as impractical costs held back the development and application of virtual environments until the 1980s. Since then, further research and technological advancements have allowed new doors to be opened to application in various other areas such as education, entertainment, and manufacturing.
+3D User Interfaces[edit]
 
 
-Pos
-No
-Driver
-Constructor
-Time
-Gap
 
 
-1
-8
- Stefano Modena
-Brabham-Judd
-1:23.398
-—
+Scheme of 3D User Interaction phases
 
 
-2
-17
- Nicola Larini
-Osella-Ford
-1:24.550
-+1.152
+3D user interfaces, are user interfaces where 3D interaction takes place, this means that the user’s tasks occur directly within a three-dimensional space. The user must communicate commands, requests, questions, intent, and goals to the system, and in turn this one has to provide feedback, requests for input, information about their status, and so on.
+Both the user and the system do not have the same type of language, therefore to make possible the communication process, the interfaces must serve as intermediaries or translators between them.
+The way the user transforms perceptions into actions is called Human transfer function, and the way the system transforms signals into display information is called System transfer function. 3D user interfaces are actually physical devices that communicate the user and the system with the minimum delay, in this case there are two types: 3D User Interface Output Hardware and 3D User Interface Input Hardware.
+3D User Interface Output Hardware[edit]
+These hardware devices are usually called display devices or output devices and their aim is to present information to one or more users through the human perceptual system. Most of them are focused on stimulating the visual, auditory, or haptic senses. However in some unusual cases they also can stimulate the user’s olfactory system.
+3D Visual displays[edit]
+This type of devices are the most popular and its goal is to present the information produced by the system through the human visual system in a three-dimensional way. The main features that distinguish these devices are: field of regard and field of view, spatial resolution, screen geometry, light transfer mechanism, refresh rate and ergonomics.
+Another way to characterize these devices is according to the different categories of depth perception cues used to achieve that the user can understand the three-dimensional information. The main types of displays used in 3D UIs are: monitors, surround-screen displays, workbenches, hemispherical displays, head-mounted displays, arm-mounted displays and autostereoscopic displays.
+3D Audio displays[edit]
+3D Audio displays are devices that present information (in this case sound) through the human auditory system, its objective is to generate and display a spatialized 3D sound so the user can use its psychoacoustic skills and be able to determine the location and direction of the sound. There are different localizations cues: binaural cues, spectral and dynamic cues, head-related transfer functions, reverberation, sound intensity and vision and environment familiarity.
+3D Haptic displays[edit]
+These devices use the sense of touch to simulate the physical interaction between the user and a virtual object. There are three different types of 3D Haptic displays: those that provide the user a sense of force, the ones that simulate the sense of touch and those that use both. The main features that distinguish these devices are: haptic presentation capability, resolution and ergonomics. The human haptic system has 2 fundamental kinds of cues, tactile and kinesthetic. Tactile cues are a type of human touch cues that have a wide variety of skin receptors located below the surface of the skin that provide information about the texture, temperature, pressure and damage. Kinesthetic cues are a type of human touch cues that have many receptors in the muscles, joints and tendons that provide information about the angle of joints and stress and length of muscles.
+3D User Interface Input Hardware[edit]
+These hardware devices are called input devices and their aim is to capture and interpret the actions performed by the user. The degrees of freedom (DOF) are one of the main features of these systems. These systems are also differentiated according to how much physical interaction is needed to use the device, purely active need to be manipulated to produce information, purely passive do not need to. The main categories of these devices are desktop input devices, tracking devices, 3D mice, brain-computer interface.
+Desktop Input devices[edit]
+This type of devices are designed for a interaction 3D on a desktop, many of them have an initial design thought in a traditional interaction in two dimensions, but with an appropriate mapping between the system and the device, this can work perfectly in a three-dimensional way. There are different types of them: keyboards, 2D mice and trackballs, pen-based tablets and joysticks.
+Tracking devices[edit]
+3D user interaction systems are based primarily on tracking technologies, to obtain all the necessary information from the user through the analysis of their movements or gestures, these technologies are called, tracking technologies.
+For the full development of a 3D User Interaction system, is required to have access to a few basic parameters, all this technology-based system should know, or at least partially, as the relative position of the user, the absolute position, angular velocity, rotation data, orientation or height.
+The collection of these data is achieved through systems of space tracking and sensors in multiple forms, as well as the use of different techniques to obtain. The ideal system for this type of interaction is a system based on the tracking of the position, using six degrees of freedom (6-DOF), these systems are characterized by the ability to obtain absolute 3D position of the user, in this way will get information on all possible three-dimensional field angles.
+The implementation of these systems can be achieved by using various technologies, such as electromagnetic fields, optical, or ultrasonically tracking, but all share the main limitation, they should have a fixed external reference, either a base, an array of cameras, or a set of visible markers, so this single system can be carried out in prepared areas.
+Inertial tracking systems do not require external reference such as those based on movement, are based on the collection of data using accelerometers, gyroscopes, or video cameras, without a fixed reference mandatory, in the majority of cases, the main problem of this system, is based on not obtaining the absolute position, since not part of any pre-set external reference point so it always gets the relative position of the user, aspect that causes cumulative errors in the process of sampling data.
+The goal to achieve in a 3D tracking system would be based on obtaining a system of 6-DOF able to get absolute positioning and precision of movement and orientation, with a precision and an uncut space very high, a good example of a rough situation would be a mobile phone, since it has all the motion capture sensors and also GPS tracking of latitude , but currently these systems are not so accurate to capture data with a precision of centimeters and therefore would be invalid.
+However, there are several systems that are closely adapted to the objectives pursued, the determining factor for them is that systems are auto content, i.e., all-in-one and does not require a fixed prior reference, these systems are as follows:
+Nintendo WII Remote ("Wiimote")[edit]
 
 
-3
-36
- Stefan Johansson
-Onyx-Ford
-1:24.764
-+1.366
 
 
-4
-21
- Alex Caffi
-Dallara-Ford
-1:24.778
-+1.380
+Wiimote device
 
 
-5
-7
- Martin Brundle
-Brabham-Judd
-1:25.275
-+1.877
+The Wii Remote device does not offer a technology based on 6-DOF since again, cannot provide absolute position, in contrast, is equipped with a multitude of sensors, which convert a 2D device in a great tool of interaction in 3D environments.
+This device has gyroscopes to detect rotation of the user, accelerometers ADXL3000, for obtaining speed and movement of the hands, optical sensors for determining orientation and electronic compasses and infra-red devices to capture the position.
+Should be noted that this type of device can be affected by external references of infra-red light bulbs or candles, causing errors in the accuracy of the position.
+Microsoft KINECT[edit]
 
 
-6
-37
- Bertrand Gachot
-Onyx-Ford
-1.25.952
-+2.554
 
 
-7
-33
- Gregor Foitek
-Euro Brun-Judd
-1:26.365
-+2.967
+Kinect Sensor
 
 
-8
-18
- Piercarlo Ghinzani
-Osella-Ford
-1:26.807
-+3.409
+The Microsoft Kinect device offers us a different motion capture technology for tracking.
+Instead of basing its operation on sensors, this is based on a structured light scanner, located in a bar, which allows tracking of the entire body through the detection of about 20 spatial points, of which 3 different degrees of freedom are measured to obtain position, velocity and rotation of each point.
+Its main advantage is ease of use, and the no requirement of an external device attached by the user, and its main disadvantage lies in the inability to detect the orientation of the user, thus limiting certain space and guidance functions.
+Leap Motion[edit]
 
 
-9
-34
- Bernd Schneider
-Zakspeed-Yamaha
-1:27.073
-+3.675
 
 
-10
-41
- Joachim Winkelhock
-AGS-Ford
-1:28.545
-+5.147
+Leap Motion Controller
 
 
-11
-39
- Volker Weidler
-Rial-Ford
-1:31.455
-+8.057
+The Leap Motion is a new system of tracking of hands, designed for small spaces, allowing a new interaction in 3D environments for desktop applications, so it offers a great fluidity when browsing through three-dimensional environments in a realistic way.
+It is a small device that connects via USB to a computer, and used two cameras with infra-red light LED, allowing the analysis of a hemispheric area about 1 meter on its surface, thus recording responses from 300 frames per second, information is sent to the computer to be processed by the specific software company.
+3D Interaction Techniques[edit]
+3D Interaction Techniques are the different ways that the user can interact with the 3D virtual environment to execute different kind of tasks. The quality of these techniques has a profound effect on the quality of the entire 3D User Interfaces. They can be classified into three different groups: Navigation, Selection and manipulation and System control.
+Navigation[edit]
+Navigation is the most used by the user in big 3D environments and presents different challenges as supporting spatial awareness, giving efficient movements between distant places and making navigation bearable so the user can focus on more important tasks. These techniques can be divided into two components: travel and wayfinding.
+Travel[edit]
+Travel is a conceptual technique that consists in the movement of the viewpoint from one location to another. This orientation is usually handled in immersive virtual environments by head tracking. Exists five types of travel interaction techniques:
 
+Physical movement: uses the user's body motion to move through the virtual environment. Is an appropriate technique when is required an augmented perception of the feeling of being present or when is required physical effort form the user.
+Manual viewpoint manipulation: the user's hands movements determine the displacement on the virtual environment. One example could be when the user moves their hands in a way that seems like is grabbing a virtual rope and pulls his self up. This technique could be easy to learn and efficient, but can cause fatigue.
+Steering: the user has to constantly indicate where to move. Is a common and efficient technique. One example of this are the gaze-directed steering, where the head orientation determines the direction of travel.
+Target-based travel: user specifies a destination point and the system effectuates the displacement. This travel can be executed by teleport, where the user is instantly moved to the destination point or the system can execute some transition movement to the destiny. These techniques are very simple from the user’s point of view because he only has to indicate the destination.
+Route planning: the user specifies the path that should be taken through the environment and the system executes the movement. The user may draw a path on a map of the virtual environment to plan a route. This technique allows users to control travel while they have the ability to do other tasks during motion.
 
-12
-35
- Aguri Suzuki
-Zakspeed-Yamaha
-1:53.327
-+29.929
+Wayfinding[edit]
+Is the cognitive process of defining a route for the virtual environment, using and acquiring spatial knowledge to construct a cognitive map of the virtual environment.
+In order for a good wayfinding, users should receive wayfinding supports during the virtual environment travel to facilitate it because of the constraints from the virtual world.
+These supports can be user-centered supports such as a large field-of-view or even non-visual support such as audio, or environment-centered support, artificial cues and structural organization to define clearly different parts of the environment. Some of the most used artificial cues are maps, compasses and grids, or even architectural cues like lighting, color and texture.
+Selection and Manipulation[edit]
+Selection and Manipulation techniques for 3D environments must accomplish at least one of three basic tasks: object selection, object positioning and object rotation.
+To accomplish these tasks usually the system provides the user a 3D cursor represented as a human hand whose movements correspond to the motion of the hand tracker. This virtual hand technique is rather intuitive because simulates a real-world interaction with objects but with the limit of objects that we can reach inside a reach-area.
+To avoid this limit, there are many techniques that have been suggested, like the Go-Go technique. This technique allows the user to extend the reach-area using a non-linear mapping of the hand: when the user extends the hand beyond a fixed threshold distance, the mapping becomes non-linear and the hand grows.
+There is another way to select and manipulate objects in 3D virtual spaces and that is pointing objects using a virtual-ray emanating from the virtual hand. When the ray intersects with the objects, it can be manipulated. Several variations of this technique has been made, like the aperture technique, which uses a conic pointer addressed for the user's eyes, estimated from the head location, to select distant objects. This technique also uses a hand sensor to adjust the conic pointer size.
+System Control[edit]
+System control techniques allows the user to send commands to an application, change the interaction mode or modify a parameter. The command sender always includes the selection of an element from a set. System control techniques can be categorized into four groups:
 
+Graphical menus: visual representations of commands.
+Voice commands: menus accessed via voice.
+Gestural interaction: command accessed via body gesture.
+Tools: virtual objects with an implicit function or mode.
 
-13
-32
- Pierre-Henri Raphanel
-Coloni-Ford
-1:59.693
-+36.295
-
-
-Qualifying[edit]
-
-
-Pos
-No
-Driver
-Constructor
-Q1
-Q2
-Gap
-
-
-1
-2
- Alain Prost
-McLaren-Honda
-1:20.973
-1:22.269
-—
-
-
-2
-1
- Ayrton Senna
-McLaren-Honda
-1:21.049
-1:21.269
-+0.076
-
-
-3
-6
- Riccardo Patrese
-Williams-Renault
-1:21.783
-1:23.738
-+0.810
-
-
-4
-28
- Gerhard Berger
-Ferrari
-1:21.946
-1:22.305
-+0.973
-
-
-5
-27
- Nigel Mansell
-Ferrari
-1:22.165
-1:22.751
-+1.192
-
-
-6
-5
- Thierry Boutsen
-Williams-Renault
-1:22.311
-1:24.004
-+1.338
-
-
-7
-8
- Stefano Modena
-Brabham-Judd
-1:22.612
-1:23.599
-+1.639
-
-
-8
-21
- Alex Caffi
-Dallara-Ford
-1:22.901
-1:24.957
-+1.928
-
-
-9
-22
- Andrea de Cesaris
-Dallara-Ford
-1:23.050
-1:24.444
-+2.077
-
-
-10
-30
- Philippe Alliot
-Lola-Lamborghini
-1:23.059
-—
-+2.086
-
-
-11
-23
- Pierluigi Martini
-Minardi-Ford
-1:23.252
-1:25.195
-+2.279
-
-
-12
-9
- Derek Warwick
-Arrows-Ford
-1:23.348
-1:23.833
-+2.375
-
-
-13
-19
- Alessandro Nannini
-Benetton-Ford
-1:23.542
-1:24.279
-+2.569
-
-
-14
-3
- Jonathan Palmer
-Tyrrell-Ford
-1:23.665
-1:23.876
-+2.692
-
-
-15
-17
- Nicola Larini
-Osella-Ford
-1:23.799
-1:25.289
-+2.826
-
-
-16
-10
- Eddie Cheever
-Arrows-Ford
-1:23.828
-1:24.693
-+2.855
-
-
-17
-15
- Maurício Gugelmin
-March-Judd
-1:23.863
-1:24.734
-+2.890
-
-
-18
-36
- Stefan Johansson
-Onyx-Ford
-1:23.974
-1:24.918
-+3.001
-
-
-19
-11
- Nelson Piquet
-Lotus-Judd
-1:24.029
-1:25.825
-+3.056
-
-
-20
-4
- Michele Alboreto
-Tyrrell-Ford
-1:24.296
-1:25.412
-+3.323
-
-
-21
-16
- Ivan Capelli
-March-Judd
-1:24.406
-1:25.094
-+3.433
-
-
-22
-25
- René Arnoux
-Ligier-Ford
-1:24.558
-1:25.394
-+3.585
-
-
-23
-38
- Christian Danner
-Rial-Ford
-1:25.298
-1:24.727
-+3.754
-
-
-24
-24
- Luis Pérez-Sala
-Minardi-Ford
-1:24.786
-1:25.570
-+3.813
-
-
-25
-40
- Gabriele Tarquini
-AGS-Ford
-1:24.793
-1:25.246
-+3.820
-
-
-26
-31
- Roberto Moreno
-Coloni-Ford
-47:24.470
-1:25.037
-+4.064
-
-
-27
-12
- Satoru Nakajima
-Lotus-Judd
-1:25.051
-1:26.358
-+4.078
-
-
-28
-29
- Yannick Dalmas
-Lola-Lamborghini
-1:25.317
-1:25.161
-+4.188
-
-
-29
-20
- Johnny Herbert
-Benetton-Ford
-1:25.335
-1:25.282
-+4.309
-
-
-30
-26
- Olivier Grouillard
-Ligier-Ford
-1:25.382
-1:25.289
-+4.316
-
-
-Race[edit]
-
-
-Pos
-No
-Driver
-Constructor
-Laps
-Time/Retired
-Grid
-Points
-
-
-1
-5
- Thierry Boutsen
-Williams-Renault
-69
-2:01:24.073
-6
-9
-
-
-2
-6
- Riccardo Patrese
-Williams-Renault
-69
-+ 30.007
-3
-6
-
-
-3
-22
- Andrea de Cesaris
-Dallara-Ford
-69
-+ 1:36.649
-9
-4
-
-
-4
-11
- Nelson Piquet
-Lotus-Judd
-69
-+ 1:41.484
-19
-3
-
-
-5
-25
- René Arnoux
-Ligier-Ford
-68
-+ 1 Lap
-22
-2
-
-
-6
-21
- Alex Caffi
-Dallara-Ford
-67
-+ 2 Laps
-8
-1
-
-
-7
-1
- Ayrton Senna
-McLaren-Honda
-66
-Engine
-2
- 
-
-
-8
-38
- Christian Danner
-Rial-Ford
-66
-+ 3 Laps
-23
- 
-
-
-Ret
-31
- Roberto Moreno
-Coloni-Ford
-57
-Differential
-26
- 
-
-
-Ret
-9
- Derek Warwick
-Arrows-Ford
-40
-Engine
-12
- 
-
-
-Ret
-3
- Jonathan Palmer
-Tyrrell-Ford
-35
-Spun Off
-14
- 
-
-
-Ret
-17
- Nicola Larini
-Osella-Ford
-33
-Electrical
-15
- 
-
-
-Ret
-16
- Ivan Capelli
-March-Judd
-28
-Spun Off
-21
- 
-
-
-Ret
-30
- Philippe Alliot
-Lola-Lamborghini
-26
-Spun Off
-10
- 
-
-
-DSQ
-36
- Stefan Johansson
-Onyx-Ford
-13
-Disqualified
-18
- 
-
-
-Ret
-24
- Luis Pérez-Sala
-Minardi-Ford
-11
-Spun Off
-24
- 
-
-
-Ret
-15
- Maurício Gugelmin
-March-Judd
-11
-Electrical
-17
- 
-
-
-Ret
-28
- Gerhard Berger
-Ferrari
-6
-Gearbox
-4
- 
-
-
-Ret
-40
- Gabriele Tarquini
-AGS-Ford
-6
-Spun Off
-25
- 
-
-
-Ret
-10
- Eddie Cheever
-Arrows-Ford
-3
-Spun Off
-16
- 
-
-
-Ret
-2
- Alain Prost
-McLaren-Honda
-2
-Suspension
-1
- 
-
-
-DSQ
-27
- Nigel Mansell
-Ferrari
-0
-Disqualified
-5
- 
-
-
-Ret
-8
- Stefano Modena
-Brabham-Judd
-0
-Accident
-7
- 
-
-
-Ret
-23
- Pierluigi Martini
-Minardi-Ford
-0
-Accident
-11
- 
-
-
-DSQ
-19
- Alessandro Nannini
-Benetton-Ford
-0
-Disqualified
-13
- 
-
-
-Ret
-4
- Michele Alboreto
-Tyrrell-Ford
-0
-Electrical
-20
- 
-
-
-DNQ
-12
- Satoru Nakajima
-Lotus-Judd
- 
- 
- 
- 
-
-
-DNQ
-29
- Yannick Dalmas
-Lola-Lamborghini
- 
- 
- 
- 
-
-
-DNQ
-20
- Johnny Herbert
-Benetton-Ford
- 
- 
- 
- 
-
-
-DNQ
-26
- Olivier Grouillard
-Ligier-Ford
- 
- 
- 
- 
-
-
-DNPQ
-7
- Martin Brundle
-Brabham-Judd
- 
- 
- 
- 
-
-
-DNPQ
-37
- Bertrand Gachot
-Onyx-Ford
- 
- 
- 
- 
-
-
-DNPQ
-33
- Gregor Foitek
-Euro Brun-Judd
- 
- 
- 
- 
-
-
-DNPQ
-18
- Piercarlo Ghinzani
-Osella-Ford
- 
- 
- 
- 
-
-
-DNPQ
-34
- Bernd Schneider
-Zakspeed-Yamaha
- 
- 
- 
- 
-
-
-DNPQ
-41
- Joachim Winkelhock
-AGS-Ford
- 
- 
- 
- 
-
-
-DNPQ
-39
- Volker Weidler
-Rial-Ford
- 
- 
- 
- 
-
-
-DNPQ
-35
- Aguri Suzuki
-Zakspeed-Yamaha
- 
- 
- 
- 
-
-
-DNPQ
-32
- Pierre-Henri Raphanel
-Coloni-Ford
- 
- 
- 
- 
-
-
-
-Source:[1]
-
-
-
-Notes[edit]
-
-Lap leaders: Alain Prost 1 (1), Ayrton Senna 30 (2-3, 39-66), Riccardo Patrese 31 (4-34), Derek Warwick 4 (35-38), Thierry Boutsen 3 (67-69)
-Nigel Mansell and Alessandro Nannini were disqualified after starting from the pitlane before the race began. Both drivers had gone into the pits to change to slicks after the warm-up lap and when they got to the end of pit lane found no lights or officials stopping them from returning to the track (no lights is generally a sign the race had started). Despite the problem being caused by the race stewards not having the end of pit lane lights turned on, and pit lane officials not doing their job properly by stopping them from exiting the pits as the race had not started, Mansell and Nannini were still disqualified.
-Stefan Johansson was black-flagged because an air-line became attached to his car during a pit stop. He ignored the flag to stop at the end of the pit lane and returned to the track, and was disqualified as a result.
-Triple World Champion Nelson Piquet scored his first points of the season which were enough to keep Lotus out of pre-qualifying after Britain (where he would again finish 4th). He had also scored his first points of 1984 when he won in Canada, though unlike 1984 he wasn't the defending World Champion.
-First win: Renault V10 engine. It was also the first win by a Renault powered car since Ayrton Senna won the 1986 Detroit Grand Prix in a turbocharged Lotus 98T and Renault's first win with a naturally aspirated engine
-Only fastest lap: Jonathan Palmer
-First podium: Scuderia Italia / Dallara
-Last podium: Andrea de Cesaris
-Last points: René Arnoux
-Last laps led: Derek Warwick
-First disqualification - Nigel Mansell
-Last disqualification - Stefan Johansson, Alessandro Nannini
-After Brabham had generally dominated pre-qualifying before Canada, Martin Brundle suffered problems in the session and failed to get into the main field for the race.
-Other than his two disqualifications in 1985 and 1986, or himself pulling out of a race in protest against the conditions (which would happen in the final race of 1989 in Australia), this would be the shortest race of Alain Prost's career with McLaren, lasting only until the start of the second lap before suspension failure when approaching the pits turn saw him pull into the pits and retire. It would also stand as the second shortest race of his F1 career after the infamous 1990 Japanese Grand Prix.
-This was the only Grand Prix where both Dallara cars finished in the points
-This was the first time since the BMW powered Benetton B186 of Gerhard Berger won the 1986 Mexican Grand Prix (39 races) that a win was not taken by a car using a Honda, Ferrari or TAG-Porsche engine.
-This was also the first time since Keke Rosberg won the 1985 Australian Grand Prix that a driver other than Senna, Prost, Piquet, Mansell or Berger won a Grand Prix.
-
-Championship standings after the race[edit]
-
-
-
-
-Drivers' Championship standings
-
-
-
-Pos
-Driver
-Points
-
-
-1
- Alain Prost
-29
-
-
-2
- Ayrton Senna
-27
-
-
-3
- Riccardo Patrese
-18
-
-
-4
- Thierry Boutsen
-13
-
-
-5
- Nigel Mansell
-9
-
-
-
-
-
-Constructors' Championship standings
-
-
-
-Pos
-Constructor
-Points
-
-
-1
- McLaren-Honda
-56
-
-
-2
- Williams-Renault
-31
-
-
-3
- Benetton-Ford
-13
-
-
-4
- Ferrari
-9
-
-
-5
- Dallara-Ford
-8
-
-
-
-
-
-
-Note: Only the top five positions are included for both sets of standings.
-
+Also exists different hybrid techniques that combine some of the types.
 References[edit]
 
-
-^ "1989 Canadian Grand Prix". formula1.com. Archived from the original on 18 January 2015. Retrieved 23 December 2015. 
-
-
-
-
-
-Previous race:
-1989 United States Grand Prix
-FIA Formula One World Championship
-1989 season
-Next race:
-1989 French Grand Prix
-
-
-Previous race:
-1988 Canadian Grand Prix
-Canadian Grand Prix
-Next race:
-1990 Canadian Grand Prix
-
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-
-« previous
-Formula One Grands Prix (1980–89)
-next »
-
-
-
-
-
-
-
-1989
-
-
-
-BRA
-SMR
-MON
-MEX
-USA
-CAN
-FRA
-GBR
-GER
-HUN
-BEL
-ITA
-POR
-ESP
-JPN
-AUS
-
-
-
-
-
-
-
-
-1988
-
-
-
-BRA
-SMR
-MON
-MEX
-CAN
-DET
-FRA
-GBR
-GER
-HUN
-BEL
-ITA
-POR
-ESP
-JPN
-AUS
-
-
-
-
-
-
-
-
-1987
-
-
-
-BRA
-SMR
-BEL
-MON
-DET
-FRA
-GBR
-GER
-HUN
-AUT
-ITA
-POR
-ESP
-MEX
-JPN
-AUS
-
-
-
-
-
-
-
-
-1986
-
-
-
-BRA
-ESP
-SMR
-MON
-BEL
-CAN
-DET
-FRA
-GBR
-GER
-HUN
-AUT
-ITA
-POR
-MEX
-AUS
-
-
-
-
-
-
-
-
-1985
-
-
-
-BRA
-POR
-SMR
-MON
-CAN
-DET
-FRA
-GBR
-GER
-AUT
-NED
-ITA
-BEL
-EUR
-RSA
-AUS
-
-
-
-
-
-
-
-
-1984
-
-
-
-BRA
-RSA
-BEL
-SMR
-FRA
-MON
-CAN
-DET
-DAL
-GBR
-GER
-AUT
-NED
-ITA
-EUR
-POR
-
-
-
-
-
-
-
-
-1983
-
-
-
-BRA
-USW
-FRA
-SMR
-MON
-BEL
-DET
-CAN
-GBR
-GER
-AUT
-NED
-ITA
-EUR
-RSA
-
-
-
-
-
-
-
-
-1982
-
-
-
-RSA
-BRA
-USW
-SMR
-BEL
-MON
-DET
-CAN
-NED
-GBR
-FRA
-GER
-AUT
-SUI
-ITA
-CPL
-
-
-
-
-
-
-
-
-1981
-
-
-
-USW
-BRA
-ARG
-SMR
-BEL
-MON
-ESP
-FRA
-GBR
-GER
-AUT
-NED
-ITA
-CAN
-CPL
-
-
-
-
-
-
-
-
-1980
-
-
-
-ARG
-BRA
-RSA
-USW
-BEL
-MON
-FRA
-GBR
-GER
-AUT
-NED
-ITA
-CAN
-USA
-
-
-
-
-
-
-
+Bowman, D., Kruijff, E., LaViola, J., Poupyrev, I. (2001, February). An Introduction to 3-D User Interface Design. Presence, 10(1), 96–108.
+Bowman, D., Kruijff, E., LaViola, J., Poupyrev, I. (2005). 3D User Interfaces: Theory and Practice. Boston: Addison–Wesley.
+Csisinko, M., Kaufmann, H. (2007, March). Towards a Universal Implementation of 3D User Interaction Techniques [Proceedings of Specification.
+Rhijn, A. van (2006). Configurable Input Devices for 3D Interaction using Optical Tracking. Eindhoven: Technische Universiteit Eindhoven.
+Bowman, Doug. 3D User Interfaces. Interaction Design Foundation. Retrieved October 15, 2015
+Interaction Techniques. DLR - Simulations- und Softwaretechnik. Retrieved October 18, 2015
 
 
 

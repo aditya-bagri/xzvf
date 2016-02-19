@@ -3,47 +3,13 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-
-
-
-
-HMS Rattlesnake
-by Oswald Walters Brierly
-
-
-
-Barbara Crawford Thompson (1831—1916) was a Scottish girl who at 13 years old [Barbara's statement inc1914]was possibly the sole survivor from the 1844 wreck of the cutter America, which ran onto Madjii Reef at Horn Island near Cape York Endeavour Strait off Queensland, Australia.
-
-
-
-Contents
-
-
-1 The story
-
-1.1 Shipwreck
-1.2 Rescue
-
-
-2 References
-
-
-
-The story[edit]
-Shipwreck[edit]
-Barbara Crawford Thompson had lived with her lover William Thompson, as his de facto wife, for twenty months in Brisbane. Thompson is presumed to have died while trying to swim ashore after his cutter wrecked. Barbara, surviving the wreck, was taken in by one of the buwai gizumabaigalai (clan leaders) of the Kaurareg people, who believed that she was the returned spirit (markai) of his recently deceased daughter.
-She lived on Muralug ['moorralahg] ( Prince of Wales Island ) for five years and was called by her "family" Gioma. Brierly and MacGillivray wrote this name in various ways, though Brierly heard "Gioma's" mother call to her while Barbara was in her cabin aboard the Rattlesnake (which rescued her), and he alone wrote her name as he heard it called. It is thoughtTemplate:By the Author of the book "Wildflower" The Barbara Crawford Thompson Story the name Giom was just a shortened name, just as Bill is for William due to Brierly recording Barbara's "mother" calling out to her.
-Rescue[edit]
-On 16 October 1849, with the aid of an Aboriginal friend "Tomagugu", on Wamalagh (who was married to a Muralag woman), Barbara/Gioma managed to make contact with the British survey ship, HMS Rattlesnake, at Evans [Paduga] Bay near Cape York and was returned to Sydney. The Rattlesnake's artist, Oswald Brierly, made detailed notes of her stay with the Kaurareg. As a result of her experiences, Thompson was able to make the early contacts with both the Gudang and related Australian clans and the Muralag people with the Rattlesnake much more humane.[citation needed]
-After being rescued, Barbara Crawford Thompson married twice.[1][2]
-Raymond J. Warren documents the events in the book Wildflower: The Barbara Crawford Thompson Story.[3]
+In mathematics, more specifically algebraic topology, a pair  is shorthand for an inclusion of topological spaces . Sometimes  is assumed to be a cofibration. A morphism from  to  is given by two maps  and  such that .
+Pairs come up mainly in homology theory and cohomology theory, where chains in  are made equivalent to 0, when considered as chains in .
+Heuristically, one often thinks of a pair  as being akin to the quotient space .
+There is a functor from spaces to pairs, which sends a space  to the pair .
 References[edit]
 
-
-^ Torres Strait Regional Authority
-^ Torres Strait Islands' Shipwrecks
-^ Warren, Ray (1 Feb 2008). Wildflower: The Barbara Crawford Thompson Story (2nd Revised ed.). Raymond J Warren. ISBN 0646490931. 
-
+Patty, C. Wayne (2009), Foundations of Topology (2nd ed.), p. 276 .
 
 
 

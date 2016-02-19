@@ -1,1 +1,1 @@
-['http://comics.ign.com/objects/739/739497_list.html', 'http://www.comichron.com/monthlycomicssales/2008/2008-02.html']
+[]

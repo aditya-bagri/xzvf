@@ -1,1 +1,1 @@
-['http://pqasb.pqarchiver.com/chicagotribune/access/20611865.html?dids=20611865:20611865&FMT=ABS&FMTS=ABS:FT&type=current&date=May+26%2C+1995&author=New+York+Times+News+Service.&pub=Chicago+Tribune+(pre-1997+Fulltext)&desc=A+NEW+IMAGE+FOR+NANCY+DREW&pqatl=google', 'http://pqasb.pqarchiver.com/USAToday/access/19374237.html?dids=19374237:19374237&FMT=CITE&FMTS=CITE:FT&type=current&date=Aug+11%2C+1995&author=Nanci+Hellmich&pub=USA+TODAY+(pre-1997+Fulltext)&desc=Will+Ned+fit+in+college+life+of+Nancy+Drew%3F&pqatl=google']
+['http://www.wga.hu/bio/g/gherardi/biograph.html']

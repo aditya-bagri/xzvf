@@ -1,1 +1,1 @@
-['http://www.thearttribune.com/Information-on-the-Proposed.html', 'http://aica.hu/mng_allasfoglalas.html', 'http://www.nature.com/news/2011/110607/full/474139a.html', 'http://www.lepetitjournal.com/culture-budapest/85596-culture-louverture-du-musee-zelnik.html', 'http://www.novinky.cz/zahranicni/evropa/261533-slovensky-hrad-krasna-horka-shorel-kvuli-dvema-detem-s-cigaretou.html?ref=zpravy-dne']
+[]

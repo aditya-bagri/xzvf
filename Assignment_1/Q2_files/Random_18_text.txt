@@ -4,187 +4,195 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-Personal and Ubiquitous Computing  
 
+Primitive pit
 
 
 
+Surface view of embryo of Hylobates concolor. The amnion has been opened to expose the embryonic disk. (Primitive pit not labeled, but region is visible.)
 
 
-PUC
 
+Anatomical terminology
+[edit on Wikidata]
 
 
 
-
-
-Former names
-
-Personal Technologies
-
-
-Discipline
-Ubiquitous computing
-
-
-Language
-English
-
-
-Edited by
-Peter James Thomas
-
-
-Publication details
-
-
-Publisher
-
-Springer Science+Business Media
-
-
-
-
-Publication history
-
-1997–present
-
-
-Frequency
-Bimonthly
-
-
-
-Open access
-
-Partly
-
-
-License
-CC-BY-NC 2.5
-
-
-
-Impact factor
-(2013)
-
-1.616
-
-
-Indexing
-
-
-ISSN
-1617-4909 (print)
-1617-4917 (web)
-
-
-Links
-
-
-
-
-Journal homepage
-Online access
-
-
-
-
-Personal and Ubiquitous Computing is a peer-reviewed scientific journal that was established in 1997. It covers original research on ubiquitous and pervasive computing, ambient intelligence, and handheld, wearable and mobile information devices, with a focus on user experience and interaction design issues. The journal publishes a mixture of issues themed on specific topics, or organised around scientific workshops, and original research papers.
-Google Scholar reports the h-index as 36 (h-median:57). According to Journal Citation Reports, the journal has a 2013 impact factor of 1.616 (5-year IF 1.461) ranking it 23rd out of 78 journals (Q2) in the category "Telecommunications" and 39th out of 135 (Q2) in the category "Computer Science/Information Systems".[1] The current altmetrics.com score is 200. The average time between submission and the start of production averaged over 5 years is 157 working days.
-PUC has a team of 10 Editors, 14 Associate Editors and an editorial board of 50 academic and commercial researchers. The editor-in-chief is Peter Thomas (Manifesto Group). The journal is published by Springer Science+Business Media.
-
-
-
-Contents
-
-
-1 Editorial Teams (August 2014)
-2 Abstracting and indexing
-3 References
-4 External links
-
-
-
-Editorial Teams (August 2014)[edit]
-EDITOR-IN-CHIEF
-
-Peter Thomas Manifesto Group / Brunel University / The Leasing Foundation
-
-EDITORS
-
-Stephen Brewster University of Glasgow, UK
-Anind K. Dey Carnegie Mellon University, USA
-Hans-W. Gellersen Lancaster University, UK
-Lars Erik Holmquist Södertörn University, Sweden
-Matt Jones University of Wales, Swansea, UK
-Jofish Kaye, Yahoo Labs, US
-Chris Schmandt MIT Media Lab, US
-Rob Macredie Brunel University, UK
-Phil Stenton BBC, UK
-
-ASSOCIATE EDITORS
-
-Alan Chamberlain, University of Nottingham, UK
-Albrecht Schmidt, University of Stuttgart, Germany
-Alexandra Weilenmann, University of Gothenburg, Sweden
-Antti Oulasvirta, Max-Planck-Institut für Informatik, Germany
-Ben Peyton-Jones, Exeter NHS Trust, UK
-Bin Guo, Northwestern Polytechnical University, China
-Eija Kaasinen, VTT, Finland
-Emilia Barakova, Eindhoven University of Technology, Netherlands
-Enrico Rukzio, Lancaster University, UK
-Gillian Hayes, UC Irvine, USA
-Mark Dunlopm University of Glasgow, UK
-Mikael Wiberg, Umeå University, Sweden
-Yunchuan Sun, Beijing Normal University, China
-Zhiwen Yu, Northwestern Polytechnical University, China
-
-EDITORIAL BOARD
-
-Victoria Bellotti, Xerox PARC, USA;
-Mark Billinghurst, University of Washington, USA;
-Staffan Bjork, Victoria Institute, Sweden;
-Luca Chittaro, Universita di Udine, Italy;
-Allison Druin, University of Maryland, USA;
-Mark Dunlop, University of Strathclyde, UK;
-Anne Ekholm, Nokia, Finland;
-Karamjit S. Gill, University of Wales, Newport, UK;
-David Goodman, Rutgers University, USA;
-Richard Harper, Microsoft, UK;
-Kori Inkpen, Simon Fraser University, Canada;
-Steve Jones, University of Waikato, New Zealand;
-James Katz, Bellcore, USA;
-Jay Kistler, DEC Systems Research Labs, USA;
-Richard Ling, Nanyang Technological University, Singapore and Telenor R&D, Norway;
-Claudia Linnhoff-Popien, Ludwig-Maximilian-University, Munich, Germany;
-Peter Ljungstrand, Play Research Studio, Sweden;
-Patti Maes, MIT Media Laboratory, USA;
-Friedemann Mattern, ETH Zurich Inst Informationssyteme, Switzerland;
-Donald Norman, Nielsen Norman Group, USA;
-Kent L. Norman, University of Maryland, USA;
-Stephan Pink, University of Arizona, USA;
-Thomas Strang, German Aerospace Center, Germany;
-Yasuyuki Sumi, Kyoto University, Japan;
-Harold Thimbleby, UCC, UK;
-C-K Toh, University of London, UK;
-Theo Ungerer, Universitat Augsburg Inst. Informatik, Germany;
-Sen Wang, Eastman Kodak Company, USA;
-Terry Winograd, Stanford University, USA;
-Steve Woolgar, Oxford University, UK;
-Shumin Zhai, IBM Almaden, Research Center, USA.
-
-Abstracting and indexing[edit]
-The journal is abstracted and indexed in Academic OneFile, Academic Search, Compendex, Computer Science Index, Current Abstracts, Current Contents/Engineering, Computing and Technology, Digital Bibliography & Library Project, Ergonomics Abstracts, Inspec, io-port.net, Science Citation Index Expanded, and Scopus.
+The primitive pit is a depression in the center of the primitive knot, connecting to the notochord. It consists of part of the primitive streak.
 References[edit]
-
-
-^ Journal Citation Reports, 2013
-
-
+This article incorporates text in the public domain from the 20th edition of Gray's Anatomy (1918)
 External links[edit]
 
-Official website
+http://www.embryology.ch/anglais/hdisqueembry/triderm01.html
+http://isc.temple.edu/marino/embryology/EMBII97/img020.GIF
+http://cancerweb.ncl.ac.uk/cgi-bin/omd?primitive+pit
+http://embryology.med.unsw.edu.au/Medicine/BGDlab3_11.htm
+http://www.ana.ed.ac.uk/database/humat/notes/embryo/ectoderm/primstr.htm
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Human embryogenesis in the first three weeks
+
+
+
+
+
+
+Week 1
+
+
+
+Fertilization
+Oocyte activation
+Zygote
+Cleavage
+Blastomere
+Morula
+Blastocoele
+Blastocyst
+Blastula
+Inner cell mass
+
+
+
+
+
+
+
+
+Week 2
+(Bilaminar)
+
+
+
+Hypoblast
+Epiblast
+
+
+
+
+
+
+
+
+Week 3
+(Trilaminar)
+
+
+
+
+Germ layers
+
+
+
+Archenteron/Primitive streak
+
+Primitive pit
+Primitive knot/Blastopore
+Primitive groove
+
+
+Gastrula
+
+Gastrulation
+
+
+Regional specification
+Embryonic disc
+
+
+
+
+
+
+
+
+Ectoderm
+
+
+
+Surface ectoderm
+Neuroectoderm
+Somatopleuric mesenchyme
+Neurulation
+Neural crest
+
+
+
+
+
+
+
+
+Endoderm
+
+
+
+Splanchnopleuric mesenchyme
+
+
+
+
+
+
+
+
+Mesoderm
+
+
+
+Axial mesoderm
+Paraxial
+
+Somite
+Somitomere
+
+
+Intermediate
+Lateral plate
+
+Intraembryonic coelom
+Splanchnopleuric mesenchyme
+Somatopleuric mesenchyme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This anatomy article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
 
 
 

@@ -1,1 +1,1 @@
-[]
+['http://www.menschenrechtspreis.de/preistraeger-2003.html', 'http://syriamonitor.typepad.com/news/2007/04/former_mp_riad_.html']

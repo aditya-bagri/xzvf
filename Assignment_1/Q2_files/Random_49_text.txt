@@ -4,630 +4,96 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-GSC 03549-02811
+John Scott McRoberts
 
+Personal information
 
 
-GSC 03549-02811 and TrES-2b as seen from the Kepler spacecraft. Celestial north is to the left.
+Nationality
+Canada
 
 
+Citizenship
+Canadian
 
-Observation data
-Epoch J2000.0      Equinox J2000.0
 
+Born
+(1962-09-14) 14 September 1962 (age 53)
+Scarborough, Ontario
 
-Constellation
-Draco
 
+Residence
+Victoria, British Columbia
 
-A
 
+Height
+185 cm (6.07 ft)
 
-Right ascension
-19h 07m 14.035s[1]
 
+Weight
+90 kg (200 lb)
 
-Declination
-+49° 18′ 59.07″[1]
 
+Sport
 
-Apparent magnitude (V)
-11.41
 
+Country
+ Canada
 
-B
 
+Sport
+Sailing
 
-Right ascension
-~19h 07m 14s[2]
 
 
-Declination
-~+49° 18′ 59″[2]
 
+Medal record
 
-Apparent magnitude (V)
-14.73[2]
 
 
-Characteristics
+Paralympic Games
 
 
-Spectral type
-G0V[1]/K[2]
+Men's Sailing
 
 
-Apparent magnitude (B)
-~12.030[1]
 
+1996 Atlanta
+Crewboat — Men
 
-Apparent magnitude (V)
-7001114110000000000♠11.411±0.005[1]
 
 
-Apparent magnitude (J)
-7001102320000000000♠10.232±0.020[1]
+2008 Beijing
+2-person keelboat (SKUD18)
 
 
-Apparent magnitude (H)
-7000992000000000000♠9.920±0.026[1]
 
 
-Apparent magnitude (K)
-7000984600000000000♠9.846±0.022[1]
 
 
-Astrometry
 
+Updated on 31 August 2014.
 
 
-
-
-Proper motion (μ)
-RA: 2.9[1] mas/yr
-Dec.: -3.4[1] mas/yr
-
-
-Distance
-7002718000000000000♠718±33 ly
-(7002220000000000000♠220±10 pc)
-
-
-
-
-
-Details
-
-
-
-
-
-Mass
-1.05[2]/0.67[2] M☉
-
-
-Radius
-7000100000000000000♠1.000+0.036
-−0.033[3] R☉
-
-
-Temperature
-7003585000000000000♠5850±50[3] K
-
-
-Metallicity
-3000850000000000000♠−0.15±0.1[3]
-
-
-Age
-7009510000000000000♠5.1+2.7
-−2.3×109[3] years
-
-
-
-
-
-Other designations
-
-
-
-TrES-2 A, KIC 11446443, KOI 1, 2MASS J19071403+4918590, TYC 3549-2811-1[1]
-
-
-
-Database references
-
-
-SIMBAD
-data
-
-
-Extrasolar Planets
-Encyclopaedia
-data
-
-
-GSC 03549-02811 A (referred to as TrES-2 or TrES-2 A in reference to its exoplanet)[4] is a yellow main-sequence star similar to our Sun. This star is located approximately 718 light-years away in the constellation of Draco. The apparent magnitude of this star is 11.41, which means it is not visible to the naked eye but can be seen with a medium-sized amateur telescope on a clear dark night. The age of this star is about 5 billion years.[1]
-
-
-
-Contents
-
-
-1 Planetary system
-2 Binary star
-3 The Kepler Mission
-4 See also
-5 References
-6 External links
-
-
-
-Planetary system[edit]
-In 2006 the exoplanet TrES-2b was discovered by the TrES program using the transit method. It is also within the field of view of the previously operational Kepler Mission planet-hunter spacecraft.[5] This system continues to be studied by other projects and the parameters are continuously improved.[3] The planet orbits the primary star.[2]
-
-The GSC 03549-02811 planetary system
-
-Companion
-(in order from star)
-Mass
-Semimajor axis
-(AU)
-Orbital period
-(days)
-Eccentricity
-Inclination
-Radius
-
-
-TrES-2b
-7000119900000000000♠1.199±0.052[2] MJ
-6998355600000000000♠0.03556±0.00075[2]
-7000247063000000000♠2.47063±0.00001[5]
-0
-—
-1.272 RJ
-
-
-Though TrES-2b is currently the darkest known exoplanet, reflecting less than 1 percent of local sunlight, it does show a faint red glow. This is because its surface is a punishing 1,100'C, so hot that it actually glows red. It is assumed to be tidally locked to its parent star.[6]
-Binary star[edit]
-In 2008 a study was undertaken of fourteen stars with exoplanets that were originally discovered using the transit method through relatively small telescopes. These systems were re-examined with the 2.2M reflector telescope at the Calar Alto Observatory in Spain. This star system, along with two others, was determined to be a previously unknown binary star system. The previously unknown secondary star is a dim magnitude 15 K-type star separated by about 232 AU from the primary, appearing offset from the primary by about one arc second in the images. This discovery resulted in a significant recalculation of parameters for both the planet and the primary star.[2]
-The Kepler Mission[edit]
-Main article: Kepler Mission
-
-
-
-
-An image from Kepler with TrES-2b and another point of interest outlined. Celestial north is towards the lower left corner.
-
-
-In March 2009 NASA launched the Kepler Mission spacecraft. This spacecraft is a dedicated mission to discover extrasolar planets by the transit method from solar orbit. In April 2009 the project released the first light images from the spacecraft and TrES-2b was one of two objects highlighted in these images. Although TrES-2b is not the only known exoplanet in the field of view of this spacecraft it is the only one identified in the first-light images. This object is important for calibration and check-out.[7]
-See also[edit]
-
-Trans-Atlantic Exoplanet Survey or TrES
-List of extrasolar planets
-
+John Scott McRoberts (born 14 August 1962 at Scarborough, Ontario) is a SKUD18 classified Canadian Paralympic Sailer who has competed in the 1996, 2008, and 2012 Paralympic Games.[1]
+Personal life[edit]
+McRoberts was born on 14 September 1962 in Scarborough, Ontario. He resides in Victoria, British Columbia. He became a quadriplegic at 18 years old after diving into shallow water.[1]
 References[edit]
 
 
-^ a b c d e f g h i j k l "SIMBAD query result: NAME TrES-2 Parent Star -- Star". Centre de Données astronomiques de Strasbourg. Retrieved 2009-04-22. 
-^ a b c d e f g h i j Daemgen; Hormuth, F.; Brandner, W.; Bergfors, C.; Janson, M.; Hippler, S.; Henning, T. (2009). "Binarity of transit host stars — Implications for planetary parameters" (PDF). Astronomy and Astrophysics 498 (2): 567–574. arXiv:0902.2179. Bibcode:2009A&A...498..567D. doi:10.1051/0004-6361/200810988. 
-^ a b c d e Alessandro Sozzetti; Torres, Guillermo; Charbonneau, David; Latham, David W.; Holman, Matthew J.; Winn, Joshua N.; Laird, John B.; o’Donovan, Francis T. (August 1, 2007). "Improving Stellar and Planetary Parameters of Transiting Planet Systems: The Case of TrES-2". The Astrophysical Journal 664 (2): 1190–1198. arXiv:0704.2938. Bibcode:2007ApJ...664.1190S. doi:10.1086/519214. 
-^ D. Mislis, S. Schroter, J.H.M.M. Schmitt, O. Cordes, K. Reif (December 2009). "Multi-band transit observations of the TrES-2b exoplanet". arXiv:0912.4428v1 [astro-ph.EP]. 
-^ a b O'Donovan; Charbonneau, David; Mandushev, Georgi; Dunham, Edward W.; Latham, David W.; Torres, Guillermo; Sozzetti, Alessandro; Brown, Timothy M.; et al. (October 16, 2006). "TrES-2: The First Transiting Planet in the Kepler Field". The Astrophysical Journal Letters 651 (1): L61–L64. arXiv:astro-ph/0609335. Bibcode:2006ApJ...651L..61O. doi:10.1086/509123.  CS1 maint: Explicit use of et al. (link)
-^ http://news.yahoo.com/coal-black-alien-planet-darkest-ever-seen-220601419.html
-^ "Kepler Eyes Cluster and Known Planet". NASA. 2009-04-16. Retrieved 2009-05-09. 
-
-
-External links[edit]
-
-"Host to 'Hot Jupiter' (labeled)". multimedia/images. NASA. 2009-04-16. Retrieved 2009-04-28. 
-"TrES-2". Exoplanets. Retrieved 2009-04-28. 
-
-Coordinates:  19h 07m 14s, +49° 18′ 59″
+^ a b "John McRoberts — Canadian Paralympic Committee". Canadian Paralympic Committee. Retrieved 16 August 2014. 
 
 
 
 
 
 
+This Canadian biographical article is a stub. You can help Wikipedia by expanding it.
 
 
 v
 t
 e
-
-
-Stars of Draco
-
-
-
-
-
-
-Bayer
-
-
-
-α (Thuban)
-β (Rastaban)
-γ (Eltanin)
-δ (Altais)
-ε (Tyl)
-ζ (Aldhibah)
-η (Aldhibain)
-θ
-ι (Edasich)
-κ
-λ (Gianfar)
-μ (Arrakis)
-ν (Kuma)
-ξ (Grumium)
-ο
-π
-ρ
-σ (Alsafi)
-τ
-υ
-φ
-χ
-ψ1 (Dziban)
-ψ2
-ω
-
-
-
-
-
-
-
-
-Flamsteed
-
-
-
-2
-3
-4
-6
-7
-8
-9
-10
-15
-16
-17
-18
-19
-20
-26
-27
-29
-30
-35
-36
-37
-38
-39
-40
-41
-42
-45
-46
-48
-49
-50
-51
-53
-54
-55
-59
-64
-65
-66
-68
-69
-70
-71
-72
-73
-74
-75
-76
-
-
-
-
-
-
-
-
-Variable
-
-
-
-R
-S
-T
-W
-Z
-RR
-RW
-RY
-RZ
-SU
-SW
-TW
-TX
-TZ
-UX
-UZ
-VW
-WW
-XZ
-AB
-AC
-AG
-AI
-AT
-BH
-BK
-BS
-BT
-BV
-BW
-BY
-CL
-CM
-CN
-CR
-CX
-DE
-DK
-DL
-DO
-DQ
-EE
-EF
-EK
-EP
-ER
-EX
-EY
-FU
-IU
-LV
-
-
-
-
-
-
-
-
-HR
-
-
-
-3719
-3751
-3774
-3806
-3843
-3847
-4121
-4126
-4272
-4627
-4659
-4687
-4727
-4740
-4927
-4934
-5018
-5162
-5227
-5282
-5436
-5442
-5451
-5552
-5606
-5731
-5737
-5748
-5755
-5759
-5768
-5785
-5811
-5818
-5828
-5841
-5878
-5886
-5887
-5922
-5949
-5981
-5995
-6025
-6036
-6038
-6069
-6101
-6126
-6130
-6150
-6170
-6180
-6198
-6199
-6237
-6226
-6330
-6335
-6345
-6348
-6360
-6383
-6395
-6421
-6479
-6511
-6514
-6518
-6540
-6560
-6598
-6606
-6607
-6618
-6699
-6717
-6735
-6790
-6817
-6827
-6880
-6886
-6891
-6911
-6949
-6983
-7006
-7013
-7018
-7025
-7028
-7042
-7060
-7071
-7075
-7082
-7096
-7117
-7123
-7137
-7153
-7154
-7160
-7184
-7187
-7191
-7196
-7199
-7229
-7252
-7356
-7413
-7423
-7425
-7448
-7450
-7500
-7545
-7654
-7666
-7695
-7704
-7783
-7805
-7868
-7930
-8016
-
-
-
-
-
-
-
-
-HD
-
-
-
-100858
-109246
-112826
-149198
-156279
-158259
-163607
-175305
-184467
-185394
-
-
-
-
-
-
-
-
-Gliese
-
-
-
-Gliese 420
-Gliese 487
-Gliese 625
-Gliese 687
-Gliese 793
-GJ 1227
-GJ 4053
-
-
-
-
-
-
-
-
-Other
-
-
-
-G 240-72
-GD 356
-GRW +70 8247
-GSC 03549-02811
-HAT-P-37
-HIP 56948
-Kepler-4
-Kepler-10
-Kepler-12
-Kepler-52
-Kepler-90
-Kepler-101
-Kepler-407
-Kepler-408
-LP 71-82
-2M 1237+6526
-PSR B1508+55
-SSSPM J1138-7722
-Struve 2398
-WASP-51
-WD 1647+591
-WD 1821+643
-WISE 1647+5632
-
-
-
-
-
-
-
-
-
-
-
-List
-
-
-
 
 
 

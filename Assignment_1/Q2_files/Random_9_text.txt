@@ -3,52 +3,110 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-This is a Korean name; the family name is Son.
-
-Son Sang-pil
-
-Medal record
 
 
-Competitor for  South Korea
-
-
-Men's Greco-Roman wrestling
-
-
-World Championships
+isrA Hfq binding RNA
 
 
 
-1999 Athens
-69 kg
+
+
+Predicted secondary structure of isrA Hfq binding RNA
+
+
+Identifiers
+
+
+Symbol
+isrA
+
+
+Rfam
+RF01385
+
+
+Other data
+
+
+RNA type
+gene, sRNA
+
+
+Domain(s)
+Enterobacteriaceae
 
 
 
-1997 Wrocław
-69 kg
 
 
 
-1998 Gävle
-69 kg
+Hfq protein from S. aureus with a bound sRNA.
 
 
-Asian Games
+A Hfq binding sRNA is an sRNA that binds the bacterial RNA binding protein called Hfq. A number of bacterial small RNAs which have been shown to bind to Hfq have been characterised (see list). Many of these RNAs share a similar structure composed of three stem-loops.[1] Recent studies have expanded this list and experimentally validated a total of 64 Hfq binding sRNA in Salmonella Typhimurium.[2][3][4] Genomic SELEX has been used to show that Hfq binding RNAs are enriched in the sequence motif 5'-AAYAAYAA-3'.[5]
 
 
 
-1998 Bangkok
-69 kg
+Contents
 
 
-Son Sang-Pil (Hangul: 손상필, Hanja: 孫相弼; born September 1, 1973 in Seoul) is a retired South Korean Greco-Roman wrestler.
-Son claimed the gold medals in the Groco-Roman 69 kg class at the 1997 and 1999 World Championships.
-At the 1998 Asian Games, Son won the gold medal in the Greco-Roman 69 kg class, defeating 1998 World 63 kg Champion Mkhitar Manukyan in the final match.
-While competing in the Sydney 2000 Summer Olympics, many considered Son a gold medal favorite. However, he was eliminated in the quarterfinals, losing to eventual gold medalist Filiberto Azcuy of Cuba 9-2.
+1 Bacterial Hfq binding sRNAs
+2 References
+3 Further reading
+4 External links
+
+
+
+Bacterial Hfq binding sRNAs[edit]
+
+
+DicF RNA
+DsrA RNA
+FnrS RNA
+GadY RNA
+GcvB RNA
+IsrJ RNA[4]
+MicA RNA / SraD RNA
+MicC RNA
+MicF RNA
+OmrA RNA / OmrB RNA / RygA RNA / RygB RNA / SraE RNA
+OxyS RNA
+Qrr RNA
+RprA RNA
+RybB RNA
+RydC RNA
+RyeB RNA
+CyaR RNA
+RyeF
+RyhB RNA
+SgrS RNA
+Spot 42 RNA
+SraH RNA
+SraJ RNA
+SroB RNA / MicM RNA / RybC
+SroC RNA
+
+
+References[edit]
+
+
+^ Zhang A, Wassarman KM, Rosenow C, Tjaden BC, Storz G, Gottesman S (2003). "Global analysis of small RNA and mRNA targets of Hfq". Mol. Microbiol. 50 (4): 1111–24. doi:10.1046/j.1365-2958.2003.03734.x. PMID 14622403. 
+^ Pfeiffer V, Sittka A, Tomer R, Tedin K, Brinkmann V, Vogel J (December 2007). "A small non-coding RNA of the invasion gene island (SPI-1) represses outer membrane protein synthesis from the Salmonella core genome". Molecular Microbiology 66 (5): 1174–91. doi:10.1111/j.1365-2958.2007.05991.x. PMID 17971080. 
+^ Sittka A, Lucchini S, Papenfort K, et al. (2008). Burkholder WF, ed. "Deep Sequencing Analysis of Small Noncoding RNA and mRNA Targets of the Global Post-Transcriptional Regulator, Hfq". PLOS Genetics 4 (8): e1000163. doi:10.1371/journal.pgen.1000163. PMC 2515195. PMID 18725932. 
+^ a b Padalon-Brauch G, Hershberg R, Elgrably-Weiss M, et al. (April 2008). "Small RNAs encoded within genetic islands of Salmonella typhimurium show host-induced expression and role in virulence". Nucleic Acids Research 36 (6): 1913–27. doi:10.1093/nar/gkn050. PMC 2330248. PMID 18267966. 
+^ Lorenz C, Gesell T, Zimmermann B, Schoeberl U, Bilusic I, Rajkowitsch L, Waldsich C, von Haeseler A, Schroeder R (2010). "Genomic SELEX for Hfq-binding RNAs identifies genomic aptamers predominantly in antisense transcripts". Nucleic Acids Res 38 (11): 3794–808. doi:10.1093/nar/gkq032. PMC 2887942. PMID 20348540. 
+
+
+Further reading[edit]
+
+
+De Lay, N.; Schu, D. J.; Gottesman, S. (2013). "Bacterial Small RNA-based Negative Regulation: Hfq and Its Accomplices". Journal of Biological Chemistry 288 (12): 7996–8003. doi:10.1074/jbc.R112.441386. PMC 3605619. PMID 23362267. 
+Peng, Y.; Soper, T. J.; Woodson, S. A. (2013). "Positional effects of AAN motifs in rpoS regulation by sRNAs and Hfq". Journal of Molecular Biology 426 (2): 275–85. doi:10.1016/j.jmb.2013.08.026. PMID 24051417. 
+
+
 External links[edit]
 
-Son Sang-Pil's profile from sports-references
+Rfam database
 
 
 
@@ -63,20 +121,7 @@ t
 e
 
 
-Asian Games Wrestling Champions in Men's Greco-Roman Lightweight
-
-
-
-
-
-
-
-
-
-1962: 70 kg
-1974–1994: 68 kg
-1998: 69 kg
-2002–present: 66 kg
+Gallery of secondary structure images
 
 
 
@@ -88,18 +133,17 @@ Asian Games Wrestling Champions in Men's Greco-Roman Lightweight
 
 
 
-1962: Yoichi Sasaki (JPN)
-1966–1970: not held
-1974: Mohammad Dalirian (IRI)
-1978–1982: not held
-1986: Lee Sam-sung (KOR)
-1990: Moon Chung-sik (KOR)
-1994: Kim Young-il (KOR)
-1998: Son Sang-pil (KOR)
-2002: Kim In-sub (KOR)
-2006: Kim Min-chul (KOR)
-2010: Saeid Abdevali (IRI)
-2014: Ryu Han-su (KOR)
+
+
+
+
+
+
+
+
+
+
+isrA Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01385. 
 
 
 
@@ -111,8 +155,349 @@ Asian Games Wrestling Champions in Men's Greco-Roman Lightweight
 
 
 
- 
-This biographical article relating to a South Korean sport wrestler or wrestling coach is a stub. You can help Wikipedia by expanding it.
+
+
+isrB Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01386. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrC Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01387. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrD Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01388. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrF Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01389. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrG Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01390. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrH Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01391. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrI Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01392. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrJ Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01393. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrK Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01394. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrL Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01395. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrN Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01396. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrO Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01397. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrP Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01398. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+isrQ Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01399. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+istR Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01400. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+rseX Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01401. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+STnc150 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01402. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+STnc290 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01403. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+STnc440 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01404. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+STnc490k Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01405. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+STnc500 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01406. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+STnc560 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01407. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+sraL Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01408. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+STnc250 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01409. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This molecular or cell biology article is a stub. You can help Wikipedia by expanding it.
 
 
 v
