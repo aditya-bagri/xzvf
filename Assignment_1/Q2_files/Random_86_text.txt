@@ -4,203 +4,675 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
+Teniposide
 
 
 
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2010)
+Systematic (IUPAC) name
 
 
 
-
-Lydia Pense and Cold Blood
-
-
-Origin
-Oakland, California
-
-
-Genres
-Rock, Urban contemporary, Blue-eyed soul
-
-
-Years active
-1969–present
-
-
-Labels
-San Francisco/Atlantic (1969); Reprise (1972); Warner Bros. Records (1974); ABC (1976); Dig Music (2005)
-
-
-Associated acts
-Tower of Power, Sons of Champlin, Donny Hathaway
+(5R,5aR,8aR,9S)-5,8,8a,9-Tetrahydro-5-(4-hydroxy-3,5-dimethoxyphenyl)-9-({4,6-O-[(R)-2-thienylmethylene]-β-D-glucopyranosyl}oxy)furo[3',4':6,7]naphtho[2,3-d]-1,3-dioxol-6(5aH)-one
 
 
 
+Clinical data
 
 
-Members
-Lydia Pense
-Steve Salinas
-Steve Dunne
-Mike Morgan
-Evan Palmerston
-Rich Armstrong
-Rob Zuckerman
-Donny Baldwin
+Trade names
+Vumon
+
+
+AHFS/Drugs.com
+monograph
+
+
+MedlinePlus
+a692045
+
+
+Pregnancy
+category
+
+
+
+AU: D
+US: D (Evidence of risk)
 
 
 
 
 
-Past members
-Larry Field
-Danny Hull
-Larry Jonutz
-Pat O'Hara
-Raul Matute
-Jerry Jonutz
-David Padron
-Rod Ellicott
-][
-Frank Davis
-Sandy McKee
-Alex Sarmiento
 
 
-Cold Blood is a long-standing soul-rock-jazz band founded by Larry Field in 1968 and originally based in the San Francisco East Bay area. They have also performed and recorded under the name "Lydia Pense and Cold Blood", due to the popularity of their lead singer, Lydia Pense.
+
+Legal status
+
+
+
+US: ℞-only
+
+
+
+
+
+Routes of
+administration
+Intravenous
+
+
+Pharmacokinetic data
+
+
+Bioavailability
+N/A
+
+
+Protein binding
+>99%
+
+
+Metabolism
+Hepatic (CYP2C19-mediated)
+
+
+Biological half-life
+5 hours
+
+
+Excretion
+Renal and fecal
+
+
+Identifiers
+
+
+CAS Number
+29767-20-2 Y
+
+
+ATC code
+L01CB02
+
+
+PubChem
+CID 34698
+
+
+IUPHAR/BPS
+6843
+
+
+DrugBank
+DB00444 N
+
+
+ChemSpider
+31930 N
+
+
+UNII
+957E6438QA N
+
+
+KEGG
+D02698 Y
+
+
+ChEBI
+CHEBI:75988 N
+
+
+ChEMBL
+CHEMBL1200536 N
+
+
+Synonyms
+VM-26
+
+
+Chemical data
+
+
+Formula
+C32H32O13S
+
+
+Molar mass
+656.655 g/mol
+
+
+
+
+SMILES
+
+
+COc1cc(cc(c1O)OC)[C@@H]2c3cc4c(cc3[C@H]([C@@H]5[C@@H]2C(=O)OC5)O[C@H]6[C@@H]([C@H]([C@H]7[C@H](O6)COC(O7)c8cccs8)O)O)OCO4
+
+
+
+
+
+
+
+
+InChI
+
+
+InChI=1S/C32H32O13S/c1-37-19-6-13(7-20(38-2)25(19)33)23-14-8-17-18(42-12-41-17)9-15(14)28(16-10-39-30(36)24(16)23)44-32-27(35)26(34)29-21(43-32)11-40-31(45-29)22-4-3-5-46-22/h3-9,16,21,23-24,26-29,31-35H,10-12H2,1-2H3/t16-,21+,23+,24-,26+,27+,28+,29+,31?,32-/m0/s1
+
+
+Key:NRUKOCRGYNPUPR-PSZSYXFXSA-N
+
+
+
+
+
+
+ NY (what is this?)  (verify)
+
+
+Teniposide (trade name Vumon) is a chemotherapeutic medication[1] used in the treatment of childhood acute lymphocytic leukemia (ALL), Hodgkin's lymphoma, certain brain tumours, and other types of cancer.[2] It is in a class of drugs known as podophyllotoxin derivatives and slows the growth of cancer cells in the body.[3]
 
 
 
 Contents
 
 
-1 Career
-2 Personnel
-3 Discography
+1 Medical uses
 
-3.1 Albums
-3.2 Singles
+1.1 Administration
 
 
-4 See also
-5 References
-6 External links
+2 Contraindiactions
+3 Side effects
+4 Interactions
+5 Pharmacology
+
+5.1 Mechanism of action
 
 
-
-Career[edit]
-The band first came to prominence in 1969 when rock impresario Bill Graham signed them after an audition and they played the Fillmore West in San Francisco. Pense has been compared to Janis Joplin, and it was Joplin who recommended the audition to Graham.
-The band has often been compared to another long-standing popular Northern California group, Tower of Power, and like Tower of Power they were rare in that they featured a horn section in addition to guitar, keyboards (usually featuring a Hammond organ and Leslie speaker), bass and drums. The Tower of Power horn players have performed with Cold Blood on a regular basis since the early 1970s. Skip Mesquite and Mic Gillette have been members of both Tower of Power and Cold Blood. Their fan base also overlaps with the Sons of Champlin, although their musical styles are quite different.
-Their initial four albums, Cold Blood (produced by David Rubinson), Sisyphus (produced by Fred Catero), First Taste of Sin (produced by Donny Hathaway), and Thriller (produced by David Rubinson) remain their best known work. The band disbanded in the late 1970s, reformed in the 1980s and stabilized with its current membership in the 1990s. Cold Blood continues to record and perform today, and some former band members such as Raul Matute (and some from Tower of Power) appear on the band's most recent album.
-Original band members were founder Larry Field (lead guitar), Lydia Pense (vocals), Danny Hull (tenor saxophone and songwriter), Larry Jonutz (trumpet; born Mar 15 1947), Pat O'Hara (trombone; born May 25, 1946 (?), died August 1977 of an overdose), Raul Matute (Hammond organ, piano, arranger and songwriter, born Feb 19 1946), Jerry Jonutz (baritone, alto and tenor saxophone; born Mar 15 1947), David Padron (trumpet; born May 4 1946), Rod Ellicott (bass), and Frank Davis, who was replaced on drums by Sandy McKee (real name Cecil James Stoltie, born 12 July 1945, died 15 October 1995) during the Sisyphus sessions. Narada Michael Walden and Jonathan "Sugarfoot" Moffett both mention McKee on their short list of drummers most influential in their stylistic development.
-Over the years there have been various incarnations of the band including singer/trumpet player Max Haskett (born 7 March 1947, died 15 September 1999, ex-Rubicon), Tower of Power horn player Mic Gillette, Journey keyboardist Stevie "Keys" Roseman on Hammond B-3 organ, Sons Of Champlin drummer Jim Preston, Starship Drummer T Moran guitar player Michael Sasaki (born Apr 3 1952), Tower of Power guitarist Jeff Tamelier, Boz Scaggs horn player Tom Poole, Elvin Bishop sax player Bill Slais, bass player Michael White & others.
-Current personnel are Lydia Pense (vocals), Steve Salinas (keyboards), Steve Dunne (guitar), Mike Morgan (percussion), Evan Palmerston (bass), Rich Armstrong (trumpet, cornet, percussion), Rob Zuckerman (alto, tenor, baritone saxes, and flute) and Donny Baldwin (drums).
-Cold Blood is featured playing live in Fillmore, a documentary of the last concerts at the Fillmore West auditorium during July 1971.
-Personnel[edit]
+6 Physical and chemical properties
+7 References
 
 
 
-
-Current members
-
-
-Lydia Pense - vocals
-Steve Salinas - keyboards
-Steve Dunne - guitar
-
-
-Evan Palmerston - bass
-Rich Armstrong - trumpet, percussion
-Rob Zuckerman - saxophone
-Donny Baldwin - drums
+Medical uses[edit]
+Teniposide is used for the treatment of a number of cancer types in children. In the US, it is approved for the second-line therapy of acute lymphocytic leukemia (ALL) in combination with other antineoplastic drugs.[3] In Europe, it is also approved for the treatment of Hodgkin's lymphoma, generalized malignant lymphoma, reticulocyte sarcoma, acute leukaemia, primary brain tumours (glioblastoma, ependymoma, astrocytoma), bladder cancer, neuroblastoma and other solid tumours in children.[2]
+Administration[edit]
+The medication is injected though a vein and burns if it leaks under the skin. It can be used in combination with other anticancer drugs.[2]
+Contraindiactions[edit]
+The drug is contraindicated during pregnancy and lactation, in patients with severe liver or kidney impairment or severely impaired haematopoiesis.[2]
+Side effects[edit]
+Teniposide, when used with other chemotherapeutic agents for the treatment of ALL, results in severe bone marrow suppression. Other common side effects include gastrointestinal toxicity, hypersensitivity reactions, and reversible alopecia.[2]
+Interactions[edit]
+No systematic interaction studies are available. The enzyme inducers phenobarbital and phenytoin have been found to lower its blood plasma concentrations.[4] Theoretically possible interactions include increased plasma concentrations when combined with sodium salicylate, sulfamethizole or tolbutamide, which displace teniposide from plasma protein binding, at least in vitro.[2][3]
+Pharmacology[edit]
+Mechanism of action[edit]
+Teniposide causes dose-dependent single- and double-stranded breaks in DNA and DNA-protein cross-links.[2] The substance has been found to act as an inhibitor of topoisomerase II (an enzyme that aids in DNA unwinding),[4][5] since it does not intercalate into DNA or bind strongly to DNA. The cytotoxic effects of teniposide are related to the relative number of double-stranded DNA breaks produced in cells, which are a reflection of the stabilization of a topoisomerase II-DNA intermediate.[citation needed]
+Physical and chemical properties[edit]
 
 
 
 
-Additional personnel
+An illustration of the wild mandrake, showing part of the rhizome (at bottom)
 
 
-Max Haskett - vocals, trumpet
-Mic Gillette - Horns
-Stevie "Keys" Roseman - Hammond B-3 organ
-Jim Preston - drums
-Michael Sasaki - guitar
-Jeff Tamelier - guitar
-Tom Poole - horns
-Bill Slais - saxophone
-Michael White - bass
-
-
-
-
-
-Former members
-
-
-Larry Field - lead guitar
-Peter Welker - lead trumpet
-Danny Hull - tenor saxophone and songwriter
-Larry Jonutz - trumpet
-Pat O'Hara - trombone
-Raul Matute - Hammond organ, piano, arranger and songwriter
-Jerry Jonutz - saxophone
-David Padron - trumpet
-Rod Ellicott - bass
-Frank Davis - drums
-Sandy McKee - drums
-Alex Sarmiento - bass
-Skip Mesquite - tenor sax and vocals
-Michael Andreas - tenor sax
-Gaylord Birch - drums
-Eric Dunan - trumpet
-T Moran - Drums
-
-Discography[edit]
-Albums[edit]
-
-Cold Blood (1969)
-Sisyphus (1970)
-First Taste of Sin (1972)
-Thriller (1973)
-Lydia (1974)
-The Best of Cold Blood (1975)
-Lydia Pense And Cold Blood (1976)
-Vintage Blood: Live! 1973 (live album, 2001)
-Transfusion (2005)
-Lydia Pense & Cold Blood:Live Blood (live album, 2008)
-Lydia Pense & Cold Blood, "The River City Sessions" (2011)
-Lydia Pense & Cold Blood, "Soul Of The Gypsy" (2015)
-
-Singles[edit]
-
-"You Got Me Hummin'" (1970, #52 Pop)
-"Too Many People" (1970, #107 'Bubbling Under' chart)
-"I'm a Good Woman" (1970, #125 'Bubbling Under' chart)
-
-See also[edit]
-
-Lydia Pense
-
+Teniposide is a semisynthetic derivative of podophyllotoxin[2] from the rhizome of the wild mandrake (Podophyllum peltatum). More specifically, it is a glycoside of podophyllotoxin with a D-glucose derivative. It is chemically similar to the anti-cancer drug etoposide, being distinguished only by a thienyl rest where etoposide has a methyl.[4] Both these compounds have been developed with the aim of creating less toxic derivatives of podophyllotoxin.[6]
 References[edit]
 
 
-Chronology of San Francisco Rock in the late 1960s
-
-External links[edit]
-
-Official site for Lydia Pense and Cold Blood
-
-
-
+^ Cragg, Gordon M.; Newman, David J. (2005). "Plants as a source of anti-cancer agents". Journal of Ethnopharmacology 100 (1–2): 72–9. doi:10.1016/j.jep.2005.05.011. PMID 16009521. 
+^ a b c d e f g h Jasek, W, ed. (2007). Austria-Codex (in German) (62nd ed.). Vienna: Österreichischer Apothekerverlag. pp. 8855–6. ISBN 978-3-85200-181-4. 
+^ a b c Drugs.com: Teniposide monograph.
+^ a b c Mutschler, Ernst; Schäfer-Korting, Monika (2001). Arzneimittelwirkungen (in German) (8 ed.). Stuttgart: Wissenschaftliche Verlagsgesellschaft. pp. 894–5. ISBN 3-8047-1763-2. 
+^ De Jong, S; Kooistra, A. J.; De Vries, E. G.; Mulder, N. H.; Zijlstra, J. G. (1993). "Topoisomerase II as a target of VM-26 and 4'-(9-acridinylamino)methanesulfon-m-aniside in atypical multidrug resistant human small cell lung carcinoma cells". Cancer research 53 (5): 1064–71. PMID 8382551. 
+^ Dinnendahl, V, Fricke, U, ed. (2015). Arzneistoff-Profile (in German) 4 (28 ed.). Eschborn, Germany: Govi Pharmazeutischer Verlag. ISBN 978-3-7741-9846-3. 
 
 
 
-Authority control
 
 
 
-MusicBrainz: 6f007e8d-cb04-4b1e-b259-f122a929687e
+
+
+
+
+v
+t
+e
+
+
+Intracellular chemotherapeutic agents / antineoplastic agents (L01)
+
+
+
+
+
+
+SPs/MIs
+(M phase)
+
+
+
+
+Block microtubule assembly
+
+
+
+Vinca alkaloids (Vinblastine#
+Vincristine#
+Vinflunine§
+Vindesine
+Vinorelbine)
+
+
+
+
+
+
+
+
+Block microtubule disassembly
+
+
+
+Taxanes (Cabazitaxel
+Docetaxel#
+Larotaxel
+Ortataxel†
+Paclitaxel#
+Tesetaxel)
+Epothilones (Ixabepilone)
+
+
+
+
+
+
+
+
+
+
+
+DNA replication
+inhibitor
+
+
+
+
+DNA precursors/
+antimetabolites
+(S phase)
+
+
+
+
+Folic acid
+
+
+
+Dihydrofolate reductase inhibitor (Aminopterin
+Methotrexate#
+Pemetrexed
+Pralatrexate)
+Thymidylate synthase inhibitor (Raltitrexed
+Pemetrexed)
+
+
+
+
+
+
+
+
+Purine
+
+
+
+Adenosine deaminase inhibitor (Pentostatin)
+
+
+Halogenated/ribonucleotide reductase inhibitors (Cladribine
+Clofarabine
+Fludarabine)
+Nelarabine
+
+
+Thiopurine (Thioguanine#
+Mercaptopurine#)
+
+
+
+
+
+
+
+
+Pyrimidine
+
+
+
+Thymidylate synthase inhibitor (Fluorouracil#
+Capecitabine
+Tegafur (+gimeracil/oteracil)
+Carmofur
+Floxuridine)
+
+
+DNA polymerase inhibitor (Cytarabine#)
+
+
+Ribonucleotide reductase inhibitor (Gemcitabine)
+
+
+Hypomethylating agent (Azacitidine
+Decitabine)
+
+
+
+
+
+
+
+
+Deoxyribonucleotide
+
+
+
+Ribonucleotide reductase inhibitor (Hydroxycarbamide)
+
+
+
+
+
+
+
+
+
+
+
+Topoisomerase inhibitors
+(S phase)
+
+
+
+
+I
+
+
+
+Camptotheca (Camptothecin
+Topotecan
+Irinotecan
+Rubitecan‡
+Belotecan)
+
+
+
+
+
+
+
+
+II
+
+
+
+Podophyllum (Etoposide#
+Teniposide)
+
+
+
+
+
+
+
+
+II+Intercalation
+
+
+
+Anthracyclines (Aclarubicin
+Daunorubicin#
+Doxorubicin#
+Epirubicin
+Idarubicin
+Amrubicin†
+Pirarubicin
+Valrubicin
+Zorubicin)
+Anthracenediones (Mitoxantrone
+Pixantrone)
+
+
+
+
+
+
+
+
+
+
+
+Crosslinking of DNA
+(CCNS)
+
+
+
+
+Alkylating
+
+
+
+Nitrogen mustards: Mechlorethamine
+Cyclophosphamide# (Ifosfamide
+Trofosfamide)
+Chlorambucil# (Melphalan
+Prednimustine)
+Bendamustine
+Uramustine
+Estramustine
+
+
+Nitrosoureas: Carmustine
+Lomustine (Semustine)
+Fotemustine
+Nimustine
+Ranimustine
+Streptozocin
+
+
+Alkyl sulfonates: Busulfan (Mannosulfan
+Treosulfan)
+
+
+Aziridines: Carboquone
+ThioTEPA
+Triaziquone
+Triethylenemelamine
+
+
+
+
+
+
+
+
+Platinum-based
+
+
+
+Carboplatin
+Cisplatin
+Nedaplatin
+Oxaliplatin
+Satraplatin
+
+
+
+
+
+
+
+
+Nonclassical
+
+
+
+Hydrazines (Procarbazine#)
+Triazenes (Dacarbazine#
+Temozolomide)
+Altretamine
+Mitobronitol
+Pipobroman
+
+
+
+
+
+
+
+
+Intercalation
+
+
+
+Streptomyces (Actinomycin#
+Bleomycin#
+Mitomycin
+Plicamycin)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Photosensitizers/PDT
+
+
+
+Aminolevulinic acid / Methyl aminolevulinate
+Efaproxiral
+Porphyrin derivatives (Porfimer sodium
+Talaporfin
+Temoporfin
+Verteporfin)
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+Enzyme inhibitors
+
+
+
+FI (Tipifarnib§)
+CDK inhibitors (Alvocidib†
+Seliciclib†
+Palbociclib)
+PrI
+
+Bortezomib
+Carfilzomib
+Ixazomib
+
+
+PhI (Anagrelide)
+IMPDI (Tiazofurin§)
+LI (Masoprocol)
+PARP inhibitor (Olaparib)
+HDAC (Belinostat
+Panobinostat
+Romidepsin
+Vorinostat)
+PIKI (Idelalisib)
+
+
+
+
+
+
+
+
+Receptor antagonists
+
+
+
+ERA (Atrasentan)
+Retinoid X receptor (Bexarotene)
+Sex steroid (Testolactone)
+
+
+
+
+
+
+
+
+Other/ungrouped
+
+
+
+Amsacrine
+Trabectedin
+Retinoids (Alitretinoin
+Tretinoin)
+Arsenic trioxide
+Asparagine depleters (Asparaginase#/Pegaspargase)
+Celecoxib
+Demecolcine
+Elesclomol§
+Elsamitrucin
+Etoglucid
+Lonidamine
+Lucanthone
+Mitoguazone
+Mitotane
+Oblimersen†
+Omacetaxine mepesuccinate
+Eribulin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#WHO-EM
+‡Withdrawn from market
+Clinical trials:
+
+†Phase III
+§Never to phase III
+
+
+
 
 
 

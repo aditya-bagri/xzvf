@@ -5,108 +5,98 @@ From Wikipedia, the free encyclopedia
 
 
 
-isrA Hfq binding RNA
+
+Old Post Office
 
 
 
 
-
-Predicted secondary structure of isrA Hfq binding RNA
-
-
-Identifiers
+U.S. National Register of Historic Places
 
 
-Symbol
-isrA
 
 
-Rfam
-RF01385
-
-
-Other data
-
-
-RNA type
-gene, sRNA
-
-
-Domain(s)
-Enterobacteriaceae
+U.S. Historic district
+Contributing property
 
 
 
 
 
 
-Hfq protein from S. aureus with a bound sRNA.
-
-
-A Hfq binding sRNA is an sRNA that binds the bacterial RNA binding protein called Hfq. A number of bacterial small RNAs which have been shown to bind to Hfq have been characterised (see list). Many of these RNAs share a similar structure composed of three stem-loops.[1] Recent studies have expanded this list and experimentally validated a total of 64 Hfq binding sRNA in Salmonella Typhimurium.[2][3][4] Genomic SELEX has been used to show that Hfq binding RNAs are enriched in the sequence motif 5'-AAYAAYAA-3'.[5]
 
 
 
-Contents
-
-
-1 Bacterial Hfq binding sRNAs
-2 References
-3 Further reading
-4 External links
 
 
 
-Bacterial Hfq binding sRNAs[edit]
 
 
-DicF RNA
-DsrA RNA
-FnrS RNA
-GadY RNA
-GcvB RNA
-IsrJ RNA[4]
-MicA RNA / SraD RNA
-MicC RNA
-MicF RNA
-OmrA RNA / OmrB RNA / RygA RNA / RygB RNA / SraE RNA
-OxyS RNA
-Qrr RNA
-RprA RNA
-RybB RNA
-RydC RNA
-RyeB RNA
-CyaR RNA
-RyeF
-RyhB RNA
-SgrS RNA
-Spot 42 RNA
-SraH RNA
-SraJ RNA
-SroB RNA / MicM RNA / RybC
-SroC RNA
 
+
+
+
+
+
+
+
+Location
+N. State St., between Capitol and Park St., Concord, New Hampshire
+
+
+Coordinates
+43°12′23″N 71°32′24″W﻿ / ﻿43.20639°N 71.54000°W﻿ / 43.20639; -71.54000Coordinates: 43°12′23″N 71°32′24″W﻿ / ﻿43.20639°N 71.54000°W﻿ / 43.20639; -71.54000
+
+
+Area
+1.5 acres (0.61 ha)
+
+
+Built
+1884 (1884)
+
+
+Architect
+Hill,James Riss
+
+
+Architectural style
+Late Victorian
+
+
+Part of
+Concord Civic District (#83004203)
+
+
+NRHP Reference #
+73000269[1]
+
+
+Significant dates
+
+
+Added to NRHP
+August 13, 1973
+
+
+Designated CP
+December 22, 1983
+
+
+The Legislative Office Building of the New Hampshire State Legislature, formerly a federal government post office facility, is located on North State Street, between Capitol and Park streets, across North State Street from the New Hampshire State House in Concord, New Hampshire.[2] The building is listed on the National Register of Historic Places as the Old Post Office.[1]
+The main portion of the Victorian two-story granite building was built between 1884 and 1889 for the federal government to a design by James Riggs Hill, the United States Treasury Department's Supervising Architect. The building was twice extended, in 1913 and 1938. When first built, it housed not only the post office, but other federal offices and the federal district court. The federal government occupied the building until 1967.[3] The building was afterward acquired by the state and converted for use as legislative offices.[2]
+The building was listed on the National Register in 1973, and included in the Concord Civic District in 1983.[2]
+See also[edit]
+
+National Register of Historic Places listings in Merrimack County, New Hampshire
 
 References[edit]
 
 
-^ Zhang A, Wassarman KM, Rosenow C, Tjaden BC, Storz G, Gottesman S (2003). "Global analysis of small RNA and mRNA targets of Hfq". Mol. Microbiol. 50 (4): 1111–24. doi:10.1046/j.1365-2958.2003.03734.x. PMID 14622403. 
-^ Pfeiffer V, Sittka A, Tomer R, Tedin K, Brinkmann V, Vogel J (December 2007). "A small non-coding RNA of the invasion gene island (SPI-1) represses outer membrane protein synthesis from the Salmonella core genome". Molecular Microbiology 66 (5): 1174–91. doi:10.1111/j.1365-2958.2007.05991.x. PMID 17971080. 
-^ Sittka A, Lucchini S, Papenfort K, et al. (2008). Burkholder WF, ed. "Deep Sequencing Analysis of Small Noncoding RNA and mRNA Targets of the Global Post-Transcriptional Regulator, Hfq". PLOS Genetics 4 (8): e1000163. doi:10.1371/journal.pgen.1000163. PMC 2515195. PMID 18725932. 
-^ a b Padalon-Brauch G, Hershberg R, Elgrably-Weiss M, et al. (April 2008). "Small RNAs encoded within genetic islands of Salmonella typhimurium show host-induced expression and role in virulence". Nucleic Acids Research 36 (6): 1913–27. doi:10.1093/nar/gkn050. PMC 2330248. PMID 18267966. 
-^ Lorenz C, Gesell T, Zimmermann B, Schoeberl U, Bilusic I, Rajkowitsch L, Waldsich C, von Haeseler A, Schroeder R (2010). "Genomic SELEX for Hfq-binding RNAs identifies genomic aptamers predominantly in antisense transcripts". Nucleic Acids Res 38 (11): 3794–808. doi:10.1093/nar/gkq032. PMC 2887942. PMID 20348540. 
+^ a b Staff (2010-07-09). "National Register Information System". National Register of Historic Places. National Park Service. 
+^ a b c "NRHP nomination for Concord Civic District" (PDF). National Park Service. Retrieved 2014-03-09. 
+^ "NRHP nomination for Old Post Office" (PDF). National Park Service. Retrieved 2014-03-09. 
 
-
-Further reading[edit]
-
-
-De Lay, N.; Schu, D. J.; Gottesman, S. (2013). "Bacterial Small RNA-based Negative Regulation: Hfq and Its Accomplices". Journal of Biological Chemistry 288 (12): 7996–8003. doi:10.1074/jbc.R112.441386. PMC 3605619. PMID 23362267. 
-Peng, Y.; Soper, T. J.; Woodson, S. A. (2013). "Positional effects of AAN motifs in rpoS regulation by sRNAs and Hfq". Journal of Molecular Biology 426 (2): 275–85. doi:10.1016/j.jmb.2013.08.026. PMID 24051417. 
-
-
-External links[edit]
-
-Rfam database
 
 
 
@@ -121,16 +111,23 @@ t
 e
 
 
-Gallery of secondary structure images
+U.S. National Register of Historic Places in New Hampshire
 
 
 
 
 
 
+Topics
 
 
 
+Contributing property
+Keeper of the Register
+Historic district
+History of the National Register of Historic Places
+National Park Service
+Property types
 
 
 
@@ -142,10 +139,20 @@ Gallery of secondary structure images
 
 
 
+Lists by county
 
-isrA Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01385. 
 
 
+Belknap
+Carroll
+Cheshire
+Coos
+Grafton
+Hillsborough
+Merrimack
+Rockingham
+Strafford
+Sullivan
 
 
 
@@ -154,10 +161,12 @@ isrA Hfq binding RNA: Predicted secondary structure taken from the Rfam database
 
 
 
+Other lists
 
 
 
-isrB Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01386. 
+Bridges
+National Historic Landmarks
 
 
 
@@ -169,9 +178,10 @@ isrB Hfq binding RNA: Predicted secondary structure taken from the Rfam database
 
 
 
+ Category:National Register of Historic Places in New Hampshire
+ Portal:National Register of Historic Places
 
 
-isrC Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01387. 
 
 
 
@@ -181,323 +191,7 @@ isrC Hfq binding RNA: Predicted secondary structure taken from the Rfam database
 
 
 
-
-
-
-
-isrD Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01388. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrF Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01389. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrG Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01390. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrH Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01391. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrI Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01392. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrJ Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01393. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrK Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01394. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrL Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01395. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrN Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01396. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrO Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01397. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrP Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01398. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-isrQ Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01399. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-istR Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01400. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-rseX Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01401. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-STnc150 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01402. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-STnc290 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01403. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-STnc440 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01404. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-STnc490k Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01405. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-STnc500 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01406. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-STnc560 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01407. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-sraL Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01408. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-STnc250 Hfq binding RNA: Predicted secondary structure taken from the Rfam database. Family RF01409. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This molecular or cell biology article is a stub. You can help Wikipedia by expanding it.
+This article about a property in New Hampshire on the National Register of Historic Places is a stub. You can help Wikipedia by expanding it.
 
 
 v

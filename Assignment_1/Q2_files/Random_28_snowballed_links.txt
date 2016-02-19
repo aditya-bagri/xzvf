@@ -1,1 +1,1 @@
-[]
+['http://www.rugbyleagueproject.org/players/jake-granville/summary.html', 'http://afltables.com/rl/scorers/games/2014/201406210204.html', 'http://www.cowboys.com.au/news/2014/07/22/granville_signs_on_with_the_cowboys_.html', 'http://www.rugbyleagueproject.org/players/kyle-feldt/summary.html', 'http://www.cowboys.com.au/team/profiles/jake_granville.html']

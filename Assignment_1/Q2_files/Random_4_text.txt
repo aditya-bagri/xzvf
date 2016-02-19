@@ -3,321 +3,34 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
+The unique name assumption is a simplifying assumption made in some ontology languages and description logics. In logics with the unique name assumption, different names always refer to different entities in the world.[1]
+The standard ontology language OWL does not make this assumption, but provides explicit constructs to express whether two names denote the same or distinct entities.[2][3]
 
+owl:sameAs is the OWL property that asserts that two given names or identifiers (e.g., URIs) refer to the same individual or entity.
+owl:differentFrom is the OWL property that asserts that two given names or identifiers (e.g., URIs) refer to different individuals or entities.
 
-DJ Felli Fel
+See also[edit]
 
-
-
-
-
-Background information
-
-
-Birth name
-James Andrew Corrine
-
-
-Born
-Rock Hill, South Carolina, United States
-
-
-Genres
-Hip hop, electro-hip hop, hip house
-
-
-Occupation(s)
-DJ, record producer
-
-
-Instruments
-Turntables, keyboards, sampler
-
-
-Years active
-1996–present
-
-
-Labels
-Rock Hill Records, So So Def, Island Urban
-
-
-Associated acts
-The Heavy Hitters DJs , Ludacris, Akon, Lil Wayne, Drake, Kanye West, Ne-Yo, Diddy, Lil Jon, Sean Paul, T-Pain, Jermaine Dupri, Fabolous, Pitbull
-
-
-Website
-www.fellifel.com
-
-
-James Andrew Corrine,[1] better known by his stage name DJ Felli Fel is a club and radio DJ for L.A.'s Power 106, record producer, and a recording artist recently signed to So So Def/Island Urban Music. He is also a member of The Heavy Hitters DJs.
-
-
-
-Contents
-
-
-1 Biography
-2 Discography
-
-2.1 Studio albums
-
-
-3 Singles
-
-3.1 As lead artist
-3.2 As featured artist
-3.3 Production credits
-
-
-4 Awards
-5 References
-6 External links
-
-
-
-Biography[edit]
-DJ Felli Fel was born in Rock Hill, South Carolina and grew up in Atlanta, Los Angeles, and Dallas. While a teenager in Dallas, he began spinning turntables for house parties. His radio career began on Dallas radio station K104 and Waco, Texas Spanish-language station KHCK.[2] Later, he joined the Los Angeles hip-hop station Power 106.[1] At Power 106, he hosts the Felli Fel Show on Saturday evenings.[2]
-He had a cameo role as himself in the 2003 film Malibu's Most Wanted.[3] In 2007, he signed with Island Def Jam/So So Def.[4] His debut album for the label is tentatively titled Go DJ!.[1][5] Singles for the album included "Finer Things" with Jermaine Dupri, Kanye West, Fabolous, and Ne-Yo; "Get Buck in Here" with Diddy, Akon, Lil Jon, and Ludacris;[6] and "Feel It" with Sean Paul, Pitbull, Flo Rida, and T-Pain. DJ Felli Fel was also featured on the soundtrack of the game Midnight Club: Los Angeles, with his song "Get Buck in Here". Recently he released the single "Boomerang" featuring Pitbull, Akon, and Jermaine Dupri. The track has been remixed by DJ Vice in 2011.
-On April 22, he released his brand new single to iTunes titled "Reason To Hate" which features singer Ne-Yo and rappers Tyga and Wiz Khalifa. It was co-produced by Ned Cameron.
-Discography[edit]
-Studio albums[edit]
-
-
-Title
-Details
-
-
-Go DJ!
-
-
-Released: TBA
-Label: Rock Hill Records, Island Urban
-Format: CD, digital download
-
-
-
-
-Singles[edit]
-As lead artist[edit]
-
-List of singles as lead artist, with selected chart positions and certifications, showing year released and album name
-
-Title
-Year
-Peak chart positions
-Certifications
-Album
-
-
-US
-US
-R&B
-US
-Rap
-CAN
-NLD
-
-
-"Get Buck in Here"
-(featuring Diddy, Akon, Ludacris and Lil Jon)
-2007
-41
-72
-13
-58
-—
-
-
-RIAA: Gold[7]
-
-
-Non-album singles
-
-
-"Finer Things"
-(featuring Kanye West, Jermaine Dupri, Fabolous and Ne-Yo)
-2008
-101
-80
-8
-—
-—
-
-
-
-"Feel It"
-(featuring T-Pain, Sean Paul, Flo Rida and Pitbull)
-2009
-—
-—
-23
-—
-40
-
-
-
-"Boomerang"
-(featuring Akon, Pitbull and Jermaine Dupri)
-2011
-—
-—
-—
-—
-34
-
-
-
-"It's Your Birthday B!tch"
-(featuring Lil Jon and Jessie Malakouti)
-2012
-—
-—
-—
-—
-—
-
-
-
-"Reason to Hate"[8]
-(featuring Ne-Yo, Tyga and Wiz Khalifa)
-2013
-—
-58
-21
-—
-—
-
-
-
-"Have Some Fun"
-(featuring Cee-Lo, Juicy J and Pitbull)
-2014
-—
-—
-—
-—
-—
-
-
-
-"—" denotes a recording that did not chart or was not released in that territory.
-
-
-As featured artist[edit]
-
-List of singles as featured artist, with selected chart positions, showing year released and album name
-
-Title
-Year
-Peak chart positions
-Album
-
-
-US
-
-
-"Do You Like...?"
-(Bosko featuring DJ Felli Fel)
-2006
-—
-That Fire
-
-
-"I'm Toe Up (Remix)"
-(Problem featuring DJ Felli Fel, DJ Quik, Kurupt, Terrace Martin and Snoop Dogg)
-2008
-—
-Non-album singles
-
-
-"Diamonds & Patron"
-(Tino Cochino featuring Paul Wall, DJ Felli Fel and DJ Class)
-2009
-—
-
-
-"—" denotes a recording that did not chart or was not released in that territory.
-
-
-Production credits[edit]
-
-2001 "I Like Them Girls (Power Mix)" (Tyrese featuring Bosco)
-2001 "World Wide (Remix)" (Outlawz featuring 2Pac and T-Low)
-2002 "A Piece of Me" (Luniz featuring Fat Joe)
-2003 "Bomba" (Felli Fel from the motion picture Malibu's Most Wanted)
-2004 "Back it up" (Young Rome)
-2004 "It's All Right" (Guerilla Black)
-2004 "Intro" (Cassidy)
-2006 "On Bail" (Xzibit featuring T-Pain, The Game and Daz Dillinger)
-2006 "That Ain't Right" (Sean Kingston)
-2006 "Like That" (Noelle featuring Felli Fel from the motion picture Employee of the Month)
-2007 "Don't Stop" (Baby Bash featuring Keith Sweat)
-2007 "Take You There" (Sean Kingston)
-2008 "Live It Up! (DJ Felli Fel Remix)" (Roscoe Umali featuring E-40 and Bobby V)
-2008 "Died in Your Arms" (Smitty featuring T-Pain)
-2008 "Died in Your Arms" (Remix) (Smitty featuring T-Pain, Junior Reid and Rick Ross)
-2008 "Cinematic" (Jessi Malay featuring DJ Felli Fel)
-2008 "The Money" (R. Kelly featuring Fat Joe)
-2008 "Jolly Rancher" (Tino Cochino)
-2009 "Diamonds & Patron" (Tino Cochino featuring Paul Wall, DJ Felli Fel and DJ Class)
-2009 "Dizzy" (Frankie J)
-2009 "One Night" (New Boyz)
-2009 "Loaded" (Jeremy Green featuring Ya Boy)
-2012 "Dirty Martini" (Collins Pennie)
-2013 "Lighters" (50 Cent featuring Chris Brown)
-
-Awards[edit]
-
-
-Year
-Group
-Award
-Result !
-
-
-2008
-BET Hip Hop Award
-DJ of the Year
-Nominated
-
+Closed-world assumption
+Coreference
 
 References[edit]
 
 
-^ a b c Birchmeier, Jason (2008). "DJ Felli Fel - Biography". allmusic. Retrieved 2009-03-14. 
-^ a b "Felli Fel". Power 106. Retrieved 2009-03-14. 
-^ Thomas, Vincent. "Felli Fel > Biography". allmusic. Retrieved 2009-03-14. 
-^ Paine, Jake (2007-12-11). "DJ Felli Fel Signs With So So Def/Def Jam". HipHopDX. Retrieved 2009-03-14. 
-^ "DJ Felli Fel Interview". DJ Booth. December 2007. Retrieved 2009-03-14. 
-^ Reid, Shaheem; Rodriguez, Jayson (2008-03-03). "Young Jeezy Fights To Get On Usher Track; DJ Felli Fel Wrangles Kanye West, Ne-Yo For Next Single: Mixtape Monday". MTV News. Retrieved 2009-03-14. 
-^ "Gold & Platinum: DJ Felli Fel". Recording Industry Association of America. Retrieved September 20, 2013. 
-^ "Reason To Hate (feat. Ne-Yo, Tyga & Wiz Khalifa) – Single by DJ Felli Fel". iTunes Store. Apple. Retrieved June 3, 2013. 
-
-
-External links[edit]
-
-Official website
-DJ Felli Fel on Facebook
-DJ Felli Fel on Twitter
-DJ Felli Fel at MTV
-DJ Felli Fel at the Internet Movie Database
-Felli Fel's page on Power 106
-Mix Matters biography & current projects
+^ Russell, Stuart; Norvig, Peter (2003) [1995]. Artificial Intelligence: A Modern Approach (2nd ed.). Prentice Hall. p. 333. ISBN 978-0137903955. 
+^ Tao, Jiao; Sirin, Evren; Bao, Jie; McGuinness, Deborah L. (2010). Integrity constraints in OWL. Proc. AAAI. 
+^ OWL Web Ontology Language Reference
 
 
 
 
 
-
-Authority control
-
+This logic-related article is a stub. You can help Wikipedia by expanding it.
 
 
-MusicBrainz: 15433754-81e7-411d-8535-e6554d7ef487
-
-
-
+v
+t
+e
 
 
 

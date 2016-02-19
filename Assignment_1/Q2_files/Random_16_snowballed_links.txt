@@ -1,1 +1,1 @@
-[]
+['http://www.variety.com/article/VR1117960242.html', 'http://www.variety.com/review/VE1117930954.html']

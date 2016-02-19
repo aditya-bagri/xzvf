@@ -1,1 +1,1 @@
-['http://query.nytimes.com/gst/fullpage.html?res=9D00E5DE133EF93AA1575BC0A9629C8B63&sec=&spon=&pagewanted=2', 'http://query.nytimes.com/gst/fullpage.html?res=9805E7DA113AF937A15753C1A9629C8B63']
+[]

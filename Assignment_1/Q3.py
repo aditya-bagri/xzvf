@@ -13,6 +13,7 @@ import numpy as np
 from pyspark import SparkContext
 from pyspark.mllib.feature import HashingTF, IDF
 from pyspark.mllib.clustering import KMeans, KMeansModel
+import prepareQ3
 
 sc=SparkContext()
 
@@ -48,6 +49,7 @@ def test_TFIDF():
 	TFIDF("./Q3_files/*.txt", "./Q3_TFIDF")
 
 def main():
+	prepareQ3.main()
 	test_TFIDF()
 
 main()

@@ -3,117 +3,124 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-
-
-
-
-
-This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: remove stuff that doesn't belong Please help improve this article if you can. (June 2014)
-
-
-This is a list of Thai inventions and discoveries.
+Westi was one of two early local teleprocessing packages for IBM's DOS/VSE environment. Westi stood for Westinghouse Terminal Interactive.
 
 
 
 Contents
 
 
-1 Technology
+1 The product
 
-1.1 Robotics
-1.2 Weapons
-
-
-2 Metrication
-3 Philosophy
-4 Literature
-5 Games
-
-5.1 Local games
-5.2 Sport games
+1.1 Application
 
 
-6 Martial arts
-7 Discoveries
-8 See also
-9 References
+2 Development
+
+2.1 Pittsburgh
+2.2 Columbus
+2.3 Paris
+2.4 Orlando
+2.5 Avignon
+
+
+3 Marketing
+4 References
 
 
 
-Technology[edit]
-See also: Science and technology in Thailand
-
-Elide Fire Ball: New anti fire technology of the world.[1]
-
-Robotics[edit]
-
-Dinsow Robot
-
-Weapons[edit]
-
-Krabi (sword)
-Ngaw
-
-Metrication[edit]
-
-Thai units of measurement
-
-Philosophy[edit]
-See also: Thai philosophy
-
-Siamese method
-Sufficiency Economy
-
-Literature[edit]
-See also: Thai literature
-
-Phra Aphai Mani
-Khun Chang Khun Phaen
-Sangsilchai
-
-Games[edit]
-Local games[edit]
-
-Makruk is a traditional board game played in Thailand.
-Pok Deng
-
-Sport games[edit]
-
-Sepak takraw
-
-Martial arts[edit]
-See also: Thai martial arts
-
-Muay Thai
-Krabi krabong
-Muay boran
-Lerdrit
-Silat Pattani
-
-Discoveries[edit]
-
-The HIV vaccine
-
-Zidovudine by Krisana Kraisintu.[2]
-Vaccination with ALVAC and AIDSVAX to Prevent HIV-1 can protect 31.2%.[3][4]
-
-
-Stem cell amniotic fluid
-Ebola antibody[5]
-
-See also[edit]
-
-Culture of Thailand
-Traditional Thai musical instruments
-
+The product[edit]
+Westi provided an interface and access method for programmers to 'talk' to monitors and handle data entry. Such access methods later became known as APIs and the handlers a form of transaction processing.
+Initially written for the IBM 2260 running under DOS on IBM mainframes, the original product was offered free for IBM users. With the advent of DOS/VS and the IBM 3270 series terminals, Westinghouse realized they could recover part of their development costs and commercialized the product, circa 1970. The company added transparent remote access about 1980.
+Application[edit]
+Westi operated as an application's mainline program and, like IBM's soon to follow CICS, programmers wrote subroutines to read and write data to and from terminals and discs. This real time paradigm became known as transaction processing.
+This differed from Westi's primary competitor, DUCS, which reversed that model in that it was a subroutine package that read from and wrote to monitors. While Westi was not as easy to program and use as DUCS, Westi (like CICS) handled task management.
+In terms of speed, Westi fell between DUCS and the considerably more process-bound CICS.
+Development[edit]
+Pittsburgh[edit]
+Steve Robert O'Donnell wrote the original DOS 2260 package, which was distributed free of charge. Its popularity made Westinghouse realize Westi had potential as a commercial product.
+Columbus[edit]
+In 1972, IBM released DOS/VS with the IBM/370 and the first IBM 3270 terminals, and the Westinghouse Software group began a rewrite for new products. Several new team members were assigned, including John Gaston, who took over lead development following the departure of Steve O'Donnell in the latter 1970s. (Steve O'Donnell went on to found GOAL Systems, Inc.)
+Paris[edit]
+Westinghouse Marketing suffered a schism about the same time, and the result was that Europe established an independent subsidiary, Westinghouse Electric Management Systems, SA, or WEMSSA, headquartered in Paris. At that point, the Westinghouse product line, WDU and WESTI, bifurcated, taking independent development paths.
+Orlando[edit]
+The original development team moved to Orlando, Florida, where it eventually came under the management of Dr. Ray Ferguson and focused on integration with VSE and matching features with CICS.
+Avignon[edit]
+WEMSSA, under the direction of Eric Lutaud, contracted with GOAL Systems and eventually developer Leigh Lundin (author of DUCS Remote) for development, which focused on adding remote teleprocessing in Avignon, France. The result was WestiTAM, a 4k bi-sync module, which the Florida group expressed an interest in.
+In 1978, WEMSSA resumed relations with the Florida group and eventually the two merged, coming under the new director of WEMSSA in London, David Hazlewood. Westinghouse committed to remerging the product line, re-engineering new products under the direction of Dr. Ferguson and Leigh Lundin. However, part way into development, Westinghouse began to break up the division during the outsourcing thrust of the Reaganomics era. Through badly managed negotiations, Westinghouse ended up with neither developers or outsourcing partners, which spelled the end for one of the industries foremost software groups.
+Marketing[edit]
+Westinghouse Electric Management Systems, SA (WEMSSA), had sales offices in Pittsburgh, San Jose, Paris, Lyon, London, Genève, Zürich, München, and Amsterdam. Development offices were in Orlando, with further development in Columbus, Ohio and Avignon, France.
 References[edit]
 
 
-^ [1]
-^ [2]
-^ [3]
-^ [4]
-^ [5]
+
+
+
+
+
+
+
+v
+t
+e
+
+
+OS/360 and successors I/O access methods
+
+
+
+
+
+
+Low-level
+
+
+
+EXCP
+EXCPVR
+STARTIO
+
+
+
+
+
+
+
+
+Storage
+
+
+
+XDAP
+BDAM
+BSAM
+QSAM
+BPAM
+ISAM
+VSAM
+OAM
+
+
+
+
+
+
+
+
+Network
+
+
+
+BTAM
+QTAM
+TCAM
+VTAM
+
+
+
+
+
+
 
 
 
@@ -129,72 +136,57 @@ t
 e
 
 
-Inventions and discoveries
+Software distribution
 
 
 
 
 
 
-Lists of inventions or discoveries
-by country
+Licenses
 
 
 
-Australia
-Austria
-Azerbaijan
-Brazil
-Britain
-
-England
-Scotland
-
-
-Canada
-China
-
-inventions
-discoveries
+Beerware
+Floating licensing
+Free
+Free and open-source
+Freely redistributable
+Open source
+Proprietary
+Public domain
 
 
-France
-Germany
-Greece
-India
-Indonesia
-Ireland
-Israel
-Italy
-Japan
-Korea
-Mexico
-Netherlands
-Pakistan
-Philippines
-Poland
-Portugal
-
-inventions
-discoveries
 
 
-Russia
-Spain
-Switzerland
-Taiwan
-Thailand
-United States
-
-inventions
-
-before 1890
-1890–1945
-1946–1991
-after 1991
 
 
-discoveries
+
+
+Compensation models
+
+
+
+Commercial software
+
+Retail software
+
+
+Crowdfunding
+Freemium
+Freeware
+
+Adware
+Donationware
+
+
+Careware
+Pay what you want
+Open core
+Postcardware
+Shareware
+
+Nagware
 
 
 
@@ -205,26 +197,17 @@ discoveries
 
 
 
-by topic
+Delivery methods
 
 
 
-Discoveries
-
-chemistry
-cosmology
-multiple discoveries
-science
-
-
-Historic inventions
-
-Analog-to-digital
-Byzantine Empire
-Indus Valley
-Medieval Islamic
-Military
-Native American
+Digital distribution
+File sharing
+On-premises
+Pre-installed
+Product bundling
+Retail software
+Software as a service
 
 
 
@@ -233,38 +216,279 @@ Native American
 
 
 
-
-
-Lists of inventors or discoverers
-by country
+Deceptive and/or illicit
 
 
 
-Worldwide
-African
-Austrian
-British
-
-English
-Welsh
-
-
-Bulgarian
-German
-Italian
-New Zealander
-Polish
-Romanian
-Russian
-Spanish
-Swedish
-Swiss
-United States
-
-African-American
-Puerto Rican
+Unwanted software bundling
+Malware (Spyware
+Trojan horse
+Worm)
+Ransomware
+Scareware
+Shovelware
+Vaporware
 
 
+
+
+
+
+
+
+Software release life cycle
+
+
+
+Abandonware
+End-of-life
+Long-term support
+Software maintenance
+Software maintainer
+Software publisher
+
+
+
+
+
+
+
+
+Copy protection
+
+
+
+Digital rights management
+Software protection dongle
+Hardware restrictions
+License manager
+Product activation
+Product key
+Software copyright
+Software patent
+Torrent poisoning
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Software engineering
+
+
+
+
+
+
+Fields
+
+
+
+Computer programming
+Requirements engineering
+Software deployment
+Software design
+Software maintenance
+Software testing
+Systems analysis
+Formal methods
+
+
+
+
+
+
+
+
+Concepts
+
+
+
+Data modeling
+Enterprise architecture
+Functional specification
+Modeling language
+Orthogonality
+Programming paradigm
+Software
+Software archaeology
+Software architecture
+Software configuration management
+Software development methodology
+Software development process
+Software quality
+Software quality assurance
+Software verification and validation
+Structured analysis
+
+
+
+
+
+
+
+
+Orientations
+
+
+
+Agile
+Aspect-oriented
+Object orientation
+Ontology
+Service orientation
+SDLC
+
+
+
+
+
+
+
+
+Models
+
+
+
+
+
+Developmental
+
+
+
+
+Agile
+EUP
+Executable UML
+Incremental model
+Iterative model
+Prototype model
+RAD
+UP
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+
+SPICE
+CMMI
+Data model
+ER model
+Function model
+Information model
+Metamodeling
+Object model
+Systems model
+View model
+
+
+
+
+
+
+
+
+
+Languages
+
+
+
+
+IDEF
+UML
+SysML
+
+
+
+
+
+
+
+
+
+
+
+
+Software
+engineers
+
+
+
+
+Victor Basili
+Kent Beck
+Grady Booch
+Fred Brooks
+Barry Boehm
+Ward Cunningham
+Tom DeMarco
+Edsger W. Dijkstra
+Martin Fowler
+C. A. R. Hoare
+Watts Humphrey
+Michael A. Jackson
+Ivar Jacobson
+Stephen J. Mellor
+Bertrand Meyer
+David Parnas
+Winston W. Royce
+James Rumbaugh
+Niklaus Wirth
+Edward Yourdon
+
+
+
+
+
+
+
+
+Related fields
+
+
+
+Computer science
+Computer engineering
+Project management
+Risk management
+Systems engineering
+
+
+
+
+
+
+
+
+
+
+
+ Category
+ Commons
 
 
 

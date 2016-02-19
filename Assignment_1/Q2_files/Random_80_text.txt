@@ -3,137 +3,467 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-
-
-
-
-
-
-
-
-This article has multiple issues. Please help improve it or discuss these issues on the talk page.
-
-
-
-
-
-
-
-
-The topic of this article may not meet Wikipedia's notability guidelines for products and services. Please help to establish notability by adding reliable, secondary sources about the topic. If notability cannot be established, the article is likely to be merged, redirected, or deleted.
-Find sources: "Zinstall XP7" – news · newspapers · books · scholar · JSTOR · free images (February 2012)
-
-
-
-
-
-
-
-Some of this article's listed sources may not be reliable. Please help this article by looking for better, more reliable sources, or by checking whether the references meet the criteria for reliable sources. Unreliable citations may be challenged or deleted. (February 2012)
-
-
-
-
-
-
-
-This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (February 2012)
-
-
-
-
-
-
-
-This article has an unclear citation style. The references used may be made clearer with a different or consistent style of citation, footnoting, or external linking. (February 2012)
-
-
-
-
-
-
-
-
-
-Zinstall XP7
-
-
-
-
-Developer(s)
-Zinstall, Inc.
-
-
-Stable release
-3.6.1 / January 21, 2014; 2 years ago (2014-01-21)
-
-
-Operating system
-Windows XP, Windows Vista, Windows 7, Windows 8 [1]
-
-
-Platform
-Microsoft Windows
-
-
-Type
-Virtual machine
-
-
-License
-Proprietary commercial software
-
-
-Website
-www.zinstall.com/products/zinstall-xp7
-
-
-Zinstall XP7 is a migration software product, developed by Zinstall, Inc., that migrates personal computer (PC)s to Windows 7 while keeping applications, settings and data intact. Once the migration is complete, the user has a virtualized "old PC desktop environment" (that runs simultaneously with Windows 7) on the target machine, providing a view similar to the pre-migration environment. Migrated applications run in the virtualized "old" environment instead of directly under Windows 7 operating system (OS). The company offers other software that migrates PCs to other Windows OSs.
+For the hamlet in England, see Kate's Bridge.
+Katesbridge is a small hamlet in County Down, Northern Ireland. It is within the townland of Shannaghan,[1] just off the main route from Castlewellan to Banbridge, and 4.3 miles (7km) north of Rathfriland. The River Bann flows by the hamlet. In the 2001 Census it had a population of 135 people. It lies within the Banbridge District.
+The hamlet is named after Kate McKay, who was born in Ballyroney in 1691 then went to live with her grandmother who is said to have owned the house where the workmen lodged when building the 18th-century bridge. It is because of Kate's kindness the workmen named the bridge after her, and the hamlet became known as Katesbridge.
 
 
 
 Contents
 
 
-1 Overview
-2 Operation
-3 Comparison with Windows XP Mode
-4 Known issues
-5 References
+1 Transport
+2 Climate
+3 References
+4 See also
 
 
 
-Overview[edit]
-The product performs the migration over a network and creates a virtual machine (VM)-based environment on the target PC that presents an "old computer" view to the user - with applications, settings and data from the old computer. The user can switch between the old and new desktops, copying files and text. As with Windows XP Mode, migrated applications run inside a virtual machine, addressing compatibility issues[2] - which are one of the top barriers to deploying Windows 7.[3][4]
-"XP7" reflects the possibility of upgrading from Windows XP to Windows 7, an upgrade path not available from Microsoft[5] and considered to require considerable efforts.[6]
-Operation[edit]
-Operation can be divided into migration and the post-migration use of the resident software.
-During the migration process, user data is captured from the source OS, and transferred to the Windows 7 environment. This is achieved by running the migration software on both systems and choosing their respective roles when prompted by the application. The application auto-detects migration settings. An "Advanced" option allows the user to customize the migration process, allowing sources and targets to be customized. Custom filters can limit the data transferred, e.g. skipping archives and files larger than 100MB in size.
-Once migration is complete, another component runs in the background in the Windows 7 environment. It presents to the user a system tray icon that switches between the old and new desktops. The tray icon is present in the virtualized desktop as well.
-On each desktop, the tray icon also allows access to the other desktop's files. The user can copy and paste files or text between the desktops.
-The XP desktop consumes a small percentage[citation needed] of system resources only when it is actually being used by the user. Otherwise, the XP system is turned off and does not require resources.
-The software installs a utility virtual network adapter on the Windows 7 system, similar to that of VMware Workstation.
-Comparison with Windows XP Mode[edit]
-Zinstall XP7 is frequently[7] compared with Windows XP Mode, since both provide the ability to run Windows XP applications on Windows 7. XP mode is noted for being free and providing better inkjet support. Zinstall XP7 is noted for working on any Windows edition (XP Mode only supports Professional, Ultimate, and Enterprise), emphasizing user interface integration.
-Known issues[edit]
+Transport[edit]
+Katesbridge railway station, on the Great Northern Railway, was opened on 14 December 1880 and finally closed on 2 May 1955.[2]
 
-Virtualized environment does not support Direct 3D
-Limited support of legacy inkjet printers[8][9]
-No SMP support for 64-bit guests on 32-bit hosts[10]
+
+
+
+Crossing over the GNR bridge into Katesbridge.
+
+
+
+
+Climate[edit]
+
+
+Climate data for Katesbridge
+
+
+Month
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Year
+
+
+Average high °C (°F)
+7.4
+(45.3)
+7.8
+(46)
+9.7
+(49.5)
+12.1
+(53.8)
+14.7
+(58.5)
+17.3
+(63.1)
+18.9
+(66)
+18.7
+(65.7)
+16.5
+(61.7)
+13.2
+(55.8)
+10.2
+(50.4)
+7.7
+(45.9)
+12.85
+(55.14)
+
+
+Average low °C (°F)
+0.7
+(33.3)
+0.6
+(33.1)
+1.9
+(35.4)
+2.8
+(37)
+5.2
+(41.4)
+8.0
+(46.4)
+10.1
+(50.2)
+9.5
+(49.1)
+7.9
+(46.2)
+5.4
+(41.7)
+2.7
+(36.9)
+0.9
+(33.6)
+4.64
+(40.36)
+
+
+Average precipitation mm (inches)
+83.6
+(3.291)
+62.9
+(2.476)
+69.4
+(2.732)
+61.3
+(2.413)
+60.0
+(2.362)
+64.5
+(2.539)
+64.5
+(2.539)
+84.9
+(3.343)
+71.7
+(2.823)
+92.2
+(3.63)
+90.6
+(3.567)
+82.6
+(3.252)
+888.2
+(34.967)
+
+
+Average rainy days (≥ 1 mm)
+14.8
+12.0
+13.5
+11.1
+11.7
+11.0
+12.6
+12.6
+12.3
+14.4
+14.2
+13.9
+154.1
+
+
+Source: Met Office [3]
+
 
 References[edit]
 
+^ Ordnance Survey Ireland: Online map viewer (choose "historic" to see townland boundaries)
+^ "Katesbridge station" (PDF). Railscot - Irish Railways. Retrieved 2007-10-16. 
+^ http://www.metoffice.gov.uk/public/weather/climate/gcesvjn07
 
-^ Shultz, Greg (Aug 26, 2013). "Rescue a Windows XP installation in Windows 8 with Zinstall XP7". TechRepublic. Retrieved July 6, 2014. 
-^ [1] Archived September 27, 2009 at the Wayback Machine
-^ "Windows 7 Migration: Four Planning Tips - Microsoft, Windows 7, Windows 7 upgrade". CIO. 2009-10-19. Retrieved 2013-01-19. 
-^ Foley, Mary-Jo (4 November 2008). "Microsoft ranks Windows 7 features most likely to affect app-compatibility". ZDNet. 
-^ Windows 7 upgrade chart, PNG image
-^ Mossberg, Walt (22 July 2009). "Windows XP Users Face Tough Path to Windows 7". Wall Street Journal. 
-^ Microsoft Technet
-^ "Problem discussion". Retrieved 26 November 2009. 
-^ "FAQ". Retrieved 26 November 2009. 
-^ "Problem discussion". Retrieved 26 November 2009. 
+
+NI Neighbourhood Information System
+Culture Northern Ireland
+Katesbridge
+Katesbridge Railway Station
+
+See also[edit]
+
+
+
+Wikimedia Commons has media related to Katesbridge.
+
+
+
+List of towns and villages in Northern Ireland
+
+Coordinates: 54°17′N 6°08′W﻿ / ﻿54.283°N 6.133°W﻿ / 54.283; -6.133
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Places in County Down
+
+
+
+
+
+
+
+List of places in County Down
+
+
+
+
+
+
+Cities
+
+
+
+Belfast (part)
+Lisburn (part)
+Newry (part)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Towns
+
+
+
+Ballynahinch
+Banbridge
+Bangor
+Carryduff
+Comber
+Donaghadee
+Downpatrick
+Dromore
+Dundonald
+Holywood
+Kilkeel
+Newcastle
+Newtownards
+Warrenpoint
+
+
+
+
+
+
+
+
+Villages
+and townlands
+
+
+
+Annahilt
+Annalong
+Annsborough
+Ardglass
+Attical
+Aughnacloy
+Ballela
+Balloo
+Ballybannan
+Ballybeen
+Ballydargan
+Ballygowan
+Ballyhalbert
+Ballyhay
+Ballyholme
+Ballyhornan
+Ballykinler
+Ballylesson
+Ballylough
+Ballymacmaine
+Ballymartin
+Ballynagarrick
+Ballynahatty
+Ballynoe
+Ballyskeagh
+Ballywalter
+Benraw
+Blackskull
+Bleary
+Braniel
+Bryansford
+Burren
+Cabra
+Carnalea
+Carrowdore
+Castlewellan
+Clandeboye
+Cloghy
+Clough
+Conlig
+Corbet
+Corcreeny/Gibson's Hill
+Crawfordsburn
+Cregagh
+Crossgar
+Cultra
+Derryneill
+Dollingstown
+Donaghcloney
+Dromara
+Drumaness
+Drumbeg
+Drumbo
+Drumlough, Hillsborough
+Drumlough, Rathfriland
+Dundrum
+Dunnaval
+Edenderry
+Gamblestown
+Gilford
+Gilnahirk
+Gransha
+Greencastle
+Greyabbey
+Groomsport
+Helen's Bay
+Hillhall
+Hillsborough
+Hilltown
+Katesbridge
+Kilcoo
+Kilcooley
+Killinchy
+Killinure
+Killough
+Killowen
+Killyleagh
+Kinallen
+Kircubbin
+Lawrencetown
+Legacurry
+Legananny
+Leitrim
+Lenaderg
+Loughbrickland
+Loughinisland
+Lurganare
+Lurganville
+Magheraconluce
+Magheralin
+Mayobridge
+Maze
+Millisle
+Moira
+Moneyreagh
+Moneyslane
+Monteith
+Portaferry
+Portavogie
+Poyntzpass
+Rathfriland
+Ravernet
+Ringhaddy
+Rostrevor
+Saintfield
+Saul
+Scarva
+Seaforde
+Seahill
+Sheeptown
+Shrigley
+Spa
+Strangford
+Struell
+Tievenadarragh
+Tullylish
+Tullynakill
+Waringsford
+Waringstown
+Whiterock
+
+
+
+
+
+
+
+
+Landforms
+
+
+
+Ards Peninsula
+Burr Point
+Carlingford Lough
+Cloughmore
+Copeland Islands
+Cranfield Point
+Lecale peninsula
+Lough Island Reavy
+Mournes
+Slieve Croob
+Strangford Lough
+
+
+
+
+
+
+
+
+Baronies
+
+
+
+Ards Lower
+Ards Upper
+Castlereagh Lower
+Castlereagh Upper
+Dufferin
+Iveagh Lower
+Iveagh Upper
+Kinelarty
+Lecale Lower
+Lecale Upper
+Lordship of Newry
+Mourne
+
+
+
+
+
+
+
+
+
+
+
+WikiProject Northern Ireland
+WikiProject Ireland
+Northern Ireland Portal
+United Kingdom Portal
+Ireland Portal
+
+
+
+
+
+
+
+
+
+
+
+
+This Northern Ireland geographical article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
 
 
 

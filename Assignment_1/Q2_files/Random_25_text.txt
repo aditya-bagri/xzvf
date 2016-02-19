@@ -8,45 +8,73 @@ From Wikipedia, the free encyclopedia
 
 
 
-This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: requires major editing for format, references, and content. Please help improve this article if you can. (June 2012)
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (April 2015)
+
+
+Börje Holmberg was born in 1924 in Malmö, Sweden. Holmberg has written profusely on distance education in Swedish, German and English. He has been awarded honorary doctorates by Deakin University in Australia and the Open University in the United Kingdom. He is a member of the Royal Physiographic Society in Lund, an academy of sciences founded in 1792, is a Knight of the Royal Order of Vasa, Sweden, as well as of the Order of the White Rose of Finland.[1][2]
 
 
 
+Contents
+
+
+1 Education and career
+2 Research
+3 Books and other publications
+4 References
 
 
 
-Narayan Kaji Shrestha
+Education and career[edit]
+Holmberg studied English, German, Romance Languages and Education at the University of Lund and later went on to earn his doctorate in 1956. Holmberg worked in the field of distance education at Hermods (sv) in Sweden for over 19 years. He held the position of Education Director from 1956 to 1965. In 1966 he was appointed was appointed Director General of Hermods Foundation up till his resignation in 1975.
+In 1976, Holmberg became Professor of Distance Education Methodology and Director of the Institute for Distance Education Research at the FernUniversität in Hagen, Germany. During his tenure there Holmberg published several books and made contributions to scholarly journals and papers. Among his works is Theory and Practice of Distance Education, a second and revised edition of which was published by Routledge in 1990.
+In 1995 he became Planning President of the new Private FernFachhochschule Darmstadt (Distance Polytechnic, now Wilhelm Büchner Hochschule (de)) in Darmstadt. After his retirement from the FernUniversität, Holmberg continued contributing both to research and debate on distance education as an active practitioner in the field.
+In July 2003, Holmberg joined a project concerned with online teaching and learning initiated by Ulrich Bernath and Eugene Rubin. As a member of their team he contributed to the development of the Virtual Seminar for Professional Development in Distance Education, which was successfully conducted in 1997 and 1998 with participants from all over the world. This course became the recommended first core course in the online Master of Distance Education (MDE) program, which is jointly offered by the University of Maryland University College and the Carl von Ossietzky University of Oldenburg.
+Research[edit]
+Guided Didactic Conversation[1][3][4][1]
+Holmberg is primarily known for his theory of personal communication between instructors and learners in distance education. He views distance education as the conversation-like interaction between the student on the one hand and the tutor/counselor of the supporting organization administering the study on the other. The central concepts of his theory are motivation; empathy; non-contiguous communication; learner autonomy and interpersonal communication.
+In Holmberg's way of describing how distance educators should communicate with students in order to ensure real learning. He uses the analogy of conversation to describe didactic conversation and derived seven postulates.[5]
+Guided didactic communication includes: Simulated conversation (one-way, the presentation of materials) and Real conversation (two-way between tutor and student). Examples of simulated conversation include self-checking exercises, review questions w/ model answers, and inserted questions. In essence, Holmberg believes that by fostering empathy between learning and tutor parties through appropriate one-way and two-way interactions, learners will be motivated and encouraged to engage in their studies. He also holds a general assumption that “real learning is primarily an individual activity and is attained only through an internalizing process.” This assumption is one in which theory on distance education can be based. Thus, the goal of his theory is to support individualized learning.
+Books and other publications[edit]
+In his Distance Education in Essence publication as a researcher Holmberg, looked carefully into the character and applications of distance education, and presents a revised version of his much discussed overarching theory. Particular attention is paid to the innovatory character of distance education and the role of technology in today’s practice.
 
+Holmberg, B. (1960). On the methods of teaching by correspondence.Lunds universitets arsskrift. N.F.Avd.1,Bd.54,Nr.2. Lund:Gleerup.
+Holmberg, B. (1973). Supervised correspondence study - a Swedish case study based on experiences within the school system.Epistolodidaktika 2,29-34.
+Holmberg, B. (1977). Distance education: a survey and bibliography. London: Kogan Page.
+Holmberg, B. (1980). Aspects of distance education. Comparative Education, 16(2), 107-119.
+Holmberg, B. (1981). Status and Trends of Distance Education. London: Kogan Page; New York: Nichols.
+Holmberg, B. (1982). Essentials of distance education (a distance-study course based on a handbook and a reader). Hagen: FernUniversitat, ZIFF.
+Holmberg, B. (1982). Recent research into distance education. Gesamthochschule, Fern Universität.
+Sewart, D., Keegan, D., & Holmberg, B. (Eds.). (1983). Distance education: International perspectives. Beckenham, Kent: Croom Helm.
+Holmberg, B. (1983). Guided didactic conversation. In D.Stewart, D.Keegan,& B.Holmberg (Eds.), Distance education: International perspective. London: Croom Helm.
+Holmberg, B. (1985). The feasibility of a theory of teaching for distance education and a proposed theory. ZIFF Papiere, 60.Hagen:FernUniversitat, ZIFF. Holmberg, B. (1986). A discipline of distance education. International Journal of E-Learning & Distance Education, 1(1), 25-40.
+Holmberg, B. (1987). Growth and structure of distance education. London: Croom Helm.
+Holmberg, B., & Schuemer, R. (1989). Tutoring frequency in distance education - an empirical study of the impact of various frequencies of assignment submission. Hagen: FernUniversitat, ZIFF.
+Holmberg, B. (1989). Mediated Communication as a Component of Distance Education. Hagen: FernUniversitat.
+Holmberg, B. (1990). A bibliography of writings on distance education. Hagen: FernUniversitat, ZIFF.
+Holmberg, B. (1990). Serving academic purposes by an empathy approach to distance education. In D. Eastwood, B. farmer, & B. Lantz (Eds.), Aspects of Educational and Training Technology XXIII. London: Kogan Page; New York: Nichols.
+Holmberg, B. (1995). The evolution of the character and practice of distance education. Open learning, 10(2), 47-53.
+Holmberg, B. (1995). Theory and practice of distance education-2nd edition. London and New York: Routledge.
+Holmberg, B. (1995). The sphere of distance-education theory revisited. ZIFF Papiere, 98. Hagen: FernUniversitat, ZIFF.
+Holmberg, B. (1997). Distance-education theory again. Open Learning 12(1), 31-39.
+Holmberg, B. (1998). Critical reflection, politics, obscurantism and distance education. Epistolodidaktika 2, 27-37.
+Holmberg, B. (1999). The conversational approach to distance education. Open Learning 14(3), 58-60.
+Holmberg, B. (2000). Status and trends of distance-education research. In E. Wagner, & A. Szucs (Eds.), Research and innovation in open and dstance learning 1-5. Prague: European Distance Education Network - EDEN.
+Holmberg, B. (2001). Distance education in essence: An overview of theory and practice in the early twenty-first century. Bibliotheks-und Informationssystem der Carl von Ossietzky Universität Oldenburg (BIS).
+Holmberg, B. (2001). Distance education in essence. Oldenburg, Germany: Bibliotheksund Informations system der Universitat Oldenburg.
+Holmberg, B. (2003). Distance Education in Essence. An overview of theory and practice in the early twenty-first century. Oldenburg: Bibliotheks-und Informationssystem der Universitat Oldenburg.
+Holmberg, B. (2005). Distance Education and Languages: Evolution and Change. New Perspectives on Language and Education. Bristol: Multilingual Matters.
+Holmberg, B. (2005). The Evolution, Principles and Practices of Distance Education, Vol.II. Oldenburgh: B/S-Verlag der Carl von Ossietzky Universitat.
+Holmberg, B., Hrsg. Bernath, & Busch, F. W. (2005). The evolution, principles and practices of distance education (Vol. 11). Bis.
 
-Narayan Kaji Shrestha (Nepali: नारायणकाजी श्रेष्ठ), alias Prakash, is a Nepalese communist politician. Prakash is the deputy leader of the parliamentary party of unified Maoist. In July 2008, he became a nominated Constituent Assembly member, representing Janamorcha Nepal.[1] His the then party unity center masal got united with NCP Maoist on January 13, 2009. After that Prakash got major responsibilities in the unified Nepal communist party Maoist. He was given control of the Parliament and government before he was made the deputy leader of the unified Maoist in the parliament.[2]
-On 2 August 2011 Shrestha was sworn in as Deputy Prime Minister and Home Minister in the final cabinet expansion of the Jhalanath Khanal (CPN-UML) led government. After Prime Minister Khanal's resignation on 14 August 2011, he remained in those positions in an acting capacity. On 4 September he was sworn in as Deputy Prime Minister and Foreign Minister in the new Unified Communist Party of Nepal (Maoist) coalition government led by Prime Minister Dr. Baburam Bhattarai. On 7 September 2011, he was appointed official government spokesman. From 19–26 September 2011, he participated in the United Nations General Assembly in New York.
-Biography[edit]
-Prakash fell away from Prachanda after the CPN-Unity Centre decided to wage an armed revolt in 1996. Addressing his first public function, Prakash said the road to republic was still full of obstacles and that all forces that believe in democratic republic, should unite. The 47-year-old leader was born in Jaubari village of Gorkha and holds a master’s degree in public administration. He joined Nepal’s communist movement in 1980.
-He played a role in bringing the seven parties and CPN-Maoist together in creating the 12-point Understanding for the democracy movement in mid-April 2006.[citation needed]
-The movement culminated into a success with the king agreeing to hand over power to the seven parties.
-He was a second rung leader in the CPN-Unity Centre before its major leaders formed CPN-Maoist and opted for an armed rebellion in 1996. He, however, did not join the rebellion on the grounds of working policy but helped it from outside while continuing with his peaceful political activities despite being underground as general secretary of the Unity Centre.
-He edited the weekly paper "Mulankyan", "Garjan" and "Janamat".[citation needed] He was a mathematics lecturer in the 1980s at Siddhartha Vanasthali Institute.
-Presently, he is the deputy leader of the parliamentary party of unified maoist and central secretariat.
 References[edit]
 
 
-^ Political parties in Nepal recommend 26 names for Constituent Assembly
-^ Gorkhapatra
-
-
-
-
-
-
-This article about a Nepalese politician is a stub. You can help Wikipedia by expanding it.
-
-
-v
-t
-e
-
-
-
+^ a b "Introduction to Distance Education: Theorists and Theories: Börje Holmberg". distance-educator.com. 
+^ "Prof. Dr. Dr. h.c.(multi) Börje Holmberg" (PDF). 7 November 2006. 
+^ "New Straits Times - Google News Archive Search". google.com. 
+^ Sewart, D., Keegan, and B. Holmberg (Eds.), Distance education: International perspectives (pp. 114-122). London: Croom Helm
+^ Holmberg (1995). Theory and practice of distance education. New York, NY: Routhledge.
 
 
 

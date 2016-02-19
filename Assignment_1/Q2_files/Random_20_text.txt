@@ -3,13 +3,190 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-In mathematics, more specifically algebraic topology, a pair  is shorthand for an inclusion of topological spaces . Sometimes  is assumed to be a cofibration. A morphism from  to  is given by two maps  and  such that .
-Pairs come up mainly in homology theory and cohomology theory, where chains in  are made equivalent to 0, when considered as chains in .
-Heuristically, one often thinks of a pair  as being akin to the quotient space .
-There is a functor from spaces to pairs, which sends a space  to the pair .
-References[edit]
 
-Patty, C. Wayne (2009), Foundations of Topology (2nd ed.), p. 276 .
+
+Nennig
+
+
+Ortsteil of Perl
+
+
+
+Schloss Berg
+
+
+
+
+
+
+
+Coat of arms
+
+
+
+
+
+
+
+
+
+
+
+
+Nennig
+
+
+
+
+
+
+
+
+Coordinates: 49°32′00″N 06°23′00″E﻿ / ﻿49.53333°N 6.38333°E﻿ / 49.53333; 6.38333Coordinates: 49°32′00″N 06°23′00″E﻿ / ﻿49.53333°N 6.38333°E﻿ / 49.53333; 6.38333
+
+
+Country
+Germany
+
+
+State
+Saarland
+
+
+District
+Merzig-Wadern
+
+
+Municipality
+Perl
+
+
+Area
+
+
+ • Total
+9.73 km2 (3.76 sq mi)
+
+
+Population (2010)
+
+
+ • Total
+1,149
+
+
+ • Density
+120/km2 (310/sq mi)
+
+
+Time zone
+CET/CEST (UTC+1/+2)
+
+
+Postal codes
+66706
+
+
+Dialling codes
+06866
+
+
+Vehicle registration
+MZG
+
+
+Website
+Official website
+
+
+Nennig is a village in the Saarland, Germany, part of the municipality of Perl. It is situated on the river Moselle, opposite Remich, Luxembourg.
+
+
+
+Contents
+
+
+1 Overview
+2 Photogallery
+3 See also
+4 External links
+
+
+
+Overview[edit]
+Nennig is known for a Roman villa containing well-preserved mosaics that were excavated in the 19th century. The village was a condominium of the Trier bishopric, Lorraine (the Kingdom of France from 1766) and Luxembourg until its annexation by Revolutionary France in 1794. During the Second World War Nennig was almost completely destroyed as the village changed hands several times in late-1944 and early-1945.
+Photogallery[edit]
+
+
+
+
+
+
+
+Schloss Berg
+
+
+
+
+
+
+
+
+
+Roman villa
+
+
+
+
+
+
+
+
+
+
+
+Mosaic in Roman villa
+
+
+
+
+
+
+
+
+
+A retiarius gladiator stabs his secutor opponent (Mosaic of Nennig)
+
+
+
+
+See also[edit]
+
+Borg, Saarland
+
+External links[edit]
+ Media related to Nennig at Wikimedia Commons
+
+(German) Nennig official website
+
+
+
+
+
+
+Authority control
+
+
+
+VIAF: 245103102
+GND: 4276832-9
+
+
+
+
+
+
+
 
 
 

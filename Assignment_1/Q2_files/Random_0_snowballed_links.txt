@@ -1,1 +1,1 @@
-['http://www.gazetaesportiva.net/noticia/2013/01/inter-rs/cruzeiro-anuncia-a-contratacao-do-atacante-dagoberto.html', 'http://www.fifa.com/worldfootball/statisticsandrecords/players/player=194816/index.html', 'http://www.sambafoot.com/en/players/725_Dagoberto.html']
+[]

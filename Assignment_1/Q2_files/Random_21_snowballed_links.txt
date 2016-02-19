@@ -1,1 +1,1 @@
-[]
+['http://www.gov.mb.ca/thronespeech/thronespeech_2012.html']

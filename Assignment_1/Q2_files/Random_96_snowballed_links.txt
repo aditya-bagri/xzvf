@@ -1,1 +1,1 @@
-['http://otrbuffet.blogspot.com/2011/06/dan-hardings-wife.html']
+['http://www.forbes.com/lists/2006/54/biz_06rich400_Elizabeth-S-Wiskemann_UUG3.html', 'http://www.forbes.com/lists/2005/54/UUG3.html', 'http://www.forbes.com/lists/2005/54/UUG3.html', 'http://www.forbes.com/finance/lists/54/2004/LIR.jhtml?passListId=54&passYear=2004&passListType=Person&uniqueId=UUG3&datatype=Person', 'http://www.forbes.com/lists/2006/54/biz_06rich400_Elizabeth-S-Wiskemann_UUG3.html', 'http://www.forbes.com/lists/2006/10/UUG3.html']

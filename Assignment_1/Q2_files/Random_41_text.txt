@@ -3,33 +3,62 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-Jean-Joseph-Xavier Bidauld (1758–1846) was a French painter.
-A native of the city of Carpentras, Bidauld first studied painting with his elder brother, Jean-Pierre-Xavier, in Lyons. In 1783 he traveled to Paris, there winning the favor of an art dealer and perfume seller named Dulac. This latter subsidized Bidauld's travels in Italy, where for five years he lived in Rome and traveled widely. Most of his contacts within the French artistic community in that city were history painters.
-In 1790 Bidauld returned to Paris; in 1791 he entered the Salon for the first time. Thereafter he participated regularly. In 1792 he began receiving official commissions, and in 1823 he became the first landscape painter elected to the Académie des Beaux-Arts. 1825 saw him awarded the Légion d'honneur. His reputation began to decline at about this time; as a member of the Salon jury, he was seen as blocking a new generation of landscape painters from gaining entry. Chief among these was Théodore Rousseau. Bidauld was savaged in the press, and as a result became unable to sell his work. By the time of his death, he was near penury.
-Camille Corot was among Bidauld's admirers during his career.
+The Council for the Advancement of Standards in Higher Education (CAS) is a consortium of nearly 40 higher education professional associations representing over 100,000 professionals, many with international constituencies, that promotes the development of standards in student affairs, student services, and student development programs. CAS was established in 1979 with the purpose of helping to foster and enhance student learning, development, and achievement at institutions of higher education. CAS publishes a Book of Professional Standards and Guidelines and also Self-Assessment Guides. According to CAS:
+
+These standards respond to real-time student needs, the requirements of sound pedagogy, and the effective management of more than 30 functional areas, consistent with institutional missions. CAS continues to have a major impact and growth potential as institutional effectiveness, student learning, outcomes assessment, accountability, and quality assurance continues to increase in importance for the higher education community.[1]
+
+
+
+
+Contents
+
+
+1 Mission
+2 History
+3 Use of standards
+
+3.1 Program review
+3.2 Program development
+3.3 Graduate preparation
+
+
+4 References
+5 Sources
+6 External links
+
+
+
+Mission[edit]
+In 2008 the Council for the Advancement of Standards established a new mission statement:
+
+The mission of the Council for the Advancement of Standards in Higher Education (CAS) is to promote the improvement of programs and services to enhance the quality of student learning and development. CAS is a consortium of professional associations who work collaboratively to develop and promulgate standards and guidelines and to encourage self-assessment.[2]
+
+History[edit]
+CAS was developed to meet the rapidly growing student affairs profession’s need for quality standards to inform both practice and preparation. Starting in the 1960s there was an emerging desire to establish a single voice for the student affairs profession's. After a failed effort due to political issues to develop a coordinated approach during the early 1970s the Council for the Advancement of Standards in Higher Education was created as a consortium in 1979 with an approach that focused on Standards alone and resulted in less political issues and concerns and provided a platform for student affairs to establish solid practice including standards. CAS states that it "desires to represent every college and university educator and functional area specialist who believes the learning and development of all students to be the essence of higher education". This collective effort can provide enhanced credibility within higher education by establishing standards that are inclusive of the values and interests of member professional groups and the areas they promote.
+Use of standards[edit]
+Below are examples ways in which standards have been used and applied to practice and contributed to professional development.
+Program review[edit]
+Many professional staff see CAS standards as the basis for implementing program reviews. CAS standards are viewed as being easily available, well understood, and easy to use. CAS has also developed operational versions of their standards through the development of CAS Self-Assessment Guides (SAGs).
+Program development[edit]
+The CAS standards can have special use as the basis for the development of student support areas. CAS standards can provide a common base that can ensuring that leadership focus on the services that students receive and can point towards support that is needed in order to be successful. Additionally the CAS standards can be used to guide the establishment of new programs since they are a readily available and professionally supported tools.
+Graduate preparation[edit]
+Many graduate preparation programs integrate the CAS standards as part of their curricula. Quality assurance concepts can be difficult to grasp for graduate students until you can connect the idea of applying standards to actual practice. Many college student affairs programs use the CAS standards in their practicum and internship components. Their students complete self-studies of the specific functional areas where they have been assigned and this experience helps them internalize the CAS standards and provides them with direct experience that can improve their ability to use standards in entry level positions.
 References[edit]
 
-Philip Conisbee, Sarah Faunce, and Jeremy Strick. In the Light of Italy: Corot and Early Open-Air Painting. New Haven; Yale University Press, 1996.
+
+^ http://www.cas.edu/
+^ http://www.cas.edu
 
 
+Sources[edit]
 
+Council of Student Personnel Associations in Higher Education. (1994; 1972). "Student development services in post-secondary education". In A. L. Rentz (Ed.), Student affairs: A profession’s heritage. Washington, DC: American College Personnel Association, pp. 428–447.
+Creamer, D. G. (2003). Research needed on the use of CAS standards and guidelines. College Student Affairs Journal, 22:2, 109-124.
+Arminio, J. & Gochenaur, P. (2004). After 16 years of publishing standards, do CAS standards make a difference? College Student Affairs Journal, 23, 51-65.
 
+External links[edit]
 
-
-Authority control
-
-
-
-WorldCat
-VIAF: 37189296
-LCCN: no2008083714
-ISNI: 0000 0000 6661 8656
-GND: 174184697
-SUDOC: 121920631
-BNF: cb14969758x (data)
-ULAN: 500024891
-RKD: 8094
-
+Council for the Advancement of Standards in Higher Education website
 
 
 
@@ -37,16 +66,97 @@ RKD: 8094
 
 
 
-
-
-
-
-This article about a French painter born in the 18th century is a stub. You can help Wikipedia by expanding it.
 
 
 v
 t
 e
+
+
+Student Affairs Professional Associations
+
+
+
+
+
+
+Comprehensive Associations
+
+
+
+ACPA
+CACUSS
+NASPA
+
+
+
+
+
+
+
+
+Area-Specific Associations
+
+
+
+AACRAO
+ACCA
+ACHA
+ACUHO-I
+ACUI
+AFA
+ASCA
+NACA
+NACAC
+NACADA
+NACURH
+NAGAP
+NAFSA
+NIRSA
+NODA
+
+
+
+
+
+
+
+
+Regional Associations
+
+
+
+SACSA
+
+
+
+
+
+
+
+
+Affinity Associations
+
+
+
+JASPA
+NASAP
+
+
+
+
+
+
+
+
+Consortia
+
+
+
+CAS
+
+
+
 
 
 

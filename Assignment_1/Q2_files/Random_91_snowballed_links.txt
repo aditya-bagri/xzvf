@@ -1,1 +1,1 @@
-['http://disused-rlys.fotopic.net/p43243801.html', 'http://disused-rlys.fotopic.net/p28725014.html']
+["http://web.archive.org/web/20061019060953/http://www.drooker.com/paintings/pages/Children's-Games.html", "http://www.drooker.com/paintings/pages/Children's-Games.html", "http://drooker.com/paintings/pages/Children's-Games.html"]
