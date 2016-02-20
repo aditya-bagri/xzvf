@@ -3,81 +3,104 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-For the 1957 film, see Monkey on My Back (film).
+
+
+HM 508
 
 
 
 
 
-This article does not cite any sources. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (February 2007)
+Type
+Inline inverted 'V' piston engine
+
+
+Manufacturer
+Hirth
+
+
+Major applications
+Messerschmitt Bf 108
+
+
+The Hirth HM 508 was an air-cooled, eight-cylinder, 60° cylinder bank angle inverted-V aircraft engine built in Germany in the 1930s.[1] It had a bore and stroke of 105 mm × 115 mm (4.1 in × 4.5 in) and developed 210 kW (280 hp) at 3,000 rpm.
 
 
 
-
-"Monkey on My Back"
-
-
-Single by Aerosmith
+Contents
 
 
-from the album Pump
+1 Applications
+2 Specifications (HM 508D)
+
+2.1 General characteristics
+2.2 Performance
 
 
-Released
-1990
+3 See also
+4 References
 
-
-Format
-Vinyl record, Cassette, CD
-
-
-Recorded
-1989
-
-
-Genre
-Hard rock, Blues-rock
-
-
-Length
-3:57
-
-
-Label
-Geffen
-
-
-Writer(s)
-Joe Perry and Steven Tyler
-
-
-Producer(s)
-Bruce Fairbairn
-
-
-Aerosmith singles chronology
+4.1 Notes
+4.2 Bibliography
 
 
 
 
 
-"The Other Side"
-(1990)
-"Monkey on My Back"
-(1990)
-"Love Me Two Times"
-(1990)
+Applications[edit]
+
+Ambrosini S.7
+Heinkel He 116
+IMAM Ro.63
+Messerschmitt Bf 108
+Siebel Fh 104
+
+Specifications (HM 508D)[edit]
+Data from Jane's[2]
+General characteristics
+
+Type: Eight-cylinder 60-degree inverted V inline engine
+Bore: 105 mm
+Stroke: 115 mm
+Displacement: 7.97 L
+Length: 1,289 mm
+Width: 683 mm
+Height: 815 mm
+Dry weight: 208 kg
+
+Performance
+
+Power output: 280 hp at 3,000 rpm
+Compression ratio: 6:1
+
+See also[edit]
+
+Comparable engines
 
 
+Argus As 10
 
 
+Related lists
 
-"Monkey on My Back" is a song by American hard rock band Aerosmith. Written by lead singer Steven Tyler and lead guitarist Joe Perry, the song was released on the band's 1989 album Pump. It was released as a promotional single to rock radio in 1990, where it reached No. 17 on the Mainstream Rock Tracks chart.
-Song information[edit]
-The song is one of Aerosmith's most straightforward songs about how the band overcame drug abuse and addiction, and got the "monkey off their back." In the video The Making of Pump, Steven Tyler discusses how it was one of the few songs on Pump with profane lyrics, in the line "feeding that fuckin' monkey on my back". But Tyler felt he needed to make use of the word, to be more harsh and garner more attention on the issue. He felt it would make kids' ears perk up and listen to the lyrics and message of the song, which was more effective in telling the consequences of drug use, rather than the attitude of the time which was simply "just say no".
-Live performances[edit]
-The band performed the song heavily on the Pump Tour from 1989–1990 and also on other tours throughout the 1990s. Additionally, the band performed the song at several famous televised performances, including on Saturday Night Live on February 21, 1990 as well as at their MTV Unplugged performance on September 18, 1990.
-"Monkey on My Back" was also included on the band's 1998 live compilation A Little South of Sanity.
+
+List of aircraft engines
+
+References[edit]
+Notes[edit]
+
+
+^ Gunston 1989, p.77.
+^ Jane's 1989, p.294.
+
+
+Bibliography[edit]
+
+
+Gunston, Bill. World Encyclopaedia of Aero Engines. Cambridge, England. Patrick Stephens Limited, 1989. ISBN 1-85260-163-9
+Jane's Fighting Aircraft of World War II. London. Studio Editions Ltd, 1998. ISBN 0-517-67964-7
+
+
 
 
 
@@ -91,35 +114,27 @@ t
 e
 
 
-Aerosmith singles discography
+Hirth and Heinkel-Hirth aircraft engines
 
 
 
 
 
 
-1970s
+Piston engines
 
 
 
-"Mama Kin"
-"Dream On"
-"Same Old Song and Dance"
-"Train Kept A-Rollin'"
-"S.O.S. (Too Bad)"
-"Sweet Emotion"
-"Toys in the Attic"
-"Walk This Way"
-"You See Me Crying"
-"Last Child"
-"Home Tonight"
-"Back in the Saddle"
-"Draw the Line"
-"Kings and Queens"
-"Get It Up"
-"Come Together"
-"Chip Away the Stone"
-"Remember (Walking in the Sand)"
+HM 8
+HM 60
+HM 150
+HM 500
+HM 501
+HM 504
+HM 506
+HM 508
+HM 512
+HM 515
 
 
 
@@ -128,60 +143,28 @@ Aerosmith singles discography
 
 
 
-1980s
+Two-strokes
 
 
 
-"Lightning Strikes"
-"Bitch's Brew"
-"Let the Music Do the Talking"
-"Shela"
-"My Fist Your Face"
-"Darkness"
-"Dude (Looks Like a Lady)"
-"Hangman Jury"
-"Angel"
-"Rag Doll"
-"Chip Away the Stone" (re-release)
-"Love in an Elevator"
-"F.I.N.E.*"
-"Janie's Got a Gun"
-
-
-
-
-
-
-
-
-1990s
-
-
-
-"What It Takes"
-"The Other Side"
-"Monkey on My Back"
-"Love Me Two Times"
-"Helter Skelter"
-"Sweet Emotion" (re-release)
-"Livin' on the Edge"
-"Eat the Rich"
-"Fever"
-"Cryin'"
-"Amazing"
-"Shut Up and Dance"
-"Deuces Are Wild"
-"Crazy"
-"Blind Man"
-"Walk on Water"
-"Nine Lives"
-"Falling in Love (Is Hard on the Knees)"
-"Hole in My Soul"
-"Pink"
-"Taste of India"
-"Full Circle"
-"I Don't Want to Miss a Thing"
-"What Kind of Love Are You On"
+F-23
+F-30
+F-33
+F-36
+F-263
+2702
+2703
+2704
+2706
+3002
+3003
+3202
+3203
+3502
+3503
+3701
+3702
+3703
 
 
 
@@ -190,34 +173,18 @@ Aerosmith singles discography
 
 
 
-2000s
+Gas turbines
 
 
 
-"Angel's Eye"
-"Jaded"
-"Fly Away from Here"
-"Sunshine"
-"Just Push Play"
-"Girls of Summer"
-"Baby, Please Don't Go"
-"Devil's Got a New Disguise"
-
-
-
-
-
-
-
-
-2010s
-
-
-
-"Legendary Child"
-"Lover Alot"
-"What Could Have Been Love"
-"Can't Stop Lovin' You"
+HeS 1
+HeS 3
+HeS 8
+HeS 30
+HeS 40
+HeS 50
+HeS 60
+HeS 011
 
 
 

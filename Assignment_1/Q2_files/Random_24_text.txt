@@ -3,36 +3,371 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-William Durrant Cooper (1812–1875) was an English lawyer and antiquary.
-Life[edit]
-His father Thomas Cooper was a solicitor practising at Lewes; his mother was Lucy Elizabeth Durrant. He was born in Lewes on 10 January 1812, and was educated at the grammar school of Lewes. When 15 years old he became an articled clerk to his father. In Michaelmas term of 1832 he was admitted attorney and solicitor. In the following year he gave evidence on the parish registers of Sussex before a committee of the House of Commons.[1]
-In 1837 he came to live in London, and attached himself to the parliamentary staff of the Morning Chronicle and The Times. The Duke of Norfolk gave him honorific posts as steward for the leet court of Lewes borough and auditor of Skelton Castle in Cleveland. [1]
-He was a member of the Reform Club, and from 1837 acted as its solicitor; he also was solicitor to the vestry of St. Pancras (20 December 1858). In 1872 he was stricken with an attack of paralysis, but he lingered three years longer, dying at 81 Guilford Street, Russell Square, on 28 December 1875. He never married. Two of his brothers predeceased him; a third, with an only sister, outlived him.[1]
-Works[edit]
-When Thomas Walker Horsfield undertook the task of compiling a history of Sussex, he found a helper in Cooper. The "Parliamentary History of the County of Sussex and of the several Boroughs and Cinque Ports therein" was Cooper's first publication (1834). It dealt with incidents of political intrigue and corruption. His next work was ‘A Glossary of the Provincialisms in use in Sussex. It was superseded by collections of William Douglas Parish. "Sussex Poets" was published in 1842, and had originally been delivered as a lecture at Hastings.[1]
-In the muniment room at Skelton Cooper discovered the "Seven Letters written by Sterne and his Friends", which he edited for private circulation in 1844.[1] Cooper contributed articles to the Sussex Archæological Collections, and for many years edited its annual volume. His contributions to the society's transactions on "Hastings" and "The Oxenbridges of Brede Place, Sussex, and Boston, Massachusetts", and his articles in the eighth volume of its collections, were published separately.[2]
-For the Camden Society he edited:[2]
+This article is about the Lisp programming function.  For other uses, see Cons (disambiguation).
+In computer programming, cons (/ˈkɒnz/ or /ˈkɒns/) is a fundamental function in most dialects of the Lisp programming language. cons constructs memory objects which hold two values or pointers to values. These objects are referred to as (cons) cells, conses, non-atomic s-expressions ("NATSes"), or (cons) pairs. In Lisp jargon, the expression "to cons x onto y" means to construct a new object with (cons x y). The resulting pair has a left half, referred to as the car (the first element, or content of address register), and a right half (the second element, or content of decrement register), referred to as the cdr.
+It is loosely related to the object-oriented notion of a constructor, which creates a new object given arguments, and more closely related to the constructor function of an algebraic data type system.
+The word "cons" and expressions like "to cons onto" are also part of a more general functional programming jargon. Sometimes operators that have a similar purpose, especially in the context of list processing, are pronounced "cons". (A good example is the :: operator in ML, Scala, F# and Elm or the : operator in Haskell, which adds an element to the beginning of a list.)
 
-"Lists of Foreign Protestants in England, 1618–88",
-"Savile Correspondence, Letters to and from Henry Savile",
-"Expenses of the Judges of Assize on Western and Oxford Circuits, 1596–1601", and
-"The Trelawny Papers".[3]
 
-For the Shakespeare Society he edited Nicholas Udall's comedy of Ralph Roister Doister and the tragedy of Gorboduc. To the Reliquary he communicated an article on ‘Anthony Babington and the Conspiracy of 1586,’ printed separately in 1862.[2]
-Many of his papers appeared in the transactions of the London and Middlesex Archæological Society, one was in the Surrey Archæological Society proceedings, and a paper on "John Cade's followers in Kent" was contributed to the Kent Society, and published as an appendix to Benjamin Brogden Orridge's "Illustrations of Jack Cade's Rebellion".[2]
-Cooper was one of the earliest contributors to Notes and Queries, and a frequent writer in Archæologia. He compiled a history of Winchelsea in 1850, and wrote for vols. viii. and xxiii. of the ‘Sussex Archæological Collection’ two further papers on the same subject. Mark Anthony Lower was indebted to him for information published in the work on "Sussex Worthies".[2]
+
+Contents
+
+
+1 Use
+
+1.1 Ordered pairs
+1.2 Lists
+1.3 Trees
+
+
+2 Use in conversation
+3 Not technically fundamental
+4 See also
+5 References
+6 External links
+
+
+
+Use[edit]
+Although cons cells can be used to hold ordered pairs of data, they are more commonly used to construct more complex compound data structures, notably lists and binary trees.
+Ordered pairs[edit]
+For example, the Lisp expression (cons 1 2) constructs a cell holding 1 in its left half (the so-called car field) and 2 in its right half (the cdr field). In Lisp notation, the value (cons 1 2) looks like:
+
+(1 . 2)
+
+Note the dot between 1 and 2; this indicates that the S-expression is a "dotted pair" (a so-called "cons pair"), rather than a "list."
+Lists[edit]
+
+
+
+
+Cons cell diagram for the list (42 69 613), written with cons:
+
+
+(cons 42 (cons 69 (cons 613 nil)))
+
+and written with list:
+
+
+(list 42 69 613)
+
+
+
+
+
+In Lisp, lists are implemented on top of cons pairs. More specifically, any list structure in Lisp is either:
+
+An empty list (), which is a special object usually called nil.
+A cons cell whose car is the first element of the list and whose cdr is a list containing the rest of the elements.
+
+This forms the basis of a simple, singly linked list structure whose contents can be manipulated with cons, car, and cdr. Note that nil is the only list that is not also a cons pair. As an example, consider a list whose elements are 1, 2, and 3. Such a list can be created in three steps:
+
+Cons 3 onto nil, the empty list
+Cons 2 onto the result
+Cons 1 onto the result
+
+which is equivalent to the single expression:
+
+
+(cons 1 (cons 2 (cons 3 nil)))
+
+or its shorthand:
+
+
+(list 1 2 3)
+
+The resulting value is the list:
+
+(1 . (2 . (3 . nil)))
+
+i.e.
+
+ *--*--*--nil
+ |  |  |
+ 1  2  3
+
+which is generally abbreviated as:
+
+(1 2 3)
+
+Thus, cons can be used to add one element to the front of an existing linked list. For example, if x is the list we defined above, then (cons 5 x) will produce the list:
+
+(5 1 2 3)
+
+Another useful list procedure is append, which concatenates two existing lists (i.e. combines two lists into a single list).
+Trees[edit]
+Binary trees that only store data in their leaves are also easily constructed with cons. For example, the code:
+
+
+(cons (cons 1 2) (cons 3 4))
+
+results in the tree:
+
+((1 . 2) . (3 . 4))
+
+i.e.
+
+   *
+  / \
+ *   *
+/ \ / \
+1 2 3 4
+
+Technically, the list (1 2 3) in the previous example is also a binary tree, one which happens to be particularly unbalanced. To see this, simply rearrange the diagram:
+
+ *--*--*--nil
+ |  |  |
+ 1  2  3
+
+to the following equivalent:
+
+   *
+  / \
+ 1   *
+    / \
+   2   *
+      / \
+     3  nil
+
+Use in conversation[edit]
+Cons can refer to the general process of memory allocation, as opposed to using destructive operations of the kind that would be used in an imperative programming language. For example:
+
+I sped up the code a bit by putting in side effects instead of having it cons like crazy.
+
+Not technically fundamental[edit]
+Since Lisp has first-class functions, all data structures, including cons cells, can be implemented using functions. For example, in Scheme:
+
+
+(define (cons x y)
+(lambda (m) (m x y)))
+(define (car z)
+(z (lambda (p q) p)))
+(define (cdr z)
+(z (lambda (p q) q)))
+
+This technique is known as Church encoding. It re-implements the cons, car, and cdr operations, using a function as the "cons cell". Church encoding is a usual way of defining data structures in pure lambda calculus, an abstract, theoretical model of computation that is closely related to Scheme.
+This implementation, while academically interesting, is impractical because it renders cons cells indistinguishable from any other Scheme procedure, as well as introducing unnecessary computational inefficiencies.
+However, the same kind of encoding can be used for more complex algebraic data types with variants, where it may even turn out to be more efficient than other kinds of encoding.[1] This encoding also has the advantage of being implementable in a statically typed language that doesn't have variants, such as Java, using interfaces instead of lambdas.
+See also[edit]
+
+Lisp (programming language)
+CAR and CDR
+Constructor (computer science)
+Algebraic data type
+Hash consing
+
 References[edit]
 
+^ http://www.st.cs.ru.nl/papers/2006/janj2006-TFP06-EfficientInterpretation.pdf
 
-^ a b c d e Lane-Poole 1887, p. 154.
-^ a b c d e Lane-Poole 1887, p. 155.
-^ Lane-Poole 1887, p. 155 states that "The Trelawny Papers" was also published in Camden Miscellany, vol. ii.
+External links[edit]
+
+SDRAW, Common Lisp code for drawing draws cons cell structures. From David S. Touretzky.
 
 
 
-Attribution
 
- This article incorporates text from a publication now in the public domain: Lane-Poole, Stanley (1887). "Cooper, William Durrant". In Stephen, Leslie. Dictionary of National Biography 12. London: Smith, Elder & Co. pp. 154–155. 
+
+
+
+
+
+v
+t
+e
+
+
+Data types
+
+
+
+
+
+
+Uninterpreted
+
+
+
+Bit
+Byte
+Octet
+Trit
+Tryte
+Word
+
+
+
+
+
+
+
+
+Numeric
+
+
+
+Bignum
+Complex
+Decimal
+Fixed point
+Floating point
+
+Double precision
+Extended precision
+Half precision
+Minifloat
+Octuple precision
+Quadruple precision
+Single precision
+
+
+Integer
+
+signedness
+
+
+Interval
+Rational
+
+
+
+
+
+
+
+
+Text
+
+
+
+Character
+String
+
+null-terminated
+
+
+
+
+
+
+
+
+
+
+Pointer
+
+
+
+Address
+
+physical
+virtual
+
+
+Reference
+
+
+
+
+
+
+
+
+Composite
+
+
+
+Algebraic data type
+
+generalized
+
+
+Array
+Associative array
+Class
+Dependent
+Equality
+Inductive
+List
+Object
+
+metaobject
+
+
+Option type
+Product
+Record
+Set
+Union
+
+tagged
+
+
+
+
+
+
+
+
+
+
+Other
+
+
+
+Boolean
+Bottom type
+Collection
+Enumerated type
+Exception
+Function type
+Opaque data type
+Recursive data type
+Semaphore
+Stream
+Top type
+Type class
+Unit type
+Void
+
+
+
+
+
+
+
+
+Related topics
+
+
+
+Abstract data type
+Data structure
+Generic
+Kind
+
+metaclass
+
+
+Parametric polymorphism
+Primitive data type
+Protocol
+
+interface
+
+
+Subtyping
+Type constructor
+Type conversion
+Type system
+
+
+
+
+
+
+
+
 
 
 

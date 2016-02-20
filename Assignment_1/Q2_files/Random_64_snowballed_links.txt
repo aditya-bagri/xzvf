@@ -1,1 +1,1 @@
-[]
+['http://www.niuhuskies.com/sports/m-baskbl/spec-rel/010410aae.html', 'http://www.basketball-reference.com/players/h/harribi01.html']

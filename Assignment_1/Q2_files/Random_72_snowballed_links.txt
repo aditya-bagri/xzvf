@@ -1,1 +1,1 @@
-[]
+['http://select.nytimes.com/gst/abstract.html?res=F70A11FC395D1B728DDDA10994DE405B818AF1D3']

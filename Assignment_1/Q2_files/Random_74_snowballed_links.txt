@@ -1,1 +1,1 @@
-['http://www.vagrancy.jp/about.html', 'http://web.archive.org/web/20100208185200/http://www.vagrancy.jp/about.html']
+[]

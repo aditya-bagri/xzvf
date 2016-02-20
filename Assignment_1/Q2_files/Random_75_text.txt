@@ -5,64 +5,232 @@ From Wikipedia, the free encyclopedia
 
 
 
-William Erwood Old, Jr.
+P.31 Bittern
 
 
 
-William Erwood Old, Jr.
+
+
+Second prototype
+
+
+Role
 
 
 
-Born
-(1928-04-14)April 14, 1928
-Norfolk, Virginia
+Manufacturer
+Boulton Paul Limited
 
 
-Died
-December 31, 1982(1982-12-31) (aged 54)
-New York City
+Designer
+J.D. North
 
 
-Nationality
-USA
+First flight
+February 1927
 
 
-Fields
-malacology
+Number built
+2
 
 
-Institutions
-American Museum of Natural History
+The Boulton Paul Bittern was a 1920s British night-fighter aircraft built by Boulton Paul Limited of Norwich, named after the marsh bird of the same name.
 
 
-Known for
-specialist on marine molluscs
+
+Contents
 
 
-William Erwood Old, Jr. usually known as Bill Old, (14 April 1928 in Norfolk, Virginia – 31 December 1982 in New York City)[1] was an American malacologist.[2]
-He attended the The College of William & Mary in Virginia.[1] He served in the army during the Korean War.[1]
-He joined the American Museum of Natural History in 1960.[1] He helped build the American Museum's mollusc collection into a leading research resource.[1] He was the first collections manager[citation needed] in malacology at the American Museum of Natural History.
-He became a specialist in marine molluscs.[1] He was extremely devoted to his science and was well known as a shell show judge in many parts of the United States.[1] He went on several expeditions including ones to the Galapagos and Mexico.[1]
-Old was president of the American Malacological Society from 1978 to 1979, and president of the New York Shell Club from 1963 to 1965.[citation needed]
-He died of heart attack in 1982.[1]
-Bibliography[edit]
-He authored or co-authored 36 papers.[citation needed] As junior author to William K. Emerson, he named several species of marine mollusks, including:
+1 Design and development
+2 Specifications (P.31 Bittern J7936)
+3 See also
+4 References
 
-Cymatium perryi Emerson & Old, 1963 - a sea snail or marine gastropod
+
+
+Design and development[edit]
+Designed to Air Ministry Specification 27/24, which called for a single-seat night fighter for use against enemy bomber aircraft, the Bittern design was unusual for its time in that it was a twin-engined shoulder wing monoplane rather than a single-engine biplane.
+Two prototypes were built. The first was a cantilever wing design with the engines - 214 hp Armstrong-Siddeley Lynx - on the leading edge of the wing. However initial trials showed that the wing was too flexible and so wing struts were added fixed between the bottom of the fuselage and the engine installations. However this added weight and drag with a commensurate effect on performance. The second prototype had the engines suspended from the wings on the struts.
+The first prototype had two fixed .303 in (7.7 mm) Vickers machine guns mounted on the fuselage sides. In the second the guns were changed from Vickers to Lewis guns mounted in swiveling barbettes on fuselage. These could be angled from 0-45° upwards so the fighter could attack bombers from below without having to put the aircraft into a climb. The wingspan of the second prototype was increased by about 5 ft (1.5 m).[1]
+Both were finished in dark green with "night black" undersides for their role as "Anti-Bomber Formation Fighters". The first prototype carried out full performance and armament trials at Martlesham Heath from March 1927; the second went through the same tests in April 1928. The A&AEE reports were favourable except that the top speed - 145 mph - was rather slow.[2] More trials were carried out before they were returned to Boulton & Paul. They were flown by the manufacturer for a while longer before being broken up.
+During testing performance was so poor that further development was abandoned.[3]
+Specifications (P.31 Bittern J7936)[edit]
+Data from Boulton Paul Aircraft since 1915[4]
+General characteristics
+
+Length: 32 ft 4 in (9.86 m) [5]
+Wingspan: 41 ft 0 in (12.50 m)
+Empty weight: 3,215 lb (1,458 kg)
+Gross weight: 4,500 lb (2,041 kg)
+Powerplant: 2 × Armstrong Siddeley Lynx 7-cyl. air-cooled radial piston engine, 230 hp (170 kW) each
+
+Performance
+
+Maximum speed: 145 mph (233 km/h; 126 kn) (J7936) 152 mph (245 km/h) (J7937)
+Endurance: 3¾ hours[5]
+
+Armament
+
+Guns:
+2 x fixed forward-firing 0.303 in (7.70 mm) Vickers machine-guns (J7936)
+2 x two 0.303 in (7.70 mm) Lewis machine-guns in revolving barbettes either side of the nose (J7937).
+Night landing flares under the fuselage
+
+See also[edit]
+
+Related lists
+
+
+List of fighter aircraft
 
 References[edit]
-This article incorporates public domain text from the reference [1]
+
+Notes
 
 
-^ a b c d e f g h i j Abbott R. T. (1983). "William E(rwood) Old, Jr." The Nautilus 97(1): 43-44.
-^ Coan E. V., Kabat A. R. & Petit R. E. (15 February 2011). 2,400 years of malacology, 8th ed., 936 pp. + 42 pp. [Annex of Collations]. American Malacological Society
+
+^ The WWII Fighter Gun Debate: Upward firing guns
+^ Kinsey p52
+^ Donald, David, ed. (1997). The Encyclopedia of World Aircraft. Prospero Books. p. 118. ISBN 1-85605-375-X. 
+^ Brew, Alec (1993). Boulton Paul Aircraft since 1915. Putnam & Company Ltd. pp. 199–203. ISBN 0-85177-860-7. 
+^ a b Mason, Francis K. (17 Sep 1992). The British Fighter since 1912 (1st ed.). London: Putnam ; Language English. p. 187. ISBN 0-85177-852-6. 
 
 
-Further reading[edit]
 
-Raeihle D. & Emerson W. K. (1983). "In memorium: William Erwood Old, Jr., April 14, 1928 - December 31, 1982". American Malacological Bulletin 1: 75-78.
-Raeihle D. & Emerson W. K. (1983). "William Erwood Old, Jr. 1928-1982". Of Sea & Shore 13(1): 41-42 [reprinted from New York Shell Club Notes, no. 286, Mar 1983]
-AMNH biography here including photo[dead link]
+Bibliography
+
+
+
+
+Wikimedia Commons has media related to Boulton Paul Bittern.
+
+
+
+
+Mason, Francis K. (1992). The British Fighter since 1912. Annapolis, Maryland, US: Naval Institute Press. ISBN 1-55750-082-7. 
+Brew, Alec (1993). Boulton Paul Aircraft since 1915. Putnam & Company Ltd. pp. 199–203. ISBN 0-85177-860-7. 
+Kinsey, Gordon (1992). Boulton & Paul Aircraft. Terence Dalton Ltd. ISBN 0 86138 085 1. 
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+Aircraft from Boulton & Paul Ltd/Boulton Paul Aircraft
+
+
+
+
+
+
+Manufacturer
+designations
+
+
+
+P.3
+P.6
+P.7
+P.8
+P.9
+P.10
+P.12
+P.15
+P.25
+P.29
+P.31
+P.32
+P.33
+P.41
+P.64
+P.71
+P.75
+P.82
+P.85
+P.92
+P.93
+P.94
+P.108
+P.111
+P.112
+P.116
+P.119
+P.120
+P.130
+P.134
+P.135
+P.136
+P.137
+P.140
+P.141
+P.142
+P.143
+P.145
+
+
+
+
+
+
+
+
+By role (service names)
+
+
+
+Fighters
+Bobolink
+Bittern
+Defiant
+Partridge
+
+
+Bombers
+Bolton
+Bourges
+Bodmin
+Bugle
+Sidestrand
+Overstrand
+P.32
+
+
+Experimental
+Atlantic
+P-6
+P.10
+P.92/2
+P.111
+P.120
+
+
+Mailplane
+Mailplane
+P.71A
+
+
+Private
+Boulton Paul Phoenix
+
+
+Trainer
+Balliol
+
+
+
+
+
+
+
 
 
 

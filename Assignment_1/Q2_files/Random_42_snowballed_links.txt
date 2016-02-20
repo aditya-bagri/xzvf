@@ -1,1 +1,1 @@
-['http://www.baseball-reference.com/players/h/heffebe01.shtml']
+['http://www.awm-math.org/articles/notices/199107/blum/node2.html#SECTION02010000000000000000', 'http://www-history.mcs.st-and.ac.uk/Biographies/Gray.html', 'http://www.awm-math.org/articles/notices/199107/blum/node2.html#SECTION02021000000000000000', 'http://www-history.mcs.st-andrews.ac.uk/Biographies/Gray.html']

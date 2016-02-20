@@ -4,264 +4,107 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-État 3701–3755
-SNCF 3-230.B
+FC Viktoria Otrokovice
 
 
 
 
+Full name
+FC Viktoria Otrokovice
 
 
+Ground
+Stadion FC Viktoria Otrokovice
 
-Type and origin
 
+Ground Capacity
+2000
 
-Power type
-Steam
 
+League
+MSFL
 
-Builder
 
+2014–15
+Czech Fourth Division - Divize D, 2nd (promoted)
 
 
-Fives-Lille
-SFCM
-Schneider et Cie.
-
-
-
-
-
-Build date
-1901–1909
-
-
-Total produced
-55
-
-
-
-
-
-
-
-
-Specifications
-
-
-Configuration
-4-6-0
-
-
-UIC class
-2′C n4v
-
-
-Gauge
-1,435 mm (4 ft 8 1⁄2 in)
-
-
-Driver diameter
-1,750 mm (68.90 in)
-
-
-Length
-16.135 m (52 ft 11.24 in)
-
-
-Axle load
-14.6 tonnes (14.4 long tons; 16.1 short tons)
-
-
-Adhesive weight
-43.7 tonnes (43.0 long tons; 48.2 short tons)
-
-
-Loco weight
-60.1 tonnes (59.2 long tons; 66.2 short tons)
-
-
-Tender weight
-38.1 tonnes (37.5 long tons; 42.0 short tons)
-
-
-Tender type
-3-axle
-
-
-Fuel type
-Coal
-
-
-Fuel capacity
-6 tonnes (5.9 long tons; 6.6 short tons)
-
-
-Water cap
-15,200 litres (3,300 imp gal; 4,000 US gal)
-
-
-Firebox:
- • Firegrate area
-2.42 m2 (26.0 sq ft)
-
-
-Boiler pressure
-15.0 kg/cm2 (1.47 MPa; 213 lbf/in2)
-
-
-Heating surface
-187.97 m2 (2,023.3 sq ft)
-
-
-Cylinders
-Four, compound: HP outside, LP inside
-
-
-High-pressure cylinder
-350 mm × 640 mm (13.78 in × 25.20 in)
-
-
-Low-pressure cylinder
-550 mm × 640 mm (21.65 in × 25.20 in)
-
-
-
-
-
-
-
-
-Performance figures
-
-
-Maximum speed
-100 km/h (62 mph)
-
-
-Power output
-1,010 hp (1,020 PS; 750 kW)
-
-
-
-
-
-
-
-
-Career
-
-
-Operators
-
-
-
-Chemins de fer de l'État
-SNCF
-
-
-
-
-
-Numbers
-
-
-
-État 3701 – 3755
-État 230-001 to 230-055
-SNCF 3-230.B.1 to 3-230.B55
-
-
-
-
-
-
-
-
-État 3701 to 3755 were a series of 4-6-0 de Glenn compound steam locomotives of the Chemins de fer de l'État built between 1901 and 1909.
-
-
-
-
-Contents
-
-
-1 Description
-2 Utilisation
-3 References
-4 External links
-
-
-
-Description[edit]
-The class were four-cylinder compound locomotives of the de Glenn type – the high pressure cylinders were on the outside and drove the middle coupled wheels, the low pressure cylinders were inside, and drove the leading coupled wheels.
-They were mixed traffic locomotives, for use on express and local passenger trains as well as freight trains on all parts of the État network. The design was inspired by, and similar to Midi 1301 to 1370, Nord 3.078 to 3.354, and PO 1721 to 1735.
-They were equipped with 3-axle tenders that held 6 tonnes (5.9 long tons; 6.6 short tons) of coal and 15,200 litres (3,300 imp gal; 4,000 US gal) of water, and were numbered 15.251 to 15.305.
-
-Table of locomotive
-
-1st
-État
-No.
-1910
-État No.
-Manufacturer
-Serial No.
-Year
-Notes
-
-
-3701–3710
-230-001 – 230-010
-Fives-Lille
-3167–3176
-1901
-
-
-
-3711–3730
-230-011 – 230-030
-SFCM
-2559–2578
-1902
-
-
-
-3731–3740
-230-031 – 230-040
-Fives-Lille
-3339–3348
-1906
-
-
-
-3741–3755
-230-041 – 230-055
-Schneider & Co.
-3041–3055
-1909
-
-
-
-The first 30 had Wegner brakes, the remainder had Westinghouse brakes.
-They were capable of pulling hauling passenger trains of 225 to 250 tonnes (221 to 246 long tons; 248 to 276 short tons) at 90 kilometres per hour (56 mph), passenger trains of 350 to 400 tonnes (340 to 390 long tons; 390 to 440 short tons) at 70 kilometres per hour (43 mph), and freight trains 700 tonnes (690 long tons; 770 short tons) at speeds of 40 to 50 kilometres per hour (25 to 31 mph). On inclines of 1% (1 in 100), they could pull 160 tonnes (160 long tons; 180 short tons) at 95 kilometres per hour (59 mph).[1]
-Utilisation[edit]
-They were used thought the État network, and proved to be more economical than the 4-4-0 and 2-4-2 locomotive that they displaced. They were allocated to the locomotive depots of Nantes Sainte-Anne, La Roche-sur-Yon, La Rochelle, Saintes, Saint-Mariens, Cholet, Thouars, and Bressuire.
-After 1938, the newly created SNCF renumbered the locomotives 3-230.B.1 to 3-230.B.55; while the tenders were renumbered 15.B.251 to 15.B.305. Forty-six survived World War II, the last was withdrawn in 1960, having been used on Saint-Mariens to Bordeaux local services.
-None have been preserved, but the Cité du train in Mulhouse has one of the similar Midi, locomotives, No. 1314.
-
+FC Viktoria Otrokovice is a Czech football club located in Otrokovice in the Zlín Region. It currently plays in the MSFL, which is in the third tier of Czech football.
 References[edit]
-
-
-^ Lepage, André. Rail Magazine (62).  Missing or empty |title= (help)
-
-
-
-Davies, John (August 2001). Chemins de fer de l'État Locomotive List 1878–1938. Woodbridge, Queensland: Dr. John Davies. pp. 20–21. ISBN 0-7316-8442-7. 
 
 External links[edit]
 
-http://carot.chez-alice.fr/fer/fer020.html
+Official website (Czech)
+Profile at idnes.cz (Czech)
+
+
+
+
+Stadium of FC Viktoria Otrokovice.
+
+
+
+
+
+
+
+
+
+
+
+
+v
+t
+e
+
+
+MSFL 2015/16
+
+
+
+
+
+
+
+
+
+MSK Břeclav
+FC Hlučín
+SK Spartak Hulín
+SK Hanácká Slavia Kroměříž
+SK Líšeň
+FK Mohelnice
+1. HFK Olomouc
+FC Viktoria Otrokovice
+1. SK Prostějov
+1.FC Slovácko B
+HFK Třebíč
+SK Uničov
+FC Velké Meziříčí
+MFK Vítkovice
+MFK Vyškov
+FC Fastav Zlín B
+
+
+
+
+
+
+
+
+
+
+
+This article about a Czech Republic football club is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
+
+
+
+
 
 
 

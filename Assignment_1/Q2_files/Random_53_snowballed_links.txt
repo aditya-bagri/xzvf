@@ -1,1 +1,1 @@
-[]
+['http://www.e-lir.ch/e-LIR___Lexicon.1002.450.0.html']

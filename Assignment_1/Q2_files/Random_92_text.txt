@@ -6,107 +6,353 @@ From Wikipedia, the free encyclopedia
 
 
 
-Beech Street Brick Street
+Tube Case Caddisflies
 
 
 
 
-U.S. National Register of Historic Places
 
+Limnephilus auricula
 
 
+Scientific classification
 
-U.S. Historic district
-Contributing property
 
+Kingdom:
+Animalia
 
 
+Phylum:
+Arthropoda
 
 
+Class:
+Insecta
 
 
+Order:
+Trichoptera
 
 
+Suborder:
+Integripalpia
 
 
+Superfamilies
 
 
 
+Tasmioidea
+Leptoceroidea
+Limnephiloidea
+Sericostomatoidea
+Phyrganeoidea
 
 
 
 
+The Integripalpia are a suborder of Trichoptera, the caddisflies. The name refers to the unringed nature of maxillary palp's terminal segment in the adults. Integripalpian larvae construct portable cases out of debris during the first larval instar, which are enlarged through subsequent instars. These cases are often very specific in construction at both the family and genus level.
+External links[edit]
 
+Tree Of Life Integripalpia Page
 
 
 
-Location
-Beech Street between 14th and 24th streets., Texarkana, Arkansas
 
 
-Coordinates
-33°26′50″N 94°2′21″W﻿ / ﻿33.44722°N 94.03917°W﻿ / 33.44722; -94.03917Coordinates: 33°26′50″N 94°2′21″W﻿ / ﻿33.44722°N 94.03917°W﻿ / 33.44722; -94.03917
 
 
-Area
-2.5 acres (1.0 ha)
 
 
-Part of
-Beech Street Historic District (#09001254)
+v
+t
+e
 
 
-NRHP Reference #
-07000438[1]
+Extant Trichoptera families
 
 
-Significant dates
 
 
-Added to NRHP
-May 22, 2007
 
 
-Designated CP
-January 21, 2010
 
 
-The Beech Street Brick Street is an historic section of the Beech Street roadway in Texarkana, Arkansas. It consists of a section of road, between 14th and 24th Streets, which was paved in brick c. 1904. It is a residential road located northeast of Texarkana's downtown, and is about 3,425 feet (1,044 m) long and 23 feet (7.0 m) wide. The bricks, which measure 4 by 8.5 inches (10 by 22 cm), are laid in a running bond pattern. The road section is a rare surviving example of the use of brick as a paving material, as most such roads have since been paved over with asphalt.[2]
-The road section was listed on the National Register of Historic Places in 2007.[1] It contributes to the historic significance of the Beech Street Historic District, which includes the residential properties on Beech Street and some adjacent roads.[3]
 
-See also[edit]
+Kingdom: Animalia
+Phylum: Arthropoda
+Class: Insecta
+Subclass: Pterygota
+Infraclass: Neoptera
+Superorder: Endopterygota
 
 
 
 
-Arkansas portal
 
 
 
-National Register of Historic Places portal
 
 
 
-U.S. Roads portal
 
 
+ 
+Suborder Annulipalpia
 
 
-National Register of Historic Places listings in Miller County, Arkansas
 
 
-References[edit]
 
 
-^ a b Staff (July 9, 2010). "National Register Information System". National Register of Historic Places. National Park Service. 
-^ "NRHP nomination for Beech Street Brick Street" (PDF). Arkansas Preservation. Retrieved October 2, 2014. 
-^ "NRHP nomination for Beech Street Historic District" (PDF). Arkansas Preservation. Retrieved October 2, 2014. 
 
 
 
 
 
-This article about a property in Arkansas on the National Register of Historic Places is a stub. You can help Wikipedia by expanding it.
+Hydropsychoidea
+
+
+
+
+Arctopsychidae (net-spinning caddisflies)
+Dipseudopsidae
+Ecnomidae
+Hydropsychidae (net-spinning caddisflies)
+Polycentropodidae (trumpet-net and tube-making caddisflies)
+Psychomyiidae (trumpet-net and tube-making caddisflies)
+Xiphocentronidae
+
+
+
+
+
+
+
+
+
+Philopotamoidea
+
+
+
+
+Philopotamidae (finger-net and silken-tube spinner caddisflies)
+Stenopsychidae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Integripalpia
+
+
+
+
+
+
+
+
+
+
+
+Leptoceroidea
+
+
+
+
+Atriplectididae
+Calamoceratidae
+Leptoceridae (long-horned caddisflies)
+Limnocentropodidae
+Molannidae
+Odontoceridae
+Philorhethridae
+
+
+
+
+
+
+
+
+
+Limnephiloidea
+
+
+
+
+Apataniidae
+Brachycentridae
+Goeridae
+Lepidostomatidae
+Limnephilidae (northern caddisflies)
+Oeconescidae
+Pisuliidae
+Rossianidae
+Uenoidae
+
+
+
+
+
+
+
+
+
+Phyrganeoidea
+(giant caddisflies)
+
+
+
+
+Phryganeidae
+Phyrganopsychidae
+Plectrotarsidae
+
+
+
+
+
+
+
+
+
+Sericostomatoidea
+
+
+
+
+Anomalopsychidae
+Antipodoeciidae
+Barbarochthonidae
+Beraeidae
+Calocidae
+Chathamiidae (marine caddisflies)
+Conoesucidae
+Helicophidae
+Helicopsychidae (snail-case caddisflies)
+Hydrosalpingidae
+Kokiriidae
+Sericostomatidae
+Petrothrincidae
+
+
+
+
+
+
+
+
+
+Tasmioidea
+
+
+
+
+Tasimiidae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+Suborder Spicipalpia
+
+
+
+
+
+
+
+
+
+
+
+Glossosomatoidea
+
+
+
+
+Glossosomatidae
+Pticolepidae
+
+
+
+
+
+
+
+
+
+Hydroptiloidea
+
+
+
+
+Hydroptilidae (microcaddisflies or purse-case caddisflies)
+
+
+
+
+
+
+
+
+
+Rhyacophiloidea
+(primitive caddisflies)
+
+
+
+
+Hydrobiosidae
+Rhyacophilidae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This caddisfly-related article is a stub. You can help Wikipedia by expanding it.
 
 
 v

@@ -7,142 +7,40 @@ From Wikipedia, the free encyclopedia
 
 
 
-
-This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (December 2015)
-
+Location of Sentinel Range in Western Antarctica.
 
 
-IdeaPad  S100
-
-Developer
-Lenovo (2011–present)
 
 
-Type
-Netbook
 
 
-Release date
-2011
+Map of northern Sentinel Range.
 
 
-Media
-160, 250 or 320 GB 2.5" 5,400 rpm SATA HDD at 1.5 Gb/s
+Hariton Peak (Bulgarian: връх Харитон, ‘Vrah Hariton’ \'vr&h ha-ri-'ton\) is the rocky peak rising to 1880 m near the north end of Sentinel Range in Ellsworth Mountains, Antarctica. It is named after Pop (Priest) Hariton (Hariton Halachev, 1835-1876), a leader of the 1876 April Uprising for Bulgarian independence.
+Location[edit]
+Hariton Peak is located at 77°26′37″S 86°18′27″W﻿ / ﻿77.44361°S 86.30750°W﻿ / -77.44361; -86.30750Coordinates: 77°26′37″S 86°18′27″W﻿ / ﻿77.44361°S 86.30750°W﻿ / -77.44361; -86.30750, which is 1.68 km northeast of Mount Lymburner, 6.6 km south of Mount Liavaag and 8.25 km west-northwest of Mount Weems. US mapping in 1961.
+Maps[edit]
 
+Newcomer Glacier. Scale 1:250 000 topographic map. Reston, Virginia: US Geological Survey, 1961.
+Antarctic Digital Database (ADD). Scale 1:250000 topographic map of Antarctica. Scientific Committee on Antarctic Research (SCAR). Since 1993, regularly upgraded and updated.
 
-Operating system
-MeeGo
-
-
-CPU
-1.33 GHz N435 Intel Atom;
-
-
-Memory
-2 GB (supports up to 3GB)
-
-
-Display
-10,1" 1024×600 LED-backlit TFT LCD
-
-
-Input
-Keyboard
-Touchpad
-Microphone
-2 Megapixel Webcam
-
-
-Connectivity
-10/100 Mbit Ethernet LAN
-802.11b/g/n WiFi
-3 USB 2.0 ports
-4-in-1 Flash Memory card reader
-Expresscard
-headset
-
-
-Power
-6-cell (7 hours)
-
-
-The IdeaPad S100 is a line of consumer-oriented netbook computers designed by Lenovo. It is a model in the IdeaPad series. The computers were put on the market in 2011 and currently come in black, red and blue.
-Description[edit]
-It contains either an N435 Intel Atom 1.33 GHz processor or an N455 Intel Atom 2x1.66 GHz processor or an N570 Intel Atom. They support 802.11 b/g/n wireless networking and come with three USB ports, an ExpressCard/34 expansion slot, a 4-in-1 media reader, VGA (no HDMI) outputs and an ethernet port. The S100 is one of the first the MeeGo-running version of Lenovo's IdeaPad netbook.
-Current lineup[edit]
-The MeeGo-running version of Lenovo's IdeaPad S100 netbook seems to retail as at least one in Russian store as the device listed, bearing a price tag of about $260 / €180. It features a 10.1" 1024×600 display with an Intel GMA 3150 integrated graphics, 160GB hard disk drive and 1GB DDR3 SDRAM.
-The N570 model has the same Intel GMA 3150 integrated graphics but has 255GB of hard drive space.
 References[edit]
 
+Hariton Peak. SCAR Composite Gazetteer of Antarctica.
+Bulgarian Antarctic Gazetteer. Antarctic Place-names Commission. (details in Bulgarian, basic data in English)
 
-MeeGo-powered Lenovo IdeaPad S100 gets listed in Europe
-Lenovo IdeaPad S100 with MeeGo in Europe
-
-
-
+This article includes information from the Antarctic Place-names Commission of Bulgaria which is used with permission.
 
 
 
 
+This Ellsworth Land location article is a stub. You can help Wikipedia by expanding it.
 
 
 v
 t
 e
-
-
-Netbooks
-
-
-
-
-
-
-
-
-
-Acer Aspire One
-Asus Eee PC
-Classmate PC
-CloudBook
-Dell Inspiron Mini
-Doel
-ECS G10IL
-Elonex ONE
-Gateway LT31
-Gdium
-Gigabyte M912
-HP Mini/Mini-Note
-IdeaPad
-MSI Wind
-Nanobook
-Noahpad
-OLPC XO-1
-One A110
-Samsung N130/N140 NC10/NC20
-Skytone Alpha-400
-Sony VAIO M series
-Sony VAIO W series
-Tianhua GX-1C
-VIA OpenBook
-PAC-nBook 1
-
-
-
-
-
-
-
-
-
-
-
-Comparison of netbooks
-Netbook manufacturers
-Comparison of netbook-oriented Linux distributions
-
-
-
 
 
 

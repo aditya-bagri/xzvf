@@ -1,1 +1,1 @@
-[]
+['http://southpointretail.com/index.html', 'http://southpointretail.com/index.html', 'http://southpointretail.com/index.html', 'http://hiltongardeninn.hilton.com/en/gi/hotels/index.jhtml']

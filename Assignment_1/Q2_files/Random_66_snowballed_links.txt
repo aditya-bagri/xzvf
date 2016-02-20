@@ -1,1 +1,1 @@
-['http://www.census.gov.ph/data/census2007/index.html', 'http://www.census.gov.ph/data/census2007/index.html']
+['http://www.baseball-reference.com/players/g/guerrma02.shtml']

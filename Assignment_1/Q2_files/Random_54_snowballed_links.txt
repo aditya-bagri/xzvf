@@ -1,1 +1,1 @@
-[]
+['http://query.nytimes.com/gst/fullpage.html?res=9B0DE4DB1431F936A15750C0A961948260', 'http://www.ccca.ca/artists/artist_info.html?languagePref=en&link_id=193&artist=Andr%E9%20Fauteux', 'http://www.ccca.ca/artists/artist_info.html?languagePref=en&link_id=193&artist=Andr%E9%20Fauteux', 'http://www.queensu.ca/pps/siteart/7.html', 'http://www.artnet.com/artist/175688/Andre_Fauteux.html', 'http://www.carolsutton.net/andre/fauteux_genealogy_andre.html']

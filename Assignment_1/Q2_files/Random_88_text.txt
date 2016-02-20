@@ -5,176 +5,129 @@ From Wikipedia, the free encyclopedia
 
 
 
-Transcobalamin I (vitamin B12 binding protein, R binder family)
+Marie Howe
 
 
 
-Rendering based on PDB 2ckv​.
 
 
+Born
+1950
+Rochester, New York
 
 
+Nationality
+American
 
 
-Available structures
+Alma mater
+University of Windsor;
 
 
-PDB
-Ortholog search: PDBe, RCSB
+Genre
+Poetry
 
 
+Notable awards
+Guggenheim Fellowship;
+National Endowment for the Arts Fellowship
 
 
+Marie Howe (born 1950 Rochester, New York) is an American poet. Her most recent poetry collection is The Kingdom of Ordinary Time (W.W. Norton, 2008). In August 2012 she was named the State Poet for New York.[1][2][3]
 
-List of PDB id codes
 
 
+Contents
 
-2CKV​, 4KKI​, 4KKJ​
 
+1 Early life
+2 Career
+3 Honors and awards
+4 Published works
+5 References
+6 Sources
+7 External links
 
 
 
+Early life[edit]
+Howe is the eldest girl of nine children. She attended Sacred Heart Convent School and earned her undergraduate degree from the University of Windsor.[4]
+Career[edit]
+She worked briefly as a newspaper reporter in Rochester and as a high school English teacher in Massachusetts. Howe did not devote serious attention to writing poetry until she turned 30. At the suggestion of an instructor in a writers' workshop, Howe applied to and was accepted at Columbia University where she studied with Stanley Kunitz and received her M.F.A. in 1983.[5][6]
+She has taught writing at Tufts University and Warren Wilson College. She is presently on the writing faculties at Columbia University, Sarah Lawrence College, and New York University.[7][8]
+Her first book, The Good Thief, was selected by Margaret Atwood as the winner of the 1987 Open Competition of the National Poetry Series.[citation needed] In 1998, she published her best-known book of poems, What the Living Do; the title poem in the collection is a haunting lament for her brother with the plain-spoken last line: "I am living, I remember you."
+Howe's brother John died of an AIDS-related illness in 1989. "John’s living and dying changed my aesthetic entirely," she has said.[9] In 1995, Howe co-edited, with Michael Klein, a collection of essays, letters, and stories entitled In the Company of My Solitude: American Writing from the AIDS Pandemic.
+Her poems have appeared in literary journals and magazines including The New Yorker, The Atlantic, Poetry, Agni, Ploughshares, and Harvard Review.[10] Her honors include National Endowment for the Arts and Guggenheim fellowships.[11][12]
+Honors and awards[edit]
 
+1998 Guggenheim Fellowship [13]
+1992 National Endowment for the Arts Fellowship[14]
 
+Published works[edit]
+Poetry Collections
 
+The Kingdom of Ordinary Time. W.W. Norton. 2008. ISBN 9780393337341. 
+What the Living Do. W.W. Norton. 1998. ISBN 9780393318869. 
+The Good Thief (Persea Books, 1988) ISBN 9780892551279
 
+Anthologies
 
-Identifiers
+In the Company of My Solitude: American Writing from the AIDS Pandemic, (ed., with Michael Klein, Persea Books, 1995) ISBN 9780892552085
 
-
-Symbols
-TCN1 ; HC; TC-1; TC1; TCI
-
-
-External IDs
-OMIM: 189905 HomoloGene: 47985 GeneCards: TCN1 Gene
-
-
-
-
-
-Gene ontology
-
-
-Molecular function
-• cobalamin binding
-
-
-Cellular component
-• extracellular region
-• extracellular space
-
-
-Biological process
-• vitamin metabolic process
-• water-soluble vitamin metabolic process
-• cobalt ion transport
-• cobalamin metabolic process
-• cobalamin transport
-• small molecule metabolic process
-
-
-Sources: Amigo / QuickGO
-
-
-
-
-
-Orthologs
-
-
-Species
-Human
-Mouse
-
-
-Entrez
-6947
-n/a
-
-
-Ensembl
-ENSG00000134827
-n/a
-
-
-UniProt
-P20061
-n/a
-
-
-RefSeq (mRNA)
-NM_001062
-n/a
-
-
-RefSeq (protein)
-NP_001053
-n/a
-
-
-Location (UCSC)
-Chr 11:
-59.85 – 59.87 Mb
-n/a
-
-
-PubMed search
-[1]
-n/a
-
-
-
-
-
-v
-t
-e
-
-
-
-
-
-Haptocorrin also known as transcobalamin-1 (TC-1) or cobalophilin is a protein that in humans is encoded by the TCN1 gene.[1] The essential function of haptocorrin is protection of the acid-sensitive vitamin B12 while it moves through the stomach.
-Function[edit]
-Haptocorrin (HC), also commonly known as the R-protein, or the R-factor, or previously referred to as transcobalamin I, is a unique glycoprotein produced by the salivary glands of the oral cavity, in response to ingestion of food. This protein binds strongly to vitamin B12 in what is perhaps an intricate yet necessary evolutionary mechanism to protect this vitamin from the acidic environment of the stomach.[2]:44 Vitamin B12 is an essential water-soluble vitamin, the deficiency of which creates anemia (macrocytic anemia), decreased bone marrow cell production (anemia, pancytopenia), neurological problems, as well as metabolic issues (methylmalonyl-CoA acidosis).[2]:50–51
-Vitamin B12 is therefore an important vitamin for the body to absorb. Despite its vital role however, vitamin B12 is structurally very sensitive to the hydrochloric acid found in the stomach secretions, and easily denatures in that environment before it has a chance to be absorbed by the small intestine. Found in fresh animal products (such as liver), vitamin B12 attaches haptocorrin, which has a high affinity for its molecular structure.[3] Coupled together vitamin B12 and haptocorrin create a complex. This Haptocorrin-B12 complex is impervious to the insult of the stomach acid, and passes on via the pylorus to the duodenum. In the duodenum pancreatic proteases (a component of pancreatic juice) cleave haptocorrin, yet again releasing vitamin B12 in its free form.
-The same cells in the stomach that produce gastric hydrochloric acid, the parietal cells, also produce a molecule called the intrinsic factor (IF), which rebinds the B12 after its release from haptocorrin by digestion, and without which vitamin B12 can not be absorbed. Intrinsic factor (IF) is a glycoprotein, with a MW of 45,000 dalton. In the duodenum, the free vitamin B12 attaches the intrinsic factor (IF) to create a vitamin B12-IF complex. This complex then travels through the small bowel and reaches the terminal tertiary portion of the small intestine, called ileum. Ileum is the longest of all portions of the small intestine, but has on its surface specialized receptors called cubilin receptors, that identify the B12-IF complexes and take them up into the circulation via endocytosis mediated absorption.[4]
-In short, the essential function of haptocorrin is protection of the acid-sensitive vitamin B12 while it moves through the stomach. Haptocorrin also circulates and binds approximately 80% of circulating B12, rendering it unavailable for cellular delivery by transcobalamin II [5]
 References[edit]
 
 
-^ "Entrez Gene: transcobalamin I (vitamin B12 binding protein". 
-^ a b Pettit, John D.; Paul Moss (2006). Essential Haematology 5e (Essential). Blackwell Publishing Professional. p. 44. ISBN 1-4051-3649-9. 
-^ Morkbak AL, Poulsen SS, Nexo E (2007). "Haptocorrin in humans". Clin. Chem. Lab. Med. 45 (12): 1751–9. doi:10.1515/CCLM.2007.343. PMID 17990953. 
-^ Viola-Villegas N, Rabideau AE, Bartholomä M, Zubieta J, Doyle RP (August 2009). "Targeting the cubilin receptor through the vitamin B(12) uptake pathway: cytotoxicity and mechanistic insight through fluorescent Re(I) delivery". J. Med. Chem. 52 (16): 5253–61. doi:10.1021/jm900777v. PMID 19627091. 
-^ Vitamin B12 Deficiency Sally P. Stabler, M.D" N Engl J Med 2013; 368:149-160January 10, 2013
+^ "Capitol Confidential » Cuomo announces state author Alison Lurie, poet Marie Howe". Capitol Confidential. Retrieved 18 March 2015. 
+^ http://online.wsj.com/article/APa0444add860c4deda7f84febf0f54925.html
+^ "Blue Flower Arts". blueflowerarts.com. Retrieved 18 March 2015. 
+^ "Marie Howe". poetryfoundation.org. Retrieved 18 March 2015. 
+^ New York State Writers Institute > Writers Online: Vol. 6, No. 2, Spring 2002 Marie Howe Profile
+^ Sarah Lawrence College: MFA Writing Faculty > Marie Howe Bio
+^ "Marie Howe". slc.edu. Retrieved 18 March 2015. 
+^ "Marie Howe, Faculty of CWP - NYU". nyu.edu. Retrieved 18 March 2015. 
+^ "AGNI Online: Complexity of the Human Heart: A Conversation with Marie Howe by David Elliott". bu.edu. Retrieved 18 March 2015. 
+^ "Blue Flower Arts". blueflowerarts.com. Retrieved 18 March 2015. 
+^ http://www.arts.gov/pub/NEA_lit.pdf
+^ "Search Results". gf.org. Retrieved 18 March 2015. 
+^ "Marie Howe". jsgmf.org. Retrieved 18 March 2015. 
+^ National Endowment for the Arts: Forty Years of Supporting American Writers: Literature Fellowships
 
 
-Further reading[edit]
+Sources[edit]
+
+Library of Congress Online Catalog > Marie Howe
+
+External links[edit]
+
+Marie Howe's Official Website
+Author's Booking Agency > Blue Flower Arts > Marie Howe Author Page
+Poem: The New Yorker > January 14, 2008 > The Star Market by Marie Howe
+Poem: A Little Poetry > How Some of It Happened by Marie Howe
+Personal Essay: O: The Oprah Magazine > Memoir by Marie Howe: Not to Look Away
+Video: PBS > Poetry Everywhere > Marie Howe Reading The Gate
+Video: Marie Howe Reading at the NYS Writers Institute in 2008 on YouTube
+Interview: Bomb Magazine > #61, Fall 1997 > Marie Howe Interviewed by Victoria Redel
+Poet Marie Howe On 'What The Living Do' After Loss, NPR, October 19, 2011
 
 
-GuÃ©ant-Rodriguez RM, JuilliÃ©re Y, Candito M; et al. (2005). "Association of MTRRA66G polymorphism (but not of MTHFR C677T and A1298C, MTRA2756G, TCN C776G) with homocysteine and coronary artery disease in the French population.". Thromb. Haemost. 94 (3): 510–5. doi:10.1160/TH05-04-0262. PMID 16268464. 
-Garrod MG, Allen LH, Haan MN, et al. (2010). "Transcobalamin C776G genotype modifies the association between vitamin B12 and homocysteine in older Hispanics.". Eur J Clin Nutr 64 (5): 503–9. doi:10.1038/ejcn.2010.20. PMC 2864787. PMID 20216556. 
-McGeachie M, Ramoni RL, Mychaleckyj JC, et al. (2009). "Integrative predictive model of coronary artery calcification in atherosclerosis.". Circulation 120 (24): 2448–54. doi:10.1161/CIRCULATIONAHA.109.865501. PMC 2810344. PMID 19948975. 
-Matteini AM, Walston JD, Bandeen-Roche K, et al. (2010). "Transcobalamin-II variants, decreased vitamin B12 availability and increased risk of frailty.". J Nutr Health Aging 14 (1): 73–7. doi:10.1007/s12603-010-0013-1. PMC 3042247. PMID 20082058. 
-Lee KM, Lan Q, Kricker A, et al. (2007). "One-carbon metabolism gene polymorphisms and risk of non-Hodgkin lymphoma in Australia.". Hum. Genet. 122 (5): 525–33. doi:10.1007/s00439-007-0431-2. PMID 17891500. 
-Liu T, Qian WJ, Gritsenko MA, et al. "Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.". J. Proteome Res. 4 (6): 2070–80. doi:10.1021/pr0502065. PMC 1850943. PMID 16335952. 
-Fintelman-Rodrigues N, Corrêa JC, Santos JM, et al. (2009). "Investigation of CBS, MTR, RFC-1 and TC polymorphisms as maternal risk factors for Down syndrome.". Dis. Markers 26 (4): 155–61. doi:10.3233/DMA-2009-0626. PMID 19729796. 
-Wang SS, Maurer MJ, Morton LM, et al. (2009). "Polymorphisms in DNA repair and one-carbon metabolism genes and overall survival in diffuse large B-cell lymphoma and follicular lymphoma.". Leukemia 23 (3): 596–602. doi:10.1038/leu.2008.240. PMC 3066015. PMID 18830263. 
-Fedosov SN, Fedosova NU, KrÃ¤utler B; et al. (2007). "Mechanisms of discrimination between cobalamins and their natural analogues during their binding to the specific B12-transporting proteins.". Biochemistry 46 (21): 6446–58. doi:10.1021/bi062063l. PMID 17487979. 
-Carmel R, Parker J, Kelman Z (2009). "Genomic mutations associated with mild and severe deficiencies of transcobalamin I (haptocorrin) that cause mildly and severely low serum cobalamin levels.". Br. J. Haematol. 147 (3): 386–91. doi:10.1111/j.1365-2141.2009.07855.x. PMID 19686235. 
-Talmud PJ, Drenos F, Shah S, et al. (2009). "Gene-centric association signals for lipids and apolipoproteins identified via the HumanCVD BeadChip.". Am. J. Hum. Genet. 85 (5): 628–42. doi:10.1016/j.ajhg.2009.10.014. PMC 2775832. PMID 19913121. 
-Collin SM, Metcalfe C, Refsum H, et al. (2010). "Associations of folate, vitamin B12, homocysteine, and folate-pathway polymorphisms with prostate-specific antigen velocity in men with localized prostate cancer.". Cancer Epidemiol. Biomarkers Prev. 19 (11): 2833–8. doi:10.1158/1055-9965.EPI-10-0582. PMID 20852008. 
-Haggarty P, Campbell DM, Duthie S, et al. (2008). "Folic acid use in pregnancy and embryo selection.". BJOG 115 (7): 851–6. doi:10.1111/j.1471-0528.2008.01737.x. PMID 18485163. 
-Tanaka T, Scheet P, Giusti B, et al. (2009). "Genome-wide association study of vitamin B6, vitamin B12, folate, and homocysteine blood concentrations.". Am. J. Hum. Genet. 84 (4): 477–82. doi:10.1016/j.ajhg.2009.02.011. PMC 2667971. PMID 19303062. 
-Geisel J, HÃ¼bner U, Bodis M; et al. (2003). "The role of genetic factors in the development of hyperhomocysteinemia.". Clin. Chem. Lab. Med. 41 (11): 1427–34. doi:10.1515/CCLM.2003.219. PMID 14656021. 
-Martinelli M, Scapoli L, Palmieri A, et al. (2006). "Study of four genes belonging to the folate pathway: transcobalamin 2 is involved in the onset of non-syndromic cleft lip with or without cleft palate.". Hum. Mutat. 27 (3): 294. doi:10.1002/humu.9411. PMID 16470748. 
-von Castel-Dunwoody KM, Kauwell GP, Shelnutt KP, et al. (2005). "Transcobalamin 776C->G polymorphism negatively affects vitamin B-12 metabolism.". Am. J. Clin. Nutr. 81 (6): 1436–41. PMID 15941899. 
-Oh JH, Yang JO, Hahn Y, et al. (2005). "Transcriptome analysis of human gastric cancer.". Mamm. Genome 16 (12): 942–54. doi:10.1007/s00335-005-0075-2. PMID 16341674. 
-Ramachandran P, Boontheung P, Xie Y, et al. (2006). "Identification of N-linked glycoproteins in human saliva by glycoprotein capture and mass spectrometry.". J. Proteome Res. 5 (6): 1493–503. doi:10.1021/pr050492k. PMID 16740002. 
-Bailey SD, Xie C, Do R, et al. (2010). "Variation at the NFATC2 locus increases the risk of thiazolidinedione-induced edema in the Diabetes REduction Assessment with ramipril and rosiglitazone Medication (DREAM) study.". Diabetes Care 33 (10): 2250–3. doi:10.2337/dc10-0452. PMC 2945168. PMID 20628086. 
+Zack Rogow, ed. (2006). The Face of Poetry. University of California Press. ISBN 9780520246041. 
+
+
+
+
+
+
+Authority control
+
+
+
+VIAF: 63086949
+
+
+
+
+
+
 
 
 

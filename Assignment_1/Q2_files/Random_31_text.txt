@@ -3,301 +3,271 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
+This article is about the chess engine.  For other uses, see Rybka (disambiguation).
 
-Jimmy Frizzell
-
-Personal information
-
-
-Full name
-James Frizzell
-
-
-Date of birth
-(1937-02-16) 16 February 1937 (age 79)
-
-
-Place of birth
-Scotland
-
-
-Playing position
-Full back, Forward (retired)
-
-
-Senior career*
-
-
-Years
-Team
-Apps†
-(Gls)†
-
-
-1957–1960
-Greenock Morton
-41
-(4)
-
-
-1960–19??
-Oldham Athletic
-318
-(56)
-
-
-Teams managed
-
-
-1970–1982
-Oldham Athletic
-
-
-1986–1987
-Manchester City
+Rybka
 
 
 
-* Senior club appearances and goals counted for the domestic league only.
-† Appearances (goals)
+
+Developer(s)
+Vasik Rajlich
 
 
-James "Jimmy" Frizzell (born 16 February 1937) is a former Scottish association football player and manager.
-Frizzell was appointed a patron of Oldham Athletic's supporters' trust, Trust Oldham in 2004.[1]
+Stable release
+4.1 / March 5, 2011[1]
+
+
+Operating system
+Windows
+
+
+Type
+Chess engine
+
+
+License
+Proprietary
+
+
+Website
+rybkachess.com
+
+
+Rybka is a computer chess engine designed by International Master Vasik Rajlich. Around 2011 Rybka was one of the top-rated engines on chess engine rating lists[2][3][4][5][6] and has won many computer chess tournaments.
+After Rybka won four consecutive World Computer Chess Championships from 2007 to 2010, it was stripped of these titles after the International Computer Games Association concluded in June 2011 that Rybka was plagiarized from both the Crafty and the Fruit chess engines and so failed to meet their originality requirements.[7] The ICGA proceedings against Rybka were subsequently upheld by the FIDE Ethics Commission, saying "the ICGA has not violated the FIDE Code of Ethics, nor any other FIDE rule or general principle of law". However, the same FIDE Ethics Commission ruled that banning Rajlich for life failed to have a clear statutory basis and sufficient procedural guarantees, and so they sanctioned ICGA with a warning.[8]
+Rajlich has now agreed to underpin the Fritz brand of ChessBase, merging Rybka to produce Fritz 15. This will be released on 30 October 2015.[9]
 
 
 
 Contents
 
 
-1 Playing career
-2 Managerial career
+1 Name
+2 Internals
+3 Team
+4 History
 
-2.1 Managerial statistics
-
-
-3 References
-4 External links
-
-
-
-Playing career[edit]
-Frizzell began his playing career at Greenock Morton as a forward in 1957. Three years later, he joined Oldham Athletic, where he played 318 matches and scored 57 goals in the wing-half and full-back roles.
-Managerial career[edit]
-A managerial career was started in March 1970 when Frizzell became manager of Oldham Athletic, following a spell as a coach under Jack Rowley. At the time, the club was near the bottom of Division Four, with the distinct possibility of having to re-apply for League status. He then guided the team to nine wins and six draws in the remaining 22 matches and a comfortable midtable finish. In the following season Oldham achieved promotion to the Division Three and in 1974 they won the divisional league championship. Despite his success at the helm of the club, Frizzell was dismissed in June 1982. He was at the time the second longest serving manager in the Football League.
-After a year unemployed, Frizzell was invited to join Manchester City as an assistant to Billy McNeill. He became manager after the exit of his former boss in October 1986. Frizzell was sacked in May 1987 as the team was relegated to the Division Two under a serious financial crisis. He returned to the club in 1994 to work as chief scout but left in 1998.
-Managerial statistics[edit]
-
-All-Time Managerial Performance
-
-Country
-Club
-Years
-Games
-W
-D
-L
-Win %
+4.1 Tournament Participations
+4.2 Odds matches versus grandmasters
+4.3 Zappa match
 
 
+5 Versions
 
-Oldham Athletic
-1970–82
-7002546000000000000♠546
-7002200000000000000♠200
-7002162000000000000♠162
-7002184000000000000♠184
-7001366300000000000♠36.63
-
-
-Manchester City
-1986–87
-7001340000000000000♠34
-7000700000000000000♠7
-7001100000000000000♠10
-7001170000000000000♠17
-7001205900000000000♠20.59
+5.1 Version 3
+5.2 Version 4
+5.3 Remote Rybka
+5.4 Version 4.1
+5.5 Version 5
 
 
-Career Totals
-7002580000000000000♠580
-7002207000000000000♠207
-7002172000000000000♠172
-7002201000000000000♠201
-7001356900000000000♠35.69
+6 Controversy
+
+6.1 Strelka controversy
+6.2 IPPOLIT controversy
+6.3 Crafty chess engine controversy
+6.4 Fruit GPL chess engine controversy
+6.5 WCCC disqualification and banning
+
+6.5.1 Response
+6.5.2 Rejection of the ICGA decision by the CSVN
 
 
+
+
+7 References
+8 External links
+
+
+
+Name[edit]
+The word rybka, pronounced [ˈrɪpka], means little fish in Czech, Polish, and in many other Slavic languages. Vasik Rajlich was once asked in an interview by Alexander Schmidt, "Did you choose the name Rybka because your program always slipped out of your hands like a little fish?" He replied, "As for the name Rybka – I am sorry but this will remain my private secret."[10]
+Internals[edit]
+Rybka is a closed-source program, but still some details have been revealed: Rybka uses a bitboard representation,[11] and is an alpha-beta searcher with a relatively large aspiration window.[12] It uses very aggressive pruning, leading to imbalanced search trees.[13] The details of the evaluation function are unknown, but since version 2.3.1 it has included work by GM Larry Kaufman on material imbalances, much of which was worked out in a series of papers in the 1990s.[14]
+Team[edit]
+
+
+
+
+Iweta and Vasik Rajlich
+
+
+Several members of the Rybka team are strong chess players: Vasik Rajlich, the main author of Rybka is an International Master (IM). GM Larry Kaufman is the 2008 Senior Chess World Champion, and from version 2.3 through version 3 was in primary charge of the evaluation function. Iweta Rajlich, Vasik Rajlich's wife and the main Rybka tester is a Women's GM (WGM) and IM. Jeroen Noomen (who used to work on Rebel) and Dagh Nielsen were the authors of its opening book – the latter is one of the world's top freestyle chess players. Both are now less active, and Jiri Dufek is in charge of the book.
+History[edit]
+
+
+
+This section requires expansion. (June 2008)
+
+
+Vasik Rajlich started working on his chess program at the beginning of 2003. The first Rybka beta was released on December 2, 2005.
+Tournament Participations[edit]
+In January 2004, Rybka participated in the 6th Programmers Computer Chess Tournament (CCT6) event, placing 53rd out of 54 competers, losing 5 games, drawing 3, and beating the last-place finisher who had 0 points (Tohno). [15]
+In April 2004, Rybka participated in Chess War V conducted by Olivier Deville, finishing 23rd in the D Division.[16]
+In April 2004, Rybka participated in the Swiss System Season 3 by Claude Dubois, scoring 6 wins, 6 losses and 6 draws in the Top 200 to finish 71st.[17]
+Rybka participated in Chess War VI finishing 42nd in the D Division.[18] Rybka participated in Chess War VII finishing 48th in the C Division.[19] Rybka participated in AEGT round 3, scoring 89 wins, 28 losses and 15 draws.[20]
+Note: it is now alleged that the above Rybka versions participated illegally by containing code from Crafty. See Crafty controversy below.
+In December 2005, Rybka participated in the 15th International Paderborn Computer Chess Championship. Rybka won the tournament with a score of 5½ points out of 7, ahead of other engines such as Gandalf, Zappa, Spike, Shredder and Fruit.
+
+
+
+
+5th Livingston Chess960 Computer World Championship 2009 at Mainz. The 4 programs Deep Sjeng, Shredder, Rybka and Ikarus (with the programmers).
+
+
+On CCT8 in February 2006, Rybka won with a score of 8 out of 9, going undefeated. In the April 2006 PAL/CSS Freestyle main tournament, an unaided Rybka 1.1 took first place. In the final tournament, Rybka 1.1 finished in second and third place, behind Hydra. In the 6th Leiden ICT in May 2006, Rybka won with a score of 8½ out of 9, ahead of Sjeng, Gandalf and Shredder. At the 14th World Computer Chess Championship in Turin, Italy in May 2006, Rybka, playing under the name Rajlich, finished second, tied with Shredder, after Junior, the winning 2006 World champion. In the June 2006 PAL/CSS Freestyle main tournament, the Rybka team, playing under the handle Rajlich, tied for first place with Intagrand. In the final, the Rybka team took clear first place, a point ahead of the field. All 8 qualifiers for to the final were Rybka users. In the 2006 Dutch open computer chess championship, Rybka 2.2 finished in first place with a perfect score of 9 out of 9.[citation needed] In December 2006, Rybka participated in the 16th International Paderborn Computer Chess Championship. Rybka won the tournament with a score of 6½ points out of 7.[citation needed]
+In February 2007, Rybka participated in the CCT9 and won with 6/7.[citation needed] In the 7th Leiden ICT in May 2007, Rybka won with a score of 7½ out of 9, ahead of Zappa and HIARCS.[citation needed] Rybka won the 15th World Computer Chess Championship in June 2007 with a score of 10 out of 11. The Rybka team, playing under the handle Rajlich, won the June 2007 PAL/CSS Freestyle final with a score of 6/9. Later that year it won again the Dutch open computer chess championship, scoring 8/9.[21]
+In January 2008, Rybka tied for first place in CCT10 with 5.5/7.[citation needed] In October 2008, Rybka won the 16th World Computer Chess Championship, held in Beijing, China, scoring 8/9. A month later Rybka won the 27th Open Dutch Computer Chess Championship, held in Leiden, scoring a perfect 9/9.[22]
+In March 2009, Rybka won CCT11 with 7.5/9[23] and the 17th World Computer Chess Championship, held in Pamplona, Spain, with a score of 8/9.[24]
+In May 2010, Rybka won the International Computer Chess Tournament in Leiden with 8/9.[25]
+Odds matches versus grandmasters[edit]
+Whilst Rybka has won a match with GM Jaan Ehlvest which involved giving pawn odds to the human, GM Larry Kaufman of the Rybka team has pledged his own money to a human GM who can beat Rybka in a six-game match without material odds. GM Jaan Ehlvest was again chosen to play Rybka, getting twice the thinking time and white every match, with Rybka having only a three-move opening book, limited (512MB) hash size, and no endgame tablebases (the match being dubbed "Everything but a pawn"). The match ended 4.5–1.5 after three Rybka wins and three draws.[26]
+In March 2007, Rybka played an eight-game match against GM Roman Dzindzichashvili with pawn and move odds, from March 3 to 8. The result was 4–4, after two Rybka wins, four draws and two losses.[27]
+In September 2008, Rybka played an odds match against Vadim Milov, its strongest opponent yet in an odds match. Milov at the time had an Elo rating of 2705, ranking him 28th in the world. The result was a narrow victory to Milov: In two standard games (Milov played White, no odds), Milov lost the first game and drew the second one. Then they played two games at the classical "pawn and move" handicap (f7 removed). The first game ended in an early draw by perpetual check, while the second was won by Milov. Finally they played four games at odds of the exchange (Rybka removed a1 rook, Milov b8 knight); here Rybka drew three times and lost once. The final score was 4.5–3.5 for Milov.[28]
+Zappa match[edit]
+In September 2007, Zappa defeated Rybka in a match, 5½–4½. Two famous games were played in this match, the first was the 180-move fourth game,[29] which was approaching a draw under the 50-move rule. However, due to an incorrect evaluation by the Rybka engine, at move 109 it moved a pawn to avoid a draw (even though Zappa could, and did, immediately take the pawn), thus resetting the counter for that rule. The loss of the pawn eventually allowed Zappa to whittle away Rybka's defenses and win the game.[30] Then in game 9, Rybka was 3 pawns up with a totally won position, but played a horrific blunder on move 71, "the worst blunder in modern computer chess",[31] as it lacked sufficient knowledge to see a draw would ensue by opposite-color bishops. Zappa had this knowledge, took advantage, and drew the game.[32]Anthony Cozzie thanked his operator Erdogan Gunes for having the wherewithal to stay until the end in these two games, rather than agree to a draw in game 4 or resign in game 9.[33]
+The match came about after Vasik Rajlich made a $100,000 publicity challenge to the FIDE champion Fritz or Junior, even offering odds of a game in a 24-game match (13 points).[34] But negotiations between Rybka and Junior broke down due to disputes over on-site machines.[35] The match was changed to 10 games against Zappa, with $10,000 the amount eventually paid to the winner.
+Versions[edit]
+Version 3[edit]
+Rybka 3 was released on August 6, 2008.[36] While previous versions of Rybka were released exclusively by Convekta, Rybka 3 was released by both Chessbase and Convekta.[37] Although still a UCI engine, Rybka 3 has extra features when run under the ChessBase and Convekta user interfaces.[36] In an interview with Frank Quisinsky, Vasik Rajlich revealed plans for a future GUI that would "properly display chess knowledge to the user" most likely in the form of graphical evaluation of the pieces on the board. The GUI, named Aquarium, has been released by ChessOK (formerly known as Convekta).[38]
+Version 4[edit]
+
+Rybka 4 was released May 26, 2010. Vasik Rajlich has given the following information at the Rybka forum:[39]
+
+Rybka 4 is a normal UCI engine, without copy protection.
+There are separate single-processor and multi-processor versions.
+Full chess analysis packages which include Rybka 4 will be made by ChessBase (www.chessbase.com) and Convekta/ChessOK (www.chessok.com).
+Plain Rybka 4 UCI without GUI for download only is available from RybkaChess (www.rybkachess.com).
+All of these versions of Rybka 4 will be identical and can be used in any UCI-compliant GUI.
+
+
+
+Remote Rybka[edit]
+Vasik Rajlich has now released "Remote Rybka" which is a special version of Rybka (4+ or cluster) on very powerful hardware / clusters run by Lukas Cimiotti.[40] This can be rented for a specific period of time, though currently not less than 2 days due to overhead costs. Upon renting one has access to the Remote Rybka from one's PC, and all details of rentals are strictly private.
+Version 4.1[edit]
+This was a version swiftly produced after the ICGA investigation was announced, to ensure no infidelities in code sourcing.
+Version 5[edit]
+Information from the last video interview by Vasik Rajlich [41] indicated that Rybka 5 was scheduled to arrive anywhere between the end of 2011 and the first half of 2012. This did not occur.
+Controversy[edit]
+Strelka controversy[edit]
+In May 2007, a new chess engine called Strelka (Russian for "arrow") appeared on the scene, claimed to be written by Yuri Osipov. Soon, there were allegations that Strelka was a clone of Rybka 1.0 beta, in the sense that it was a reverse-engineered and slightly modified version of Rybka.[42] Several players found Strelka to yield identical analysis to Rybka in a variety of different situations, even having the same bugs and weaknesses in some cases. Osipov, however, stated repeatedly on discussion boards that Strelka was based on Fruit, not Rybka, and that any similarities was either because Rybka also was based on Fruit, or because he had tuned the evaluation function to be as close to Rybka as possible.[43][44]
+With the release of Strelka 2.0 beta, source code was included. Rajlich stated that the source made it "obvious" that Strelka 2.0 beta was indeed a Rybka 1.0 beta clone, although not without some improvements in certain areas. On the basis of this, he claimed the source as his own and intended to re-release it under his own name,[45] although he later decided not to do so. He also made allegations that "Yuri Osipov" was a pen name.
+According to Victor Zakharov (Convekta company) in his review for Arena chess website: "I consider that Yuri Osipov (Ivanovich) is real name. He didn't hide it. However I can't state this with 100% assurance." And he also has some contact with Yuri Osipov for development of mobile platforms chess program.[46]
+However, Fruit author Fabien Letouzey has clearly expressed in the open letter mentioned above that Strelka 2.0 beta is a Fruit derivate with some minor changes.[47]
+IPPOLIT controversy[edit]
+IPPOLIT, RobboLito, Igorrit, IvanHoe, FireBird and Fire are a series of strong open source chess programs, originally developed by a team of anonymous programmers who call themselves the Decembrists, after the Decembrist revolt.[48][49]
+The chess engine IPPOLIT was released in May 2009 with its source code, but due to the policy of some chess forums not to publish material of "questionable legal status" (e.g. the Talkchess charter [50]) it remained relatively unknown until October 2009. Vasik Rajlich has stated[51] that IPPOLIT is a decompiled version of Rybka, and that the people involved kept him informed of their progress via email.[52] Currently there is only circumstantial evidence for this claim. No legal charges have been filed against any of the engines in the IPPOLIT series.[citation needed] Circumstantial evidence for the claim by Vasik Rajlich is provided by the fact that the source of IPPOLIT[53] resembles the output of a decompiler and furthermore the playing style of IPPOLIT and its derivatives is close to that of Rybka 3.[54] Finally some people have expressed doubts that a super strong chess engine like IPPOLIT could simply appear out of nowhere.[55]
+Crafty chess engine controversy[edit]
+Early private Rybka engines have been accused of being a clone of Crafty.[56] Vasik Rajlich has not responded to these allegations.
+Fruit GPL chess engine controversy[edit]
+Rybka has been accused of being based on Fruit, but Rajlich has denied this categorically,[57] saying that Rybka is 100% original at the source code level. Further allegations of violating the GPL have been brought forward by chess programmer Zach Wegner based on a new decompilation effort and a one-year study of the Rybka 1.0 executable.[58] Rajlich has since declined to respond to these allegations.[59] The Fruit author Fabien Letouzey has since appeared from a 5-year absence in January 2011 and published an open letter[47] asking for more information regarding Rybka and GPL violations.
+The ICGA President David Levy has addressed the situation at ChessVibes and invoked a programmers forum to decide the merits.[60] The options include revoking all tournament victories of Rybka by Statute 3.h.iv.[61] Fourteen well-known chess programmers have since written an open letter to David Levy, Jaap van den Herik and the ICGA board stating that there is now "overwhelming evidence" that Rybka 1.0 beta (the first strong Rybka version) was directly derived from Fruit.[62]
+WCCC disqualification and banning[edit]
+On June 28, 2011, the International Computer Games Association (ICGA) concluded their investigation and determined that Vasik Rajlich in programming Rybka had plagiarized two other chess software programs: Crafty and Fruit.[63] According to ICGA, Vasik Rajlich failed to comply with the ICGA rule that each computer chess program must be the original work of the entering developer and those "whose code is derived from or including game-playing code written by others must name all other authors, or the source of such code, in their submission details".[64] The ICGA regarded Vasik Rajlich's alleged violation as the most serious offence that a chess programmer and ICGA member can commit with respect to his peers and to the ICGA.[65] The ICGA sanction for Vasik Rajlich and Rybka was the disqualification from the World Computer Chess Championship (WCCC) of 2006, 2007, 2008, 2009 and 2010.[66] Vasik Rajlich was also banned for life from competing in the WCCC or any other event organized by or sanctioned by the ICGA.[67] In addition, the ICGA demanded that Vasik Rajlich return to the ICGA the four replicas of the Shannon Trophy presented at the WCCC in 2007, 2008, 2009 and 2010 and to return to the ICGA all prize money awarded for Rybka's performances in those events.[68]
+Response[edit]
+In an interview with fan Nelson Hernandez, Raijlich responded to the ICGA's allegations in a statement, and answered questions about the controversy and his opinions on it.[69]
+In January 2012, ChessBase.com published an article by Dr. Søren Riis. Riis, a computer scientist at the Queen Mary University of London and a Rybka forum moderater, which was critical of the ICGA's decision, the investigation, the methods on which the investigation was based, and the panel members themselves. Riis argued that critical portions of the ICGA panel report that appeared to show line-by-line code duplication between Rybka and Fruit were misleading or falsified, and objected to the panel's composition, suggesting that it consisted almost exclusively of rival chess programmers who had a conflict of interest in seeing Rajlich banned from competition in order to interrupt his unbroken domination of competitive computer chess.[70] ICGA President David Levy and University of Sydney research fellow in mathematics Mark Watkins responded to Riis' publication with their own statements defending the ICGA panel and findings, respectively.[71][72]
+In 2012, Vasik Rajlich filed a complaint[73] against these decisions to the FIDE Ethics Commission, as co-signed by Soren Riis, Ed Schrøder and Chris Whittington. In 2015, the FIDE Ethics Commission ruled that (1) it was competent on the matter, that (2) the ICGA has not violated the FIDE Code of Ethics, nor any other FIDE rule or general principle of law in carrying out proceedings against Rajilch, and (3) by imposing a lifetime ban as a sanction against Mr Rajlich, in absence of a clear statutory basis and without sufficient procedural guarantees the ICGA violated par. 2.2.10 of the FIDE Code of Ethics. In conclusion, a warning was assessed to the ICGA, and an invitation was given to modify their statutes in accordance with FIDE principles and rules.[74]
+Rejection of the ICGA decision by the CSVN[edit]
+The Computer Chess Association of the Netherlands (CSVN) under Cock de Gorter chose "not to abide by their sanctions against Rybka", because the CSVN board "has the most serious doubts as to the rightfulness of ICGA's decision".
+
+Those who were in favour of the sanctions were severely questioned by (e.g.) Miguel A. Ballicora, George Speight and Søren Riis. Their opposition did make an impression on us, because these people can rely upon a vast expertise in the field of chess programming, law and mathematical logic. When finally dutchman Ed Schrøder, former world computer chess champion, joined the aforementioned critics of ICGA, we no longer seemed to have a choice.[75]
+
+Though in fact, none of Ballicora, Speight or Riis was engaged as a CSVN member, and only Ballicora was even a computer chess programmer. Another vehement critic of ICGA was Rolf Tüschen.[76] In response, former participants of CSVN events, 15 in number, put forth an open letter on September 21, 2011, declaring the CSVN reasoning to be misleading and CSVN statements on evidence to be all factually false.[77]They demanded a new direction in CSVN leadership which arrived on December 1, 2012, to oust Cock de Gorter from his position.
+Rybka competed in the 2012 CSVN event (ICT) and won.[78]
 References[edit]
 
 
-^ "Patrons: Jimmy Frizzell". Archived from the original on September 30, 2011. Retrieved 2008-05-26. 
+^ Rajlich, Vasik (March 5, 2011). "Rybka 4.1 Release Notes". Rybkaforum.net. Retrieved March 27, 2014. 
+^ "CCRL 40/40 – Pure list". July 3, 2010. Retrieved July 12, 2010. 
+^ "CEGT 40/20". Chess Engines Grand Tournament. July 11, 2010. Retrieved July 12, 2010. 
+^ "The SSDF Rating List". Swedish Chess Computer Association. March 21, 2010. Retrieved July 12, 2010. 
+^ "Bayesian Elo Ratinglist WBEC Ridderkerk edition 1 – 16". September 22, 2009. Retrieved April 27, 2010. 
+^ IPON; Ponder ON Rating list
+^ Doggers, Peter. "Rybka disqualified and banned from World Computer Chess Championships". Chess Vibes. Retrieved June 29, 2011. 
+^ Rybka-ICGA Ethics Commission Judgement (2015)
+^ "Fritz 15". 
+^ "Vasik Rajlich". Superchessengine.com. December 20, 2005. Retrieved January 2, 2011. 
+^ rybka source code. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Rybka Chess Community Forum July 2007. rybkaforum.net
+^ Rybka Chess Community Forum July 2007. rybkaforum.net
+^ Rybka @ Amsterdam 15th WCCC. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Richey, Volker. "CCT6 Results". Retrieved February 22, 2011. 
+^ "Chess War V D Results". Retrieved February 22, 2011. 
+^ "Swiss System Season 3 Top 200 results". Retrieved February 22, 2011. 
+^ ChessWar VI D 40m/20' – Final standings after round 11. Open-aurec.com. Retrieved on October 12, 2013.
+^ ChessWar VII C 40m/20' – Final standings after round 11. Open-aurec.com. Retrieved on October 12, 2013.
+^ AEGT and Infinite Loop Series. Iggor.110mb.com. Retrieved on October 12, 2013.
+^ "Computerschaak – ONK 2007". Csvn.nl. Retrieved January 2, 2011. 
+^ "Rybka Open Nederlands Kampioen 2008". Csvn.nl. November 16, 2008. Retrieved January 2, 2011. 
+^ CCT11 Final Scoreboard. cctchess.com
+^ "7th World Computer Chess Championship". Grappa.univ-lille3.fr. Retrieved January 2, 2011. 
+^ van Reem, Eric (May 31, 2010). "Rybka wins ICT10 in Leiden". ChessBase. Retrieved May 31, 2010. 
+^ Rybka vs Ehlvest II – information center. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Rybka vs Dzindzichashvili – information center. Rybkaforum.net. Retrieved on October 12, 2013.
+^ The Milov vs. Rybka Handicap Match, Chessbase, September 24, 2008
+^ "Rybka (Computer) vs Zappa (Computer) (2007) "Mothers of Invention"". Chessgames.com. Retrieved January 2, 2011. 
+^ PGNs of game 3 and 4 with Rybka evaluation, Zappa won both. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Cozzie, Anthony Zappa fillets the Fish
+^ "Zappa (Computer) vs Rybka (Computer) (2007)". Chessgames.com. Retrieved January 2, 2015. 
+^ Cozzie, Anthony Zappa fillets the Fish
+^ An Open Letter and $100,000 challenge. Rybkachess.com. Retrieved on October 12, 2013.
+^ Levy, David A Lost Opportunity. chessninja.com
+^ a b "Rybka 3 Release Notes". August 6, 2008. Retrieved August 7, 2008. 
+^ "A 'Little Fish' (Rybka) in Corporate Waters". chessvine.com. July 19, 2008
+^ Rybka Aquarium: Interview with the Developers. chessok.com. July 23, 2008
+^ Rybka 4 update. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Rybka Cluster – for the elite chess player. Rybkachess.com (February 1, 2011). Retrieved on October 12, 2013.
+^ "Another Conversation with Vasik Rajlich" By Nelson Hernandez (on Rybka chess). Youtube.com (July 12, 2011). Retrieved on October 12, 2013.
+^ Strelka 1.0 x32:Rybka clone?. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Strelka = Rybka 1.0. Rybkaforum.net. Retrieved on October 12, 2013.
+^ osipovs arguments about strelka. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Strelka 2.0. Rybkaforum.net. Retrieved on October 12, 2013.
+^ News-Overview. playwitharena.com (February 20, 2009)
+^ a b View topic – Fabien's open letter to the community. TalkChess.com. Retrieved on October 12, 2013.
+^ "IPPOLIT – home". Ippolit.wikispaces.com. December 26, 2010. Retrieved January 2, 2011. 
+^ FireBird. chesslogik.com
+^ Computer-Chess Club Charter – Please Read Before Posting. talkchess.com (March 6, 2006)
+^ "ChessVibes News". Chessvibes.com. Retrieved January 2, 2011. 
+^ Official statement on [Deleted]?. Rybkaforum.net (October 21, 2009). Retrieved on October 12, 2013.
+^ Ippolit – Ippolit.C. Ippolit.wikispaces.com. Retrieved on October 12, 2013.
+^ View topic – Cluster analysis of similarity test. TalkChess.com (December 31, 2010). Retrieved on October 12, 2013.
+^ View topic – New engine: Ippolit. TalkChess.com (October 18, 2009). Retrieved on October 12, 2013.
+^ OpenChess • View topic – Programmers Open Letter to ICGA on Rybka/Fruit. Open-chess.org (March 3, 2011). Retrieved on October 12, 2013.
+^ Is Rybka a derivative of Fruit?. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Evaluation. Webspace.utexas.edu. Retrieved on October 12, 2013.
+^ Rybka Chess Community Forum. Rybkaforum.net. Retrieved on October 12, 2013.
+^ Attack of the clones. ChessVibes. Retrieved on October 12, 2013.
+^ Levy, David. The ICGA Clone and Derivative Investigation Panel. ticc.uvt.nl
+^ Programmers write open letter about Rybka-Fruit issue. ChessVibes. Retrieved on October 12, 2013.
+^ ICGA Investigation Documents. None. Retrieved on October 12, 2013.
+^ 'Cheating' computer disqualified from chess tournament. Hurriyet Daily News (June 30, 2011). Retrieved on October 12, 2013.
+^ Rybka disqualified and banned from World Computer Chess Championships. Chess Vibes. Retrieved on October 12, 2013.
+^ Courchane, Claire. (June 30, 2011) Computer chess champ stripped of its four titles. Washington Times. Retrieved on October 12, 2013.
+^ Tech World: World's best chess program loses titles in plagiarism row. News.techworld.com. Retrieved on October 12, 2013.
+^ Rybka, the world’s best chess engine, outlawed and disqualified. Extreme Tech (June 29, 2011). Retrieved on October 12, 2013.
+^ "Another Conversation with Vasik Rajlich" By Nelson Hernandez (on Rybka chess). Youtube.com (July 12, 2011). Retrieved on October 12, 2013.
+^ Riis, Søren (January 5, 2012). "A Gross Miscarriage of Justice in Computer Chess" (PDF). ChessBase.com. p. 31. Retrieved January 5, 2012. 
+^ Levy, David (January 9, 2012). "No Miscarriage of Justice – Just Biased Reporting". harveywilliamson.com. p. 10. Retrieved January 9, 2012. 
+^ Watkins,Mark (January 9, 2012). "A Critical Analysis Of The Four Parts Of Riis" (PDF). harveywilliamson.com. p. 16. Retrieved January 9, 2012. 
+^ FIDE: Complaint against ICGA (2012)
+^ Judgement: Ethics Commission Judgement (2015)
+^ Rybka en de ICGA. Computerschaak.nl. Retrieved on October 12, 2013.
+^ Rolf Tüschen (Chess Programming Wiki)
+^ Programmer's Open Letter
+^ ICT 2012
 
 
 External links[edit]
 
-Newcastle Fans profile
-Jimmy Frizzell at Trust Oldham
-Jimmy Frizzell management career statistics at Soccerbase
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-Oldham Athletic A.F.C. – managers
-
-
-
-
-
-
-
-
-
-
-Ashworth (1906–14)
-Bamlett (1914–21)
-Roberts (1921–22)
-Ashworth (1923–24)
-Mellor (1924–27)
-Wilson (1927–32)
-McMullan (1933–34)
-Mellor (1934–45)
-Womack (1945–47)
-Wootton (1947–50)
-Hardwick (1950–56)
-Goodier (1956–58)
-Dodgin (1958–60)
-Rowley (1960–63)
-McDowall (1963–65)
-Hurst (1965–66)
-McIlroy (1966–68)
-Rowley (1968–69)
-Frizzell (1970–82)
-Royle (1982–94)
-Sharp (1994–97)
-Warnock (1997–98)
-Ritchie (1998–2001)
-Sheridan (2001c)
-Urmson (2001)
-Wadsworth (2001–02)
-Dowie (2002–03)
-Eyres (2003–04)
-Sheridan (2003–04c)
-Talbot (2004–05)
-Philliskirk (2005c)
-Moore (2005–06)
-Sheridan (2006–09)
-Royle (2009c)
-Penney (2009–10)
-Gray (2010c)
-Dickov (2010–13)
-Philliskirk (2013c)
-Johnson (2013–15)
-Kelly (2015)
-Dunn (2015–16)
-Sheridan (2016–)
-
-
-(c) caretaker
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-Manchester City F.C. – managers
-
-
-
-
-
-
-
-
-
-
-Hopkinson (1880–82)
-Kitchen (1884–87)
-Chew (1887–89)
-Furniss (1889–93)
-Parlby (1893–95)
-Ormerod (1895–1902)
-Maley (1902–06)
-Newbould (1906–12)
-Committee (1912)
-Mangnall (1912–24)
-Ashworth (1924–25)
-Committee (overseen by Albert Alexander, Sr.) (1925–26)
-Hodge (1926–32)
-Wild (1932–46)
-Cowan (1946–47)
-Wild (1947c)
-Thomson (1947–50)
-McDowall (1950–63)
-Poyser (1963–65)
-Committee (1965)
-Mercer (1965–71)
-Allison (1971–73)
-Hart (1973)
-Book (1973c)
-Saunders (1973–74)
-Book (1974–79)
-Allison (1979–80)
-Book (1980c)
-Bond (1980–83)
-Benson (1983)
-McNeill (1983–86)
-Frizzell (1986–87)
-Machin (1987–89)
-Book (1989c)
-Kendall (1989–90)
-Reid (1990–93)
-Book (1993c)
-Horton (1993–95)
-Hartford (1996c)
-Ball (1995–96)
-Coppell (1996)
-Neal (1996c)
-Clark (1996–98)
-Royle (1998–2001)
-Keegan (2001–05)
-Pearce (2005–07)
-Eriksson (2007–08)
-Hughes (2008–09)
-Mancini (2009–13)
-Kidd (2013c)
-Pellegrini (2013–16)
-Guardiola (2016–)
-
-
-(c) caretaker
-
-
-
-
-
+Official Site
+Official Forum
+The CCRL rating list
+The CEGT rating list
+The IPON Ponder ON rating list
+Rybka player profile and games at Chessgames.com
+Interview with Rybka Opening Book Author
 
 
 

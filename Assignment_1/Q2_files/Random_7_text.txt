@@ -3,74 +3,55 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-
-
-
-Acanthocinus nodosus
-
-
-Scientific classification
-
-
-Kingdom:
-Animalia
-
-
-Phylum:
-Arthropoda
-
-
-Class:
-Insecta
-
-
-Order:
-Coleoptera
-
-
-Family:
-Cerambycidae
-
-
-Subfamily:
-Lamiinae
-
-
-Tribe:
-Acanthocinini
-
-
-Genus:
-Acanthocinus
-
-
-Species:
-A. nodosus
-
-
-Binomial name
-
-
-Acanthocinus nodosus
-(Fabricius, 1775)
-
-
-
-Acanthocinus nodosus is a species of longhorn beetles of the subfamily Lamiinae. It was described by Fabricius in 1775.[1]
+Karl Rawer (born April 19, 1913) is a German specialist in radio wave propagation and the ionosphere. He developed the analytical code to determine suitable frequency ranges for short wave communication by which German forces built-up their long distance communications during World War II.[1]
+After studies of mathematics and physics in Freiburg and Munich (with Arnold Sommerfeld),under Jonathan Zenneck he wrote a thesis on partial reflection of radio waves in an ionospheric layer. Aware of this Johannes Plendl charged him to serve as adviser for the Shortwave communications of the German Luftwaffe, since 1943 for Navy and Army too.[2] Rawer's code assumes zig-zag paths between Earth and ionosphere.[3][4] Monthly predictions take account of day-to-day variations.[5] Long term changes from solar cycles is taken account of by Wolfgang Gleißberg´s prediction method.[6]
+After the war Yves Rocard, then director of French Navy research was impressed by Rawer's code. He engaged him as "directeur scientifique" (1946–56) of his newly founded "Service de Prevision Ionospherique".[7] Later (1956–69) Rawer, now serving in Germany as director of "Ionosphären-Institut Breisach" switched to space research. With his team he participated in the first French scientific rocket launch 1954 in the Sahara desert and later they experimented aboard rockets of different nationality.[8]
+From 1958 to 1964 he was "professeur associe" at the University of Paris. Rawer held several offices in the international space research organisation COSPAR. As director of "Fraunhofer-Institut für physikalische Weltraumforschung" (1969–79) he became the father of two German/Us satellites (AEROS, 1972 and 1975).[9] He was actively engaged in the International Geophysical Year (gold button 2007) and follow-ups. In the International Union of Radio Science (URSI) he served with William Roy Piggott as co-author of the booklet on ionogram reduction and was vice-chairman and chairman of the ionospheric committee 1966–72.[10] He is the father and longtime chairman of the International Reference Ionosphere that since 1999 is International Standard.
+Rawer is doctor honoris causa of the university at Düsseldorf, corresponding member of the International Academy of Astronautics and of "Oesterreichische Akademie der Wissenschaften Wien".
 References[edit]
 
 
-^ Acanthocinus nodosus at ITIS.
+^ Rawer, Karl (1986). Meine Kinder umkreisen die Erde: der Bericht eines Satellitenforschers. Herder. ISBN 978-3-451-08226-9. 
+^ Rawer, Karl (1951). Ausbreitungsvorhersage für Kurzwellen mit Hilfe von Ionosphärenbeobachtungen: Herrn Jonathan Zenneck zum 80. Geburtstage. Hirzel. p. 154ff. 
+^ Rawer, Karl (1956). The ionosphere: its significance for geophysics and radio communications. Translated from [sic] the German by Ludwig Katz. F. Ungar. p. 216ff. 
+^ Rawer, Karl (1963). "Propagation of decameter waves (H.F.band)". Meteorological and Aeronomical Influences on Radio Wave Propagation. Oxford: Pergamon Press. p. 216ff. 
+^ Rawer, Karl; Suchy, Kurt (1966). "Radio Observations of the Ionosphere". Handbuch Der Physik: Encyclopedia of Physics 49/1. Springer. 
+^ Die Häufigkeit der Sonnenflecken. Akademie Verlag. 1952. 
+^ Rocard, Yves (1988). Mémoires sans concessions. B. Grasset. ISBN 978-2-246-41121-5. 
+^ Rawer, K. (9 March 2013). Wave Propagation in the Ionosphere. Springer Science & Business Media. ISBN 978-94-017-3665-7. 
+^ Rawer, Karl (1976). "Some results of the AEROS missions". Space Research XVI (Berlin: Akademie-Verlag). 
+^ Piggott, W. R.; Rawer, Karl (1961). URSI handbook of ionogram interpretation and reduction. Elsevier Pub. Co. 
+
+
+Sources[edit]
+
+Karl Rawer: "Meine Kinder umkreisen die Erde" (autobiography). Herder, Freiburg i. Brsg.,159 S. 1986, ISBN 3-451-08226-8
+Bodo W. Reinisch: "Karl Rawer´s lfe and the history of the IRI". Adv. Space Res. 34, 1845R 2004
+Dieter Bilitza: "35 Years of International Reference Ionosphre - Karl Rawer´s legacy". Adv. Radio Sci. 2, 283, 2004
+
+External links[edit]
+
+International Reference Ionosphere
 
 
 
 
-This Acanthocinini article is a stub. You can help Wikipedia by expanding it.
 
 
-v
-t
-e
+Authority control
+
+
+
+WorldCat
+VIAF: 109690276
+LCCN: n50054035
+ISNI: 0000 0001 0933 5948
+GND: 118511246
+SUDOC: 069306451
+BNF: cb12409692f (data)
+
+
+
 
 
 

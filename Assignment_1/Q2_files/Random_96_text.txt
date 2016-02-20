@@ -3,32 +3,109 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
+Not to be confused with Bioprospecting.
 
 
 
 
 
-This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (February 2011)
 
 
-Wabbicommicot (died 1768) was a Mississauga chief instrumental in maintaining friendly relations between his Mississauga tribe and the British. Throughout his chiefship, Wabbicommicot had about 150 warriors under his control.[1]
-Biography[edit]
-Although it is not known when Wabbicommicot was born, his name first appears on some British documents detailing a meeting between him and Sir William Johnson, 1st Baronet, the British superintendent of northern Indians at Fort Niagara in July 1761. Rumours had spread that a number of key Seneca figures had been attempting to provoke rebellion against the British among western tribes, so Sir Johnson had been travelling to Detroit for an initial meeting with those tribes allied with the French. Wabbicommicot accompanied Johnson on this trip and thanked Johnson for bringing peace to "our Country which was in a treamor".[2] However, no amount of negotiation on the part of Johnson could make up for years of the British policy of severing the Indians' supply of rum and ammunition.[2]
-During the winter of 1762–3, Wabbicommicot reported to a Toronto-based trader that the First Nations in the region had been put on alert that a French contingent would be arriving shortly to retake the area, and that war would break out between the Indians and the British in spring. Wabbicommicot insisted that he was against a plan such as this, but said that he could not warn his people against it.[3] In May 1763, Wabbicommicot arrived at Fort Niagara to demand rum for his people, warning that he would not be able to guarantee friendly outcomes should his demand be refused.[2][4] Despite Wabbicommicot's alliance with the British, the personnel at Fort Niagara soon received word that some traders were attacked by Mississaugas at the mouth of the Grand River.[2]
-In October 1763, Wabbicommicot travelled to Detroit to make a peace offering to the commandant there. He claimed that not only his own tribe but also the Ottawas and the Ojibwas wanted peace in the region. This statement was given weight by the Ojibwa's subsequent release of six prisoners as proof that they wanted to end the war.[5] By 1764, the fighting had ceased, and in September Wabbicommicot was present at the signing of a major treaty in Detroit. In the following years, Wabbicommicot continued his friendship with Johnson at Fort Niagara, feeding him news on occasion. In 1767, Wabbicommicot was asked by the British to put an end to the illicit trading occurring at Toronto. In August 1768, Mississaugas appeared at Fort Niagara and informed Johnson of Wabbicommicot's death.[2]
-Notes[edit]
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
 
 
-^ Schmalz, 281
-^ a b c d e Graham, Jane E. (1974). "Wabbicommicot". In Halpenny, Francess G. Dictionary of Canadian Biography. III (1741–1770) (online ed.). University of Toronto Press. 
-^ Schmalz, 71
-^ Schmalz, 72
-^ Schmalz, 75
 
 
+
+
+
+
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2013)
+
+
+
+
+
+
+
+This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: <See talk section.> Please help improve this article if you can. (January 2013)
+
+
+
+
+
+
+
+
+Biomining is an approach to the extraction of desired minerals from ores. Microorganisms are used to leach out the minerals, rather than the traditional methods of extreme heat or toxic chemicals, which have a deleterious effect on the environment.
+
+
+
+Contents
+
+
+1 Overview
+2 Processing methods
+3 References
+4 External links
+
+
+
+Overview[edit]
+The development of industrial mineral processing has been established now in several countries including South Africa, Brazil and Australia. Iron-and sulfur-oxidizing microorganisms are used to release occluded copper, gold and uranium from mineral sulfides. Most industrial plants for biooxidation of gold-bearing concentrates have been operated at 40 °C with mixed cultures of mesophilic bacteria of the genera Acidithiobacillus or Leptospirillum ferrooxidans. In subsequent studies the dissimulatory iron-reducing archaea Pyrococcus furiosus and Pyrobaculum islandicum were shown to reduce gold chloride to insoluble gold.
+Using Bacteria such as Acidithiobacillus ferrooxidans to leach copper from mine tailings has improved recovery rates and reduced operating costs. Moreover, it permits extraction from low grade ores - an important consideration in the face of the depletion of high grade ores.[1]
+The potential applications of biotechnology to mining and processing are countless. Some examples of past projects in biotechnology include a biologically assisted in situ mining program, biodegradation methods, passive bioremediation of acid rock drainage, and bioleaching of ores and concentrates. This research often results in technology implementation for greater efficiency and productivity or novel solutions to complex problems. Additional capabilities include the bioleaching of metals from sulfide materials, phosphate ore bioprocessing, and the bioconcentration of metals from solutions. One project recently under investigation is the use of biological methods for the reduction of sulfur in coal-cleaning applications. From in situ mining to mineral processing and treatment technology, biotechnology provides innovative and cost-effective industry solutions.
+The potential of thermophilic sulfide-oxidizing archaea in copper extraction has attracted interest due to the efficient extraction of metals from sulfide ores that are recalcitrant to dissolution. Microbial leaching is especially useful for copper ores because copper sulfate, as formed during the oxidation of copper sulfide ores, is very water-soluble. Approximately 25% of all copper mined worldwide is now obtained from leaching processes. The acidophilic archaea Sulfolobus metallicus and Metallosphaera sedula tolerate up to 4% of copper and have been exploited for mineral biomining. Between 40 and 60% copper extraction was achieved in primary reactors and more than 90% extraction in secondary reactors with overall residence times of about 6 days.
+The oxidation of the ferrous ion (Fe2+) to the ferric ion (Fe3+) is an energy producing reaction for some microorganisms. As only a small amount of energy is obtained, large amounts of (Fe2+) have to be oxidized. Furthermore, (Fe3+) forms the insoluble Fe(OH)
+3 precipitate in H2O. Many Fe2+ oxidizing microorganisms also oxidize sulfur and are thus obligate acidophiles that further acidify the environment by the production of H2SO4. This is due in part to the fact that at neutral pH Fe2+ is rapidly oxidized chemically in contact with the air. In these conditions there is not enough Fe2+ to allow significant growth. At low pH, however, Fe2+ is much more stable. This explains why most of the Fe2+ oxidizing microorganisms are only found in acidic environments and are obligate acidophiles.
+The best studied Fe2+ oxidizing bacterium is Acidithiobacillus ferrooxidans, an acidophililic chemolithotroph. The microbiological oxidation of Fe2+ is an important aspect of the development of acidic pH’s in mines, and constitutes a serious ecological problem. However, this process can also be usefully exploited when controlled. The sulfur containing ore pyrite (FeS2) is at the start of this process. Pyrite is an insoluble crystalline structure that is abundant in coal- and mineral ores. It is produced by the following reaction:
+
+S + FeS → FeS2
+
+Normally pyrite is shielded from contact with oxygen and not accessible for microorganisms. Upon exploitation of the mine, however, pyrite is brought into contact with air (oxygen) and microorganisms and oxidation will start. This oxidation relies on a combination of chemically and microbiologically catalyzed processes. Two electron acceptors can influence this process: O2 and Fe3+ ions. The latter will only be present in significant amounts in acidic conditions (pH < 2.5). First a slow chemical process with O2 as electron acceptor will initiate the oxidation of pyrite:
+
+FeS2 + 7/2 O2 + H2O → Fe2+ + 2 SO42− + 2 H+
+
+This reaction acidifies the environment and the Fe2+ will be formed is rather stable. In such an environment Acidithiobacillus ferrooxidans will be able to grow rapidly. Upon further acidification Ferroplasma will also develop and further acidify. As a consequence of the microbial activity (energy producing reaction):
+Fe2+ → Fe3+
+This Fe3+ that remains soluble at low pH reacts spontaneously with the pyrite:
+FeS2 + 14 Fe3+ + 8 H2O → 15 Fe2+ + 2 SO42− + 16 H+
+The produced Fe2+ can again be used by the microorganisms and thus a cascade reaction will be initiated.
+Processing methods[edit]
+In the industrial microbial leaching process popularly known as bioleaching, low grade ore is dumped in a large pile (the leach dump) and a dilute sulfuric acid solution (pH 2) is percolated down through the pile.[1] The liquid coming out at the bottom of the pile, rich in the mineral is collected and transported to a precipitation plant where the metal is reprecipitated and purified. The liquid is then pumped back to the top of the pile and the cycle is repeated.
+Acidithiobacillus ferrooxidans is able to oxidize the Cu+ in chalcocite (Cu2S) to Cu2+, thus removing some of the copper in the soluble form, Cu2+, and forming the mineral covellite (CuS). This oxidation of Cu+ to Cu2+ is an energy yielding reaction (such as the oxidation of Fe2+ to Fe3+). Covellite can then be oxidized, releasing sulfate and soluble Cu2+ as products.
+A second mechanism, and probably the most important in most mining operations, involves chemical oxidation of the copper ore with ferric (Fe3+) ions formed by the microbial oxidation of ferrous ions (derived from the oxidation of pyrite). Three possible reactions for the oxidation of copper ore are:
+
+Cu2S + 1/2 O2 + 2 H+ → CuS + Cu2+ + H2O
+CuS + 2 O2 → Cu2+ + SO42−
+CuS + 8 Fe3+ + 4 H2O → Cu2+ + 8 Fe2+ + SO42− + 8 H+
+
+The copper metal is the recovered by using Fe0 from steel cans:
+
+Fe0 + Cu2+ → Cu0 + Fe2+
+
+The temperature inside the leach dump often rises spontaneously as a result of microbial activities. Thus, thermophilic iron-oxidizing chemolithotrophs such as thermophilic Acidithiobacillus species and Leptospirillum and at even higher temperatures the thermoacidophilic archaeon Sulfolobus (Metallosphaera sedula) may become important in the leaching process above 40 °C. Similarly to copper, Acidithiobacillus ferrooxidans can oxidize U4+ to U6+ with O2 as electron acceptor. However, it is likely that the uranium leaching process depends more on the chemical oxidation of uranium by Fe3+, with At. ferrooxidans contributing mainly through the reoxidation of Fe2+ to Fe3+ as described above.
+
+UO2 + Fe(SO4)3 → UO2SO4 + 2 FeSO4
+
+Gold is frequently found in nature associated with minerals containing arsenic and pyrite. In the microbial leaching process At. ferrooxidans and relatives are able to attack and solubilize the arsenopyrite minerals, and in the process, releasing the trapped gold (Au):
+
+2 FeAsS[Au] + 7 O2 + 2 H2O + H2SO4 → Fe(SO4)3 + 2 H3AsO4 + [Au]
+
+Biohydrometallurgy is an emerging trend in biomining in which commercial mining plants operate continuously stirred tank reactor (STR) and the airlift reactor (ALR) or pneumatic reactor (PR) of the Pachuca type to extract the low concentration mineral resources efficiently. [1]
 References[edit]
 
-Schmalz, Peter (1991). The Ojibwa of southern Ontario. Toronto: University of Toronto Press. ISBN 0-8020-6778-6. Retrieved January 25, 2011. 
+
+^ a b c Kundu et al. 2014 "Biochemical Engineering Parameters for Hydrometallurgical Processes: Steps towards a Deeper Understanding"
+
+
+External links[edit]
+
+"NBIAP News Report." U.S. Department of Agriculture (June 1994).
+Biomining at Access Excellence
+Microbial Leaching of Ores at Rediscovering BIOLOGY, Online Textbook
+REBgold Bioleaching
 
 
 

@@ -5,334 +5,212 @@ From Wikipedia, the free encyclopedia
 
 
 
-Colesville, Maryland
-
-
-Census-designated place
-
-
-Nickname(s): South Stonegate
 
 
 
-Location of Colesville, Maryland
 
 
-Coordinates: 39°4′47″N 77°0′12″W﻿ / ﻿39.07972°N 77.00333°W﻿ / 39.07972; -77.00333Coordinates: 39°4′47″N 77°0′12″W﻿ / ﻿39.07972°N 77.00333°W﻿ / 39.07972; -77.00333
+
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
 
 
-Country
- United States of America
 
 
-State
- Maryland
 
 
-County
- Montgomery
 
 
-Area
+This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (April 2010)
 
 
- • Total
-9.2 sq mi (23.9 km2)
 
 
- • Land
-9.2 sq mi (23.9 km2)
 
 
- • Water
-0.0 sq mi (0.0 km2)
+
+This article may need to be rewritten entirely to comply with Wikipedia's quality standards. You can help. The discussion page may contain suggestions. (May 2009)
 
 
-Elevation
-436 ft (133 m)
 
 
-Population (2000)
 
 
- • Total
-19,810
+
+This article is outdated. Please update this article to reflect recent events or newly available information. (February 2016)
 
 
- • Density
-2,144.4/sq mi (828.0/km2)
 
 
-Time zone
-Eastern (EST) (UTC-5)
 
 
- • Summer (DST)
-EDT (UTC-4)
 
 
-ZIP codes
-20904, 20905, 20914
-
-
-Area code(s)
-301, 240
-
-
-FIPS code
-24-18475
-
-
-GNIS feature ID
-0589998
-
-
-Colesville is a census-designated place and an unincorporated area in Montgomery County, Maryland, in the United States.
+Installation (or setup) of a computer program (including device drivers and plugins), is the act of making the program ready for execution. Because the process varies for each program and each computer, programs (including operating systems) often come with an installer, a specialized program responsible for doing whatever is needed for their installation. Installation may be part of a larger software deployment process.
+Installation typically involves code being copied/generated from the installation files to new files on the local computer for easier access by the operating system. Because code is generally copied/generated in multiple locations, uninstallation usually involves more than just erasing the program folder. For example, registry files and other system code may need to be modified or deleted for a complete uninstallation.
 
 
 
 Contents
 
 
-1 Geography
-2 History
-3 Demographics
-4 References
-5 External links
+1 Overview
+2 Necessity
+3 Types
+
+3.1 Attended installation
+3.2 Silent installation
+3.3 Unattended installation
+3.4 Headless installation
+3.5 Scheduled or automated installation
+3.6 Clean installation
+3.7 Network installation
+
+
+4 Installer
+
+4.1 Bootstrapper
+4.2 Common types
+4.3 System installer
+
+
+5 See also
+6 References
 
 
 
-Geography[edit]
-As an unincorporated area, Colesville's boundaries are not officially defined. In fact, many residents consider the town to be one of the many neighborhoods of Silver Spring, Maryland. Colesville is recognized by the United States Postal Service as an acceptable city name in two northeastern Montgomery County ZIP codes, with Silver Spring being the preferred city name. It is also recognized by the United States Census Bureau as a census-designated place, and by the United States Geological Survey as a populated place located at 39°4′47″N 77°0′12″W﻿ / ﻿39.07972°N 77.00333°W﻿ / 39.07972; -77.00333 (39.079695, -77.003263).[1]
-According to the United States Census Bureau, the place has a total area of 9.2 square miles (24 km2), all of it land.
-Colesville's generally accepted boundaries extend between the Northwest and Paint Branches of the Anacostia River. Its northern and southern boundaries are not as well-defined, but are usually assumed to run from Springbrook High School in the south to Cloverly in the north.
-History[edit]
-The first land was purchased in Colesville from the Lords Baltimore in 1714, when Archibald Edmonston patented "Easy Purchase", a 900-acre (3.6 km2) tract that extended from Meadowood south to near present-day Route 29. In 1715, "Easy Purchase" was bought by James Beall, Sr., who that year also patented "Drumeldry", a 225-acre (0.91 km2) tract from the Northwest Branch across Notley Road to Shannon Drive. In 1718, his nephew William Beall patented "Wolf's Den", a 317-acre (1.28 km2) tract that straddled today's Bonifant Road and ran from Notley Road to Pebblestone Drive, and then southwest across the Northwest Branch.
-However, none of these early landowners actually resided in Colesville. Robert Lazenby, thought to be the son of Henry Lazenby, High Sheriff of Anne Arundel County, purchased 217 acres (0.88 km2) of the southern part of "Wolfs Den" from William Beall in 1723, and became the first president farmer in Colesville.
-In 1747, James Odell, grandson of James Beall Sr., was deeded 300 acres (1.2 km2) of a tract known as "Beal Christie" from his parents, and took to farming it. It was located east of today's New Hampshire Avenue near where it crosses Randolph Road.[2]
-In the 1790s, Peter Kemp built a saw and grist mill on Paint Branch where it is crossed by today's Randolph Road. The mill was rebuilt twice, and what is seen today in Valley Mill Park is the 1879 mill built by Franklin Pilling, which ceased to operate by 1930.[3]
-The earliest recorded use of the "Colesville" name was on January 25, 1806, when the General Assembly of Maryland changed the place of holding elections of the Fourth Election District of Montgomery County to "Edward Berry's, commonly called Coale's-Ville".[4] It is unknown where this name came from, but it may have come from the maiden name of Elizabeth (Coale) Snowden, wife of Richard Snowden who was the owner of "Snowden's Manor" in nearby Sandy Spring and began living there in 1728.[5] By 1824 the name was generally known as "Coalsville",[6] and was sometimes referred to as such even as late as 1906.[7]
+Overview[edit]
+Some computer programs can be executed by simply copying them into a folder stored on a computer and executing them. Other programs are supplied in a form unsuitable for immediate execution and therefore need an installation procedure. Once installed, the program can be executed again and again, without the need to reinstall before each execution.
+Common operations performed during software installations include:
+
+Making sure that necessary system requirements are met
+Checking for existing versions of the software
+Creating or updating program files and folders
+Adding configuration data such as configuration files, Windows registry entries or environment variables
+Making the software accessible to the user, for instance by creating links, shortcuts or bookmarks
+Configuring components that run automatically, such as daemons or Windows services
+Performing product activation
+Updating the software versions
+
+These operations may require some charges or be free of charge. In case of payment, installation costs means the costs connected and relevant to or incurred as a result of installing the drivers or the equipment in the customers' premises, and includes any costs payable by the company in respect of deciding to enter into this agreement with customer.
+Some installers may attempt to trick users into installing junkware such as various forms of adware, toolbars, trialware or software of partnering companies.[1] To prevent this extra caution on what exactly is being asked to be installed is needed. The installation of additional software then can simply be skipped or unchecked (this may require the user to use the "custom", "detailed" or "expert" version of the installation procedure).[1]
+Such malicious conduct is not necessarily a decision by the software developers or their company but can also be an issue of external installers such as the Download.com installer by CNET.[2]
+Necessity[edit]
+As mentioned earlier, some computer programs need no installation. This was once usual for many programs which run on DOS, Mac OS, Atari TOS and AmigaOS. As computing environments grew more complex and fixed hard drives replaced floppy disks, the need for tangible installation presented itself.
+A class of modern applications that do not need installation are known as portable applications, as they may be roamed around onto different computers and run. Similarly, there are live operating systems, which do not need installation and can be run directly from a bootable CD, DVD, USB flash drive or loaded over the network as with thin clients. Examples are AmigaOS 4.0, various Linux distributions, MorphOS or Mac OS versions 1.0 through 9.0. (See live CD and live USB.) Finally, web applications, which run inside a web browser, do not need installation.
+Types[edit]
+Attended installation[edit]
+On Windows systems, this is the most common form of installation. An installation process usually needs a user who attends it to make choices, such as accepting or declining an end-user license agreement (EULA), specifying preferences such as the installation location, supplying passwords or assisting in product activation. In graphical environments, installers that offer a wizard-based interface are common. Attended installers may ask users to help mitigate the errors. For instance, if the disk in which the computer program is being installed was full, the installer may ask the user to specify another target path or clear enough space in the disk.
+Silent installation[edit]
+Installation that does not display messages or windows during its progress. "Silent installation" is not the same as "unattended installation" (see below): All silent installations are unattended but not all unattended installations are silent. The reason behind a silent installation may be convenience or subterfuge. Malware is almost always installed silently.[citation needed]
+Unattended installation[edit]
+Installation that is performed without user interaction during its progress or with no user present at all. One of the reasons to use this approach is to automate the installation of a large number of systems. An unattended installation either does not require the user to supply anything or has received all necessary input prior to the start of installation. Such input may be in the form of command line switches or an answer file, a file that contains all the necessary parameters. Windows XP and most Linux distributions are examples of operating systems that can be installed with an answer file. In unattended installation, it is assumed that there is no user to help mitigate errors. For instance, if the installation medium was faulty, the installer should fail the installation, as there is no user to fix the fault or replace the medium. Unattended installers may record errors in a computer log for later review.
+Headless installation[edit]
+Installation performed without using a computer monitor connected. In attended forms of headless installation, another machine connects to the target machine (for instance, via a local area network) and takes over the display output. Since a headless installation does not need a user at the location of the target computer, unattended headless installers may be used to install a program on multiple machines at the same time.
+Scheduled or automated installation[edit]
+An installation process that runs on a preset time or when a predefined condition transpires, as opposed to an installation process that starts explicitly on a user's command. For instance, a system administrator willing to install a later version of a computer program that is being used can schedule that installation to occur when that program is not running. An operating system may automatically install a device driver for a device that the user connects. (See plug and play.) Malware may also be installed automatically. For example, the infamous Conficker was installed when the user plugged an infected device to their computer.
+Clean installation[edit]
+A clean installation is one that is done in the absence of any interfering elements such as old versions of the computer program being installed or leftovers from a previous installation. In particular, the clean installation of an operating system is an installation in which the target disk partition is erased before installation. Since the interfering elements are absent, a clean installation may succeed where an unclean installation may fail or may take significantly longer.
+Network installation[edit]
+Not to be confused with network booting.
+Network installation, shortened netinstall, is an installation of a program from a shared network resource that may be done by installing a minimal system before proceeding to download further packages over the network. This may simply be a copy of the original media but software publishers which offer site licenses for institutional customers may provide a version intended for installation over a network.
+Installer[edit]
+
+
+
+Look up installer in Wiktionary, the free dictionary.
+
+
+An installation program or installer is a computer program that installs files, such as applications, drivers, or other software, onto a computer. Some installers are specifically made to install the files they contain; other installers are general-purpose and work by reading the contents of the software package to be installed.
+The differences between a package management system and an installer are:
+This box:
+
+view
+talk
+edit
 
 
 
 
-Milimar
+Criterion
+Package manager
+Installer
 
 
-The oldest standing house in Colesville is "Milimar" at 410 Randolph Road, which is in the National Register of Historic Places and was built around 1790. It is also known as "The Old Lazanby Home",[8] but was probably built by Samuel and Mary Peach, who purchased the 164.5-acre (0.666 km2) tract it is on known as "Peaches Lot" from Evan Thomas shortly after he freed his slaves.[2]
-The New York Times reported[9] that President Franklin Pierce purchased a farm of 600 acres (2.4 km2) in Colesville in 1855.
-Joseph F. Burr started purchasing Colesville-area land in 1869. By 1872, he had amassed nearly 1,000 acres (4.0 km2) and lived in a beautiful mansion on the property known as Valley View. The mansion was located on the north side of today's Randolph Road, on the site of today's Holy Family Seminary. Burr was a friend of President Grover Cleveland, who visited Valley View frequently.[2]
-An old house built in 1850 is still standing at 13910 Notley Road.[10] It was used as a school by a Miss Laxbenny in the late 1800s and was known as "Drumeldra".
-In 1927, the Smithville Colored School was founded in Colesville. It was one of sixteen schools for African Americans constructed in the county with financial assistance from the Julius Rosenwald Fund. It was closed in 1952 when all Montgomery County schools for "colored" children were consolidated.
-Colesville United Methodist Church is located in Colesville, Maryland.
-The Holy Family Seminary, headquarters of the American Delegation of the catholic order of the Sons of the Holy Family, is also located in Colesville, since 1946.
-Colesville hosts the Strawberry Festival every May. The festival is located at the corner of Hobbes Drive and New Hampshire Avenue. Vendors sell strawberries and ice cream, and volunteers organize carnival games for babies.
-On February 6, 2010, Colesville had a record regional snowfall of 40.00 inches.
-Demographics[edit]
-As of the US census[11] of 2000, there were 19,810 people, 6,525 households, and 5,526 families residing in the area. The population density was 2,144.4 people per square mile (827.8/km²). There were 6,615 housing units at an average density of 716.1 per square mile (276.4/km²). The racial makeup of the area was 55.33% White, 22.25% African American, 0.23% Native American, 17.93% Asian, 0.02% Pacific Islander, 1.52% from other races, and 2.72% from two or more races. Hispanic or Latino of any race were 4.79% of the population.
-There were 6,525 households out of which 37.1% had children under the age of 18 living with them, 73.1% were married couples living together, 9.0% had a female householder with no husband present, and 15.3% were non-families. 12.3% of all households were made up of individuals and 5.7% had someone living alone who was 65 years of age or older. The average household size was 3.02 and the average family size was 3.28.
-In the area the population was spread out with 25.1% under the age of 18, 6.7% from 18 to 24, 23.0% from 25 to 44, 31.5% from 45 to 64, and 13.7% who were 65 years of age or older. The median age was 42 years. For every 100 females there were 94.7 males. For every 100 females age 18 and over, there were 90.7 males.
-The median income for a household in the area was $91,696, and the median income for a family was $97,406. Males had a median income of $61,119 versus $46,169 for females. The per capita income for the area was $34,942. About 2.0% of families and 3.0% of the population were below the poverty line, including 3.8% of those under age 18 and 2.6% of those age 65 or over.
+Shipped with
+Usually, the operating system
+Each computer program
+
+
+Location of installation information
+One central installation database
+It is entirely at the discretion of the installer. It could be a file within the app's folder, or among the operating system's files and folders. At best, they may register themselves with an uninstallers list without exposing installation information.
+
+
+Scope of maintenance
+Potentially all packages on the system
+Only the product with which it was bundled
+
+
+Developed by
+One package manager vendor
+Multiple installer vendors
+
+
+Package format
+One or two well-known formats
+There could be as many formats as the number of apps
+
+
+Package format compatibility
+Can be consumed as long as the package manager supports it. Either newer versions of the package manager keep supporting it or the user does not upgrade the package manager.
+The installer is always compatible with its archive format, if it uses any. However, installers, like all computer programs, may be affected by software rot.
+
+
+Bootstrapper[edit]
+During the installation of computer programs it is sometimes necessary to update the installer or package manager itself. To make this possible, a technique called bootstrapping is used. The common pattern for this is to use small executable files which update the installer and starts the real installation after the update. This small executable is called bootstrapper. Sometimes the bootstrapper installs other prerequisites for the software during the bootstrapping process too.
+Common types[edit]
+Main article: List of installation software
+Cross-platform installer builders produce installers that run on Windows, OS X and Linux. An example is InstallAnywhere by Flexera Software.
+Windows NT family includes an installation API and an associated service called Windows Installer. Microsoft provides a bare minimum of tools required to create installers using Windows Installer in the freely available Windows SDK. Third party tools may supporting create installers using this API to speed the process. Examples include InstallShield (Flexera Software) and WiX (Outercurve Foundation). Installation authoring tools that do not rely on Windows Installer include Wise Installation Studio (Wise Solutions, Inc.), Installer VISE (MindVision Software), Visual Installer (SamLogic), NSIS, Clickteam, InnoSetup and InstallSimple.
+OS X includes Installer, a native package manager. OS X also includes a separate software updating application, Software Update but only supports Apple and system software. Included in the dock as of 10.6.6, the Mac App Store shares many attributes with the successful App Store for iOS devices, such as a similar app approval process, the use of Apple ID for purchases, and automatic installation and updating. Although this is Apple's preferred delivery method for OS X,[3] previously purchased licenses can not be transferred to the Mac App Store for downloading or automatic updating. Commercial applications for OS X may also use a third-party installer, such as Mac version of Installer VISE (MindVision Software) or InstallerMaker (StuffIt).
+System installer[edit]
+A system installer is the software that is used to set up and install an operating system onto a device. Examples of system installers on Linux are Ubiquity and Wubi for Ubuntu, Anaconda for CentOS and Fedora, Debian-Installer for Debian-based versions of Linux, and YaST for SUSE-based projects. Another example is found in the Haiku operating system, which uses a utility called Haiku Installer to install itself onto a device after booting from a live CD or live USB.
+See also[edit]
+
+
+
+
+Information technology portal
+
+
+
+
+Application streaming
+Application virtualization
+Pre-installed software
+Software distribution
+Uninstaller
+
 References[edit]
 
 
-^ "US Gazetteer files: 2010, 2000, and 1990". United States Census Bureau. 2011-02-12. Retrieved 2011-04-23. 
-^ a b c Ned Bayley, "Colesville, Maryland: The Development of a Community, its People and its Natural Resources, Over a Period of Four Centuries", Heritage Books Inc., July 2003, ISBN 978-1-58549-004-2.
-^ Valley Mill Project
-^ Archives of Maryland, Volume 0607, Page 0061 - Session Laws, 1805
-^ The Founders of Anne Arundel and Howard Counties, Maryland, p. 361 https://books.google.com/books?id=vgINAAAAYAAJ&dq=%22the+founders+of+anne+arundel%22
-^ Archives of Maryland, Volume 0628, Page 0126 - Session Laws, 1823
-^ Archives of Maryland, Volume 0479, Page 0631 - Session Laws, 1906 Session
-^ Milimar - Archiplanet
-^ "The Future Home of President Fierce," New York Times, September 12, 1855
-^ results
-^ "American FactFinder". United States Census Bureau. Retrieved 2008-01-31. 
+^ a b Hoffman, Chris (27 July 2013). "How to Avoid Installing Junk Programs When Downloading Free Software". HowToGeek. Retrieved 6 October 2015. 
+^ Mathews, Lee (22 August 2011). "Download.com wraps downloads in bloatware, lies about motivations". ExtremeTech. Retrieved 6 October 2015. 
+^ http://www.apple.com/mac/app-store/great-mac-apps.html
 
 
-External links[edit]
 
- Geographic data related to Colesville, Maryland at OpenStreetMap
 
 
 
 
+Authority control
 
 
 
+GND: 4388841-0
 
 
-v
-t
-e
-
-
-Municipalities and communities of Montgomery County, Maryland, United States
-
-
-
-
-
-
-
-County seat: Rockville
-
-
-
-
-
-
-Cities
-
-
-
-Gaithersburg
-Rockville
-Takoma Park
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Towns
-
-
-
-Barnesville
-Brookeville
-Chevy Chase
-Chevy Chase View
-Chevy Chase Village
-Garrett Park
-Glen Echo
-Kensington
-Laytonsville
-Poolesville
-Somerset
-Washington Grove
-
-
-
-
-
-
-
-
-Villages &
-Special Tax Districts
-
-
-
-Chevy Chase Section Three
-Chevy Chase Section Five
-Drummond
-Friendship Heights
-Martin's Additions
-North Chevy Chase
-Oakmont
-
-
-
-
-
-
-
-
-CDPs
-
-
-
-Ashton-Sandy Spring
-Aspen Hill
-Bethesda
-Brookmont
-Burtonsville
-Cabin John
-Calverton‡
-Chevy Chase
-Clarksburg
-Cloverly
-Colesville
-Damascus
-Darnestown
-Derwood
-Fairland
-Forest Glen
-Four Corners
-Friendship Heights Village
-Germantown
-Glenmont
-Hillandale‡
-Kemp Mill
-Layhill
-Leisure World
-Montgomery Village
-North Bethesda
-North Kensington
-North Potomac
-Olney
-Potomac
-Redland
-Silver Spring
-South Kensington
-Spencerville
-Travilah
-Wheaton
-White Oak
-
-
-
-
-
-
-
-
-Unincorporated
-communities
-
-
-
-Ashton
-Beallsville
-Boyds
-Brinklow
-Carderock
-Carole Highlands
-Chevy Chase
-Chinatown
-Comus
-Dawsonville
-Dickerson
-Ednor
-Fairview
-Hyattstown
-Kentlands
-Norbeck
-Norwood
-Seneca
-Sandy Spring
-Shady Grove
-Sherwood Forest
-
-
-
-
-
-
-
-
-Footnotes
-
-‡This populated place also has portions in an adjacent county or counties
 
 
 

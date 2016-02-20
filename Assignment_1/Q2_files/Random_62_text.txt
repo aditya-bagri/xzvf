@@ -8,52 +8,49 @@ From Wikipedia, the free encyclopedia
 
 
 
-This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (March 2015)
-
-
-The National Institute of Administration, (Arabic: المعهد الوطني للإدارة العامة‎; French: Institut national d'administration) is a Syrian government school responsible for the training of civil servants in management and administration. Its main office and training center is located in At-Tal, near Damascus.
 
 
 
-Contents
-
-
-1 History
-2 Mission
-3 Areas of expertise
-4 Recruitment procedure
-5 References
-6 External links
+This article has multiple issues. Please help improve it or discuss these issues on the talk page.
 
 
 
-History[edit]
-The Institute was created in 2002 by President Bashar al-Assad to support the modernization of civil service in Syria. INA was the fruit of cooperation between France and Syria. The French Ecole national administration provided technical assistance until 2011.[1]
-Mission[edit]
-The founding principle of the Institute National d'Administration (INA) is to provide professional training for senior civil servants.[2]
-The Institute emphasizes the ethics of government service, based on the values of responsibility, political neutrality and service. INA uses a broad approach that cuts across ministerial or specialist lines and includes law, public finance, applied economics, Arab, regional and international issues, local regions and e-government.[3] public-sector management, including team and project management, monitoring and evaluating efforts involving multiple agencies, and human resources management, all in a constantly changing environment.
-Areas of expertise[edit]
 
-A core curriculum for high-level civil servants
-Continuing education programmes and advanced training for Syrian civil servants through short and long training courses
-Bilateral and international relations in the areas of governance and public administration
-Offering consultancy and expertise services to public services in Syria on administrative modernization issues,
 
-Recruitment procedure[edit]
-Admission to INA is based on a competitive examination[4] that people take after completing university studies. It is open to civil servants and non-civil servants and proceeded by a preparation cycle of seven months. The competitive exam includes essays on - the economy and administration - general knowledge - an exam on foreign language (French or English). - an exam on the multiple choices method on the three disciplines mentioned above.
-An oral exam, taken by those with the highest marks in the written exam, covering: - A discipline chosen by the candidate (law, economy, general knowledge). - One or two foreign languages (French or English) .
+
+
+
+This article relies largely or entirely upon a single source. Please help improve this article by introducing citations to additional sources. (March 2015)
+
+
+
+
+
+
+
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (March 2015)
+
+
+
+
+
+
+
+
+A photonic chip uses light instead of electricity and is being developed for the "production of ultra-fast quantum computers with capabilities far beyond today’s devices." The Financial Times stated that with the chip "data can be processed according to the counterintuitive rules of quantum physics that allow individual subatomic particles to be in several places at the same time" and that: "Future quantum computers will, for example, be able to pull important information out of the biggest databases almost instantaneously." [1]
+See also[edit]
+
+Photonics
+Silicon photonics
+Photonic integrated circuit
+Optical switch
+Timeline of quantum computing
+
 References[edit]
 
 
-^ "Afrique du Nord, Moyen Orient - ENA, Ecole nationale d'administration" (in French). Ena.fr. Retrieved 2015-03-05. 
-^ [1][dead link]
-^ "Institut National d'Administration". ina.edu.sy. 
-^ "Institut National d'Administration". Ina.edu.sy. Retrieved 2015-03-05. 
+^ Clive Cookson Computers set for quantum leap September 16, 2010 Financial Times
 
-
-External links[edit]
-
-Official website
 
 
 

@@ -1,1 +1,1 @@
-['http://www.highbeam.com/doc/1P1-117215552.html', 'http://www.notacon.org/archive/2007/speakers.html#dankaye', 'http://www.notacon.org/schedule.html', 'http://business.newsforge.com/business/05/10/03/1943203.shtml?tid=18']
+['https://web.archive.org/web/20080512024442/http://asgap.org.au/b-pri.html', 'http://asgap.org.au/b-pri.html']

@@ -1,1 +1,1 @@
-['http://www.shannonsullivan.com/drwho/serials/7l.html', 'http://www.shannonsullivan.com/drwho/serials/7l.html', 'http://www.bbc.co.uk/doctorwho/classic/episodeguide/happinesspatrol/detail.shtml', 'http://www.telegraph.co.uk/culture/tvandradio/doctor-who/7235547/Doctor-Who-had-anti-Thatcher-agenda.html', 'http://www.bbc.co.uk/doctorwho/classic/episodeguide/happinesspatrol/detail.shtml', 'http://www.doctorwhonews.net/2011/05/dwn030511125312-dvd-schedule-update.html', 'http://nzdwfc.tetrap.com/archive/tsv42/sts-happinesspatrol.html']
+[]
