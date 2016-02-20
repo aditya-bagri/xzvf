@@ -3,498 +3,654 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-Westi was one of two early local teleprocessing packages for IBM's DOS/VSE environment. Westi stood for Westinghouse Terminal Interactive.
+"TX 11" redirects here. TX 11 may also refer to Texas's 11th congressional district.
+
+
+
+
+State Highway 11
+
+
+
+
+
+Route information
+
+
+Maintained by TxDOT
+
+
+Length:
+153.2 mi[1] (246.6 km)
+
+
+Existed:
+1917 – present
+
+
+Major junctions
+
+
+West end:
+ SH 56 in Sherman
+
+
+ 
+
+ US 69
+ I-30
+ US 271
+ US 259
+
+
+East end:
+
+ I-369 / US 59 in Linden
+
+
+Highway system
+
+
+
+
+
+Highways in Texas
+
+
+Interstate
+US
+State
+Toll
+
+
+Loops
+Spurs
+Park
+Rec
+FM
+
+
+
+
+←  SH 10
+
+SH 12  →
+
+
+←  SH 313
+SH 314
+SH 315  →
+
+
+
+
+
+State Highway 11, or SH 11, is a highway that runs from US 59 (Future I-369) in Linden to SH 56 in Sherman in northeast Texas.
 
 
 
 Contents
 
 
-1 The product
-
-1.1 Application
-
-
-2 Development
-
-2.1 Pittsburgh
-2.2 Columbus
-2.3 Paris
-2.4 Orlando
-2.5 Avignon
-
-
-3 Marketing
+1 Route description
+2 History
+3 Major intersections
 4 References
 
 
 
-The product[edit]
-Westi provided an interface and access method for programmers to 'talk' to monitors and handle data entry. Such access methods later became known as APIs and the handlers a form of transaction processing.
-Initially written for the IBM 2260 running under DOS on IBM mainframes, the original product was offered free for IBM users. With the advent of DOS/VS and the IBM 3270 series terminals, Westinghouse realized they could recover part of their development costs and commercialized the product, circa 1970. The company added transparent remote access about 1980.
-Application[edit]
-Westi operated as an application's mainline program and, like IBM's soon to follow CICS, programmers wrote subroutines to read and write data to and from terminals and discs. This real time paradigm became known as transaction processing.
-This differed from Westi's primary competitor, DUCS, which reversed that model in that it was a subroutine package that read from and wrote to monitors. While Westi was not as easy to program and use as DUCS, Westi (like CICS) handled task management.
-In terms of speed, Westi fell between DUCS and the considerably more process-bound CICS.
-Development[edit]
-Pittsburgh[edit]
-Steve Robert O'Donnell wrote the original DOS 2260 package, which was distributed free of charge. Its popularity made Westinghouse realize Westi had potential as a commercial product.
-Columbus[edit]
-In 1972, IBM released DOS/VS with the IBM/370 and the first IBM 3270 terminals, and the Westinghouse Software group began a rewrite for new products. Several new team members were assigned, including John Gaston, who took over lead development following the departure of Steve O'Donnell in the latter 1970s. (Steve O'Donnell went on to found GOAL Systems, Inc.)
-Paris[edit]
-Westinghouse Marketing suffered a schism about the same time, and the result was that Europe established an independent subsidiary, Westinghouse Electric Management Systems, SA, or WEMSSA, headquartered in Paris. At that point, the Westinghouse product line, WDU and WESTI, bifurcated, taking independent development paths.
-Orlando[edit]
-The original development team moved to Orlando, Florida, where it eventually came under the management of Dr. Ray Ferguson and focused on integration with VSE and matching features with CICS.
-Avignon[edit]
-WEMSSA, under the direction of Eric Lutaud, contracted with GOAL Systems and eventually developer Leigh Lundin (author of DUCS Remote) for development, which focused on adding remote teleprocessing in Avignon, France. The result was WestiTAM, a 4k bi-sync module, which the Florida group expressed an interest in.
-In 1978, WEMSSA resumed relations with the Florida group and eventually the two merged, coming under the new director of WEMSSA in London, David Hazlewood. Westinghouse committed to remerging the product line, re-engineering new products under the direction of Dr. Ferguson and Leigh Lundin. However, part way into development, Westinghouse began to break up the division during the outsourcing thrust of the Reaganomics era. Through badly managed negotiations, Westinghouse ended up with neither developers or outsourcing partners, which spelled the end for one of the industries foremost software groups.
-Marketing[edit]
-Westinghouse Electric Management Systems, SA (WEMSSA), had sales offices in Pittsburgh, San Jose, Paris, Lyon, London, Genève, Zürich, München, and Amsterdam. Development offices were in Orlando, with further development in Columbus, Ohio and Avignon, France.
+Route description[edit]
+SH 11 begins at an intersection with State Highway 56 on the easternedge of Sherman, just north of the Sherman Regional Airport. The route then travels to the southeast through Northeast Texas. In 2009, it was rerouted around the city of Commerce, concurrent with State Highway 24 and State Loop 178, with the old routing through Commerce transferred to a business route. It continues southeast toward Sulphur Springs, where it shares a concurrency with State Highway 154 and the old routing of US 67, and intersects I-30 on the south side of town. After Sulphur Springs, the route takes a more easterly direction through Northeast Texas, before reaching its eastern terminus at US 59 (Future I-369) on the eastern edge of Linden.
+History[edit]
+
+State Highway 11 was one of the original twenty-six state highways proposed in 1917, overlaid on top of the 'Jefferson Highway.' In 1917 the routing was proposed from the Oklahoma border at Denison, south on present day U.S. Highway 69 through Whitewright into Greenville. From Greenville, it went east on U.S. Highway 67 to Mount Pleasant, and south on U.S. Highway 271 to Gilmer and along State Highway 300 to Longview, and finally, U.S. Highway 80 through Marshall to the Louisiana border.
+In 1919 the segment from Gilmer to Longview had yet to be built, so the road was rerouted over the current US 271 and US 80 routes through Gladewater, Texas.
+In 1926 US 67, 271 and 80 were overlaid onto segments of SH 11. While the routes were marked concurrently, by 1926, SH 11 had lost most of its original assignment and had been reassigned to nearby towns the U.S. highways had not reached. The road now began in Greenville where it followed the current SH 11 from to Daingerfield, then north on U.S. Highway 259 through Omaha and terminating in De Kalb. By 1933, SH 11 was rerouted to begin in Ladonia and via the present day State Highway 50 to Commerce and follow the current SH 11 to Sulphur Springs. The section from Greenville to Sulphur Springs became a rerouting of SH 1.
+By 1939 the US 259 segment of SH 11 was cancelled, and SH 11 was extended from Daingerfield to Linden via its current alignment, replacing SH 47, and up US 59 to a terminus in Texarkana. The US 59 alignment of SH 11 was removed in 1947, The Ladonia-Commerce segment was removed and replaced with its current assignment in 1971 over FM 1281 and part of FM 697. Part of this was previously designated as Texas State Highway 314.
+Major intersections[edit]
+
+
+County
+Location
+mi
+km
+Destinations
+Notes
+
+
+Grayson
+Sherman
+
+
+ SH 56 (East Lamar Street)
+
+
+
+
+
+ FM 697 east – Ida
+
+
+
+ 
+
+
+ FM 1417 north
+
+
+
+Tom Bean
+
+
+ FM 902 west / FM 2729 south (South Britton Street) – Cannon, Howe
+west end of FM 2729 overlap
+
+
+
+
+ FM 2729 north (North Lyon Street) – White Rock
+east end of FM 2729 overlap
+
+
+Whitewright
+
+
+ US 69 north / SH 160 south – Bells, Denison
+Western end of US 69 concurrency
+
+
+
+
+ FM 898 east – Downtown Whitewright
+
+
+
+ 
+
+
+ US 69 south – Greenville
+East end of US 69 overlap
+
+
+Fannin
+ 
+
+
+ FM 151 – Whitewright, Orangeville
+
+
+
+ 
+
+
+ FM 3297 north
+
+
+
+ 
+
+
+ SH 121 – Bonham, Trenton
+interchange
+
+
+Randolph
+
+
+
+ Bus. SH 121 south
+Western end of Bus. SH 121 concurrency
+
+
+
+
+
+ Bus. SH 121 north
+Eastern end of Bus. SH 121 concurrency
+
+
+ 
+
+
+ FM 2815 north
+
+
+
+ 
+
+
+ FM 1553
+
+
+
+Bailey
+
+
+ SH 78 – Bonham, Leonard
+
+
+
+Hunt
+Wolfe City
+
+
+ SH 34 – Honey Grove, Greenville
+
+
+
+
+
+ FM 1563 west
+west end of FM 1563 overlap
+
+
+
+
+ FM 1563 east
+west end of FM 1563 overlap
+
+
+ 
+
+
+ To FM 1563 / County Road 4700
+
+
+
+Fairlie
+
+
+ FM 2655 to FM 1563 east
+
+
+
+Commerce
+
+
+
+ SH 24 north / Bus. SH 11 east – Commerce, Sulphur Springs, Cooper, Paris
+interchange; west end of SH 24 overlap
+
+
+
+
+ SH 224
+
+
+
+
+
+
+ Bus. SH 224 (Live Oak Street) – Commerce
+
+
+
+
+
+ SH 24 south / Loop 178 west – Campbell, Northeast Texas Children's Museum
+east end of SH 24 overlap; west end of Loop 178 overlap
+
+
+
+
+ FM 3218 south
+
+
+
+
+
+
+ Bus. SH 11 west – Commerce
+east end of Loop 178 overlap
+
+
+Hopkins
+ 
+
+
+ FM 275 south – Cumby
+
+
+
+ 
+
+
+ FM 3134 north – Emblem
+
+
+
+Ridgeway
+
+
+ FM 2653 south – Brashear
+west end of FM 2653 overlap
+
+
+
+
+ FM 2653 north – Cooper Lake State Park South Sulphur Unit
+east end of FM 2653 overlap
+
+
+Sulphur Springs
+
+
+ SH 19 north / Houston Street – Sulphur Springs, Paris, Southwest Dairy Museum
+west end of SH 19 overlap
+
+
+
+
+
+ Bus. US 67 – Sulphur Springs
+
+
+
+
+
+ I-30 (US 67) – Texarkana, Dallas
+I-30 exit 122
+
+
+Rockdale
+
+
+ SH 19 south – Emory, Canton
+east end of SH 19 overlap
+
+
+Sulphur Springs
+
+
+ FM 2297 – Arbala
+
+
+
+
+
+ SH 154 – Quitman, Commerce, Cooper
+
+
+
+Martin Springs
+
+
+ FM 2560 south – Reilly Springs
+
+
+
+ 
+
+
+ FM 1870 north – Thermo
+
+
+
+ 
+
+
+ FM 1567 west – Reilly Springs
+
+
+
+Como
+
+
+ FM 69 north – Dike
+west end of FM 69 overlap
+
+
+
+
+ FM 69 south – Coke
+east end of FM 69 overlap
+
+
+Pickton
+
+
+ FM 269 south
+west end of FM 269 overlap
+
+
+
+
+ FM 269 north – Pine Forest, Weaver
+east end of FM 269 overlap
+
+
+ 
+
+
+ FM 3019 north – Greenwood
+
+
+
+Franklin
+No major junctions
+
+
+Wood
+Winnsboro
+
+
+ FM 852 west
+west end of FM 852 overlap
+
+
+
+
+ SH 37 – Mount Vernon, Quitman
+
+
+
+
+
+ FM 312 south / FM 852 east (South Walnut Street)
+east end of FM 852 overlap
+
+
+
+
+ FM 1448 east
+
+
+
+ 
+
+
+ FM 515 west – Coke
+
+
+
+ 
+
+
+ FM 115 north – Scroggins
+
+
+
+ 
+
+
+ FM 1647 south – Perryville
+
+
+
+Camp
+Leesburg
+
+
+ FM 1519 west
+west end of FM 1519 overlap
+
+
+
+
+ FM 1519 east
+east end of FM 1519 overlap
+
+
+ 
+
+
+ FM 21 north – Mount Vernon, Bob Sandlin State Park
+
+
+
+ 
+
+
+ FM 1521 north – Rocky Mound
+
+
+
+ 
+
+
+ Loop 179 east (David H. Abernathy Boulevard) – truck route to US 271
+
+
+
+Pittsburg
+
+
+ FM 1520 north
+
+
+
+
+
+ Loop 238 (Mount Pleasant Street / Rusk Street)
+
+
+
+
+
+ FM 993 south (Lafayette Street)
+
+
+
+
+
+ FM 557 east (Jefferson Street)
+
+
+
+
+
+ US 271 (Greer Boulevard / truck route) – Mount Pleasant, Gilmer
+
+
+
+Titus
+ 
+
+
+ FM 2348 north – Union Hill
+
+
+
+ 
+
+
+ FM 1735 north – Northeast Texas Community College
+
+
+
+Morris
+Cason
+
+
+ FM 144 south – Lone Star
+west end of FM 144 overlap
+
+
+
+
+ FM 144 north – Omaha
+east end of FM 144 overlap
+
+
+Daingerfield
+
+
+ US 259 north / SH 49 west (Broadnax Street) – Business District, Omaha, Mount Pleasant
+west end of US 259 / SH 49 overlap
+
+
+
+
+ US 259 south (Linda Drive) – Lone Star, Longview
+Eastern end of US 259 concurrency
+
+
+ 
+
+
+ PR 17 – Daingerfield State Park
+
+
+
+Cass
+Hughes Springs
+
+
+ FM 161 / FM 250 south (Taylor Street / Hanes Boulevard) – Naples, Lone Star
+west end of FM 250 overlap
+
+
+
+
+ FM 250 north (Keasler)
+east end of FM 250 overlap
+
+
+
+
+ SH 49 east / FM 2612 west – Jefferson, Lone Star
+Eastern end of SH 49 concurrency
+
+
+ 
+
+
+ FM 130 west – Carterville
+
+
+
+Linden
+
+
+ SH 8 – New Boston
+
+
+
+
+
+ FM 125 (Main Street)
+
+
+
+
+
+ US 59 – Atlanta, Jefferson
+
+
+
+1.000 mi = 1.609 km; 1.000 km = 0.621 mi
+
+
+      Concurrency terminus
+
+
+
+
+
 References[edit]
 
 
-
-
-
-
-
-
-
-v
-t
-e
-
-
-OS/360 and successors I/O access methods
-
-
-
-
-
-
-Low-level
-
-
-
-EXCP
-EXCPVR
-STARTIO
-
-
-
-
-
-
-
-
-Storage
-
-
-
-XDAP
-BDAM
-BSAM
-QSAM
-BPAM
-ISAM
-VSAM
-OAM
-
-
-
-
-
-
-
-
-Network
-
-
-
-BTAM
-QTAM
-TCAM
-VTAM
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-Software distribution
-
-
-
-
-
-
-Licenses
-
-
-
-Beerware
-Floating licensing
-Free
-Free and open-source
-Freely redistributable
-Open source
-Proprietary
-Public domain
-
-
-
-
-
-
-
-
-Compensation models
-
-
-
-Commercial software
-
-Retail software
-
-
-Crowdfunding
-Freemium
-Freeware
-
-Adware
-Donationware
-
-
-Careware
-Pay what you want
-Open core
-Postcardware
-Shareware
-
-Nagware
-
-
-
-
-
-
-
-
-
-
-Delivery methods
-
-
-
-Digital distribution
-File sharing
-On-premises
-Pre-installed
-Product bundling
-Retail software
-Software as a service
-
-
-
-
-
-
-
-
-Deceptive and/or illicit
-
-
-
-Unwanted software bundling
-Malware (Spyware
-Trojan horse
-Worm)
-Ransomware
-Scareware
-Shovelware
-Vaporware
-
-
-
-
-
-
-
-
-Software release life cycle
-
-
-
-Abandonware
-End-of-life
-Long-term support
-Software maintenance
-Software maintainer
-Software publisher
-
-
-
-
-
-
-
-
-Copy protection
-
-
-
-Digital rights management
-Software protection dongle
-Hardware restrictions
-License manager
-Product activation
-Product key
-Software copyright
-Software patent
-Torrent poisoning
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-Software engineering
-
-
-
-
-
-
-Fields
-
-
-
-Computer programming
-Requirements engineering
-Software deployment
-Software design
-Software maintenance
-Software testing
-Systems analysis
-Formal methods
-
-
-
-
-
-
-
-
-Concepts
-
-
-
-Data modeling
-Enterprise architecture
-Functional specification
-Modeling language
-Orthogonality
-Programming paradigm
-Software
-Software archaeology
-Software architecture
-Software configuration management
-Software development methodology
-Software development process
-Software quality
-Software quality assurance
-Software verification and validation
-Structured analysis
-
-
-
-
-
-
-
-
-Orientations
-
-
-
-Agile
-Aspect-oriented
-Object orientation
-Ontology
-Service orientation
-SDLC
-
-
-
-
-
-
-
-
-Models
-
-
-
-
-
-Developmental
-
-
-
-
-Agile
-EUP
-Executable UML
-Incremental model
-Iterative model
-Prototype model
-RAD
-UP
-
-
-
-
-
-
-
-
-
-Other
-
-
-
-
-SPICE
-CMMI
-Data model
-ER model
-Function model
-Information model
-Metamodeling
-Object model
-Systems model
-View model
-
-
-
-
-
-
-
-
-
-Languages
-
-
-
-
-IDEF
-UML
-SysML
-
-
-
-
-
-
-
-
-
-
-
-
-Software
-engineers
-
-
-
-
-Victor Basili
-Kent Beck
-Grady Booch
-Fred Brooks
-Barry Boehm
-Ward Cunningham
-Tom DeMarco
-Edsger W. Dijkstra
-Martin Fowler
-C. A. R. Hoare
-Watts Humphrey
-Michael A. Jackson
-Ivar Jacobson
-Stephen J. Mellor
-Bertrand Meyer
-David Parnas
-Winston W. Royce
-James Rumbaugh
-Niklaus Wirth
-Edward Yourdon
-
-
-
-
-
-
-
-
-Related fields
-
-
-
-Computer science
-Computer engineering
-Project management
-Risk management
-Systems engineering
-
-
-
-
-
-
-
-
-
-
-
- Category
- Commons
-
-
-
-
-
-
+^ Transportation Planning and Programming Division. "State Highway No. 11". Highway Designation Files. Texas Department of Transportation. Retrieved 2008-03-15. 
 
 
 

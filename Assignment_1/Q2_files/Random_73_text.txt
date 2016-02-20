@@ -5,87 +5,103 @@ From Wikipedia, the free encyclopedia
 
 
 
-2,7,4'-Trihydroxyisoflavanone 4'-O-methyltransferase
 
 
-Identifiers
 
 
-EC number
-2.1.1.212
-
-
-Databases
-
-
-IntEnz
-IntEnz view
-
-
-BRENDA
-BRENDA entry
-
-
-ExPASy
-NiceZyme view
-
-
-KEGG
-KEGG entry
-
-
-MetaCyc
-metabolic pathway
-
-
-PRIAM
-profile
-
-
-PDB structures
-RCSB PDB PDBe PDBsum
+San Giorgio
 
 
 
 
 
-Search
 
 
-PMC
-articles
+Location
+Piazza della Raibetta, Genoa
+Italy
 
 
-PubMed
-articles
+Coordinates
+44°24′31″N 8°55′43″E﻿ / ﻿44.40861°N 8.92861°E﻿ / 44.40861; 8.92861Coordinates: 44°24′31″N 8°55′43″E﻿ / ﻿44.40861°N 8.92861°E﻿ / 44.40861; 8.92861
 
 
-NCBI
-proteins
+Owned by
+AMT Genoa
+
+
+Platforms
+Island platform
+
+
+Tracks
+2
+
+
+Construction
+
+
+Structure type
+Underground
+
+
+Disabled access
+Yes
+
+
+History
+
+
+Opened
+2003
+
+
+Services
 
 
 
 
 
-2,7,4'-Trihydroxyisoflavanone 4'-O-methyltransferase (EC 2.1.1.212, SAM:2,7,4'-trihydroxyisoflavanone 4'-O-methyltransferase, HI4'OMT, HMM1, MtIOMT5) is an enzyme with system name S-adenosyl-L-methionine:2,7,4'-trihydroxyisoflavanone 4'-O-methyltransferase .[1][2][3][4] This enzyme catalyses the following chemical reaction
+Preceding station
+ 
+Genoa Metro
+ 
+Following station
 
-S-adenosyl-L-methionine + 2,7,4'-trihydroxyisoflavanone  S-adenosyl-L-homocysteine + 2,7-dihydroxy-4'-methoxyisoflavanone
 
-This enzyme specifically methylates 2,7,4'-trihydroxyisoflavanone on the 4'-position.
+
+Darsena
+toward Brin
+
+
+
+
+
+Sarzano/Sant'Agostino
+toward De Ferrari
+
+
+
+
+
+
+San Giorgio is a Genoa Metro station in Genoa, Italy. It is located under Piazza della Raibetta beside the Palazzo San Giorgio, after which it is named. It is in the Old Harbour area near the Aquarium of Genoa.[1]
+
+
+
+
+Exiting the station to Palazzo San Giorgio
+
+
+
 References[edit]
 
 
-^ Akashi, T., Sawada, Y., Shimada, N., Sakurai, N., Aoki, T. and Ayabe, S. (2003). "cDNA cloning and biochemical characterization of S-adenosyl-L-methionine: 2,7,4′-trihydroxyisoflavanone 4′-O-methyltransferase, a critical enzyme of the legume isoflavonoid phytoalexin pathway". Plant Cell Physiol. 44: 103–112. doi:10.1093/pcp/pcg034. PMID 12610212. 
-^ Deavours, B.E., Liu, C.J., Naoumkina, M.A., Tang, Y., Farag, M.A., Sumner, L.W., Noel, J.P. and Dixon, R.A. (2006). "Functional analysis of members of the isoflavone and isoflavanone O-methyltransferase enzyme families from the model legume Medicago truncatula". Plant Mol. Biol. 62: 715–733. doi:10.1007/s11103-006-9050-x. PMID 17001495. 
-^ Liu, C.J., Deavours, B.E., Richard, S.B., Ferrer, J.L., Blount, J.W., Huhman, D., Dixon, R.A. and Noel, J.P. (2006). "Structural basis for dual functionality of isoflavonoid O-methyltransferases in the evolution of plant defense responses". Plant Cell 18: 3656–3669. doi:10.1105/tpc.106.041376. PMID 17172354. 
-^ Akashi, T., VanEtten, H.D., Sawada, Y., Wasmann, C.C., Uchiyama, H. and Ayabe, S. (2006). "Catalytic specificity of pea O-methyltransferases suggests gene duplication for (+)-pisatin biosynthesis". Phytochemistry 67: 2525–2530. doi:10.1016/j.phytochem.2006.09.010. 
+^ Metrogenova page for San Giorgio
 
 
 External links[edit]
 
-2,7,4'-trihydroxyisoflavanone 4'-O-methyltransferase at the US National Library of Medicine Medical Subject Headings (MeSH)
-
-
 
 
 
@@ -98,26 +114,28 @@ t
 e
 
 
-Transferase: one carbon transferases (EC 2.1)
+Genoa Metro
 
 
 
 
 
 
-2.1.1: Methyl-
 
 
 
+Brin
+Dinegro
+Principe
+Darsena
+San Giorgio
+Sarzano/Sant'Agostino
+De Ferrari
+Brignole
 
-N-
 
 
 
-Histamine N-methyltransferase
-Phenylethanolamine N-methyltransferase
-Amine N-methyltransferase
-Phosphatidylethanolamine N-methyltransferase
 
 
 
@@ -126,167 +144,7 @@ Phosphatidylethanolamine N-methyltransferase
 
 
 
-O-
-
-
-
-5-hydroxyindole-O-methyltransferase/Acetylserotonin O-methyltransferase
-Catechol-O-methyl transferase
-
-
-
-
-
-
-
-
-Homocysteine
-
-
-
-Betaine-homocysteine methyltransferase
-Homocysteine methyltransferase
-Methionine synthase
-
-
-
-
-
-
-
-
-Other
-
-
-
-Phosphatidyl ethanolamine methyltransferase
-DNMT3B
-Histone methyltransferase
-Thymidylate synthase
-DNA methyltransferase
-Thiopurine methyltransferase
-
-
-
-
-
-
-
-
-
-
-
-2.1.2: Hydroxymethyl-,
-Formyl- and Related
-
-
-
-
-Hydroxymethyltransferase
-
-
-
-Serine hydroxymethyltransferase
-3-methyl-2-oxobutanoate hydroxymethyltransferase
-
-
-
-
-
-
-
-
-Formyltransferase
-
-
-
-Phosphoribosylglycinamide formyltransferase
-Inosine monophosphate synthase
-
-
-
-
-
-
-
-
-Other
-
-
-
-Glutamate formimidoyltransferase
-Aminomethyltransferase
-
-
-
-
-
-
-
-
-
-
-
-2.1.3: Carboxy-
-and Carbamoyl
-
-
-
-
-Carboxy
-
-
-
-methylmalonyl-CoA carboxytransferase
-
-
-
-
-
-
-
-
-Carbamoyl
-
-
-
-Aspartate carbamoyltransferase
-Ornithine carbamoyltransferase
-Oxamate carbamoyltransferase
-Putrescine carbamoyltransferase
-3-hydroxymethylcephem carbamoyltransferase
-Lysine carbamoyltransferase
-N-acetylornithine carbamoyltransferase
-
-
-
-
-
-
-
-
-
-
-
-2.1.4: Amidine
-
-
-
-Arginine:glycine amidinotransferase
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This article about an Italian railway station is a stub. You can help Wikipedia by expanding it.
 
 
 v
@@ -294,89 +152,21 @@ t
 e
 
 
-Proteins: enzymes
 
 
 
 
 
 
-Activity
+This Italian rapid transit-related article is a stub. You can help Wikipedia by expanding it.
+
+
+v
+t
+e
 
 
 
-Active site
-Binding site
-Catalytic triad
-Oxyanion hole
-Enzyme promiscuity
-Catalytically perfect enzyme
-Coenzyme
-Cofactor
-Enzyme catalysis
-Enzyme kinetics
-Lineweaver–Burk plot
-Michaelis–Menten kinetics
-
-
-
-
-
-
-
-
-Regulation
-
-
-
-Allosteric regulation
-Cooperativity
-Enzyme inhibitor
-
-
-
-
-
-
-
-
-Classification
-
-
-
-EC number
-Enzyme superfamily
-Enzyme family
-List of enzymes
-
-
-
-
-
-
-
-
-Types
-
-
-
-EC1 Oxidoreductases(list)
-EC2 Transferases(list)
-EC3 Hydrolases(list)
-EC4 Lyases(list)
-EC5 Isomerases(list)
-EC6 Ligases(list)
-
-
-
-
-
-
-
-
-
-
-Molecular and Cellular Biology portal
 
 
 

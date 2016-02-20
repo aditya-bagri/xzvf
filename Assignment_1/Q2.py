@@ -18,6 +18,7 @@ import prepareQ2
 
 sc=SparkContext()
 
+## Defining a generic TFIDF function for our purposes.
 def TFIDF(source, destination):
 
 	if destination[-1] != '/':
@@ -27,7 +28,7 @@ def TFIDF(source, destination):
 	tf=HashingTF()
 	tfVectors=tf.transform(rdd).cache()
 	a = tfVectors.collect()
-
+	# Storing the TF values above in individual files, one per link
 	ind = 0
 	for vector in a:
 		dest_path = destination + "TF_%d"%ind + ".txt"
@@ -35,9 +36,11 @@ def TFIDF(source, destination):
 		file = open(dest_path,'w')
 		file.write(str(vector))
 		file.close()
+	# Calculating IDF Values for each case.
 	idf=IDF()
 	idfModel=idf.fit(tfVectors)
 	tfIdfVectors=idfModel.transform(tfVectors)
+	# Writing TF-IDF values to a single file.
 	file = open(destination+"TF-IDF.txt", 'w')
 	file.write(str(tfIdfVectors.collect()))
 	try:
@@ -50,5 +53,9 @@ def test_TFIDF():
 	TFIDF("./Q2_files/Random_*text.txt", "./Q2_TFIDF")
 
 def main():
+	# prepareQ2.py contains the cleaning and prep work for the 
+	# TF-IDF code in this file.
 	prepareQ2.main()
 	test_TFIDF()
+
+main()

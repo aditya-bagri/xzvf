@@ -3,37 +3,35 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-The unique name assumption is a simplifying assumption made in some ontology languages and description logics. In logics with the unique name assumption, different names always refer to different entities in the world.[1]
-The standard ontology language OWL does not make this assumption, but provides explicit constructs to express whether two names denote the same or distinct entities.[2][3]
 
-owl:sameAs is the OWL property that asserts that two given names or identifiers (e.g., URIs) refer to the same individual or entity.
-owl:differentFrom is the OWL property that asserts that two given names or identifiers (e.g., URIs) refer to different individuals or entities.
 
-See also[edit]
 
-Closed-world assumption
-Coreference
+
+
+
+
+70 Sculptors is a photograph taken by Life photographer Herbert Gehr on May 14, 1949.
+The picture was published by LIFE in their June 20, 1949 edition, covering most of pages 112 and 113. That the picture used most of two pages was in itself unusual. The photograph was part of the magazine's coverage of the 3rd Sculpture International exhibition, which was organized by the Fairmount Park Art Association (now the Association for Public Art) and held at the Philadelphia Museum of Art from May 15 to September 11, 1949. The picture shows 70 of the 254 sculptors whose work was being displayed, as well as a fair number of their pieces.[1]
+The image is anchored by Bernard Reder's monumental Wounded Women. Reder is seated in the front row, just to the left of his work. Hanging from the ceiling, where it still is, is Alexander Calder's International Mobile, while Calder himself sits, almost directly under it, in the center of the second row.[2]
+Besides its showing in LIFE Magazine, a very large printing of the photograph was used as the cover of the exhibition press release.[3] It can also be found in Bach's Public Art in Philadelphia, where it is allotted a full page.[4]
+Sculptors identified[edit]
+Questions as to who the 70 sculptors depicted are remain largely unanswered. Those identified include:
+
+Alexander Calder
+Jo Davidson
+Nathaniel Kaz
+Jacques Lipchitz[5]
+Bernard Reder
+Mitzi Solomon
 
 References[edit]
 
 
-^ Russell, Stuart; Norvig, Peter (2003) [1995]. Artificial Intelligence: A Modern Approach (2nd ed.). Prentice Hall. p. 333. ISBN 978-0137903955. 
-^ Tao, Jiao; Sirin, Evren; Bao, Jie; McGuinness, Deborah L. (2010). Integrity constraints in OWL. Proc. AAAI. 
-^ OWL Web Ontology Language Reference
-
-
-
-
-
-This logic-related article is a stub. You can help Wikipedia by expanding it.
-
-
-v
-t
-e
-
-
-
+^ Fairmount Park Art Association, 3rd Sculpture International, Ellen Phillips Samuel Memorial Press Report, 1949
+^ Life Magazine, June 20, 1949, ‘’70 Sculptors 70: The world’s biggest sculpture show assembles them and their statues in an art museum in Philadelphia’’, pp. 112 – 113.
+^ Fairmount Park Art Association, 3rd Sculpture International, Ellen Phillips Samuel Memorial Press Report, 1949
+^ Bach, Penny Balkin, ‘’Public Art in Philadelphia’’, Temple University Press, Philadelphia, 1992 p. 98
+^ Time Inc (11 July 1949). LIFE. Time Inc. p. 12. ISSN 0024-3019. 
 
 
 

@@ -4,7 +4,33 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-Played in Britain
+
+Transcobalamin I (vitamin B12 binding protein, R binder family)
+
+
+
+Rendering based on PDB 2ckv​.
+
+
+
+
+
+
+Available structures
+
+
+PDB
+Ortholog search: PDBe, RCSB
+
+
+
+
+
+List of PDB id codes
+
+
+
+2CKV​, 4KKI​, 4KKJ​
 
 
 
@@ -14,110 +40,142 @@ Played in Britain
 
 
 
-Type
-
-Book publisher and Research project
+Identifiers
 
 
-Industry
-Publishing
+Symbols
+TCN1 ; HC; TC-1; TC1; TCI
 
 
-Founded
-London, United Kingdom (2002)
-
-
-Headquarters
-London, United Kingdom
+External IDs
+OMIM: 189905 HomoloGene: 47985 GeneCards: TCN1 Gene
 
 
 
-Key people
-
-Simon Inglis, Series Editor
 
 
-Website
+Gene ontology
+
+
+Molecular function
+• cobalamin binding
+
+
+Cellular component
+• extracellular region
+• extracellular space
+
+
+Biological process
+• vitamin metabolic process
+• water-soluble vitamin metabolic process
+• cobalt ion transport
+• cobalamin metabolic process
+• cobalamin transport
+• small molecule metabolic process
+
+
+Sources: Amigo / QuickGO
+
+
+
+
+
+Orthologs
+
+
+Species
+Human
+Mouse
+
+
+Entrez
+6947
+n/a
+
+
+Ensembl
+ENSG00000134827
+n/a
+
+
+UniProt
+P20061
+n/a
+
+
+RefSeq (mRNA)
+NM_001062
+n/a
+
+
+RefSeq (protein)
+NP_001053
+n/a
+
+
+Location (UCSC)
+Chr 11:
+59.85 – 59.87 Mb
+n/a
+
+
+PubMed search
 [1]
-
-
-Played in Britain is a ten-year research project for English Heritage which seeks to record and celebrate Britain's sporting and recreational heritage, coinciding with the period from the staging of the 2002 Commonwealth Games in Manchester to the 2012 Olympics. Much of the research has been made publicly available in a series of books, also called Played in Britain, featuring historic buildings (such as grandstands, pavilions, swimming pools and billiard halls) and sportscapes (such as golf courses, racecourses, rivers and lakes). The series also looks at sporting artefacts and archaeology.
-The Played in Britain research project is led by author and architectural historian Simon Inglis, best known for his books on football grounds, stadiums and football history. Simon Inglis is also the series editor of the Played in Britain books.
+n/a
 
 
 
-Contents
 
 
-1 Background
-2 Research so far
-3 Bibliography
-4 References
-5 External links
+v
+t
+e
 
 
 
-Background[edit]
-The Played in Britain series was launched in 2004, following a pilot study conducted in Manchester in 2002 as part of English Heritage’s contribution to the cultural programme of the 2002 Commonwealth Games. It frequently cites as its inspiration the words of Joseph Strutt, author of the seminal book The Sports and Pastimes of the People of England, first published in 1801. Strutt wrote, “In order to form a just estimation of the character of any particular people, it is absolutely necessary to investigate the sports and pastimes most generally prevalent among them.”
-Sporting heritage in Britain is expected to gain increased attention as the 2012 Olympics approach, but such attention is often dismissed as tokenism. For example, as government and lottery money was lavished on a new swimming pool in Manchester for the 2002 Commonwealth Games, a few hundred yards away one of the most important historic swimming pools in Europe, the Victoria Baths (built 1903-06) lay empty and abandoned by its owners, Manchester City Council. Some of the other threatened Victorian and Edwardian baths around Britain are in Birmingham, Nottingham, Glasgow and most recently, Ripon. More historic sports venues in London are expected to suffer as funds are increasingly diverted towards projects for the 2012 Olympics.
-Research so far[edit]
-Played in Britain has published studies of the sporting heritage of Manchester, Birmingham, Liverpool, Tyne and Wear, Glasgow (for Historic Scotland) and London.
-The series has also featured seven thematic studies:
-Uppies and Downies by Hugh Hornby, on the so-called 'extraordinary football games of Britain' such as the Royal Shrovetide Football match at Ashbourne, the Kirkwall Ba Game at Christmas and New Year and the annual Haxey Hood game in Lincolnshire. Hornby is a former curator at the National Football Museum in Preston.
-Liquid Assets by Janet Smith, is a study of the lidos and open air swimming pools of Britain, of which there are approximately 100 left, down from a peak of around 300 in the early 1950s. The book’s foreword was written by artist Tracey Emin, herself a great fan of outdoor swimming from her youth in Margate.
-Engineering Archie by Simon Inglis, looks at the life and work of the Scottish football ground engineer Archibald Leitch.
-Great Lengths by Dr Ian Gordon and Simon Inglis, features detailed studies of 54 of Britain's historic indoor swimming pools and includes a comprehensive directory of extant baths-related buildings from 1800-1970. The foreword to Great Lengths is written by double Olympic gold medallist, Rebecca Adlington.
-Played at the Pub by Arthur Taylor describes the wide range of pub games to be found in Britain, from darts to dwile flonking, and features long lost games such as knur and spell and nipsy.
-The British Olympics, Britain's Olympic heritage 1612-2012 by Martin Polley, who details Britain's surprisingly long association with the Olympics.
-Bowled Over, the bowling greens of Britain, by Hugh Hornby, on the rich history and heritage of bowling and the associated greens and pavilions of Britain.
-The series has been regularly reviewed in the national press and media, but received its most surprising boost from the TV programme Richard & Judy, which featured a pocket book in the series, called A Load of Old Balls. Although apparently a flippant title, the book is actually about the design and manufacture of balls in sport, and the decline of the British ball manufacturing industry.
-Another strand in the series is devoted to reproducing the archives of Charles Buchan’s Football Monthly, a pioneering magazine founded by Charles Buchan and first published in 1951. Five books from the archive have been published so far - The Best of Charles Buchan's Football Monthly, Charles Buchan's Arsenal Gift Book, Charles Buchan's Manchester United Gift Book, Charles Buchan's Spurs Gift Book and Charles Buchan's Liverpool Gift Book.
-Bibliography[edit]
 
-Played in Manchester by Simon Inglis ISBN 1-873592-78-7
-Played in Birmingham by Steve Beauchampe and Simon Inglis ISBN 0-9547445-1-9
-Played in Liverpool by Ray Physick ISBN 978-1-85074-990-5
-Played in Tyne and Wear by Lynn Pearson ISBN 978-1-905624-74-4
-Played in Glasgow by Ged O'Brien ISBN 978-0-9547445-5-7
-Played in London by Simon Inglis ISBN 978-1-84802-057-3
-A Load of Old Balls by Simon Inglis ISBN 0-9547445-2-7
-Uppies and Downies by Hugh Hornby ISBN 978-1-905624-64-5
-Liquid Assets by Janet Smith ISBN 978-0-9547445-0-2
-Engineering Archie by Simon Inglis ISBN 978-1-85074-918-9
-Great Lengths by Dr Ian Gordon and Simon Inglis ISBN 978-1-905624-52-2
-Played at the Pub by Arthur Taylor ISBN 978-1-905624-97-3
-The British Olympics by Martin Polley ISBN 978-1-84802-058-0
-Bowled Over by Hugh Hornby ISBN 978-1-905624-980
-The Best of Charles Buchan’s Football Monthly ISBN 978-1-905624-04-1
-Charles Buchan’s Manchester United Gift Book ISBN 978-0-9547445-4-0
-Charles Buchan’s Arsenal Gift Book ISBN 978-0-9547445-3-3
-Charles Buchan's Spurs Gift Book ISBN 978-0-9547445-7-1
-Charles Buchan's Liverpool Gift Book ISBN 978-0-9547445-6-4
 
+Haptocorrin also known as transcobalamin-1 (TC-1) or cobalophilin is a protein that in humans is encoded by the TCN1 gene.[1] The essential function of haptocorrin is protection of the acid-sensitive vitamin B12 while it moves through the stomach.
+Function[edit]
+Haptocorrin (HC), also commonly known as the R-protein, or the R-factor, or previously referred to as transcobalamin I, is a unique glycoprotein produced by the salivary glands of the oral cavity, in response to ingestion of food. This protein binds strongly to vitamin B12 in what is perhaps an intricate yet necessary evolutionary mechanism to protect this vitamin from the acidic environment of the stomach.[2]:44 Vitamin B12 is an essential water-soluble vitamin, the deficiency of which creates anemia (macrocytic anemia), decreased bone marrow cell production (anemia, pancytopenia), neurological problems, as well as metabolic issues (methylmalonyl-CoA acidosis).[2]:50–51
+Vitamin B12 is therefore an important vitamin for the body to absorb. Despite its vital role however, vitamin B12 is structurally very sensitive to the hydrochloric acid found in the stomach secretions, and easily denatures in that environment before it has a chance to be absorbed by the small intestine. Found in fresh animal products (such as liver), vitamin B12 attaches haptocorrin, which has a high affinity for its molecular structure.[3] Coupled together vitamin B12 and haptocorrin create a complex. This Haptocorrin-B12 complex is impervious to the insult of the stomach acid, and passes on via the pylorus to the duodenum. In the duodenum pancreatic proteases (a component of pancreatic juice) cleave haptocorrin, yet again releasing vitamin B12 in its free form.
+The same cells in the stomach that produce gastric hydrochloric acid, the parietal cells, also produce a molecule called the intrinsic factor (IF), which rebinds the B12 after its release from haptocorrin by digestion, and without which vitamin B12 can not be absorbed. Intrinsic factor (IF) is a glycoprotein, with a MW of 45,000 dalton. In the duodenum, the free vitamin B12 attaches the intrinsic factor (IF) to create a vitamin B12-IF complex. This complex then travels through the small bowel and reaches the terminal tertiary portion of the small intestine, called ileum. Ileum is the longest of all portions of the small intestine, but has on its surface specialized receptors called cubilin receptors, that identify the B12-IF complexes and take them up into the circulation via endocytosis mediated absorption.[4]
+In short, the essential function of haptocorrin is protection of the acid-sensitive vitamin B12 while it moves through the stomach. Haptocorrin also circulates and binds approximately 80% of circulating B12, rendering it unavailable for cellular delivery by transcobalamin II [5]
 References[edit]
 
-Played in Britain
-English Heritage
-Our sporting heritage is being lost Telegraph
-Scrums of village comfort Telegraph
-Lidos are back with a splash Financial Times
-Sporting cathedrals pass into oblivion Financial Times
-The sporting legacy that helped to shape our city Liverpool Daily Post
-On the edge New Statesman
-Man who built his place in history Times
 
-External links[edit]
+^ "Entrez Gene: transcobalamin I (vitamin B12 binding protein". 
+^ a b Pettit, John D.; Paul Moss (2006). Essential Haematology 5e (Essential). Blackwell Publishing Professional. p. 44. ISBN 1-4051-3649-9. 
+^ Morkbak AL, Poulsen SS, Nexo E (2007). "Haptocorrin in humans". Clin. Chem. Lab. Med. 45 (12): 1751–9. doi:10.1515/CCLM.2007.343. PMID 17990953. 
+^ Viola-Villegas N, Rabideau AE, Bartholomä M, Zubieta J, Doyle RP (August 2009). "Targeting the cubilin receptor through the vitamin B(12) uptake pathway: cytotoxicity and mechanistic insight through fluorescent Re(I) delivery". J. Med. Chem. 52 (16): 5253–61. doi:10.1021/jm900777v. PMID 19627091. 
+^ Vitamin B12 Deficiency Sally P. Stabler, M.D" N Engl J Med 2013; 368:149-160January 10, 2013
 
-The Sports and Pastimes of the People of England
-Victoria Baths, Manchester
-Moseley Road Baths, Balsall Heath, Birmingham
-Victoria Baths, Nottingham
-Broomhill Pool, Ipswich
-Govanhill Baths, Glasgow
-Ripon Spa, Ripon
-Haggerston Pool, Hackney
-Lidos in the UK
-Martin Polley's blog
+
+Further reading[edit]
+
+
+GuÃ©ant-Rodriguez RM, JuilliÃ©re Y, Candito M; et al. (2005). "Association of MTRRA66G polymorphism (but not of MTHFR C677T and A1298C, MTRA2756G, TCN C776G) with homocysteine and coronary artery disease in the French population.". Thromb. Haemost. 94 (3): 510–5. doi:10.1160/TH05-04-0262. PMID 16268464. 
+Garrod MG, Allen LH, Haan MN, et al. (2010). "Transcobalamin C776G genotype modifies the association between vitamin B12 and homocysteine in older Hispanics.". Eur J Clin Nutr 64 (5): 503–9. doi:10.1038/ejcn.2010.20. PMC 2864787. PMID 20216556. 
+McGeachie M, Ramoni RL, Mychaleckyj JC, et al. (2009). "Integrative predictive model of coronary artery calcification in atherosclerosis.". Circulation 120 (24): 2448–54. doi:10.1161/CIRCULATIONAHA.109.865501. PMC 2810344. PMID 19948975. 
+Matteini AM, Walston JD, Bandeen-Roche K, et al. (2010). "Transcobalamin-II variants, decreased vitamin B12 availability and increased risk of frailty.". J Nutr Health Aging 14 (1): 73–7. doi:10.1007/s12603-010-0013-1. PMC 3042247. PMID 20082058. 
+Lee KM, Lan Q, Kricker A, et al. (2007). "One-carbon metabolism gene polymorphisms and risk of non-Hodgkin lymphoma in Australia.". Hum. Genet. 122 (5): 525–33. doi:10.1007/s00439-007-0431-2. PMID 17891500. 
+Liu T, Qian WJ, Gritsenko MA, et al. "Human plasma N-glycoproteome analysis by immunoaffinity subtraction, hydrazide chemistry, and mass spectrometry.". J. Proteome Res. 4 (6): 2070–80. doi:10.1021/pr0502065. PMC 1850943. PMID 16335952. 
+Fintelman-Rodrigues N, Corrêa JC, Santos JM, et al. (2009). "Investigation of CBS, MTR, RFC-1 and TC polymorphisms as maternal risk factors for Down syndrome.". Dis. Markers 26 (4): 155–61. doi:10.3233/DMA-2009-0626. PMID 19729796. 
+Wang SS, Maurer MJ, Morton LM, et al. (2009). "Polymorphisms in DNA repair and one-carbon metabolism genes and overall survival in diffuse large B-cell lymphoma and follicular lymphoma.". Leukemia 23 (3): 596–602. doi:10.1038/leu.2008.240. PMC 3066015. PMID 18830263. 
+Fedosov SN, Fedosova NU, KrÃ¤utler B; et al. (2007). "Mechanisms of discrimination between cobalamins and their natural analogues during their binding to the specific B12-transporting proteins.". Biochemistry 46 (21): 6446–58. doi:10.1021/bi062063l. PMID 17487979. 
+Carmel R, Parker J, Kelman Z (2009). "Genomic mutations associated with mild and severe deficiencies of transcobalamin I (haptocorrin) that cause mildly and severely low serum cobalamin levels.". Br. J. Haematol. 147 (3): 386–91. doi:10.1111/j.1365-2141.2009.07855.x. PMID 19686235. 
+Talmud PJ, Drenos F, Shah S, et al. (2009). "Gene-centric association signals for lipids and apolipoproteins identified via the HumanCVD BeadChip.". Am. J. Hum. Genet. 85 (5): 628–42. doi:10.1016/j.ajhg.2009.10.014. PMC 2775832. PMID 19913121. 
+Collin SM, Metcalfe C, Refsum H, et al. (2010). "Associations of folate, vitamin B12, homocysteine, and folate-pathway polymorphisms with prostate-specific antigen velocity in men with localized prostate cancer.". Cancer Epidemiol. Biomarkers Prev. 19 (11): 2833–8. doi:10.1158/1055-9965.EPI-10-0582. PMID 20852008. 
+Haggarty P, Campbell DM, Duthie S, et al. (2008). "Folic acid use in pregnancy and embryo selection.". BJOG 115 (7): 851–6. doi:10.1111/j.1471-0528.2008.01737.x. PMID 18485163. 
+Tanaka T, Scheet P, Giusti B, et al. (2009). "Genome-wide association study of vitamin B6, vitamin B12, folate, and homocysteine blood concentrations.". Am. J. Hum. Genet. 84 (4): 477–82. doi:10.1016/j.ajhg.2009.02.011. PMC 2667971. PMID 19303062. 
+Geisel J, HÃ¼bner U, Bodis M; et al. (2003). "The role of genetic factors in the development of hyperhomocysteinemia.". Clin. Chem. Lab. Med. 41 (11): 1427–34. doi:10.1515/CCLM.2003.219. PMID 14656021. 
+Martinelli M, Scapoli L, Palmieri A, et al. (2006). "Study of four genes belonging to the folate pathway: transcobalamin 2 is involved in the onset of non-syndromic cleft lip with or without cleft palate.". Hum. Mutat. 27 (3): 294. doi:10.1002/humu.9411. PMID 16470748. 
+von Castel-Dunwoody KM, Kauwell GP, Shelnutt KP, et al. (2005). "Transcobalamin 776C->G polymorphism negatively affects vitamin B-12 metabolism.". Am. J. Clin. Nutr. 81 (6): 1436–41. PMID 15941899. 
+Oh JH, Yang JO, Hahn Y, et al. (2005). "Transcriptome analysis of human gastric cancer.". Mamm. Genome 16 (12): 942–54. doi:10.1007/s00335-005-0075-2. PMID 16341674. 
+Ramachandran P, Boontheung P, Xie Y, et al. (2006). "Identification of N-linked glycoproteins in human saliva by glycoprotein capture and mass spectrometry.". J. Proteome Res. 5 (6): 1493–503. doi:10.1021/pr050492k. PMID 16740002. 
+Bailey SD, Xie C, Do R, et al. (2010). "Variation at the NFATC2 locus increases the risk of thiazolidinedione-induced edema in the Diabetes REduction Assessment with ramipril and rosiglitazone Medication (DREAM) study.". Diabetes Care 33 (10): 2250–3. doi:10.2337/dc10-0452. PMC 2945168. PMID 20628086. 
+
 
 
 

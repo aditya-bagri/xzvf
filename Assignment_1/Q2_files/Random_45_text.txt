@@ -4,155 +4,52 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-Spyros Christopoulos
-
-Personal information
-
-
-Full name
-Spyridon Christopoulos
-
-
-Date of birth
-(1975-10-07) 7 October 1975 (age 40)
-
-
-Place of birth
-Greece
-
-
-Height
-1.89 m (6 ft 2 1⁄2 in)
-
-
-Playing position
-Goalkeeper
-
-
-Youth career
-
-
-1995
-Olympiakos Volos U20
-
-
-Senior career*
-
-
-Years
-Team
-Apps†
-(Gls)†
-
-
-1996–1997
-Pyrgos
-6
-(0)
-
-
-1997
-Olympiakos Volos
-1
-(0)
-
-
-1997–1998
-Asteras Amaliada
-11
-(0)
-
-
-1998–1999
-Achaiki
-6
-(0)
-
-
-1999–2001
-Asteras Vlachioti
-16
-(0)
-
-
-2001–2004
-Ilisiakos
-32
-(0)
-
-
-2004–2007
-AEL
-24
-(0)
-
-
-2007–2009
-Thrasyvoulos
-6
-(0)
 
 
 
-* Senior club appearances and goals counted for the domestic league only and correct as of 12 December 2015.
-† Appearances (goals)
+Notacon logo
 
 
-Spyros Christopoulos (Greek: Σπύρος Χριστόπουλος; born 7 October 1975) is a retired Greek footballer who played as a goalkeeper mostly for AEL and Thrasyvoulos in the Greek Super League. He now works as a goalkeepers coach in teams of lower leagues.
+Notacon (pronounced "not-a-con") is an art and technology conference which takes place annually in Cleveland, Ohio. The name Notacon became a bacronym for Northern Ohio Technological Advancement Conference; however, use of this was mostly dropped after the first year. Notacon preceded the Ingenuity Festival by over a year in its vision for a cohesive blend of art and technology.[1]
+The conference was founded in 2003 by "FTS Conventures", a small group of friends who wanted to strengthen and expand their community. The conference was also founded in part to fill the vacuum caused by the sudden ending of the Detroit, Michigan Rubi-Con event, though it has now achieved its own personality and prominence.
+
+
+
+
+RaD Man doing an interview with Dial-a-Dork on Notacon radio during the 2005 event.
+
+
+While many hacker conventions focus on the mechanics or political issues that surround such activities, Notacon's focus is more on the underlying beauty or artistry of the technique of hacking, as well as other ways to apply a "hacker mentality" to the areas of art and music. Hence, in addition to topics of technology and computer security, many aspects of both the art and music world are represented. The concept of "community through technology" is one of the main focuses of Notacon, with the participants being dedicated to the advancement of computer technology.
+The more recent event, Notacon 6, was held April 16 - 19, 2009, at the Wyndham Cleveland at Playhouse Square in Downtown Cleveland.
+Notacon 4, April 27 - 29, 2007, worked as an incubator for Blockparty, the largest running North American demoparty. This collaborative effort allowed the fledgling party to utilize the existing support structure of an established conference. 2007 also featured the first known presentation from a deceased community member, a multimedia update to a talk given at Rubi-con 5 called "Secrets of the Phone Guy". This remixed presentation was titled "Secrets of the Dead Phone Guy" and was presented by "The Friends of DanKaye".[2] Also featured were presentations such as: "DIY Green Energy", "Why Building Hacker Spaces is Necessary and How to Do It", "Online Communities and the Politics of DDoS", "Notageek: Technology and Everyone Else", "8 Dirty Secrets of the Security Industry", and "Open Source Economic Development"
+Notacon 3, took place April 7 - 9, 2006, with talks such as "Make Your Own Linux", "Blended Threat Management", "How to Survive a Federal Investigation", "The Great Failure of Wikipedia", "Kryptos and the Da Vinci Code", "HajjiNets: Running an ISP in a War Zone" and "Your Moment of Audio Zen: A History of Podcasts". A few of the talks were in direct association with the computer club Infonomicon, as several of their more high profile members spoke at the con, including droops, kn1ghtl0rd, p0trill023, irongeek, and ponyboy. Other notable speakers in 2006 included Jason Scott, Elonka Dunin, Drew Curtis, and Eric Meyer [3]
+
+In 2005, 2006, and 2007, Notacon also included the Notacon Radio project, hosted by Jason Scott. Essentially an event-long Icecast (using Oddcast and Icecast2), Scott provided running audio commentary of the event, its attendees, and the world at large. The broadcast was also opened up to other contributors, including local tech-talkers Dial-a-Dork, who did a four-hour live show.
+
+
+
+
+Neon Light display at Notacon, 2009
+
+
 References[edit]
+
+^ Using Ingenuity, Cleveland turns a key corner - Cleveland Jewish News - HighBeam Research
+^ NOTACON - presented by FTS Conventures
+^ http://www.notacon.org/schedule.html
+
+
+Official website
+Newsforge.com - Community converges on Ohio LinuxFest Notacon hosted a reception at Ohio LinuxFest, October 1, 2005 and September 30, 2006
+Cool Cleveland Preview of Notacon 3 : by Lee E. Batdorff.
 
 External links[edit]
 
-Profile at Thrasivoulos FC
-Goalkeepers Coach in Iraklis Psachna
-
-
-
-
-Persondata
-
-
-Name
-Christopoulos, Spyros
-
-
-Alternative names
-Christopoulos, Spyridon
-
-
-Short description
-footballer
-
-
-Date of birth
-7 October 1975
-
-
-Place of birth
-Greece
-
-
-Date of death
-
-
-
-Place of death
-
-
-
-
-
-
-
-This biographical article relating to Greek football is a stub. You can help Wikipedia by expanding it.
-
-
-v
-t
-e
-
-
-
+FTS Conventures - site for the parent company
+Notacon Radio
+Geeks as the Media at Notacon on Slashdot
+Notacon: Because Your Brain Has a Right Side, Too on Slashdot
+Notacon audio and video archives Official collection of talks recorded during the event
 
 
 

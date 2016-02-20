@@ -1,6 +1,5 @@
 ## Source Code Based on: 
 ## http://www.markhneedham.com/blog/2015/02/15/pythonscikit-learn-calculating-tfidf-on-how-i-met-your-mother-transcripts/
-##
 ## http://stevenloria.com/finding-important-words-in-a-document-using-tf-idf/
 ##
 ## Submission as part of Assignment Submission for Advanced Big Data @ Columbia University
@@ -26,7 +25,7 @@ def TFIDF(source, destination):
 	tf=HashingTF()
 	tfVectors=tf.transform(rdd).cache()
 	a = tfVectors.collect()
-
+	# printing TF values to individual files.
 	ind = 0
 	for vector in a:
 		dest_path = destination + "TF_%d"%ind + ".txt"
@@ -34,9 +33,11 @@ def TFIDF(source, destination):
 		file = open(dest_path,'w')
 		file.write(str(vector))
 		file.close()
+	# Proceeding towards calculating IDF Values 
 	idf=IDF()
 	idfModel=idf.fit(tfVectors)
 	tfIdfVectors=idfModel.transform(tfVectors)
+	# Writing a single file with the TF-IDF values stored in it.
 	file = open(destination+"TF-IDF.txt", 'w')
 	file.write(str(tfIdfVectors.collect()))
 	try:

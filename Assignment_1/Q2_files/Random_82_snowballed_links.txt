@@ -1,1 +1,1 @@
-[]
+['http://www.famitsu.com/news/201212/14025989.html', 'http://www.destructoid.com/review-the-legend-of-heroes-trails-of-cold-steel-328087.phtml', 'http://multiplayer.it/recensioni/162323-the-legend-of-heroes-trails-of-cold-steel-la-scuola-degli-eroi.html', 'http://www.rpgamer.com/games/loh/lohsnk/reviews/lohsnkstrev1.html', 'http://awards.cesa.or.jp/prize/prize_02.html']

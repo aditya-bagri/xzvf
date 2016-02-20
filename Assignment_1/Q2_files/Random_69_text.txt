@@ -3,28 +3,144 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-In mathematics, the digit sum of a given integer is the sum of all its digits (e.g.: the digit sum of 84001 is calculated as 8+4+0+0+1 = 13). Digit sums are most often computed using the decimal representation of the given number, but they may be calculated in any other base; different bases give different digit sums, with the digit sums for binary being on average smaller than those for any other base.[1]
-The digit sum of a number x in base b is given by
 
-Let S(r,N) be the digit sum for radix r of all non-negative integers less than N. For any 2 ≤ r1 < r2 and for sufficiently large N, S(r1,N) < S(r2,N).[1]
-The sum of the decimal digits of the integers 0, 1, 2, ... is given by  A007953 in the On-Line Encyclopedia of Integer Sequences. Borwein & Borwein (1992) use the generating function of this integer sequence (and of the analogous sequence for binary digit sums) to derive several rapidly converging series with rational and transcendental sums.[2]
-The concept of a decimal digit sum is closely related to, but not the same as, the digital root, which is the result of repeatedly applying the digit sum operation until the remaining value is only a single digit. The digital root of any non-zero integer will be a number in the range 1 to 9, whereas the digit sum can take any value. Digit sums and digital roots can be used for quick divisibility tests: a natural number is divisible by 3 or 9 if and only if its digit sum (or digital root) is divisible by 3 or 9, respectively. For divisibility by 9, this test is called the rule of nines, and is the basis of the casting out nines technique for checking calculations.
-Digit sums are also a common ingredient in checksum algorithms and were used in this way to check the arithmetic operations of early computers.[3] Earlier, in an era of hand calculation, Edgeworth (1888) suggested using sums of 50 digits taken from mathematical tables of logarithms as a form of random number generation; if one assumes that each digit is random, then by the central limit theorem, these digit sums will have a random distribution closely approximating a Gaussian distribution.[4]
-The digit sum of the binary representation of a number is known as its Hamming weight or population count; algorithms for performing this operation have been studied, and it has been included as a built-in operation in some computer architectures and some programming languages. These operations are used in computing applications including cryptography, coding theory, and computer chess.
-Harshad numbers are defined in terms of divisibility by their digit sums, and Smith numbers are defined by the equality of their digit sums with the digit sums of their prime factorizations.
+Meat pie
+
+
+Australian meat pie with tomato sauce (ketchup)
+
+
+
+Type
+Savory pie
+
+
+Place of origin
+United Kingdom, Australia and New Zealand
+
+
+Main ingredients
+Meat
+
+
+ Cookbook: Meat pie   Media: Meat pie
+
+
+
+
+
+
+Chicken and rabbit meat pie
+
+
+A meat pie is a pie with a filling of meat and often other savory ingredients. They are popular in the United Kingdom,[1] Ghana, Nigeria, Europe, Australia, New Zealand, Canada,[2] and South Africa.
+
+
+
+Contents
+
+
+1 History
+2 Regional variations
+3 See also
+4 References
+5 Further reading
+
+
+
+History[edit]
+
+
+
+
+
+This article is written like a personal reflection or opinion essay that states the Wikipedia editor's particular feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (October 2015)
+
+
+The beginnings of the meat pie can be traced back to the Neolithic Period, around 9500 BC. The ancient Egyptians' diet featured basic pies made from oat, wheat, rye, and barley, and filled with honey and baked over hot coals.[3]
+These pies were eventually adopted by the Greeks, and it is there that a flour-water paste substance closely resembling pie pastry was created and was first filled with meat.[4] In Greece, these pies were usually fried or cooked under coals. The Romans, tasting the delicacy from the Greeks, incorporated it into their own diet with little changes. According to the records kept by the wealthy, Romans used a variety of meats, oysters, mussels, lampreys, and fish as filling and a mixture of flour, oil, and water to keep it in. This 'pastry' cover was not meant to be eaten and was thrown away.[5]
+In combination with the spread of Roman roads, the invading crusaders encountered the dish and brought the recipes to Medieval Europe. In Northern Europe, cooks created the pastry using fats like lard and butter to make stiff dough to hold an upright pie.[6] These medieval pastry dishes were called "coffins/coffyns", which means a basket or box. According to Janet Clarkson in Pie: A Global History, the "coffins" were:
+
+savory meat pies with the crusts or pastry being tall, straight-sided with sealed-on floors and lids. Open-crust pastry (not tops or lids) were known as "traps." These pies held assorted meats and sauce components and were baked more like a modern casserole with no pan (the crust itself was the pan, its pastry tough and inedible). These crust were often made several inches thick to withstand many hours of baking.
+
+Some historians[who?] suggest the tough, almost inedible, crust was given to the servants while the lords and ladies of the house ate the contents.[7]
+This pastry became a staple dish in medieval times, and was eventually called "pyes" or "pies". The origin of this name comes from the type of meat commonly used as filling. Beef, lamb, and duck were employed, but a majority of the time it was the magpie that was the main ingredient.[8] Magpies in medieval England were originally named pies. Some historians[who?] think that the popular usage of 'pie' birds led to the pastry dish being named pie as well,[9] while etymologists[who?] suggest that pies were named after these birds "from a supposed resemblance between the miscellaneous contents of pies and the assortment of objects collected by thieving magpies."[10] The first use of the word "pie" as food is referenced in 1303 by the Oxford English Dictionary; also stating that the term became popular and widely utilized by 1362.[11]
+The French and Italians specialized in redefining the pastry of the pie, making it flakier and tastier by new methods of adding butter, rolling, and folding the dough. In 1440, the Paris pastry guild was recognized and started to expand their product—and so something like the modern day crust began to be used.[12]
+Missionaries and explorers spread the meat-based pie dish across the globe. The English Pilgrims of the North American colonies brought the recipes across the ocean with them. The crust of the pie was useful to preserve food during the long winter months in America (just as the pies were used in antiquity). But the pie was not considered popular there until the 1800s, and today meat pies have lost their popularity to be replaced with sweet pies.[13]
+Today, there are different types and variations of meat-pies enjoyed all across the world.
+Regional variations[edit]
+
+
+
+
+Fatayer, a meat pie in Middle Eastern cuisine
+
+
+
+
+
+
+A chicken pie
+
+
+The Natchitoches meat pie is one of the official state foods of the US state of Louisiana. Natchitoches is a town in Louisiana, the name is pronounced Nack-a-tish.[14] Meat pies are not common in most US cuisine, in contrast to the popular pot pies, though the distinction isn't very well defined.
+Latin American meat empanadas may be pies or more often pasties; different pastry shells and fillings are used, and they may be baked or fried. Empanadas usually contain lots of onion and green or red pepper, in combination with meat or fish. Empanada dough takes many forms, from those made with cornmeal to puff pastry.[15] Ground beef with olives, fried egg, pulled pork, diced steak, even cheese and salami are used in Chile, Argentina, Bolivia, Colombia, Ecuador, Puerto Rico and Peru for example.
+Other well known varieties of meat pie include British meat pies, French-Canadian meat pie, and the Australia and NZ meat pie. An Irish meat pie is the steak and Guinness pie which consists of round steak with Guinness Stout Beer, bacon, and onions. It is served with potato chips and vegetables and is very popular in Irish pubs in Australia. In both Australia and New Zealand, the meat pie is a common convenience food often found in petrol stations and convenience stores and in New Zealand was once sold in a chain of fast-food restaurants.
+The Nigerian "meat pie" is similar to the Jamaican beef patty. It can be baked or fried, and the filling can be almost anything from corned beef (the most widely used) to just onions and tomatoes.
+Middle Eastern meat pies are called sfiha and contain ground beef, olive oil, plain yogurt, tahini, allspice, onion, tomatoes and pine nuts. Greek meat pies are called kreatopita and contain ground beef, onions and feta cheese. The filling for kreatopita is wrapped in phyllo dough. Indian meat pies are called samosa and usually contain peas, spiced potatoes, coriander, lentils, or ground beef or chicken and are often served with chutney.
+See also[edit]
+
+
+
+
+Food portal
+
+
+
+
+
+Flipper pie
+Game pie
+Lihapiirakka
+Meat pie (Australia and New Zealand)
+Pasty
+Pie floater
+Pork pie
+Pot pie
+Rabbit pie
+Rapure
+Scotch pie
+Sea-pie
+Shepherd's pie
+Steak pie
+Steak and kidney pie
+Tourtière
+
+
 References[edit]
 
 
-^ a b Bush, L. E. (1940), "An asymptotic formula for the average sum of the digits of integers", American Mathematical Monthly (Mathematical Association of America) 47 (3): 154–156, doi:10.2307/2304217, JSTOR 2304217 .
-^ Borwein, J. M.; Borwein, P. B. (1992), "Strange series and high precision fraud" (PDF), American Mathematical Monthly 99 (7): 622–640, doi:10.2307/2324993, JSTOR 2324993 .
-^ Bloch, R. M.; Campbell, R. V. D.; Ellis, M. (1948), "The Logical Design of the Raytheon Computer", Mathematical Tables and Other Aids to Computation (American Mathematical Society) 3 (24): 286–295, doi:10.2307/2002859, JSTOR 2002859 .
-^ Edgeworth, F. Y. (1888), "The Mathematical Theory of Banking" (PDF), Journal of the Royal Statistical Society 51 (1): 113–127 .
+^ Old English pies and puddings
+^ A perfect month for a pie. The Guardian, Prince Edward Island, Canada
+^ "Pies, History of Pies." What's Cooking America. N.p., n.d. Web. 22 Mar. 2011.
+^ "Food Timeline: history notes-pie & pastry." Food Timeline: food history & vintage recipes . N.p., n.d. Web. 5 Apr. 2011.
+^ "Food Timeline: history notes-pie & pastry." Food Timeline: food history & vintage recipes . N.p., n.d. Web. 5 Apr. 2011.
+^ "A Brief History of Pie - TIME." Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com. N.p., n.d. Web. 22 Mar. 2011.
+^ "Food Timeline: history notes-pie & pastry." Food Timeline: food history & vintage recipes . N.p., n.d. Web. 5 Apr. 2011.
+^ "A Brief History of Pie - TIME." Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com. N.p., n.d. Web. 22 Mar. 2011.
+^ "pie - word origin, history, and etymology." Word-Origins.com a History and Etymology of Words. N.p., n.d. Web. 22 Mar. 2011.[dead link]
+^ "magpie - word origin, history, and etymology." Word-Origins.com a History and Etymology of Words. N.p., n.d. Web. 22 Mar. 2011.[dead link]
+^ "Food Timeline: history notes-pie & pastry." Food Timeline: food history & vintage recipes . N.p., n.d. Web. 5 Apr. 2011.
+^ "Food Timeline: history notes-pie & pastry." Food Timeline: food history & vintage recipes . N.p., n.d. Web. 5 Apr. 2011.
+^ "A Brief History of Pie - TIME." Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews - TIME.com. N.p., n.d. Web. 22 Mar. 2011.
+^ Clairborne, Craig (May 5, 1982). "Turnovers: A Dish With an International Heritage". New York Times.  |access-date= requires |url= (help)
+^ Casas, Penelope (1982). The Foods and Wines of Spain. New York: Alfred A. Knopf. p. 52. ISBN 978-0-394-51348-5. 
 
 
-External links[edit]
+Pies, History of Pies." What's Cooking America History of Pies . N.p., n.d. Web. 22 Mar. 2011
+Further reading[edit]
 
-Weisstein, Eric W., "Digit Sum", MathWorld.
-[1] Simple applications of digit sum
+Sweeney Todd: The Demon Barber of Fleet Street edited by Robert Mack (2007). Oxford University Press. ISBN 0-19-922933-3
 
 
 

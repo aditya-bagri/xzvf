@@ -1,1 +1,1 @@
-['http://www.boydsworld.com/data/standings/standings1999.html', 'http://www.secsports.com/new/sports/bbc/alltimetourneyresults.html', 'http://www.secsports.com/new/sports/bbc/bbcalltournteam.html']
+[]

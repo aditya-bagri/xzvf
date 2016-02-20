@@ -4,41 +4,40 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
-Teniposide
+État 3701–3755
+SNCF 3-230.B
 
 
 
 
-Systematic (IUPAC) name
 
 
 
-(5R,5aR,8aR,9S)-5,8,8a,9-Tetrahydro-5-(4-hydroxy-3,5-dimethoxyphenyl)-9-({4,6-O-[(R)-2-thienylmethylene]-β-D-glucopyranosyl}oxy)furo[3',4':6,7]naphtho[2,3-d]-1,3-dioxol-6(5aH)-one
+Type and origin
 
 
+Power type
+Steam
 
-Clinical data
 
+Builder
 
-Trade names
-Vumon
 
 
-AHFS/Drugs.com
-monograph
+Fives-Lille
+SFCM
+Schneider et Cie.
 
 
-MedlinePlus
-a692045
 
 
-Pregnancy
-category
 
+Build date
+1901–1909
 
 
-AU: D
-US: D (Evidence of risk)
+Total produced
+55
 
 
 
@@ -47,639 +46,222 @@ US: D (Evidence of risk)
 
 
 
-Legal status
+Specifications
 
 
+Configuration
+4-6-0
 
-US: ℞-only
 
+UIC class
+2′C n4v
 
 
+Gauge
+1,435 mm (4 ft 8 1⁄2 in)
 
 
-Routes of
-administration
-Intravenous
+Driver diameter
+1,750 mm (68.90 in)
 
 
-Pharmacokinetic data
+Length
+16.135 m (52 ft 11.24 in)
 
 
-Bioavailability
-N/A
+Axle load
+14.6 tonnes (14.4 long tons; 16.1 short tons)
 
 
-Protein binding
->99%
+Adhesive weight
+43.7 tonnes (43.0 long tons; 48.2 short tons)
 
 
-Metabolism
-Hepatic (CYP2C19-mediated)
+Loco weight
+60.1 tonnes (59.2 long tons; 66.2 short tons)
 
 
-Biological half-life
-5 hours
+Tender weight
+38.1 tonnes (37.5 long tons; 42.0 short tons)
 
 
-Excretion
-Renal and fecal
+Tender type
+3-axle
 
 
-Identifiers
+Fuel type
+Coal
 
 
-CAS Number
-29767-20-2 Y
+Fuel capacity
+6 tonnes (5.9 long tons; 6.6 short tons)
 
 
-ATC code
-L01CB02
+Water cap
+15,200 litres (3,300 imp gal; 4,000 US gal)
 
 
-PubChem
-CID 34698
+Firebox:
+ • Firegrate area
+2.42 m2 (26.0 sq ft)
 
 
-IUPHAR/BPS
-6843
+Boiler pressure
+15.0 kg/cm2 (1.47 MPa; 213 lbf/in2)
 
 
-DrugBank
-DB00444 N
+Heating surface
+187.97 m2 (2,023.3 sq ft)
 
 
-ChemSpider
-31930 N
+Cylinders
+Four, compound: HP outside, LP inside
 
 
-UNII
-957E6438QA N
+High-pressure cylinder
+350 mm × 640 mm (13.78 in × 25.20 in)
 
 
-KEGG
-D02698 Y
+Low-pressure cylinder
+550 mm × 640 mm (21.65 in × 25.20 in)
 
 
-ChEBI
-CHEBI:75988 N
 
 
-ChEMBL
-CHEMBL1200536 N
 
 
-Synonyms
-VM-26
 
 
-Chemical data
+Performance figures
 
 
-Formula
-C32H32O13S
+Maximum speed
+100 km/h (62 mph)
 
 
-Molar mass
-656.655 g/mol
+Power output
+1,010 hp (1,020 PS; 750 kW)
 
 
 
 
-SMILES
 
 
-COc1cc(cc(c1O)OC)[C@@H]2c3cc4c(cc3[C@H]([C@@H]5[C@@H]2C(=O)OC5)O[C@H]6[C@@H]([C@H]([C@H]7[C@H](O6)COC(O7)c8cccs8)O)O)OCO4
 
 
+Career
 
 
+Operators
 
 
 
+Chemins de fer de l'État
+SNCF
 
-InChI
 
 
-InChI=1S/C32H32O13S/c1-37-19-6-13(7-20(38-2)25(19)33)23-14-8-17-18(42-12-41-17)9-15(14)28(16-10-39-30(36)24(16)23)44-32-27(35)26(34)29-21(43-32)11-40-31(45-29)22-4-3-5-46-22/h3-9,16,21,23-24,26-29,31-35H,10-12H2,1-2H3/t16-,21+,23+,24-,26+,27+,28+,29+,31?,32-/m0/s1
 
 
-Key:NRUKOCRGYNPUPR-PSZSYXFXSA-N
+Numbers
 
 
 
+État 3701 – 3755
+État 230-001 to 230-055
+SNCF 3-230.B.1 to 3-230.B55
 
 
 
- NY (what is this?)  (verify)
 
 
-Teniposide (trade name Vumon) is a chemotherapeutic medication[1] used in the treatment of childhood acute lymphocytic leukemia (ALL), Hodgkin's lymphoma, certain brain tumours, and other types of cancer.[2] It is in a class of drugs known as podophyllotoxin derivatives and slows the growth of cancer cells in the body.[3]
+
+
+
+État 3701 to 3755 were a series of 4-6-0 de Glenn compound steam locomotives of the Chemins de fer de l'État built between 1901 and 1909.
+
 
 
 
 Contents
 
 
-1 Medical uses
-
-1.1 Administration
-
-
-2 Contraindiactions
-3 Side effects
-4 Interactions
-5 Pharmacology
-
-5.1 Mechanism of action
-
-
-6 Physical and chemical properties
-7 References
+1 Description
+2 Utilisation
+3 References
+4 External links
 
 
 
-Medical uses[edit]
-Teniposide is used for the treatment of a number of cancer types in children. In the US, it is approved for the second-line therapy of acute lymphocytic leukemia (ALL) in combination with other antineoplastic drugs.[3] In Europe, it is also approved for the treatment of Hodgkin's lymphoma, generalized malignant lymphoma, reticulocyte sarcoma, acute leukaemia, primary brain tumours (glioblastoma, ependymoma, astrocytoma), bladder cancer, neuroblastoma and other solid tumours in children.[2]
-Administration[edit]
-The medication is injected though a vein and burns if it leaks under the skin. It can be used in combination with other anticancer drugs.[2]
-Contraindiactions[edit]
-The drug is contraindicated during pregnancy and lactation, in patients with severe liver or kidney impairment or severely impaired haematopoiesis.[2]
-Side effects[edit]
-Teniposide, when used with other chemotherapeutic agents for the treatment of ALL, results in severe bone marrow suppression. Other common side effects include gastrointestinal toxicity, hypersensitivity reactions, and reversible alopecia.[2]
-Interactions[edit]
-No systematic interaction studies are available. The enzyme inducers phenobarbital and phenytoin have been found to lower its blood plasma concentrations.[4] Theoretically possible interactions include increased plasma concentrations when combined with sodium salicylate, sulfamethizole or tolbutamide, which displace teniposide from plasma protein binding, at least in vitro.[2][3]
-Pharmacology[edit]
-Mechanism of action[edit]
-Teniposide causes dose-dependent single- and double-stranded breaks in DNA and DNA-protein cross-links.[2] The substance has been found to act as an inhibitor of topoisomerase II (an enzyme that aids in DNA unwinding),[4][5] since it does not intercalate into DNA or bind strongly to DNA. The cytotoxic effects of teniposide are related to the relative number of double-stranded DNA breaks produced in cells, which are a reflection of the stabilization of a topoisomerase II-DNA intermediate.[citation needed]
-Physical and chemical properties[edit]
+Description[edit]
+The class were four-cylinder compound locomotives of the de Glenn type – the high pressure cylinders were on the outside and drove the middle coupled wheels, the low pressure cylinders were inside, and drove the leading coupled wheels.
+They were mixed traffic locomotives, for use on express and local passenger trains as well as freight trains on all parts of the État network. The design was inspired by, and similar to Midi 1301 to 1370, Nord 3.078 to 3.354, and PO 1721 to 1735.
+They were equipped with 3-axle tenders that held 6 tonnes (5.9 long tons; 6.6 short tons) of coal and 15,200 litres (3,300 imp gal; 4,000 US gal) of water, and were numbered 15.251 to 15.305.
+
+Table of locomotive
+
+1st
+État
+No.
+1910
+État No.
+Manufacturer
+Serial No.
+Year
+Notes
+
+
+3701–3710
+230-001 – 230-010
+Fives-Lille
+3167–3176
+1901
 
 
 
+3711–3730
+230-011 – 230-030
+SFCM
+2559–2578
+1902
 
-An illustration of the wild mandrake, showing part of the rhizome (at bottom)
 
 
-Teniposide is a semisynthetic derivative of podophyllotoxin[2] from the rhizome of the wild mandrake (Podophyllum peltatum). More specifically, it is a glycoside of podophyllotoxin with a D-glucose derivative. It is chemically similar to the anti-cancer drug etoposide, being distinguished only by a thienyl rest where etoposide has a methyl.[4] Both these compounds have been developed with the aim of creating less toxic derivatives of podophyllotoxin.[6]
+3731–3740
+230-031 – 230-040
+Fives-Lille
+3339–3348
+1906
+
+
+
+3741–3755
+230-041 – 230-055
+Schneider & Co.
+3041–3055
+1909
+
+
+
+The first 30 had Wegner brakes, the remainder had Westinghouse brakes.
+They were capable of pulling hauling passenger trains of 225 to 250 tonnes (221 to 246 long tons; 248 to 276 short tons) at 90 kilometres per hour (56 mph), passenger trains of 350 to 400 tonnes (340 to 390 long tons; 390 to 440 short tons) at 70 kilometres per hour (43 mph), and freight trains 700 tonnes (690 long tons; 770 short tons) at speeds of 40 to 50 kilometres per hour (25 to 31 mph). On inclines of 1% (1 in 100), they could pull 160 tonnes (160 long tons; 180 short tons) at 95 kilometres per hour (59 mph).[1]
+Utilisation[edit]
+They were used thought the État network, and proved to be more economical than the 4-4-0 and 2-4-2 locomotive that they displaced. They were allocated to the locomotive depots of Nantes Sainte-Anne, La Roche-sur-Yon, La Rochelle, Saintes, Saint-Mariens, Cholet, Thouars, and Bressuire.
+After 1938, the newly created SNCF renumbered the locomotives 3-230.B.1 to 3-230.B.55; while the tenders were renumbered 15.B.251 to 15.B.305. Forty-six survived World War II, the last was withdrawn in 1960, having been used on Saint-Mariens to Bordeaux local services.
+None have been preserved, but the Cité du train in Mulhouse has one of the similar Midi, locomotives, No. 1314.
+
 References[edit]
 
 
-^ Cragg, Gordon M.; Newman, David J. (2005). "Plants as a source of anti-cancer agents". Journal of Ethnopharmacology 100 (1–2): 72–9. doi:10.1016/j.jep.2005.05.011. PMID 16009521. 
-^ a b c d e f g h Jasek, W, ed. (2007). Austria-Codex (in German) (62nd ed.). Vienna: Österreichischer Apothekerverlag. pp. 8855–6. ISBN 978-3-85200-181-4. 
-^ a b c Drugs.com: Teniposide monograph.
-^ a b c Mutschler, Ernst; Schäfer-Korting, Monika (2001). Arzneimittelwirkungen (in German) (8 ed.). Stuttgart: Wissenschaftliche Verlagsgesellschaft. pp. 894–5. ISBN 3-8047-1763-2. 
-^ De Jong, S; Kooistra, A. J.; De Vries, E. G.; Mulder, N. H.; Zijlstra, J. G. (1993). "Topoisomerase II as a target of VM-26 and 4'-(9-acridinylamino)methanesulfon-m-aniside in atypical multidrug resistant human small cell lung carcinoma cells". Cancer research 53 (5): 1064–71. PMID 8382551. 
-^ Dinnendahl, V, Fricke, U, ed. (2015). Arzneistoff-Profile (in German) 4 (28 ed.). Eschborn, Germany: Govi Pharmazeutischer Verlag. ISBN 978-3-7741-9846-3. 
+^ Lepage, André. Rail Magazine (62).  Missing or empty |title= (help)
 
 
 
+Davies, John (August 2001). Chemins de fer de l'État Locomotive List 1878–1938. Woodbridge, Queensland: Dr. John Davies. pp. 20–21. ISBN 0-7316-8442-7. 
 
+External links[edit]
 
-
-
-
-
-
-v
-t
-e
-
-
-Intracellular chemotherapeutic agents / antineoplastic agents (L01)
-
-
-
-
-
-
-SPs/MIs
-(M phase)
-
-
-
-
-Block microtubule assembly
-
-
-
-Vinca alkaloids (Vinblastine#
-Vincristine#
-Vinflunine§
-Vindesine
-Vinorelbine)
-
-
-
-
-
-
-
-
-Block microtubule disassembly
-
-
-
-Taxanes (Cabazitaxel
-Docetaxel#
-Larotaxel
-Ortataxel†
-Paclitaxel#
-Tesetaxel)
-Epothilones (Ixabepilone)
-
-
-
-
-
-
-
-
-
-
-
-DNA replication
-inhibitor
-
-
-
-
-DNA precursors/
-antimetabolites
-(S phase)
-
-
-
-
-Folic acid
-
-
-
-Dihydrofolate reductase inhibitor (Aminopterin
-Methotrexate#
-Pemetrexed
-Pralatrexate)
-Thymidylate synthase inhibitor (Raltitrexed
-Pemetrexed)
-
-
-
-
-
-
-
-
-Purine
-
-
-
-Adenosine deaminase inhibitor (Pentostatin)
-
-
-Halogenated/ribonucleotide reductase inhibitors (Cladribine
-Clofarabine
-Fludarabine)
-Nelarabine
-
-
-Thiopurine (Thioguanine#
-Mercaptopurine#)
-
-
-
-
-
-
-
-
-Pyrimidine
-
-
-
-Thymidylate synthase inhibitor (Fluorouracil#
-Capecitabine
-Tegafur (+gimeracil/oteracil)
-Carmofur
-Floxuridine)
-
-
-DNA polymerase inhibitor (Cytarabine#)
-
-
-Ribonucleotide reductase inhibitor (Gemcitabine)
-
-
-Hypomethylating agent (Azacitidine
-Decitabine)
-
-
-
-
-
-
-
-
-Deoxyribonucleotide
-
-
-
-Ribonucleotide reductase inhibitor (Hydroxycarbamide)
-
-
-
-
-
-
-
-
-
-
-
-Topoisomerase inhibitors
-(S phase)
-
-
-
-
-I
-
-
-
-Camptotheca (Camptothecin
-Topotecan
-Irinotecan
-Rubitecan‡
-Belotecan)
-
-
-
-
-
-
-
-
-II
-
-
-
-Podophyllum (Etoposide#
-Teniposide)
-
-
-
-
-
-
-
-
-II+Intercalation
-
-
-
-Anthracyclines (Aclarubicin
-Daunorubicin#
-Doxorubicin#
-Epirubicin
-Idarubicin
-Amrubicin†
-Pirarubicin
-Valrubicin
-Zorubicin)
-Anthracenediones (Mitoxantrone
-Pixantrone)
-
-
-
-
-
-
-
-
-
-
-
-Crosslinking of DNA
-(CCNS)
-
-
-
-
-Alkylating
-
-
-
-Nitrogen mustards: Mechlorethamine
-Cyclophosphamide# (Ifosfamide
-Trofosfamide)
-Chlorambucil# (Melphalan
-Prednimustine)
-Bendamustine
-Uramustine
-Estramustine
-
-
-Nitrosoureas: Carmustine
-Lomustine (Semustine)
-Fotemustine
-Nimustine
-Ranimustine
-Streptozocin
-
-
-Alkyl sulfonates: Busulfan (Mannosulfan
-Treosulfan)
-
-
-Aziridines: Carboquone
-ThioTEPA
-Triaziquone
-Triethylenemelamine
-
-
-
-
-
-
-
-
-Platinum-based
-
-
-
-Carboplatin
-Cisplatin
-Nedaplatin
-Oxaliplatin
-Satraplatin
-
-
-
-
-
-
-
-
-Nonclassical
-
-
-
-Hydrazines (Procarbazine#)
-Triazenes (Dacarbazine#
-Temozolomide)
-Altretamine
-Mitobronitol
-Pipobroman
-
-
-
-
-
-
-
-
-Intercalation
-
-
-
-Streptomyces (Actinomycin#
-Bleomycin#
-Mitomycin
-Plicamycin)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Photosensitizers/PDT
-
-
-
-Aminolevulinic acid / Methyl aminolevulinate
-Efaproxiral
-Porphyrin derivatives (Porfimer sodium
-Talaporfin
-Temoporfin
-Verteporfin)
-
-
-
-
-
-
-
-
-Other
-
-
-
-
-Enzyme inhibitors
-
-
-
-FI (Tipifarnib§)
-CDK inhibitors (Alvocidib†
-Seliciclib†
-Palbociclib)
-PrI
-
-Bortezomib
-Carfilzomib
-Ixazomib
-
-
-PhI (Anagrelide)
-IMPDI (Tiazofurin§)
-LI (Masoprocol)
-PARP inhibitor (Olaparib)
-HDAC (Belinostat
-Panobinostat
-Romidepsin
-Vorinostat)
-PIKI (Idelalisib)
-
-
-
-
-
-
-
-
-Receptor antagonists
-
-
-
-ERA (Atrasentan)
-Retinoid X receptor (Bexarotene)
-Sex steroid (Testolactone)
-
-
-
-
-
-
-
-
-Other/ungrouped
-
-
-
-Amsacrine
-Trabectedin
-Retinoids (Alitretinoin
-Tretinoin)
-Arsenic trioxide
-Asparagine depleters (Asparaginase#/Pegaspargase)
-Celecoxib
-Demecolcine
-Elesclomol§
-Elsamitrucin
-Etoglucid
-Lonidamine
-Lucanthone
-Mitoguazone
-Mitotane
-Oblimersen†
-Omacetaxine mepesuccinate
-Eribulin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#WHO-EM
-‡Withdrawn from market
-Clinical trials:
-
-†Phase III
-§Never to phase III
-
-
-
-
-
-
-
-
-
-
+http://carot.chez-alice.fr/fer/fer020.html
 
 
 

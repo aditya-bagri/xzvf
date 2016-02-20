@@ -20,30 +20,39 @@ import os
 import numpy as np
 import math
 from pyspark import SparkContext
-sc = SparkContext()
 import sys
 
 TIME_IN_MIN = 30 # min
 TIME_BETWEEN_ITERATIONS = 30 #sec
 
+## Creating a spark context.
+sc = SparkContext()
+
+## removeOutliers, as the name suggests, cleans the data, removing outliers.
 def removeOutliers(nums,number_of_std_devs):
         stats = nums.stats()
         sig = math.sqrt(stats.variance())
         cleaned= nums.filter(lambda x: math.fabs(x - stats.mean()) <= number_of_std_devs * sig)
         return cleaned
 
+## arrOfOutliers, as the name suggests, creates a vector with stored outliers.
 def arrOfOutliers(nums,number_of_std_devs):
         stats = nums.stats()
         sig = math.sqrt(stats.variance())
         outliers= nums.filter(lambda x: math.fabs(x - stats.mean()) > number_of_std_devs * sig)
         return outliers
 
+## this outlier function was created with the spark code.
+## We parallelize the data here and make use of it in our calculations.
 def outlier(arr, number_of_std_devs):
         nums = sc.parallelize(arr)
         val = sorted(removeOutliers(nums,number_of_std_devs).collect())
         out = sorted(arrOfOutliers(nums,number_of_std_devs).collect())
         return val, out
 
+## A dummy outlier function created in Python. 
+## Unused in this code. If required, however, can be easily 
+## used as a substitute to the Spark function above.
 def python_outlier (arr, number_of_std_devs):
 	sig = np.std(arr)
 	mu = np.mean(arr)
@@ -57,6 +66,7 @@ def python_outlier (arr, number_of_std_devs):
 			outlier.append(elem)
 	return valid, outlier
 
+## A Function defined to clear out the files that may already be existing.
 def clear_files():
          with open('Yahoo_symbols.csv','rb') as sym_list:
 		reader = csv.DictReader(sym_list)
@@ -68,7 +78,7 @@ def clear_files():
 			except Exception, e:
 				print "Error=", str(e)
 				pass
-
+## This function creates files and populates them with live data from the Yahoo Finance feed
 def create_files():
         for i in range(0,TIME_IN_MIN*60/TIME_BETWEEN_ITERATIONS):
 	    reader=csv.DictReader(open('Yahoo_symbols.csv','rb'))
@@ -99,12 +109,16 @@ def create_files():
 
         file.close()
 
+## Precursor function calling the two functions above.
+## Use this to clear out older files and create, populate the new ones.
 def prepare_files():
 	clear_files()
 	create_files()
 
-TEST_MODE=1
-LIVE_MODE=0
+
+TEST_MODE=1 	## Use this mode when working in post processing only
+LIVE_MODE=0	## Yse this mode when looking to stream and clean live data.
+
 def main(mode):
 	if mode:
 		path = "./Q4_with_data/"
@@ -112,11 +126,18 @@ def main(mode):
 		path = "./Q4_files/"
 		prepare_files()
         reader=csv.DictReader(open('Yahoo_symbols.csv','rb'))
+
+	## Code below to select the files from a list of defined files.
 	price_arr=[]
         for row in reader:
 		print row
                 company=row["COMPANY"]
                 symbol=row["SYMBOL"]
+
+		## This while loop executes until valid data found
+		## Note that on some occasions the code below 
+		## may throw errors due to bad connections,
+		## hence the try...except condition is implemented.
                 while(1):
                            try:
                                 share_name=Share(symbol)
@@ -124,10 +145,15 @@ def main(mode):
                                         break
                            except:
                                 time.sleep(1)
-
+		## Creating files for each company.
+		## Company list is stored externally.
                 filename = path+company+".csv"
                 file=open(filename,"r+")
 		price_arr=[]
+		
+		## For each file, find the cleaned data, outliers &
+		## store them in a file for each of the data points.
+
 		for line in file:
 		    try:
 			price_arr.append(float(str(line).split(',')[1]))	

@@ -1,1 +1,1 @@
-["http://web.archive.org/web/20061019060953/http://www.drooker.com/paintings/pages/Children's-Games.html", "http://www.drooker.com/paintings/pages/Children's-Games.html", "http://drooker.com/paintings/pages/Children's-Games.html"]
+['http://www.erichermanmusic.com/video01.html', 'http://www.erichermanmusic.com/snowCB.html', 'http://www.tri-cityherald.com/welcome_page/?shf=/2013/06/14/2434854_mid-columbia-childrens-performer.html', 'http://www.meridianmagazine.com/arts/061114band.html']

@@ -3,76 +3,76 @@ From Wikipedia, the free encyclopedia
 
 					Jump to:					navigation, 					search
 
-In mathematics and especially game theory, the airport problem is a type of fair division problem in which it is decided how to distribute the cost of an airport runway among different players who need runways of different lengths. The problem was introduced by S. C. Littlechild and G. Owen in 1973.[1] Their proposed solution is:
-
-Divide the cost of providing the minimum level of required facility for the smallest type of aircraft equally among the number of landings of all aircraft
-Divide the incremental cost of providing the minimum level of required facility for the second smallest type of aircraft (above the cost of the smallest type) equally among the number of landings of all but the smallest type of aircraft. Continue thus until finally the incremental cost of the largest type of aircraft is divided equally among the number of landings made by the largest aircraft type.
-
-The authors note that the resulting set of landing charges is the Shapley value for an appropriately defined game.
-Example[edit]
-An airport needs to build a runway for 4 different aircraft types. The building cost associated with each aircraft is 8, 11, 13, 18 for aircraft A, B, C, D. We would come up with the following cost table based on Shapley value:
 
 
-Aircraft
-Adding A
-Adding B
-Adding C
-Adding D
-Shapley value
+Zeyt-e Sofla
+زيت سفلي
 
 
-Marginal Cost
-8
-3
-2
-5
-
-
-
-Cost to A
-2
-
-
-
-2
-
-
-Cost to B
-2
-1
-
-
-3
-
-
-Cost to C
-2
-1
-1
-
-4
-
-
-Cost to D
-2
-1
-1
-5
-9
-
-
-Total
+village
 
 
 
 
-18
 
 
+
+
+
+Zeyt-e Sofla
+
+
+
+
+
+
+
+
+Coordinates: 36°39′03″N 53°12′31″E﻿ / ﻿36.65083°N 53.20861°E﻿ / 36.65083; 53.20861Coordinates: 36°39′03″N 53°12′31″E﻿ / ﻿36.65083°N 53.20861°E﻿ / 36.65083; 53.20861
+
+
+Country
+ Iran
+
+
+Province
+Mazandaran
+
+
+County
+Miandorud
+
+
+Bakhsh
+Central
+
+
+Rural District
+Miandorud-e Bozorg
+
+
+Population (2006)
+
+
+ • Total
+1,610
+
+
+Time zone
+IRST (UTC+3:30)
+
+
+ • Summer (DST)
+IRDT (UTC+4:30)
+
+
+Zeyt-e Sofla (Persian: زيت سفلي‎‎, also Romanized as Zeyt-e Soflá; also known as Pā’īn Zeyd and Zeyt-e Pā’īn)[1] is a village in Miandorud-e Bozorg Rural District, in the Central District of Miandorud County, Mazandaran Province, Iran.[2] At the 2006 census, its population was 1,610, in 446 families.[3]
 References[edit]
 
 
-^ Littlechild, S. C.; Owen, G. (1973). "A Simple Expression for the Shapely Value in a Special Case". Management Science 20 (3): 370–372. JSTOR 2629727. 
+^ Zeyt-e Sofla can be found at GEOnet Names Server, at this link, by opening the Advanced Search box, entering "45550" in the "Unique Feature Id" form, and clicking on "Search Database".
+^ Official announcement (Persian)
+^ "Census of the Islamic Republic of Iran, 1385 (2006)". Islamic Republic of Iran. Archived from the original (Excel) on 2011-11-11. 
 
 
 
@@ -88,26 +88,18 @@ t
 e
 
 
-Topics in game theory
+ Miandorud County
 
 
 
 
 
 
-Definitions
+Capital
 
 
 
-Normal-form game
-Extensive-form game
-Escalation of commitment
-Graphical game
-Cooperative game
-Succinct game
-Information set
-Hierarchy of beliefs
-Preference
+Surak
 
 
 
@@ -116,80 +108,53 @@ Preference
 
 
 
-Equilibrium concepts
+Districts
 
 
 
-Nash equilibrium
-Subgame perfection
-Mertens-stable equilibrium
-Bayesian-Nash
-Perfect Bayesian
-Trembling hand
-Proper equilibrium
-Epsilon-equilibrium
-Correlated equilibrium
-Sequential equilibrium
-Quasi-perfect equilibrium
-Evolutionarily stable strategy
-Risk dominance
-Core
-Shapley value
-Pareto efficiency
-Quantal response equilibrium
-Self-confirming equilibrium
-Strong Nash equilibrium
-Markov perfect equilibrium
 
+Central
 
 
 
 
+Cities
 
 
 
-Strategies
+Surak
 
 
 
-Dominant strategies
-Pure strategy
-Mixed strategy
-Tit for tat
-Grim trigger
-Collusion
-Backward induction
-Forward induction
-Markov strategy
 
 
 
 
 
+Rural Districts
+and villages
 
 
 
-Classes of games
 
+Kuhdasht-e Gharbi
+(West Kuhdasht)
 
 
-Symmetric game
-Perfect information
-Simultaneous game
-Sequential game
-Repeated game
-Signaling game
-Cheap talk
-Zero-sum game
-Mechanism design
-Bargaining problem
-Stochastic game
-n-player game
-Large Poisson game
-Nontransitive game
-Global games
-Strictly determined game
 
+Anjil Nesam
+Badeleh
+Bazyar Kheyl
+Darab Kola
+Jenasem
+Kia Pey
+Lalim
+Morsam
+Musa Kola
+Owsa
+Saneh Kuh
+Sarta
+Varmi
 
 
 
@@ -197,43 +162,19 @@ Strictly determined game
 
 
 
-Games
 
+Kuhdasht-e Sharqi
+(East Kuhdasht)
 
 
-Prisoner's dilemma
-Traveler's dilemma
-Coordination game
-Chicken
-Centipede game
-Volunteer's dilemma
-Dollar auction
-Battle of the sexes
-Stag hunt
-Matching pennies
-Ultimatum game
-Rock-paper-scissors
-Pirate game
-Dictator game
-Public goods game
-Blotto games
-War of attrition
-El Farol Bar problem
-Fair division
-Fair cake-cutting
-Cournot game
-Deadlock
-Diner's dilemma
-Guess 2/3 of the average
-Kuhn poker
-Nash bargaining game
-Screening game
-Prisoners and hats puzzle
-Trust game
-Princess and monster game
-Monty Hall problem
-Rendezvous problem
 
+Asram
+Jam Khaneh
+Mojtame-ye Meskuni Neka Chub
+Mojtame-ye Meskuni Shahid Abbaspur
+Mojtame-ye Meskuni Siman
+Pileh Kuh
+Safarabad
 
 
 
@@ -241,17 +182,25 @@ Rendezvous problem
 
 
 
-Theorems
 
+Miandorud-e Bozorg
+(Great Miandorud)
 
 
-Minimax theorem
-Nash's theorem
-Purification theorem
-Folk theorem
-Revelation principle
-Arrow's impossibility theorem
 
+Bagh-e Vahsh
+Bisheh Sar
+Dasht-e Naz Airport
+Eslamabad
+Ezzat ol Din
+Mohammadabad
+Mohammadabad
+Palang Azad
+Shahriar Kandeh
+Sherkat-e Neka Chub
+Zari Mahalleh
+Zeyt-e Olya
+Zeyt-e Sofla
 
 
 
@@ -259,68 +208,23 @@ Arrow's impossibility theorem
 
 
 
-Key figures
 
 
 
-Kenneth Arrow
-Robert Aumann
-Kenneth Binmore
-Samuel Bowles
-Melvin Dresher
-Merrill M. Flood
-Drew Fudenberg
-Donald B. Gillies
-John Harsanyi
-Leonid Hurwicz
-David K. Levine
-Daniel Kahneman
-David M. Kreps
-Harold W. Kuhn
-Eric Maskin
-Jean-François Mertens
-Paul Milgrom
-Oskar Morgenstern
-Hervé Moulin
-Roger Myerson
-John Nash
-John von Neumann
-Ariel Rubinstein
-Thomas Schelling
-Reinhard Selten
-Herbert Simon
-Lloyd Shapley
-John Maynard Smith
-Jean Tirole
-Albert W. Tucker
-Amos Tversky
-William Vickrey
-Robert B. Wilson
-Peyton Young
 
 
 
 
+Goharbaran
 
 
 
 
-See also
+Cities
 
 
 
-Tragedy of the commons
-Tyranny of small decisions
-All-pay auction
-List of games in game theory
-Confrontation analysis
-List of game theorists
-Combinatorial game theory
-Alpha–beta pruning
-Bertrand paradox
-Bounded rationality
-No-win situation
-Coopetition
+none
 
 
 
@@ -329,17 +233,27 @@ Coopetition
 
 
 
+Rural Districts
+and villages
 
 
 
 
-This applied mathematics-related article is a stub. You can help Wikipedia by expanding it.
+Goharbaran-e Jonubi
+(South Goharbaran)
 
 
-v
-t
-e
 
+Abbasabad-e Holum Sar
+Asiab Sar
+Bezaminabad
+Makran
+Qajar Kheyl-e Khurandi
+Qandar Kheyl
+Siah Chenar
+Sur Bon
+Var Kola
+Varandan
 
 
 
@@ -347,7 +261,41 @@ e
 
 
 
-This game theory article is a stub. You can help Wikipedia by expanding it.
+
+Goharbaran-e Shomali
+(North Goharbaran)
+
+
+
+Anar Din
+Bargeh
+Chamaz Tappeh
+Dolmarz
+Tabaqdeh
+Tajan Lateh-ye Olya
+Tajan Lateh-ye Sofla
+Valuja
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This Miandorud County location article is a stub. You can help Wikipedia by expanding it.
 
 
 v

@@ -1,1 +1,1 @@
-['http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2004/12/04/sojimw04.xml', 'http://www.telegraph.co.uk/sport/main.jhtml?xml=/sport/2008/01/31/sobook131.xml', 'http://www.thestirrer.co.uk/sb2511061.html']
+['http://www.ebi.ac.uk/pdbe/searchResults.html?display=both&term=P20061']

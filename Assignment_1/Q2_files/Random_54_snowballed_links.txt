@@ -1,1 +1,1 @@
-['http://www.berlinintensiv.de/personen/person.html?tmpl=component&id=4147', 'http://www.tagesspiegel.de/kultur/musik-in-berlin-schweigeminute/219554.html', 'http://www.deutsche-biographie.de/sfz77392.html#indexcontent']
+[]

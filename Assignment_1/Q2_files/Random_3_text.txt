@@ -5,1652 +5,239 @@ From Wikipedia, the free encyclopedia
 
 
 
-C0 Controls and Basic Latin
 
 
-Range
-U+0000..U+007F
-(128 code points)
+Town Hall, former Mather Junior High School, dedicated October 28, 1984
 
 
-Plane
-BMP
-
-
-Scripts
-Latin (52 char.)
-Common (76 char.)
-
-
-Symbol sets
-Arabic numerals
-Punctuation
-
-
-Major alphabets
-English
-French
-Spanish
-German
-Vietnamese
-
-
-Assigned
-128 code points
-33 Control or Format
-
-
-Unused
-0 reserved code points
-
-
-Source standards
-ISO/IEC 8859, ISO 646
-
-
-Unicode version history
-
-
-
-
-
-1.0.0
-128 (+128)
-
-
-Note: [1][2]
-
-
-The Basic Latin or C0 Controls and Basic Latin Unicode block is the first block of the Unicode standard, and the only block which is encoded in one byte in UTF-8. The block contains all the letters and control codes of the ASCII encoding.
-The Basic Latin block was included in its present from version 1.0.0 of the Unicode Standard, without addition or alteration of the character repertoire.[2]
+The government and politics of Darien, Connecticut take place in an overwhelmingly Republican, very affluent small town with a Triple-A bond rating and a tax base made up of wealthy homes, country clubs (some of the largest taxpayers) and some office buildings.
+As of August 1, 2006 the town Grand List (list of taxable property) amounted to $6.33 billion.
+The Cablevision Channel 79 is the town Government-access television (GATV) cable TV channel for town residents to see meetings of local government boards and commissions.
 
 
 
 Contents
 
 
-1 Table of characters
-2 Subheadings
+1 Charter
+2 Appointed boards and commissions
 
-2.1 C0 controls
-2.2 ASCII punctuation and symbols
-2.3 ASCII digits
-2.4 Uppercase Latin alphabet
-2.5 Lowercase Latin alphabet
-2.6 Control character
+2.1 Land use boards
+2.2 Other appointed boards and volunteer posts
 
 
-3 Compact table
-4 Emoji
-5 See also
-6 References
-7 External links
+3 Town departments and offices
 
+3.1 Town employees hired by the Board of Selectmen
+3.2 Public safety agencies and departments
 
+3.2.1 Noroton Heights Fire Department
+3.2.2 Noroton Fire Department
+3.2.3 Darien Fire Department
+3.2.4 Fire Marshal's Office
 
-Table of characters[edit]
 
+3.3 Other town departments
 
-Code
-Result
-Description
-Acronym
 
+4 Politics
+5 Notes
+6 External links
 
-C0 controls
 
 
-U+0000
+Charter[edit]
 
-Null character
-NUL
+In 1951, the town switched from an annual town meeting to a Representative Town Meeting, which was considered more practical because of the growth of the town's population. In 1959, the state Legislature passed a special act allowing the town to consolidate all laws affecting the structure of its government into "A Special Act Consolidating Certain Special Acts Concerning the Town of Darien", now usually referred to as the town Charter.[1]
+Unique to Connecticut, Darien's town Charter "may be amended by action of the Representative Town Meeting (RTM) after a public hearing, a sixty day delay, and an affirmative vote of a majority of the full membership of the RTM," according to the Darien League of Women Voters.[1]
+A town Charter Commission (as of 2007) is considering proposed changes to the charter.
+Appointed boards and commissions[edit]
+Land use boards[edit]
 
+Zoning Board of Appeals (ZBA) — five members appointed by the Board of Selectmen
+Environmental Protection Commission (EPC) — seven members appointed by the Board of Selectmen
+Architectural Review Board (ARB) — seven members appointed by the Board of Selectmen
 
-U+0001
+Other appointed boards and volunteer posts[edit]
 
-Start of Heading
-SOH
 
 
-U+0002
 
-Start of Text
-STX
+Commission on Aging
+Beautification Commission
+Building Board of Appeals
+Cable TV Advisory Commission
+Advisory Commission on Coastal Waters
+Deer Management Committee
+Board of Ethics (chosen from members
+of the Representative Town Meeting)
+Five Mile River Commission (two members from
+Darien chosen by the governor of Connecticut)
+Housing Authority
+Information Technology Committee
+Monuments and Ceremonies Committee
+Operations Planning Committee (OPC) — made up of
+the four chairmen of major town boards (first selectman,
+chairman of the board of finance, chairman of the Board of
+Education, chairman of the Planning
+and Zoning Commission) the RTM moderator and the
+town administrator.
 
 
-U+0003
 
-End-of-text character
-ETX
 
+Parks and Recreation Commission
+Parking Ticket Hearing Officers
+Police Commission
+Police Pension Board
+Selectmen's Emergency Management Committee
+Sewer Commission
+Commissioners of Social Services
+SWRPA (Southwestern Regional Planning Agency) representatives
+Town Historian
+Town Pension Board
+Youth Commission — seven adults appointed by the Board of Selectmen,
+along with a full-time youth director and a Youth Advisory Committee
+made up of eight to 15 high school-aged teenagers.
 
-U+0004
 
-End-of-transmission character
-EOT
 
 
-U+0005
+Town departments and offices[edit]
+Town employees hired by the Board of Selectmen[edit]
+Nine paid officers of the town are hired by the Board of Selectmen, usually for a specific term. They are:[1]
 
-Enquiry character
-ENQ
 
 
-U+0006
 
-Acknowledge character
-ACK
+Administrative Officer — indefinite term
+Building Official — four-year term
+Finance Officer — indefinite term
 
 
-U+0007
 
-Bell character
-BEL
 
+Fire Marshall — indefinite term
+Health Director — four-year term
+Park and Recreation Administrator — four-year term
 
-U+0008
 
-Backspace
-BS
 
 
-U+0009
+Public Works Director — indefinite term
+Tax Assessor — three-year term
+Town Counsel — two-year term
 
-Horizontal tab
-HT
 
 
-U+000A
 
-Line feed
-LF
+Public safety agencies and departments[edit]
 
 
-U+000B
 
-Vertical tab
-VT
 
+Police Department
 
-U+000C
 
-Form feed
-FF
+In 2005, the town police department responded to 20,030 incidents, including 595 motor vehicle accidents, 1,766 motor vehicle infractions, and issued 254 traffic tickets and 1,150 traffic warnings. Police made 104 arrests for driving under the influence and received reports of 152 larcenies, 27 burglaries, three attempted burglaries, 82 incidents of vandalism, 19 assaults and six motor vehicle thefts. Police made 33 larceny arrests, 10 for burglary, 11 for vandalism, 15 for assault. No robberies, rapes, arsons or murders were reported in 2005.[citation needed]
+The town received 1,675 false alarms in 2005, two actual alarms, 304 alarms that were canceled and 17 caused by weather.[2]
+The Town of Darien has three fire departments, all of which are staffed entirely by volunteers. These departments respond to all types of calls, including fire, electrical, CO alarms, motor vehicle accidents, downed power lines, cold water rescues, and any problem in the Long Island Sound.[citation needed]
+Noroton Heights Fire Department[edit]
 
 
-U+000D
 
-Carriage return
-CR
 
+Department headquarters
 
-U+000E
 
-Shift Out
-SO
+Founded 1903, the Noroton Heights Fire Department has about 150 members. "NHFD" is located on Noroton Avenue, and covers the northern part of Darien, including part of Interstate 95. Noroton Heights has a fleet of 5 active apparatus, including 2 Mack Engines, (21 and 23) 1 1988 Mack Quint, (20) which serves as their first due unit on most structural calls, a 1975 Mack Tanker, (22) and a 1989 Mack Rescue. Noroton Heights also has a Utility Truck, Truck 24, which is a 1991 Chevy Silverado, and a Chief's Car, Unit 200.[citation needed]
+Noroton Fire Department[edit]
 
 
-U+000F
 
-Shift In
-SI
 
+Town firefighters monument
 
-U+0010
 
-Data Link Escape
-DLE
+Founded in 1896, NFD has 140 members, of whom about 35 are active. NFD is located on Boston Post Road, and covers the smallest portion of Darien out of the 3 departments. Noroton covers the southern part of the Town of Darien, covering all the way down to the Stamford line. NFD currently has an active fleet of 5 apparatus: Engine 32, a 2002 Marion Pumper, which is first due on all structural calls and motor vehicle accidents. Engine 31, a 1972 open cab Maxim pumper, which is Noroton's second due engine. Ladder 30, a 1994 Sutphen Aerial, nicknamed "The Big Stick," for its 104' aerial. Rescue 33, a 1988 International Marion Medium Duty Rescue. NFD also operates the only firefighting and rescue capable marine unit in the town of Darien. Marine Unit 34 allows Noroton to respond year-round to the various types of emergencies that occur on Long Island Sound, and responds frequently to mutual aid calls from surrounding towns, and is in service year round. Noroton also has a Utility Truck, Truck 35, a 2001 Ford F-350.[citation needed]
+In the late 1950s, the fire department was used for a "Lucky Strike" cigarettes advertising campaign. In a magazine ad, two firefighters are shown, cigarettes in their mouths, pausing as they wash fire engines in front of the building. A message in small type at the top of the advertisement asks smokers to "take care with cigarettes".[3]
+Darien Fire Department[edit]
+Founded in 1895, covers the eastern side of town, encompassing about 45 percent of the land area.[4] The Noroton Heights and Darien Fire Departments cover a portion of Interstate 95 from exits 9 southbound to exit 13/14 northbound, one of the most disaster-prone stretches of highway in the country.[5] Darien has a fleet of 5 active apparatus in their "barn." Darien operates twin Pierce Enforcer Pumpers, Engines 41 and 42, which replaced the previous Mack engines in 2006. Darien recently replaced its 1971 Mack Tower Ladder, the first aerialscope ever to be used in Connecticut,[6] with a 2011 Seagrave 75' Tower Ladder built using the same boom as the original ladder.[6] Darien also operates a 2004 Saulsbury Custom Heavy Rescue, and a 1996 Mack Tanker. Darien additionally utilizes a 2002 Chevy Silverado as Utility Truck 46, and a Chief's car, Car 40, which was donated by a local resident in 2011.[7] Also stored in Darien's firehouse is a 1928 Ahrens Fox Pumper, which is no longer in service, although still very active in parades.[citation needed]
+Fire Marshal's Office[edit]
+Established in 1980 as a full-time office, the agency works with the three volunteer fire departments in town and conducts annual inspections of all buildings (except one- and two-family houses), investigates fires, plans review and construction inspections of all buildings (except one- and two-family houses), conducts fire-prevention education programs, issues permits for blasting and tank removals, instpects and certifies hazardous material transport vehicles housed in town, inspects and certifies all day-care centers, nursery schools, convalescent centers and establishments with liquor permits, among other duties.[8]
+Other town departments[edit]
 
+Assessor's Office — sets values on all real and personal property in order to establish the town "Grand List" (a list of taxable property). The town has more than 7,100 real estate parcels and more than 18,000 taxable motor vehicles as well as more than 1,000 payers of "business personal property" taxes (taxes on business assets).[8]
 
-U+0011
 
-Device Control 1
-DC1
+Building Department — composed of the building official, an assistant building official, an office administrator, a secretary and a part-time building official.[8]
 
 
-U+0012
+Finance Department
 
-Device Control 2
-DC2
 
+Health Department — conducts inspections of food-service establishments. In the 2005–2006 fiscal year there were 106 establishments with licenses in addition to 48 temporary food services which received licenses. The department also inspects and issues permits for the installation and repair of all subsurface sewage disposal systems, reviews house plans to determine compliance with the state septic code, inspects local cosmetology shops and the town's nine public swimming pools, monitors water quality near beaches, issues shellfishing permits, conducts education programs, blood-pressure screenings, influenza clinics, and makes radon test kits available to residents.[8]
 
-U+0013
 
-Device Control 3
-DC3
+Human Resources Department
 
 
-U+0014
+Information Technology Department
 
-Device Control 4
-DC4
 
+Darien Library — the town government funds library operating expenses, including salaries, but the Library board of trustees oversees fundraising to buy books and other marterial.[8]
 
-U+0015
 
-Negative-acknowledge character
-NAK
+Parks and Recreation Department — manages and maintains 12 town-owned parks with a total of 209 acres (0.85 km2).[8]
 
 
-U+0016
+Planning and Zoning Department — the staff of six employees provides support to the Planning and Zoning Commission, the Zoning Board of Appeals, the Environmental Protection Commission and the Architectural Review Board. The department helps other departments with particular projects, such as providing maps for the Assessor's Office and salt-route mapping for the Public Works Department. An enforcement officer and code compliance officer investigate complaints of land-use regulations such as sign violations, illegal commercial activity within residential zones and violations of specific requirements set out in commission approvals.[8]
 
-Synchronous Idle
-SYN
 
+Public Works Department — the DPW, with 30 full-time employees, constructs and maintains town roads, buildings, bridges, storm and sanitary sewers, the Refuse Disposal Area (RDA, or "town dump"), two railroad stations, and municipal parking lots. The department has six major areas of responsibility:[8]
 
-U+0017
+Public Works Management & Engineering — manages all DPW functions, prepares contracts, hires consultants and contractors, prepares engineering documents, performs engineering reviews, carries out special projects[8]
+Highway Maintenance & maintains 81 miles (130 km) of public streets and 30 bridges in town, picks up Christmas trees, sweeps streets, picks up items residents leave by the street during the town's spring cleanup program, conducts the town's Household Hazardous Waste Day on the first Saturday in June, resurfaces about three miles (5 km) of roadway each summer, picks up leaves left near the roadside by residents starting in late October, maintains and upgrades street signs, maintains the tide gates at Gorham's Pond, removes and cares for trees on town property.[8]
+Solid Waste Disposal and Recycling — this accounts for about 40 percent of the department budget. A private company working under contract operates the transfer station at the Refuse Disposal Area. The department operates other parts of the RDA, including the composting site, the residential recycling drop-off center and the bulk recycling transfer area. Refuse is trucked to the waste-to-energy incinerator in Bridgeport. Recycled material is hauled to the Intermediate Processing Center in Stratford for more sorting, packaging and sale.[8]
+Public Building Management — cares for various town-owned buildings.
+Parking Facilities and Railroad & Maintenance — maintains and polices about 1,700 parking spaces in 13 lots in the downtown area and at the two railroad stations. A parking enforcement agent covers the downtown areas on foot and issues tickets.[8]
+Sewer Collection System Maintenance
 
-End of Transmission Block
-ETB
 
 
-U+0018
 
-Cancel character
-CAN
+Registrars of Voters
 
 
-U+0019
+Social Services — helps the poor, the elderly and others with special needs.[8]
 
-End of Medium
-EM
 
+Tax Collector's Office
 
-U+001A
 
-Substitute character
-SUB
+Youth Director and Youth Commission
 
+Politics[edit]
+As of December 1, 2005, the town had 12,099 registered voters, with 6,445 Republicans (53.1 percent), 1,940 Democrats (16 percent) and 3,703 unaffiliated voters (30.6 percent).[9]
+Darien is primarily a Republican town, voting for George Bush in both elections, but has had Democrats in office as First Selectman. In 2003, Evonne Klein replaced Robert Harrel as first selectman, becoming the first Democrat to win the post in 14 years. Klein was re-elected in 2005.[1]
+The low percentage of registered Democrats does not mean that party has little representation in town government. The state's Minority Representation Law mandates that local elected boards have a maximum number of members from one party.[1]
+For a board with a total membership of three, no more than two may be from the same party. For boards with five members, no more than three; for boards of seven members, no more than five; for boards of nine members, no more than six.[1]
+Notes[edit]
 
-U+001B
-
-Escape character
-ESC
-
-
-U+001C
-
-File Separator
-FS
-
-
-U+001D
-
-Group Separator
-GS
-
-
-U+001E
-
-Record Separator
-RS
-
-
-U+001F
-
-Unit Separator
-US
-
-
-ASCII punctuation and symbols
-
-
-U+0020
- 
-Space
-SP
-
-
-U+0021
-!
-Exclamation mark
-
-
-
-U+0022
-"
-Quotation mark
-
-
-
-U+0023
-#
-Number sign
-
-
-
-U+0024
-$
-Dollar sign
-
-
-
-U+0025
-%
-Percent sign
-
-
-
-U+0026
-&
-Ampersand
-
-
-
-U+0027
-'
-Apostrophe
-
-
-
-U+0028
-(
-Left parenthesis
-
-
-
-U+0029
-)
-Right parenthesis
-
-
-
-U+002A
-*
-Asterisk
-
-
-
-U+002B
-+
-Plus sign
-
-
-
-U+002C
-,
-Comma
-
-
-
-U+002D
--
-Hyphen-minus
-
-
-
-U+002E
-.
-Full stop
-
-
-
-U+002F
-/
-Slash
-
-
-
-ASCII digits
-
-
-U+0030
-0
-Digit Zero
-
-
-
-U+0031
-1
-Digit One
-
-
-
-U+0032
-2
-Digit Two
-
-
-
-U+0033
-3
-Digit Three
-
-
-
-U+0034
-4
-Digit Four
-
-
-
-U+0035
-5
-Digit Five
-
-
-
-U+0036
-6
-Digit Six
-
-
-
-U+0037
-7
-Digit Seven
-
-
-
-U+0038
-8
-Digit Eight
-
-
-
-U+0039
-9
-Digit Nine
-
-
-
-ASCII punctuation and symbols
-
-
-U+003A
-:
-Colon
-
-
-
-U+003B
-;
-Semicolon
-
-
-
-U+003C
-<
-Less-than sign
-
-
-
-U+003D
-=
-Equal sign
-
-
-
-U+003E
->
-Greater-than sign
-
-
-
-U+003F
-?
-Question mark
-
-
-
-U+0040
-@
-At sign
-
-
-
-Uppercase Latin alphabet
-
-
-U+0041
-A
-Latin Capital letter A
-
-
-
-U+0042
-B
-Latin Capital letter B
-
-
-
-U+0043
-C
-Latin Capital letter C
-
-
-
-U+0044
-D
-Latin Capital letter D
-
-
-
-U+0045
-E
-Latin Capital letter E
-
-
-
-U+0046
-F
-Latin Capital letter F
-
-
-
-U+0047
-G
-Latin Capital letter G
-
-
-
-U+0048
-H
-Latin Capital letter H
-
-
-
-U+0049
-I
-Latin Capital letter I
-
-
-
-U+004A
-J
-Latin Capital letter J
-
-
-
-U+004B
-K
-Latin Capital letter K
-
-
-
-U+004C
-L
-Latin Capital letter L
-
-
-
-U+004D
-M
-Latin Capital letter M
-
-
-
-U+004E
-N
-Latin Capital letter N
-
-
-
-U+004F
-O
-Latin Capital letter O
-
-
-
-U+0050
-P
-Latin Capital letter P
-
-
-
-U+0051
-Q
-Latin Capital letter Q
-
-
-
-U+0052
-R
-Latin Capital letter R
-
-
-
-U+0053
-S
-Latin Capital letter S
-
-
-
-U+0054
-T
-Latin Capital letter T
-
-
-
-U+0055
-U
-Latin Capital letter U
-
-
-
-U+0056
-V
-Latin Capital letter V
-
-
-
-U+0057
-W
-Latin Capital letter W
-
-
-
-U+0058
-X
-Latin Capital letter X
-
-
-
-U+0059
-Y
-Latin Capital letter Y
-
-
-
-U+005A
-Z
-Latin Capital letter Z
-
-
-
-ASCII punctuation and symbols
-
-
-U+005B
-[
-Left Square Bracket
-
-
-
-U+005C
-\
-Backslash [A]
-
-
-
-U+005D
-]
-Right Square Bracket
-
-
-
-U+005E
-^
-Circumflex accent
-
-
-
-U+005F
-_
-Low line
-
-
-
-U+0060
-`
-Grave accent
-
-
-
-Lowercase Latin alphabet
-
-
-U+0061
-a
-Latin Small Letter A
-
-
-
-U+0062
-b
-Latin Small Letter B
-
-
-
-U+0063
-c
-Latin Small Letter C
-
-
-
-U+0064
-d
-Latin Small Letter D
-
-
-
-U+0065
-e
-Latin Small Letter E
-
-
-
-U+0066
-f
-Latin Small Letter F
-
-
-
-U+0067
-g
-Latin Small Letter G
-
-
-
-U+0068
-h
-Latin Small Letter H
-
-
-
-U+0069
-i
-Latin Small Letter I
-
-
-
-U+006A
-j
-Latin Small Letter J
-
-
-
-U+006B
-k
-Latin Small Letter K
-
-
-
-U+006C
-l
-Latin Small Letter L
-
-
-
-U+006D
-m
-Latin Small Letter M
-
-
-
-U+006E
-n
-Latin Small Letter N
-
-
-
-U+006F
-o
-Latin Small Letter O
-
-
-
-U+0070
-p
-Latin Small Letter P
-
-
-
-U+0071
-q
-Latin Small Letter Q
-
-
-
-U+0072
-r
-Latin Small Letter R
-
-
-
-U+0073
-s
-Latin Small Letter S
-
-
-
-U+0074
-t
-Latin Small Letter T
-
-
-
-U+0075
-u
-Latin Small Letter U
-
-
-
-U+0076
-v
-Latin Small Letter V
-
-
-
-U+0077
-w
-Latin Small Letter W
-
-
-
-U+0078
-x
-Latin Small Letter X
-
-
-
-U+0079
-y
-Latin Small Letter Y
-
-
-
-U+007A
-z
-Latin Small Letter Z
-
-
-
-ASCII punctuation and symbols
-
-
-U+007B
-{
-Left Curly Bracket
-
-
-
-U+007C
-|
-Vertical bar
-
-
-
-U+007D
-}
-Right Curly Bracket
-
-
-
-U+007E
-~
-Tilde
-
-
-
-Control character
-
-
-U+007F
-
-Delete
-DEL
-
-
-
-A The letter U+005C (\) may show up as a Yen or Won sign in Japanese/Korean fonts mistaking Unicode (especially UTF-8) as a legacy character set which replaced the backslash with these signs.[3]
-
-Subheadings[edit]
-The C0 Controls and Basic Latin block contains six subheadings.[4]
-C0 controls[edit]
-The C0 Controls, referred to as C0 ASCII control codes in version 1.0, are inherited from ASCII and other 7-bit and 8-bit encoding schemes. The Alias names for C0 controls are taken from the ISO/IEC 6429:1992 standard.[4]
-ASCII punctuation and symbols[edit]
-This subheading refers to standard punctuation characters, simple mathematical operators, and symbols like the dollar sign, percent, ampersand, underscore, and pipe.[4]
-ASCII digits[edit]
-The ASCII Digits subheading contains the standard European number characters 1–9 and 0.[4]
-Uppercase Latin alphabet[edit]
-The Uppercase Latin alphabet subheading contains the standard 26-letter unaccented Latin alphabet in the majuscule.[4]
-Lowercase Latin alphabet[edit]
-The Lowercase Latin Alphabet subheading contains the standard 26-letter unaccented Latin alphabet in the minuscule.[4]
-Control character[edit]
-The Control Character subheading contains the "Delete" character.[4]
-Compact table[edit]
-
-
-C0 Controls and Basic Latin[1]
-Official Unicode Consortium code chart (PDF)
-
-
- 
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-A
-B
-C
-D
-E
-F
-
-
-U+000x
- NUL 
- SOH 
- STX 
- ETX 
- EOT 
- ENQ 
- ACK 
- BEL 
-  BS  
-  HT  
-  LF  
-  VT  
-  FF  
-  CR  
-  SO  
-  SI  
-
-
-U+001x
- DLE 
- DC1 
- DC2 
- DC3 
- DC4 
- NAK 
- SYN 
- ETB 
- CAN 
-  EM  
- SUB 
- ESC 
-  FS  
-  GS  
-  RS  
-  US  
-
-
-U+002x
-  SP  
- !
-"
-#
-$
- %
-&
-'
-(
-)
-*
-+
-,
--
-.
-/
-
-
-U+003x
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
- :
- ;
-<
-=
->
- ?
-
-
-U+004x
-@
-A
-B
-C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-
-
-U+005x
-P
-Q
-R
-S
-T
-U
-V
-W
-X
-Y
-Z
-[
-\
-]
-^
-_
-
-
-U+006x
-`
-a
-b
-c
-d
-e
-f
-g
-h
-i
-j
-k
-l
-m
-n
-o
-
-
-U+007x
-p
-q
-r
-s
-t
-u
-v
-w
-x
-y
-z
-{
-|
-}
-~
- DEL 
-
-
-Notes
-
-1.^ As of Unicode version 8.0
-
-
-
-
-Emoji[edit]
-The Basic Latin block contains twelve emoji: U+0023, U+002A and U+0030–U+0039.[5][6]
-The block has 22 standardized variants defined to specify emoji-style (U+FE0F VS16) or text presentation (U+FE0E VS15) for the following eleven base characters: U+0023 and U+0030–U+0039.[7][8]
-All of these base characters default to a text presentation.
-
-Emoji variation sequences
-
-U+
-0023
-0030
-0031
-0032
-0033
-0034
-0035
-0036
-0037
-0038
-0039
-
-
-base codepoint
-#
-0
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
-base+VS15 (text)
-#︎
-0︎
-1︎
-2︎
-3︎
-4︎
-5︎
-6︎
-7︎
-8︎
-9︎
-
-
-base+VS16 (emoji)
-#️
-0️
-1️
-2️
-3️
-4️
-5️
-6️
-7️
-8️
-9️
-
-
-See also[edit]
-
-Latin script in Unicode
-Character set
-ISO 8859-1
-
-References[edit]
-
-^ "Unicode character database". The Unicode Standard. Retrieved 22 March 2013. 
-^ a b The Unicode Standard Version 1.0, Volume 1. Addison-Wesley Publishing Company, Inc. 1990. ISBN 0-201-56788-1. 
-^ Sorting it all Out : When is a backslash not a backslash?
-^ a b c d e f g "Unicode 6.2 code charts" (PDF). The Unicode Standard. Retrieved 1 April 2013. 
-^ "UTR #51: Unicode Emoji". Unicode Consortium. 2015-11-12. 
-^ "UCD: Emoji Data for UTR #51". Unicode Consortium. 2015-11-11. 
-^ "Unicode Character Database: Standardized Variants". The Unicode Consortium. 
-^ "Unicode Character Database: Standardized Variation Sequences". The Unicode Consortium. 
+^ a b c d e f "Know Your Town Government: Darien, Connecticut" booklet published by the League of Women Voters of Darien, 20 pages, 2006 edition
+^ Darien Answer Book, page 44
+^ 1959 magazine advertisement for Lucky Strike cigarettes
+^ Darien Answerbook '06, page 42
+^ [1] Cablevision editorial
+^ a b "Darien Volunteer Fire Department » Tower Ladder 43". darienfire.org. Retrieved 2014-06-09. 
+^ "Darien Volunteer Fire Department » Car 40". darienfire.org. Retrieved 2014-06-09. 
+^ a b c d e f g h i j k l m "Preparing tomorrow's Leaders", Town of Darien Annual Report 2005–2006, published by the Town of Darien (no year of publication given, but either 2006 or 2007)
+^ Revitalization: Town of Darien Annual Report, 2004–2005, page24
 
 External links[edit]
 
-Unicode chart U0000 (pdf)
-
-
-
-
-
-
-
-
-
-v
-t
-e
-
-
-Unicode
-
-
-
-
-
-
-Unicode
-
-
-
-Unicode Consortium
-ISO/IEC 10646 (Universal Character Set)
-Versions
-
-
-
-
-
-
-
-
-Code points
-
-
-
-Blocks
-Universal Character Set
-Character charts
-Character property
-Planes
-Private Use Areas
-
-
-
-
-
-
-
-
-Characters
-
-
-
-
-
-Special purpose
-
-
-
-
-BOM
-Combining Grapheme Joiner
-Left-to-right mark / Right-to-left mark
-Soft hyphen
-Word joiner
-Zero-width joiner
-Zero-width non-joiner
-Zero-width space
-
-
-
-
-
-
-
-
-
-Lists
-
-
-
-
-Characters
-CJK Unified Ideographs
-Combining character
-Duplicate characters
-Numerals
-Scripts
-Spaces
-Symbols
-Halfwidth and fullwidth
-
-
-
-
-
-
-
-
-
-
-
-Processing
-
-
-
-
-
-Algorithms
-
-
-
-
-Bi-directional text
-Collation
-
-ISO 14651
-
-
-Equivalence
-
-
-
-
-
-
-
-
-
-Comparison
-
-
-
-
-BOCU-1
-CESU-8
-Punycode
-SCSU
-UTF-1
-UTF-7
-UTF-8
-UTF-9/UTF-18
-UTF-16/UCS-2
-UTF-32/UCS-4
-UTF-EBCDIC
-
-
-
-
-
-
-
-
-
-
-
-On pairs of
-code points
-
-
-
-Combining character
-Compatibility characters
-Duplicate characters
-Equivalence
-Homoglyph
-Precomposed character
-
-list
-
-
-Z-variant
-
-
-
-
-
-
-
-
-Usage
-
-
-
-Domain names (IDN)
-Email
-Fonts
-HTML
-
-entity references
-numeric references
-
-
-Input
-
-
-
-
-
-
-
-
-Related standards
-
-
-
-Common Locale Data Repository (CLDR)
-GB 18030
-Han unification
-ISO/IEC 8859
-ISO 15924
-
-
-
-
-
-
-
-
-Related topics
-
-
-
-Anomalies
-ConScript Unicode Registry
-Ideographic Rapporteur Group
-International Components for Unicode
-People involved with Unicode
-
-
-
-
-
-
-
-
-
-
-
-
- 
-Scripts and symbols in Unicode
-
-
-
-
-
-
-
-Common and
-inherited scripts
-
-
-
-
-Combining marks
-Diacritics
-Punctuation
-Space
-
-
-
-
-
-
-
-
-
-Modern scripts
-
-
-
-
-Arabic
-
-diacritics
-
-
-Armenian
-Balinese
-Bamum
-Batak
-Bengali
-Bopomofo
-Braille
-Buhid
-Burmese
-Canadian Aboriginal
-Chakma
-Cham
-Cherokee
-CJK Unified Ideographs (Han)
-Cyrillic
-Deseret
-Devanagari
-Ge'ez
-Georgian
-Greek
-Gujarati
-Gurmukhī
-Hangul
-Hanja
-Hanunó'o
-Hebrew
-
-diacritics
-
-
-Hiragana
-Javanese
-Kanji
-Kannada
-Katakana
-Kayah Li
-Khmer
-Khudawadi
-Lao
-Latin
-Lepcha
-Limbu
-Lisu (Fraser)
-Lontara
-Malayalam
-Mandaic
-Meetei Mayek
-Mende Kikakui
-Miao (Pollard)
-Mongolian
-Mro
-N'Ko
-New Tai Lue
-Ol Chiki
-Oriya
-Osmanya
-Pahawh Hmong
-Pau Cin Hau
-Rejang
-Samaritan
-Śāradā
-Saurashtra
-Shavian
-Sinhala
-Sorang Sompeng
-Sundanese
-Sylheti Nagari
-Syriac
-Tagalog (Baybayin)
-Tagbanwa
-Tai Le
-Tai Tham
-Tai Viet
-Takri
-Tamil
-Telugu
-Thaana
-Thai
-Tibetan
-Tifinagh
-Tirhuta
-Vai
-Varang Kshiti
-Yi
-
-
-
-
-
-
-
-
-
-Ancient and
-historic scripts
-
-
-
-
-Ahom
-Anatolian hieroglyphs
-Ancient North Arabian
-Avestan
-Bassa Vah
-Brāhmī
-Carian
-Caucasian Albanian
-Coptic
-Cuneiform
-Cypriot
-Egyptian hieroglyphs
-Elbasan
-Glagolitic
-Gothic
-Grantha
-Hatran
-Imperial Aramaic
-Inscriptional Pahlavi
-Inscriptional Parthian
-Kaithi
-Kharosthi
-Khojki
-Linear A
-Linear B
-Lycian
-Lydian
-Mahajani
-Manichaean
-Meroitic
-Modi
-Multani
-Nabataean
-Ogham
-Old Hungarian
-Old Italic
-Old Permic
-Old Persian cuneiform
-Old Turkic
-Palmyrene
-'Phags-pa
-Phoenician
-Psalter Pahlavi
-Runic
-Siddham
-South Arabian
-Ugaritic
-
-
-
-
-
-
-
-
-
-Notational scripts
-
-
-
-
-Duployan
-SignWriting
-
-
-
-
-
-
-
-
-
-Symbols
-
-
-
-
-Cultural, political, and religious symbols
-Currency
-Mathematical operators and symbols
-Phonetic symbols (including IPA)
-Emoji
-
-
-
-
-
-
-
-
-
-
+Town government Web site
+League of Women Voters of Darien
 
 
 

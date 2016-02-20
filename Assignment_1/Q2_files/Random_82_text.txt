@@ -5,149 +5,279 @@ From Wikipedia, the free encyclopedia
 
 
 
-Roudouallec
-Roudoualleg
+The Legend of Heroes:
+Trails of Cold Steel
 
 
 
-A general view of Roudouallec
+Cover art
 
 
 
+Developer(s)
+Nihon Falcom
 
 
+Publisher(s)
 
 
+JP Nihon Falcom
+NA XSEED Games
+EU NIS America
 
 
 
-Roudouallec
 
+Series
+The Legend of Heroes
 
 
+Platform(s)
+PlayStation 3
+PlayStation Vita
 
 
+Release date(s)
+Trails of Cold Steel
 
+JP September 26, 2013
+NA December 22, 2015
+EU January 29, 2016
 
+Trails of Cold Steel II
 
+JP September 25, 2014
+NA TBA
+EU TBA
 
+Trails of Cold Steel III
 
+JP TBA
 
-Location within Brittany region 
 
 
 
+Genre(s)
+Role-playing
 
 
+Mode(s)
+Single-player
 
 
-Roudouallec
-
-
-
-
-
-
-
-
-
-
-
-Coordinates: 48°07′39″N 3°42′56″W﻿ / ﻿48.1275°N 3.7156°W﻿ / 48.1275; -3.7156Coordinates: 48°07′39″N 3°42′56″W﻿ / ﻿48.1275°N 3.7156°W﻿ / 48.1275; -3.7156
-
-
-Country
-France
-
-
-Region
-Brittany
-
-
-Department
-Morbihan
-
-
-Arrondissement
-Pontivy
-
-
-Canton
-Gourin
-
-
-Intercommunality
-Pays du Roi Morvan
-
-
-Government
-
-
- • Mayor (2008—2014)
-Louis-Marc Rivoal
-
-
-Area1
-24.82 km2 (9.58 sq mi)
-
-
-Population (1999)2
-700
-
-
- • Density
-28/km2 (73/sq mi)
-
-
-INSEE/Postal code
-56199 / 56110
-
-
-Elevation
-118–248 m (387–814 ft)
-
-
-
-1 French Land Register data, which excludes lakes, ponds, glaciers > 1 km² (0.386 sq mi or 247 acres) and river estuaries.
-2 Population without double counting: residents of multiple communes (e.g., students and military personnel) only counted once.
-
-
-Roudouallec (Breton: Roudoualleg) is a commune in the Morbihan department of Brittany in north-western France.
+The Legend of Heroes: Trails of Cold Steel (英雄伝説 閃の軌跡, Eiyū Densetsu: Sen no Kiseki?) is a 2013 role-playing[1] video game for the PlayStation 3 and PlayStation Vita, released on September 26, 2013.[2] The game was developed by Nihon Falcom as a part of their long running The Legend of Heroes series of video games. A sequel titled Trails of Cold Steel II was released on September 25, 2014 for the PS3 and PS Vita.[3] Another sequel titled Trails of Cold Steel III was officially announced on December 16, 2015 for unspecified platforms.[4] On June 5, 2015, Xseed Games announced they would be localizing the first two titles,[5] and the first was released in North America on December 22, 2015.
 
 
 
 Contents
 
 
-1 Demographics
-2 See also
-3 References
-4 External links
+1 Gameplay
+2 Plot
+
+2.1 Trails of Cold Steel
+2.2 Trails of Cold Steel II
+2.3 Characters
+
+2.3.1 NPCs
 
 
 
-Demographics[edit]
-Inhabitants of Roudouallec are called in French Roudouallecois.
-See also[edit]
 
-Communes of the Morbihan department
-Entry on sculptor of local war memorial Jean Joncourt
+3 Development
+4 Reception
+5 References
+6 External links
 
+
+
+Gameplay[edit]
+The basic gameplay is nearly identical to the previous Kiseki series entries with a few changes. The biggest change to the battle system and also counting as a brand new feature is the "Tactical Link System". The "Tactical Link" allow players follow up with three different kinds of link attacks, dealing additional damage and providing various other benefits. "Tactical Link" becomes a more useful asset to the player as the story progress and characters level up their "Link Levels" with other characters. As the link levels increase, you will obtain new link abilities such as healing the link partner or increase the CP gain of the partner. Another change is the Orbment system. Sen no Kiseki inherits the "Master Quartz" system from Ao no Kiseki. However, the Quartz system has been revamped. Sen no Kiseki does away with the sepith count associated with quartzes, which means orbal arts no longer depend on the overall sepith count on a single line but is instead based on the quartz you equip (EG: Equipping the Fire Bolt quartz allows your character to use the art Fire Bolt. Equipping HP1 only increases your HP and does not give you any arts because the sepith system is not in place). This game is also the first game in the series that was developed for the PS3. The game features 360 degree camera control, fully 3D character models, and voice conversations between characters on the overworld map, all of which are brand new features to the Kiseki series.[1] Players can transfer save data between the PlayStation 3 and Vita versions using the cross-save function.
+Falcom has also introduced downloadable content to the game in forms of items that can be used in battle and cosmetic changes like everyday clothing for the characters. A "teaser site" for the game was released on December 20, 2012, and includes screenshots of the game.[6]
+Plot[edit]
+Trails of Cold Steel[edit]
+The game takes place at the same time frame as Zero and Ao no Kiseki in the Erebonian Empire. The game's plot is centered around the newly formed special class "Class VII" in Thors Military Academy, composed of both aristocrats and normal Erebonian citizens. Class VII is the only class in the entire academy that does not segregate the two different social classes.
+The game follows Class VII throughout their school year, mainly around the times when Class VII receive special field training that takes them all over Erebonia. Throughout their training across Erebonia, Class VII matures and casts aside their preconceptions of the two social classes and witness first hand the reality of the empire; The power struggle between the aristocracy led by the four noble houses, and the working class reformists led by Iron Blood Chancellor Osborne which threatens to lead to a civil war.
+They also awaken Valimar, a knight-god (giant robot) sleeping under Thors. The story comes to a climax with the attempted assassination of Osbourne by the terrorist C who turns out to be the Thors student Crow, and a coup by the aristocracy, and ends with Thors being occupied by the coup forces lead by Crow piloting another knight-god, Ordine, leading into Trails of Cold Steel II.
+Trails of Cold Steel II[edit]
+Trails of Cold Steel II begins a month after the end of Trails of Cold Steel, with Rean having escaped with Valimar. He makes it to his hometown of Yumir where princess Alfin also escaped to, but she is kidnapped along with Rean's sister Elise. The rest of class VII has scattered over the country and he goes around gathering them and other Thors students, and after being given the airship Courageous by Olivier, uses Valimar to help civilians and look for Alfin and Elise.
+The coup turns out to have been a plot by the leader of the Noble Alliance, lord Cheyenne, a descendant of the false emperor who had been defeated by emperor Dreichers, ancestor to the current imperial family, to gain power, and the Witch of the Abyss Vita, third apostle of Ouroboros, had been cooperating with him to fulfil the Illusion Flame project by making the Blaze Demon Castle appear and have the two knight-gods, Valimar and Ordine duel there.
+When Ordine loses, however, Cheyenne awakens the red knight-god Testarossa and thus the End of Vermillion, a legendary demon-god once sealed by Dreichers. Rean and Crow cooperate to seal the End of Vermillion away again but Crow is killed in the process. At this point the Noble Alliance's advisor Rufus reveals himself to have been working for Osbourne all along, and Osbourne reveals himself to be alive and also Rean's father, before hijacking Ouroboros' Illusion Flame project.
+There is also an epilogue in which the player controls Lloyd and Lixia from Zero and Ao no Kiseki, who are now part of the Crossbell resistance fighting the Erebonian occupation of the city-state, and they are confronted Rean, who now works for Osbourne and is known as the Gray Knight and a hero of the Erebonia who helped take Crossbell.
+Characters[edit]
+Rean Schwarzer (リィン・シュバルツァー?), Voiced by: Koki Uchiyama (Japanese), Sean Chiplock (English)
+
+An amnesiac who was adopted by the Schwarzer Family, rulers of the state of Yumir. He is the main protagonist of the series. He goes to the military academy to find his path in life, not wanting to burden his adoptive family. He wields a katana.
+
+Alisa Reinford (アリサ・ラインフォルト?), Voiced by: Yui Horie
+
+Alisa is the daughter of the Reinford family which runs the RF(Reinford)Group, the biggest heavy manufacturing enterprise in the Erebonian Empire. She fights with a bow.
+
+
+Eliot Craig (エリオット・クレイグ?), Voiced by: Ryoko Shiraishi (Japanese), Lucien Dodge (English)
+Eliot is the son of General Craig of the 3rd Imperial Army division, also known as "Redhead Craig". Eliot is kind hearted and is fond of music. He uses an experimental orbal staff in combat.
+
+
+Laura S Arseid (ラウラ・S・アルゼイド?), Voiced by: Mariya Ise (Japanese), Marisha Ray (English)
+Laura is the daughter of Victor S Arseid, the "Artisan of Light" and Viscount of Legram. She attends the military academy to improve her sword skills. She wields a large sword.
+
+Machias Regnitz (マキアス・レーグニッツ?), Voiced by: Takuya Sato (Japanese), Edward Bosco (English)
+
+Machias is the son of Imperial Governor Regnitz. He openly despises nobles which leads to uncomfortable moments for class VII when he and Jusis clash. He uses a shotgun in combat.
+
+Jusis Albarea (ユーシス・アルバレア?), Voiced by: Shinnosuke Tachibana (Japanese), Ben Diskin (English)
+
+Second son of the Albarea family, one of the Four Noble Families of the Erebonian Empire. He fights with a broadsword.
+
+Emma Millstein (エマ・ミルスティン?), Voiced by: Saori Hayami (Japanese), Rena Strober (English)
+
+A polite and intelligent young woman and a witch, Emma placed first on the entrance exams. She uses an experimental orbal staff that differs from Eliot's.
+
+Fie Claussell (フィー・クラウゼル?), Voiced by: Hisako Kanemoto (Japanese), Cassandra Morris (English)
+
+She struggles with studying, but underneath all that lies a very skilled fighter. She dual-wields a pair of pistols with large bayonets attached to them.
+
+Gaius Worzel (ガイウス・ウォーゼル?), Voiced by: Yoshimasa Hosoya (Japanese), Kaiji Tang (English)
+
+A tall boy from the Nord Highlands. He attends military academy by recommendation of a certain Erebonian official. He wields a three-pronged spear.
+
+Sara Valestein (サラ・バレスタイン?), Voiced by: Megumi Toyoguchi
+
+Is the main homeroom teacher to Class VII. She also oversees the field exams that occur during each month. This is to train Rean and the rest of the class, so as to improve their fighting capabilities and to fight against anyone and everyone who plan on hurting their friends and loved ones.
+
+NPCs[edit]
+Olivert Reise Arnor (オリビエ・レンハイム?), Voiced by: Takehito Koyasu (Japanese), Travis Willingham (English)
+
+Previously from the The Legend of Heroes: Trails in the Sky games. He serves as the music teacher in St Astraia's all-girl's school, Elise's school, at the Sanktheim district of Heimdallr. He also was the one to form Class VII together, a group of unlikely heroes that would face the threat that would fall before them.
+
+Patrick T. Hyarms (パトリック・T・ハイアームズ?), Voiced by: Junichi Miyake (Japanese), Derek Stephen Prince (English)
+
+He comes off as a arrogant noble who doesn't want to associate himself with commoners. In fact, he looks down on them and calls them rubbish. That they wouldn't amount to anything. Him, along with his friends, reside in the Class I dormitory. Opposite of the Lower Class dormitory.
+
+Development[edit]
+
+
+
+This section requires expansion. (January 2014)
+
+
+The game was also localised into Chinese and Korean with the assistance of Sony Computer Entertainment Japan Asia.[citation needed] The English localization was handled by XSEED Games.
+Reception[edit]
+
+
+Reception
+
+
+
+
+
+Aggregate score
+
+
+Aggregator
+Score
+
+
+Metacritic
+86%[7]
+
+
+Review scores
+
+
+Publication
+Score
+
+
+Destructoid
+7/10[8]
+
+
+Famitsu
+34/40[9]
+
+
+Game Informer
+8.5/10[10]
+
+
+Hardcore Gamer
+[11]
+
+
+Multiplayer.it
+8.8/10[12]
+
+
+PlayStation LifeStyle
+9.5/10[13]
+
+
+RPGamer
+4.5/5[14]
+
+
+
+
+
+
+
+
+Awards
+
+
+Publication
+Award
+
+
+PlayStation LifeStyle Awards 2015
+Editor's Choice[15]
+
+
+Game Informer's Best of 2015
+Best of 2015[16]
+
+
+Metacritic
+Best PS3 Game of 2015[7]
+
+
+
+
+
+The Legend of Heroes: Sen no Kiseki was awarded during the Japan Game Awards 2013 during the Tokyo Game Show by the Computer Entertainment Supplier’s Association, as one of eleven titles within the Future Division winners.[17]
+During the first week after release, the PlayStation Vita version outsold the PlayStation 3 version, placing second place in the Media Create software sales charts with 81,622 copies sold, compared to the 67,718 copies sold for the PS3 version in fourth place.[18] The game has resulted in significant profits for Falcom, with an expected 1.9 billion yen in net sales, and 700 million yen in operating profit.[citation needed]
+Sen no Kiseki II sold 86,283 physical retail copies on the PlayStation Vita and 65,498 retail copies on the PlayStation 3 within its debut release week in Japan, representing a shipment sell-through of 71.96% and 77.3% respectively.[19] Within that week, the Vita version placed second amongst all software sales in Japan, while the PS3 version placed fifth.[20] Famitsu gave both platform versions of the sequel a review score of 31/40.[21]
+In Japan, Famitsu gave both versions a review score of 34/40.[9] In the Western world, the game has received a positive critical reception, holding an aggregate score of 86% on Metacritic, making it the highest-rated PS3 game of 2015.[7] PlayStation LifeStyle said it is "a role-playing masterpiece with all the right stuff: XSeed’s superior localization, which bypasses anime cliches in favor of real depth; an addictive set of life-sim mechanics, from bonding with the lovable cast to cooking a bevy of dishes; and a combat system that rewards customization and cooperation between party members."[13] Hardcore Gamer said it "is hands down the best JRPG this year" and that if "this is what’s in store for us with future Legend of Heroes titles, it’s safe to say that the JRPG genre has a bright future ahead of it."[11] Kimberley Wallace of Game Informer stated that, with "fun combat, interesting twists, and a cool social system, Trails of Cold Steel is one of my favorite recent RPGs".[10] Adriaan den Ouden of RPGamer said it "is my favorite RPG of 2015, and fans of the genre definitely shouldn't pass this one up."[14] Multiplayer.it said it is "complex, deep and varied, and sports surprisingly realistic and mature storyline and setting" and an "unforgettable cast of characters."[12] Destructoid said it "follows a lot of classic JRPG conventions" and "doesn't do a whole lot of things that haven't been done before" but concluded "the combat system still holds up, and the characters are charming enough to see the story through until the end."[8]
 References[edit]
 
-Mayors of Morbihan Association (French)
-INSEE commune file
+
+^ a b "『英雄伝説 閃の軌跡(センノキセキ)』"軌跡"シリーズ最新作が2013年度にPS3とPS Vitaで発売決定！ - ファミ通.com". Famitsu.com. 2012-12-14. Retrieved 2013-03-07. 
+^ Carmichael, Stephanie. "New Trails in the Sky RPG coming to PS3 and PS ...". GameZone. Retrieved 2013-03-07. 
+^ 2014-04-08, The Legend of Heroes: Sen no Kiseki II dated in Japan, Gematsu
+^ 2015-12-16, The Legend of Heroes: Trails of Cold Steel III announced, Gematsu
+^ http://www.siliconera.com/2015/06/05/the-legend-of-heroes-trails-of-cold-steel-i-ii-coming-west/
+^ 編集部：Gueed (2012-12-20). "― 「軌跡」シリーズ最新作「英雄伝説 閃の軌跡」のティザーサイトがオープン。関連キャラのイラストやスクリーンショットが公開に". 4gamer.net. Retrieved 2013-03-07. 
+^ a b c http://www.metacritic.com/game/playstation-3/the-legend-of-heroes-trails-of-cold-steel
+^ a b "Review: The Legend of Heroes: Trails of Cold Steel". Destructoid. Retrieved 2015-12-22. 
+^ a b "Famitsu Review Scores: Issue 1294". Gematsu. Retrieved 2015-12-08. 
+^ a b http://www.gameinformer.com/games/the_legend_of_heroes_trails_of_cold_steel/b/playstation_vita/archive/2016/01/14/the-legend-of-heroes-trails-of-cold-steel-review-game-informer.aspx
+^ a b "Review: The Legend of Heroes: Trails of Cold Steel". Hardcore Gamer. 2015-12-22. Retrieved 2015-12-27. 
+^ a b http://multiplayer.it/recensioni/162323-the-legend-of-heroes-trails-of-cold-steel-la-scuola-degli-eroi.html
+^ a b Jowy Meli (December 22, 2015). "The Legend of Heroes: Trails of Cold Steel Review - Back to School (Vita) - PlayStation LifeStyle". PlayStation LifeStyle. Retrieved December 23, 2015. 
+^ a b http://www.rpgamer.com/games/loh/lohsnk/reviews/lohsnkstrev1.html
+^ Jowy Meli (December 22, 2015). "The Legend of Heroes: Trails of Cold Steel Review - Back to School (Vita) - PlayStation LifeStyle". PlayStation LifeStyle. Retrieved December 23, 2015. 
+^ Kimberly Wallace (January 12, 2016). "2015 RPG Of The Year Awards". Game Informer. Retrieved January 16, 2016. 
+^ 2013, フューチャー部門 受賞作品 日本ゲーム大賞2013, CESA
+^ 2013-10-02, Monster Hunter 4 tops for third week on Media Create, lifetime sales hit 2.4 million, VG247
+^ "Trails in the Flash II Sold Nearly The Same Amount As Its Predecessor". Siliconera. October 3, 2014. Retrieved October 3, 2014. 
+^ 2014-10-01, Media Create Sales: 9/22/14 – 9/28/14, Gematsu
+^ 2014-09-16, Famitsu Review Scores: Issue 1346, Gematsu
+
 
 External links[edit]
 
-
-
-Wikimedia Commons has media related to Roudouallec.
-
-
-
-French Ministry of Culture list for Roudouallec (French)
-Map of Roudouallec on Michelin (English)
+Official website
 
 
 
@@ -162,7 +292,19 @@ t
 e
 
 
-Communes of the Morbihan department 
+The Legend of Heroes series
+
+
+
+
+
+
+Dragon Slayer
+
+
+
+Dragon Slayer: The Legend of Heroes
+II
 
 
 
@@ -171,265 +313,54 @@ Communes of the Morbihan department
 
 
 
+Gagharv trilogy
 
-Allaire
-Ambon
-Arradon
-Arzal
-Arzon
-Augan
-Auray
-Baden
-Bangor
-Baud
-Béganne
-Beignon
-Belz
-Berné
-Berric
-Bieuzy
-Bignan
-Billiers
-Billio
-Bohal
-Bono
-Brandérion
-Brandivy
-Brech
-Bréhan
-Brignac
-Bubry
-Buléon
-Caden
-Calan
-Camoël
-Camors
-Campénéac
-Carentoir
-Carnac
-Caro
-Caudan
-La Chapelle-Caro
-La Chapelle-Gaceline
-La Chapelle-Neuve
-Cléguer
-Cléguérec
-Colpo
-Concoret
-Cournon
-Le Cours
-Crac'h
-Crédin
-Le Croisty
-Croixanvec
-La Croix-Helléan
-Cruguel
-Damgan
-Elven
-Erdeven
-Étel
-Évellys
-Évriguet
-Le Faouët
-Férel
-Les Forges
-Les Fougerêts
-La Gacilly
-Gâvres
-Gestel
-Glénac
-Gourhel
-Gourin
-Grand-Champ
-La Grée-Saint-Laurent
-Groix
-Guégon
-Guéhenno
-Gueltas
-Guémené-sur-Scorff
-Guénin
-Guer
-Guern
-Le Guerno
-Guidel
-Guillac
-Guilliers
-Guiscriff
-Helléan
-Hennebont
-Le Hézo
-Hoëdic
-Houat
-Île-aux-Moines
-Île-d'Arz
-Inguiniel
-Inzinzac-Lochrist
-Josselin
-Kerfourn
-Kergrist
-Kernascléden
-Kervignac
-Landaul
-Landévant
-Lanester
-Langoëlan
-Langonnet
-Languidic
-Lanouée
-Lantillac
-Lanvaudan
-Lanvénégen
-Larmor-Baden
-Larmor-Plage
-Larré
-Lauzach
-Lignol
-Limerzel
-Lizio
-Locmalo
-Locmaria
-Locmaria-Grand-Champ
-Locmariaquer
-Locminé
-Locmiquélic
-Locoal-Mendon
-Locqueltas
-Lorient
-Loyat
-Malansac
-Malestroit
-Malguénac
-Marzan
-Mauron
-Melrand
-Ménéac
-Merlevenez
-Meslan
-Meucon
-Missiriac
-Mohon
-Molac
-Monteneuf
-Monterblanc
-Monterrein
-Montertelot
-Moréac
-Moustoir-Ac
-Muzillac
-Néant-sur-Yvel
-Neulliac
-Nivillac
-Nostang
-Noyal-Muzillac
-Noyal-Pontivy
-Le Palais
-Péaule
-Peillac
-Pénestin
-Persquen
-Plaudren
-Plescop
-Pleucadeuc
-Pleugriffet
-Ploemel
-Ploemeur
-Ploërdut
-Ploeren
-Ploërmel
-Plouay
-Plougoumelen
-Plouharnel
-Plouhinec
-Plouray
-Pluherlin
-Plumelec
-Pluméliau
-Plumelin
-Plumergat
-Pluneret
-Pluvigner
-Pontivy
-Pont-Scorff
-Porcaro
-Port-Louis
-Priziac
-Quelneuc
-Questembert
-Quéven
-Quiberon
-Quily
-Quistinic
-Radenac
-Réguiny
-Réminiac
-Riantec
-Rieux
-La Roche-Bernard
-Rochefort-en-Terre
-Le Roc-Saint-André
-Rohan
-Roudouallec
-Ruffiac
-Le Saint
-Saint-Abraham
-Saint-Aignan
-Saint-Allouestre
-Saint-Armel
-Saint-Avé
-Saint-Barthélemy
-Saint-Brieuc-de-Mauron
-Saint-Caradec-Trégomel
-Saint-Congard
-Saint-Dolay
-Sainte-Anne-d'Auray
-Sainte-Brigitte
-Sainte-Hélène
-Saint-Gérand
-Saint-Gildas-de-Rhuys
-Saint-Gonnery
-Saint-Gorgon
-Saint-Gravé
-Saint-Guyomard
-Saint-Jacut-les-Pins
-Saint-Jean-Brévelay
-Saint-Jean-la-Poterie
-Saint-Laurent-sur-Oust
-Saint-Léry
-Saint-Malo-de-Beignon
-Saint-Malo-des-Trois-Fontaines
-Saint-Marcel
-Saint-Martin-sur-Oust
-Saint-Nicolas-du-Tertre
-Saint-Nolff
-Saint-Perreux
-Saint-Philibert
-Saint-Pierre-Quiberon
-Saint-Servant
-Saint-Thuriau
-Saint-Tugdual
-Saint-Vincent-sur-Oust
-Sarzeau
-Sauzon
-Séglien
-Séné
-Sérent
-Silfiac
-Le Sourn
-Sulniac
-Surzur
-Taupont
-Théhillac
-Theix-Noyalo
-Le Tour-du-Parc
-Tréal
-Trédion
-Treffléan
-Tréhorenteuc
-La Trinité-Porhoët
-La Trinité-sur-Mer
-La Trinité-Surzur
-Vannes
-La Vraie-Croix
+
+
+III: Prophecy of the Moonlight Witch
+IV: A Tear of Vermillion
+V: Song of the Ocean
+
+
+
+
+
+
+
+
+Trails series
+
+
+
+
+Main
+
+
+
+VI: Trails in the Sky trilogy
+
+First Chapter
+Second Chapter
+The 3rd
+
+
+VII: Zero & Ao no Kiseki
+Trails of Cold Steel & Trails of Cold Steel II
+
+
+
+
+
+
+
+
+Spin-offs
+
+
+
+Ys vs. Sora no Kiseki: Alternative Saga
+Nayuta no Kiseki
+Akatsuki no Kiseki
 
 
 
@@ -441,12 +372,17 @@ La Vraie-Croix
 
 
 
-This Morbihan geographical article is a stub. You can help Wikipedia by expanding it.
+Related
 
 
-v
-t
-e
+
+Nihon Falcom
+Dragon Slayer
+Ys (series)
+Tokyo Xanadu
+
+
+
 
 
 

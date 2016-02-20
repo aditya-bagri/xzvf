@@ -5,181 +5,146 @@ From Wikipedia, the free encyclopedia
 
 
 
-Alicia Myers
 
 
-Born
-(1957-11-20) November 20, 1957 (age 58)
-Detroit, Michigan
 
+This article is an orphan, as no other articles link to it. Please introduce links to this page from related articles; try the Find link tool for suggestions. (December 2015)
 
-Origin
-Los Angeles, California
 
 
-Genres
-Contemporary R&B, Dance-pop, Funk, Soul
+IdeaPad  S100
 
+Developer
+Lenovo (2011–present)
 
-Occupation(s)
-Singer, songwriter
 
+Type
+Netbook
 
-Instruments
-vocals, singer-songwriter
 
+Release date
+2011
 
-Years active
-1981–1986
 
+Media
+160, 250 or 320 GB 2.5" 5,400 rpm SATA HDD at 1.5 Gb/s
 
-Labels
-MCA, Universal Special Products
 
+Operating system
+MeeGo
 
-Associated acts
-Al Hudson & the Soul Partners
 
+CPU
+1.33 GHz N435 Intel Atom;
 
-Alicia Myers (born November 20, 1957), is an American R&B musician. She started her music career with the band Al Hudson & the Soul Partners. Her first solo release, Alicia, was released in 1981 with MCA Records, and it was her breakthrough release upon the Billboard magazine charts, placing on the R&B Albums. The subsequent album, Alicia Again, released the same year, yet this failed to place on any Billboard charts. She release, I Fooled You This Time, the subsequent year, and it charted on the Billboard R&B Albums chart. The 1984 release, I Appreciate, placed on the aforementioned chart alongside a charting on The Billboard 200. Her last album, Don't Stop What You're Doin', was released in 1986 by Universal Special Products, however it did not chart.
 
+Memory
+2 GB (supports up to 3GB)
 
 
-Contents
+Display
+10,1" 1024×600 LED-backlit TFT LCD
 
 
-1 Early life
-2 Music career
-3 Legacy
-4 Discography
+Input
+Keyboard
+Touchpad
+Microphone
+2 Megapixel Webcam
 
-4.1 Studio albums
 
+Connectivity
+10/100 Mbit Ethernet LAN
+802.11b/g/n WiFi
+3 USB 2.0 ports
+4-in-1 Flash Memory card reader
+Expresscard
+headset
 
-5 References
 
+Power
+6-cell (7 hours)
 
 
-Early life[edit]
-Myers was born Alicia Myers on November 20, 1957 in Detroit, Michigan, to Lawrence and Margaret Myers, as one of their nine children, and she has an older brother, Jackie.[1] She attended Lee University, for her collegiate studies.[1][2] They competed in a local talent competition in April 1968 at Detroit's Martin Luther King Jr., High School, where they sung, "Ain't Nothing Like the Real Thing", a song by Marvin Gaye and Tammy Terrell, and they were awarded first place.[1][2] She is a survivor of childhood tuberculosis, and later survived breast cancer.[1][2] In 1978, she departed her hometown to start her music career in Los Angeles, California, with Al Hudson & the Soul Partners who, soon after her arrival, would change their name into One Way featuring Al Hudson and, eventually, into One Way.
-Music career[edit]
-After her stint in the band Al Hudson & the Soul Partners, she started her solo music recording career in 1981, with the release of Alicia by MCA Records,[3] and this placed on the Billboard magazine R&B Albums at No. 41.[4] The album contains the R&B hit "I Want To Thank You". While her next release, Alicia Again, failed to chart that was released the same year.[3][4] Her subsequent album, I Fooled You This Time, was released in 1982 by the same label,[3] and it charted even better on the aforementioned chart at No. 27.[4] The fourth album, I Appreciate, was released by MCA Records in 1984,[3] which it charted on the aforementioned chart at No. 12, while placing upon The Billboard 200 at No. 186.[4] Her last release by Universal Special Products, Don't Stop What You're Doin', was released in 1986,[3] yet this did not chart.[4]
-Legacy[edit]
-Myers' song "I Want to Thank You" was sampled by E-40 in his song "I Wanna Thank You" featuring Suga-T, taken from his 1996 album Tha Hall of Game. Also, Busta Rhymes and Q-Tip sampled the song for Busta's "Thank You" in 2013.
-Discography[edit]
-Studio albums[edit]
-
-List of studio albums, with selected chart positions
-
-Title
-Album details
-Peak chart positions[4]
-
-
-US
-US
-R&B
-
-
-Alicia
-
-
-Released: 1981
-Label: MCA
-CD, digital download
-
-
-–
-41
-
-
-Alicia Again
-
-
-Released: 1981
-Label: MCA
-CD, digital download
-
-
-–
-–
-
-
-I Fooled You This Time
-
-
-Released: 1982
-Label: MCA
-CD, digital download
-
-
-–
-27
-
-
-I Appreciate
-
-
-Released: 1984
-Label: MCA
-CD, digital download
-
-
-186
-12
-
-
-Don't Stop What You're Doin'
-
-
-Released: 1986
-Label: Universal Special Products
-CD, digital download
-
-
-–
-–
-
-
+The IdeaPad S100 is a line of consumer-oriented netbook computers designed by Lenovo. It is a model in the IdeaPad series. The computers were put on the market in 2011 and currently come in black, red and blue.
+Description[edit]
+It contains either an N435 Intel Atom 1.33 GHz processor or an N455 Intel Atom 2x1.66 GHz processor or an N570 Intel Atom. They support 802.11 b/g/n wireless networking and come with three USB ports, an ExpressCard/34 expansion slot, a 4-in-1 media reader, VGA (no HDMI) outputs and an ethernet port. The S100 is one of the first the MeeGo-running version of Lenovo's IdeaPad netbook.
+Current lineup[edit]
+The MeeGo-running version of Lenovo's IdeaPad S100 netbook seems to retail as at least one in Russian store as the device listed, bearing a price tag of about $260 / €180. It features a 10.1" 1024×600 display with an Intel GMA 3150 integrated graphics, 160GB hard disk drive and 1GB DDR3 SDRAM.
+The N570 model has the same Intel GMA 3150 integrated graphics but has 255GB of hard drive space.
 References[edit]
 
 
-^ a b c d Carpenter, Bil (2005). "Uncloudy Days: The Gospel Music Encyclopdia": 307.  |access-date= requires |url= (help)
-^ a b c ReverbNation. "Alicia Myers : Artist Bio". ReverbNation. Retrieved April 8, 2015. 
-^ a b c d e AllMusic. "Alicia Myers : Discography". AllMusic. Retrieved April 8, 2015. 
-^ a b c d e f Billboard. "Alicia Myers : Awards". AllMusic. Retrieved April 8, 2015. 
+MeeGo-powered Lenovo IdeaPad S100 gets listed in Europe
+Lenovo IdeaPad S100 with MeeGo in Europe
 
 
 
 
-Persondata
-
-
-Name
-Alicia Myers
-
-
-Alternative names
 
 
 
-Short description
-Musician
 
 
-Date of birth
-November 20, 1957
+v
+t
+e
 
 
-Place of birth
-Detroit, Michigan
-
-
-Date of death
+Netbooks
 
 
 
-Place of death
+
+
+
+
+
+
+Acer Aspire One
+Asus Eee PC
+Classmate PC
+CloudBook
+Dell Inspiron Mini
+Doel
+ECS G10IL
+Elonex ONE
+Gateway LT31
+Gdium
+Gigabyte M912
+HP Mini/Mini-Note
+IdeaPad
+MSI Wind
+Nanobook
+Noahpad
+OLPC XO-1
+One A110
+Samsung N130/N140 NC10/NC20
+Skytone Alpha-400
+Sony VAIO M series
+Sony VAIO W series
+Tianhua GX-1C
+VIA OpenBook
+PAC-nBook 1
+
+
+
+
+
+
+
+
+
+
+
+Comparison of netbooks
+Netbook manufacturers
+Comparison of netbook-oriented Linux distributions
+
+
+
+
+
 
 
 

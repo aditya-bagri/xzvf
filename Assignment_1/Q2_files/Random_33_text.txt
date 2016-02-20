@@ -4,43 +4,50 @@ From Wikipedia, the free encyclopedia
 					Jump to:					navigation, 					search
 
 
+Worcester Wanderers
+
+Full name
+Worcester Rugby Football Club
 
 
-
- Dr. Santos 
-
-
+Union
+Rugby Football Union
 
 
-Manila Light Rail Transit System
+Founded
+1871; 145 years ago (1871)
 
 
-Location
-San Dionisio, Parañaque
+Ground(s)
+Sixways
 
 
-Owned by
-Light Rail Transit Authority
+League(s)
+National League 3 South West
 
 
-Line(s)
-LRT-1
+Official website
 
 
-Dr. Santos Avenue LRT Station is a proposed stop on the Manila LRT (Line 1). It is part of the LRT Line 1 South Extension Project. The station would be located on Dr. Santos Avenue corner C-5 Extension in Parañaque.
-The LRT-1 plan calls for the most part elevated extension of approximately 11.7 km. The extension will have 8 passenger stations, with an option for 2 future stations (Manuyo Uno and Talaba), all intended to be constructed above-ground.[1]
-Nearby landmarks[edit]
-When completed, this station will serve Sucat Road and Barangays San Dionisio, San Isidro and Moonwalk in Parañaque. It will be connected to SM City Sucat close to Field Residences, Avida Towers Sucat, Amvel City Business Park, El Shaddai International House of Prayer, Olivarez College, Olivarez General Hospital and Parañaque National High School (Main).
+www.pitchero.com/clubs/worcesterrfc/
+
+
+Worcester Wanderers are an English rugby union team and part of the club known as Worcester Rugby Football Club. The club also includes Aviva Premiership team Worcester Warriors. The Wanderers are based in the city of Worcester and play in National League 3 South West, a level five league in the English rugby union system.[1] They play their home matches on pitches surrounding the Sixways Stadium.[2]
+Club Honours[edit]
+
+Midlands 4 West (South) champions: 2008-09
+Midlands 3 West (South) champions: 2009-10
+
 References[edit]
 
 
-^ Project Update: The LRT Line 1 South Extension Project, Light Rail Transit Authority, retrieved March 25, 2012
+^ "National Results". The RUGBYPaper. 13 October 2013. p. 39. 
+^ "Worcester RFC: Location". Worcester RFC. Retrieved 16 November 2013. 
 
 
-See also[edit]
+External links[edit]
 
-List of Manila LRT and MRT stations
-Manila Light Rail Transit System
+Official club website
 
 
 
@@ -55,19 +62,19 @@ t
 e
 
 
-Greater Manila Area Rail Transit stations
+Rugby union in England
 
 
 
 
 
 
+Governing body
 
 
 
-Manila Light Rail Transit System
-Manila Metro Rail Transit System
-Philippine National Railways
+Rugby Football Union
+Rugby Football Union for Women
 
 
 
@@ -76,17 +83,27 @@ Philippine National Railways
 
 
 
+National teams
 
 
 
 
- 
-Line 1
 
+Men's
 
 
 
 
+England
+England Saxons
+7's
+U-20
+U-21
+U-19
+U-18
+Schoolboys
+British and Irish Lions
+England Counties XV
 
 
 
@@ -95,44 +112,14 @@ Line 1
 
 
 
-North Avenue
-Roosevelt
-Balintawak
-Malvar
-Monumento
-5th Avenue
-R. Papa
-Abad Santos
-Blumentritt
-Tayuman
-Bambang
-Doroteo Jose
-Carriedo
-Central Terminal
-United Nations
-Pedro Gil
-Quirino
-Vito Cruz
-Gil Puyat
-Libertad
-EDSA
-Baclaran
-Redemptorist
-Manila International Airport
-Asia World
-Ninoy Aquino
-Dr. Santos
-Manuyo Uno
-Las Piñas
-Zapote
-Talaba
-Niog
 
+Women's
 
 
 
- LRT1 
 
+Women's
+7's
 
 
 
@@ -144,12 +131,17 @@ Niog
 
 
 
+International Competitions
 
 
 
+World Cup
+Six Nations
+Rugby World Cup Sevens
+Sevens World Series
+Sevens Grand Prix Series
+Commonwealth Games
 
- 
-Line 2
 
 
 
@@ -157,37 +149,30 @@ Line 2
 
 
 
+Competition divisions
 
 
 
+Premiership
+National Leagues
+London and SE Division
+Northern Division
+Midland Division
+South West Division
 
 
 
-Pier 4
-Divisoria
-Tutuban
-Recto
-Legarda
-Pureza
-V. Mapa
-J. Ruiz
-Gilmore
-Betty Go-Belmonte
-Araneta Center–Cubao
-Anonas
-Katipunan
-Santolan
-Emerald
-Masinag
 
 
 
 
- LRT2 
 
+European competitions
 
 
 
+European Rugby Champions Cup
+European Rugby Challenge Cup
 
 
 
@@ -196,12 +181,25 @@ Masinag
 
 
 
+National competitions
 
 
 
+Aviva Premiership
+LV Cup
+Greene King IPA Championship
+British and Irish Cup
+National League 1
+National League 2 North
+National League 2 South
+National League 3 Midlands
+National League 3 North
+National League 3 London & SE
+National League 3 South West
+EDF Energy Trophy
+Premiership Rugby Sevens Series
+Women's Premiership
 
- 
-Line 3
 
 
 
@@ -209,34 +207,69 @@ Line 3
 
 
 
+London and South East competitions
 
 
 
+London 1 North
+London 1 South
+London 2 North East
+London 2 North West
+London 2 South East
+London 2 South West
+London 3 North East
+London 3 North West
+London 3 South East
+London 3 South West
+Eastern Counties 1
+Eastern Counties 2
+Eastern Counties 3
+Eastern Counties 4
+Essex Canterbury Jack 1
+Hampshire 1
+Hampshire 2
+Herts/Middlesex 1
+Herts/Middlesex 2
+Shepherd Neame Kent 1
+Shepherd Neame Kent 2
+Surrey 1
+Surrey 2
+Surrey 3
+Surrey 4
+Sussex Spitfire 1
+Sussex Canterbury Jack Intermediate
+Sussex Asahi 2 East
+Sussex Oranjeboom 2 West
+Sussex Late Red 3
 
 
 
-North Avenue
-Quezon Avenue
-Kamuning
-Araneta Center–Cubao
-Santolan
-Ortigas
-Shaw Boulevard
-Boni
-Guadalupe
-Buendia
-Ayala
-Magallanes
-Taft Avenue
 
 
 
 
- MRT3 
 
+Midland competitions
 
 
 
+Midlands 1 East
+Midlands 1 West
+Midlands 2 East (North)
+Midlands 2 East (South)
+Midlands 2 West (North)
+Midlands 2 West (South)
+Midlands 3 East (North)
+Midlands 3 East (South)
+Midlands 3 West (North)
+Midlands 3 West (South)
+Midlands 4 East (North)
+Midlands 4 East (South)
+Midlands 4 West (North)
+Midlands 4 West (South)
+Midlands 5 East (North)
+Midlands 5 West (North)
+Midlands 5 West (South)
 
 
 
@@ -245,12 +278,29 @@ Taft Avenue
 
 
 
+Northern competitions
 
 
 
+North 1 East
+North 1 West
+North Lancashire/Cumbria
+Lancashire (North)
+Cumbria
+South Lancs/Cheshire 1
+Cheshire (South)
+Merseyside (West)
+Lancashire Cup
+Durham/Northumberland 1
+Durham/Northumberland 2
+Durham/Northumberland 3
+Yorkshire 1
+Yorkshire 2
+Yorkshire 3
+Yorkshire 4
+Yorkshire 5
+Yorkshire Cup
 
- 
-Line 4
 
 
 
@@ -258,27 +308,61 @@ Line 4
 
 
 
+South West competitions
 
 
 
+South West 1 East
+Tribute South West 1 West
+Southern Counties North
+Southern Counties South
+Tribute Western Counties North
+Tribute Western Counties West
+Tribute Cornwall/Devon
+Tribute Cornwall 1
+Tribute Cornwall 2
+Cornwall Cup
+Tribute Devon 1
+Tribute Devon 2
+Gloucester Premier
+Gloucester 1
+Gloucester 2
+Gloucester 3
+Tribute Somerset Premier
+Somerset 1
+Somerset 2 North
+Somerset 2 South
+Somerset 3 North
+Somerset 3 South
+Berks/Bucks & Oxon Premier
+Berks/Bucks & Oxon Championship
+Berks/Bucks & Oxon 1
+Berks/Bucks & Oxon 2
+Berks/Bucks & Oxon 3
+Berks/Bucks & Oxon 4 North
+Berks/Bucks & Oxon 4 South
+Dorset & Wilts 1 North
+Dorset & Wilts 1 South
+Dorset & Wilts 2 North
+Dorset & Wilts 2 South
+Dorset & Wilts 3 North
+Dorset & Wilts 3 South
+Dorset & Wilts 4
 
 
 
-Ortigas
-Meralco
-Pasig
-Bonifacio Avenue
-L. Wood
-Taytay
 
 
 
 
- LRT4 
 
+County competitions
 
 
 
+County Championship Cup
+County Championship Plate
+County Championship Shield
 
 
 
@@ -287,12 +371,18 @@ Taytay
 
 
 
+Related articles
 
 
 
+International players
+Clubs
+Churchill Cup
+Calcutta Cup
+Millennium Trophy
+Cook Cup
+Hillary Shield
 
- 
-Line 6
 
 
 
@@ -303,155 +393,12 @@ Line 6
 
 
 
+This English rugby union team article is a stub. You can help Wikipedia by expanding it.
 
 
-
-Niog
-Tirona
-Imus
-Daang Hari
-Salitran
-Congressional Avenue
-Governor's Drive
-
-
-
-
- LRT6 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-Line 7
-
-
-
-
-
-
-
-
-
-
-
-
-
-Araneta
-Tala
-Sacred Heart
-Quirino
-Mindanao Avenue
-Regalado Avenue
-Doña Carmen
-Manggahan
-Batasan
-Don Antonio
-Tandang Sora
-University Avenue
-Quezon Memorial
-North Avenue
-
-
-
-
- MRT7 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-Metro South Commuter Line
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tutuban
-Blumentritt
-Laong Laan
-España
-Santa Mesa
-Pandacan
-Paco
-San Andres
-Vito Cruz
-Buendia
-Pasay Road
-EDSA
-Nichols
-FTI
-Bicutan
-Sucat
-Alabang
-Muntinlupa
-Tunasan
-San Pedro
-Pacita MG
-Golden City 1
-Biñan
-Santa Rosa
-Cabuyao
-Mamatid
-Calamba
-
-
-
-
- PNR 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Stations in Italics are either under construction, not yet operational, or have been closed.
-
-
-
-
-
+v
+t
+e
 
 
 
