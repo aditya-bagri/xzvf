@@ -3,9 +3,13 @@ import math
 import random
 import numpy as np
 import time
+from yahoo_finance import Share
+import os
+import sys
+
 
 TIME_BETWEEN_ITERATIONS=30 #sec
-TIME_IN_MIN=120 #minutes
+TIME_IN_MIN=75 #minutes
 ## A Function defined to clear out the files that may already be existing.
 def clear_files():
          with open('Yahoo_symbols.csv','rb') as sym_list:
@@ -18,6 +22,24 @@ def clear_files():
                         except Exception, e:
                                 print "Error=", str(e)
                                 pass
+
+## A dummy outlier function created in Python. 
+## Unused in this code. If required, however, can be easily 
+## used as a substitute to the Spark function above.
+def outlier (arr, number_of_std_devs):
+        sig = np.std(arr)
+        mu = np.mean(arr)
+        outlier_val= number_of_std_devs*sig
+        valid=[]
+        outlier = []
+        for elem in arr:
+                if np.abs(elem - mu) <= outlier_val:
+                        valid.append(elem)
+                else:
+                        outlier.append(elem)
+        return valid, outlier
+
+
 ## This function creates files and populates them with live data from the Yahoo Finance feed
 def create_files():
         for i in range(0,TIME_IN_MIN*60/TIME_BETWEEN_ITERATIONS):
@@ -52,13 +74,14 @@ def create_files():
 ## Precursor function calling the two functions above.
 ## Use this to clear out older files and create, populate the new ones.
 def prepare_files():
-#        clear_files()
+        clear_files()
         create_files()
 
 mode=1
 def getData():
         if mode:
                 path = "./DATA/"
+		prepare_files()
         else:
                 path = "./DATA/"
                 prepare_files()
@@ -80,7 +103,9 @@ def getData():
                                 share_name=Share(symbol)
                                 if share_name:
                                         break
-                           except:
+                           except Exception,e:
+				print e
+				pass
                                 time.sleep(1)
                 ## Creating files for each company.
                 ## Company list is stored externally.
