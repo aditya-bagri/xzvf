@@ -1,5 +1,5 @@
 SYMBOL,COMPANY
-BAC,BankofAmerica
+BAC-PL,BankofAmerica
 C,Citigroup
 IBM,IBM
 AAPL,Apple
@@ -16,4 +16,3 @@ ORCL,Oracle
 HON,Honeywell
 FB,Facebook
 GS-PC,GoldmanSachs
-BAC-PL,BankofAmerica_PL
