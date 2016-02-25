@@ -9,7 +9,7 @@ import sys
 
 
 TIME_BETWEEN_ITERATIONS=30 #sec
-TIME_IN_MIN=75 #minutes
+TIME_IN_MIN=3 #minutes
 ## A Function defined to clear out the files that may already be existing.
 def clear_files():
          with open('Yahoo_symbols.csv','rb') as sym_list:
@@ -73,18 +73,17 @@ def create_files():
 
 ## Precursor function calling the two functions above.
 ## Use this to clear out older files and create, populate the new ones.
-def prepare_files():
-        clear_files()
+def prepare_files(mode):
+        if mode:
+                clear_files()
         create_files()
 
-mode=1
-def getData():
-        if mode:
-                path = "./DATA/"
-		prepare_files()
-        else:
-                path = "./DATA/"
-                prepare_files()
+CLEAR_FILES_ENABLE=1
+CLEAR_FILES_DISABLE=0
+
+def getData(mode):
+        path = "./DATA/"
+        prepare_files(mode)
         reader=csv.DictReader(open('Yahoo_symbols.csv','rb'))
 
         ## Code below to select the files from a list of defined files.
@@ -131,5 +130,5 @@ def getData():
                 file.close()
                 print "%s\nCleaned Data: %s\nOutliers: %s"%(company,val,out)
 
-getData()
+getData(CLEAR_FILES_DISABLE)
 
