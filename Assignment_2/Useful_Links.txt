@@ -1,1 +1,10 @@
-Volume Trading: http://www.investopedia.com/articles/technical/02/010702.asp
+Historical Data Twitter: 		https://blog.twitter.com/2015/full-archive-search-api
+Volume Trading: 			http://www.investopedia.com/articles/technical/02/010702.asp
+List of Stocks on Yahoo Finance:	http://www.jarloo.com/yahoo_finance/
+
+
+NYTimes Scraping:			http://dlab.berkeley.edu/blog/scraping-new-york-times-articles-python-tutorial
+NYTimes Python Example:			https://github.com/andierocca/nytimes-headline-analysis/blob/master/nytscraper.py
+
+Google Finance Pre-trading:		http://www.quantatrisk.com/2015/05/07/hacking-google-finance-in-pre-market-trading-python/
+
