@@ -9,7 +9,7 @@ import sys
 
 
 TIME_BETWEEN_ITERATIONS=30 #sec
-TIME_IN_MIN=35 #minutes
+TIME_IN_MIN=135 #minutes
 ## A Function defined to clear out the files that may already be existing.
 def clear_files():
          with open('Yahoo_symbols.csv','rb') as sym_list:
