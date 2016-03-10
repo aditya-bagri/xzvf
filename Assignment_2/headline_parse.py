@@ -7,9 +7,12 @@ from alchemyapi import AlchemyAPI
 #sys.path.append('../../a2/xzvf/Assignment_2/')
 #import alchemytest
 
-KEY = 'https://ajax.googleapis.com/ajax/services/search/news?v=1.0&userip=INSERT-USER-IP&q='
-VALUE = 'GOOG'
+## Using Google News
+GOOGLE_NEWS_URL = 'https://ajax.googleapis.com/ajax/services/search/news?v=1.0&userip=INSERT-USER-IP&q='
+## Company Names Here
+COMPANY = 'GOOG'
 
+## This is the Alchemy Key
 AL_KEY = open('../../api_key.txt','rb').read()[:-1]
 
 def alcObj():
@@ -21,12 +24,13 @@ def sentAn(obj, text):
         try:
                 score    = response[u'docSentiment'][u'score']
         except:
+		## neutral sentiments return no score.
                 score    = 0
         type     = response[u'docSentiment'][u'type']
         return score, type
 
 def collect_data():
-        url = (KEY + VALUE)
+        url = (GOOGLE_NEWS_URL + COMPANY)
 
         request = urllib2.Request(url, None)
         response = urllib2.urlopen(request)
