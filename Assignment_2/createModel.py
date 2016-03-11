@@ -115,7 +115,7 @@ def main():
 	var = -6	
 	degree = 1
 
-	print "Degree:\t1\t2\t3\t4\t5"
+	print "Predictions:"
         for i in range(0,len(sym_list)):
                 elem_list, ctr = getHistory(sym_list[i], company_list[i])
 		ctr_arr = range(0,ctr)
@@ -123,6 +123,14 @@ def main():
 		for elem in elem_list:
 			clos_list.append(float(elem[1]))
 		clos_arr = np.array(clos_list)
+
+		if sym_list[i] == 'TWTR' or 'TSLA':
+			degree = 5
+		else:
+			degree = 1
+
+#		print "%s:\t%.2f\t"%(sym_list[i], extrapol(ctr_arr, clos_arr, ctr, degree))
+
 		print "Ac:%s\t%.2f\t%.2f\t%.2f\t%.2f\t%.2f"%(sym_list[i],extrapol(ctr_arr, clos_arr, ctr, 1),extrapol(ctr_arr, clos_arr, ctr, 2),extrapol(ctr_arr, clos_arr, ctr, 3), 
 		extrapol(ctr_arr, clos_arr, ctr, 4), extrapol(ctr_arr, clos_arr, ctr, 5))
 		ctr = ctr + var
