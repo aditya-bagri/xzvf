@@ -1,0 +1,11 @@
+Predictions:
+BAC:    13.29
+C:      41.43
+IBM:    140.43
+AAPL:   101.08
+GE:     29.89
+T:      38.30
+MCD:    120.06
+NKE:    59.32
+TWTR:   16.54
+TSLA:   205.24
