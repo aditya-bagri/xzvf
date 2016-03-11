@@ -6,20 +6,39 @@ import sklearn as sl
 
 import pandas as pd
 
-GOOGLE_QUOTE_URL = "http://www.google.com/finance/getprices?f=d,o,h,l,c,v&df=cpct&i=60&q="
+import os
+import os.path
+
+
+INTERVAL = 60 #sec
+GOOGLE_QUOTE_URL = "http://www.google.com/finance/getprices?f=d,o,h,l,c,v&df=cpct&i="+str(INTERVAL)+"&q="
 PATH = "./Det_DATA/"
 
+## This function collects detailed data from the Google Finance API
+## for each Ticker symbol. It saves this data in a file named after the company 
+## input. 
 def getHistory(symbol,company):
-	filename = PATH + company + ".txt"
+	filename = PATH + company + ".csv"
+	try:
+		os.remove(filename)
+	except:
+		pass
+
 	try:
 		file = open (filename, "a+")
 	except:
 		file = open (filename, "w+")
 
 	stock_url = GOOGLE_QUOTE_URL + symbol
-#	print stock_url
-	r = requests.get(stock_url)
-	file.write(r.text.encode('utf-8'))
+	resp = requests.get(stock_url)
+	resp_filter = resp.text.split(" ")
+	
+	## From 6 to exclude the textual information, upto -1 to exclude the last \n
+	text_list = resp_filter[0].split("\n")[7:-1]
+	file.write("TIME,CLOSE,HIGH,LOW,OPEN,VOLUME\n")
+	for row in text_list: 
+		file.write(row+"\n")
+#	file.write(resp_filter)
 	file.close()	
 
 def main():

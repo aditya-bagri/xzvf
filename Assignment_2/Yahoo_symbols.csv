@@ -1,5 +1,5 @@
 SYMBOL,COMPANY
-BAC-PL,BankofAmerica
+BAC,BankofAmerica
 C,Citigroup
 IBM,IBM
 AAPL,Apple
@@ -15,4 +15,3 @@ YHOO,Yahoo
 ORCL,Oracle
 HON,Honeywell
 FB,Facebook
-GS-PC,GoldmanSachs
