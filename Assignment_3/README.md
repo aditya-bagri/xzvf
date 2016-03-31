@@ -19,3 +19,6 @@ Continue with the instructions as defined below.
 
 We are currently using pyopencl for our optimisation requirements.
 
+You could change your MAX_PARAM parameter to change the scale of your maximum Multiplication.
+In the code given, I scale in multiples of 32, upto 32*MAX_PARAM.
+ie, I compare the multiplications for (32,32), (64,64), (96,96) and so on.
