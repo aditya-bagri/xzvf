@@ -1,0 +1,137 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww17820\viewh15680\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\b\fs24 \cf0 \ul \ulc0 Affectiva-MIT Facial Expression Dataset (AM-FED) ReadMe:\
+
+\b0 \ulnone \
+=================================================\
+\
+
+\b \ul The Dataset:\
+
+\b0 \ulnone \
+This dataset consists of 242 facial videos (168,359 frames) recorded in real world conditions.  This dataset includes videos (.flv and .avi), FACS labels, facial landmark locations, self-report labels and processed data.\
+\
+=================================================\
+\
+
+\b \ul Folders\
+
+\b0 \ulnone \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b \cf0 Videos - FLV: \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b0 \cf0  - Original flash videos recorded using our online framework.  Video resolution: 320x240, frame rate = 14fps.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b \cf0 Videos - AVI: 
+\b0 \
+
+\b  
+\b0 - .avi version of the the videos. Video resolution: 320x240, frame rate = 14fps.
+\b \
+\
+AU Labels:
+\b0  Action unit and behavior labels for each video.  First column indicates the time at which the coding changed.  Remaining columns correspond to each action/behavior with the value in each row corresponding to the average coding of whether that action/behavior was present (e.g. 1= all agree action was present, 0 = all agree action was not present, 0.66 = 2 agree action was present and 1 that it was not present).
+\b \
+\
+Landmark Points: 
+\b0 22 landmark points from the landmark tracker run on the videos. Column 1=x location of point 1, column 2 = y location of point 1, column 3 = x location of point 2,\'85 etc.  Locations of the landmarks on the face are shown in the paper (Figure 8). If a face is not detected within a frame the row will be set all to zeros.\
+
+\b \
+Baseline Classification: 
+\b0 Baseline classifier (frame-by-frame) probabilities for AU2, AU4 and Smile.   If a face is not detected within a frame the values in the row will be set all to -1.\
+
+\b \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b0 \cf0 =================================================
+\b \
+\
+Summary File: 
+\b0 Contains the video id, the ad being watched and the self-report labels.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\i \cf0 Self-Report Responses:  
+\i0 Responses from the viewer to three self-report questions asked after they had finished watching the ad.\
+\
+
+\i Questions
+\i0 :\
+\
+Did you like the video?\
+  2 = "Heck ya! I loved it."\
+  1 = "Meh! It was ok."\
+  0 = "Na\'85not my thing."\
+  -1= No response.\
+\
+Have you seen it before?\
+  2 = "Yes, many times"\
+  1 = "Once or twice"\
+  0 = "Nope, first time"\
+  -1= No response.\
+\
+Would you watch this video again?\
+  2 = "You bet!"
+\b \
+ 
+\b0  1 = "Maybe, if it cam on TV"\
+  0 = " Ugh. Are you kidding?"\
+  -1= No response.\
+\
+=================================================\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b \cf0 \ul Citation:\
+
+\b0 \ulnone If work using this data is published please cite the following publication:\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\i \cf0 "
+\i0 Daniel McDuff, Rana el Kaliouby, Thibaud Senechal, May Amr, Jeffrey Cohn, Rosalind Picard
+\i , Affectiva-MIT Facial Expression Dataset (AMFED): Naturalistic and Spontaneous Facial Expressions Collected ``In-the-Wild", 
+\i0 Computer Vision and Pattern Recognition Workshops (CVPRW), 2010 IEEE Computer Society Conference on, 2013
+\i "
+\i0 \
+\
+You are free to use any of the image within the dataset in a research publication.\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b \cf0 \ul \
+
+\b0 \ulnone =================================================
+\b \ul \
+\
+Terms of Usage:\
+\
+
+\b0 \ulnone This data should not be distributed to second parties.\
+It is for research and non-commercial use only.\
+\
+=================================================
+\b \ul \
+
+\b0 \ulnone \
+
+\b \ul Contact:\
+
+\b0 \ulnone \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b \cf0 Please contact: 
+\b0 djmcduff@media.mit.edu with any problems.  Put "AMFED" in the subject line.\
+\
+Daniel McDuff \'a9 2013
+\b \ul \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\b0 \cf0 \ulnone \
+}
