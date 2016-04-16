@@ -1,0 +1,33 @@
+
+DeepFace: Face Generation using Deep Learning
+http://cs231n.stanford.edu/reports2016/006_Report.pdf
+
+Facial Expression Recognition Using Convlutional Neural Network
+http://cs231n.stanford.edu/reports2016/020_Report.pdf
+
+Facial Keypoint Detection
+http://cs231n.stanford.edu/reports2016/010_Report.pdf
+
+Facial Emotion Recognition in Real Time
+http://cs231n.stanford.edu/reports2016/022_Report.pdf
+
+Convolutional Neural Networks for Facial Expression Recognition
+http://cs231n.stanford.edu/reports2016/005_Report.pdf
+
+Abstract Concept & Emotion Detection in Tagged Images with CNNs
+http://cs231n.stanford.edu/reports2016/008_Report.pdf
+
+CS231N Project: Facial Expression Recognition
+http://cs231n.stanford.edu/reports2016/009_Report.pdf
+
+Facial keypoints detection using Neural Network
+http://cs231n.stanford.edu/reports2016/007_Report.pdf
+
+Convolutional Neural Networks for Age and Gender Classification
+http://cs231n.stanford.edu/reports2016/003_Report.pdf
+
+Facial Expression Recognition with Convolutional Neural Networks
+http://cs231n.stanford.edu/reports2016/023_Report.pdf
+
+Facial affect detection using convolutional neural networks
+http://cs231n.stanford.edu/reports2016/011_Report.pdf
